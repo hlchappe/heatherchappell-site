@@ -1,6 +1,6 @@
 # heatherchappell.com: how it runs
 
-This GitHub repository is the live site. DreamHost pulls it every 15 minutes, so a change pushed here goes live on its own.
+This GitHub repository is the live site. DreamHost pulls it every 10 minutes, so a change pushed here goes live on its own.
 
 - **Deep Dives:** a twice-daily Claude scheduled task finds new briefings in the Drive archive, adds them and pushes (see `MAINTAIN.md`).
 - **YouTube:** the "YouTube feed" GitHub workflow saves new SIDE EYE videos into `data/youtube/` every 6 hours; the same Claude task turns them into episode pages.
