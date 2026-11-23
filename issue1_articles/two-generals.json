@@ -1,0 +1,167 @@
+{
+ "slug": "two-generals",
+ "order": 97,
+ "section": "The Files",
+ "kicker": "THE FILES · MATCHUP",
+ "label": "Lost the fight",
+ "title": "Two Generals, One Printing Press",
+ "dek": "After Yorktown, the two senior British commanders spent years arguing in print about whose fault it was. One of them figured out you can win an argument by leaving it.",
+ "byline": null,
+ "pages": [
+  97,
+  97
+ ],
+ "hero": "issue1/p097.jpg",
+ "visual": true,
+ "summary": "After the 1781 British surrender at Yorktown, generals Henry Clinton and Charles Cornwallis traded blame in a 1783 pamphlet war.",
+ "topics": [
+  "Yorktown",
+  "Henry Clinton",
+  "Charles Cornwallis",
+  "American Revolution",
+  "Pamphlet war"
+ ],
+ "blocks": [
+  {
+   "t": "p",
+   "text": "London · 1783 · Printed for the aggrieved"
+  },
+  {
+   "t": "p",
+   "text": "✦ ✦ ✦ A Grand Contest of Blame ✦ ✦ ✦"
+  },
+  {
+   "t": "sidebar",
+   "title": "Clinton — Sir Henry · Commander-in-Chief",
+   "blocks": [
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Corner",
+       "New York"
+      ],
+      [
+       "Rank",
+       "The boss"
+      ],
+      [
+       "At the surrender",
+       "No"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "His case: Cornwallis marched out of the Carolinas into Virginia on his own initiative, then dug in at Yorktown, a spot that became a trap the moment a French fleet took the Chesapeake. Which it did."
+    }
+   ]
+  },
+  {
+   "t": "sidebar",
+   "title": "Cornwallis — Charles, Earl · The South",
+   "blocks": [
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Corner",
+       "Yorktown, sadly"
+      ],
+      [
+       "Rank",
+       "Subordinate"
+      ],
+      [
+       "At the surrender",
+       "Sent O’Hara"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "His case: Clinton was the boss. His letters said to hold a naval post on the Chesapeake, and Cornwallis read them as orders to stay put and wait for ships. The ships sailed after he’d surrendered."
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "The Bouts"
+  },
+  {
+   "t": "p",
+   "text": "All four fought in 1783, in print. Titles shortened. The originals are much, much longer."
+  },
+  {
+   "t": "list",
+   "items": [
+    "I. Clinton, The Narrative. Opening shot: Virginia was Cornwallis’s idea. Several editions that year.",
+    "II. Cornwallis, An Answer. Replies only to the parts about Cornwallis. Relief by sea was promised. It was late.",
+    "III. Clinton, Observations. A reply to the reply. Historically, not a winning move.",
+    "IV. “Themistocles,” A Reply. An anonymous pamphleteer lists Clinton’s “numerous errors.” Cornwallis gets a cornerman."
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "After the Fight"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Career, roughly",
+     "Clinton",
+     "Cornwallis"
+    ],
+    [
+     "1781",
+     "Yorktown",
+     "Yorktown"
+    ],
+    [
+     "1786",
+     "",
+     "India"
+    ],
+    [
+     "1795",
+     "† 1795",
+     ""
+    ],
+    [
+     "1798",
+     "",
+     "Ireland"
+    ],
+    [
+     "1954",
+     "Published",
+     ""
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Clinton spent his last years revising a much longer account of his whole command. It came out in 1954. A collector had already reprinted six of the pamphlets in 1888, which is more than most arguments get."
+  },
+  {
+   "t": "sidebar",
+   "title": "Official Ruling",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Clinton kept writing. Cornwallis kept getting promoted."
+    },
+    {
+     "t": "p",
+     "text": "Cornwallis won the argument by never needing to have it."
+    }
+   ]
+  }
+ ],
+ "sources": [
+  "Benjamin Franklin Stevens, ed., The Campaign in Virginia, 1781: An Exact Reprint of Six Rare Pamphlets on the Clinton-Cornwallis Controversy (1888).",
+  "William B. Willcox, ed., The American Rebellion (1954).",
+  "Journal of the American Revolution."
+ ]
+}

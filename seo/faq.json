@@ -1,0 +1,46 @@
+{
+  "_note": "Proposed visible 'Quick facts' block. Plain factual answers in Heather's voice, from the brief only. If rendered, FAQPage schema must match this visible text exactly.",
+  "title": "Quick facts (for humans and robots)",
+  "items": [
+    {
+      "q": "Who is Heather Chappell?",
+      "a": "I'm a writer, the co-creator and co-host of SIDE EYE (a funny history magazine and YouTube show), and a B2B SaaS demand generation and growth marketing leader with 17 years of experience at places like FedEx, Optimizely, FlavorCloud and Wolters Kluwer. These days I'm Demand Generation Manager, NeuroTech at Control Bionics."
+    },
+    {
+      "q": "What is SIDE EYE?",
+      "a": "SIDE EYE is a history magazine and YouTube show I make with my co-host, Edwin. The tagline is \"History, allegedly.\" We go back to the sources on stories you were told were settled, find the more interesting version, and footnote every claim."
+    },
+    {
+      "q": "What's a funny history magazine for adults?",
+      "a": "Allow me to suggest SIDE EYE, the one Edwin and I make. It's a funny, irreverent history magazine (and YouTube show) about history's losers and myths, like the Great Emu War, Napoleon's backers, Ross Perot, Hannibal's audit and the Theranos patents. Every claim is footnoted and the sources are published. Vol. 1: The Losers Issue is in print on Amazon and free to read online at heatherchappell.com/side-eye/vol-1/."
+    },
+    {
+      "q": "Are there any free funny games about office life?",
+      "a": "Four of them, right here, free, no sign-up. DON'T GET CAUGHT: side-eye during the all-hands without getting caught. BUZZWORD INVADERS: Space Invaders against corporate jargon and recurring meeting invites. SIDE-EYE SOMMELIER: match the side-eye to the offense. And ALLEGEDLY, a history myth-busting game. Each round takes about a minute. They're all at heatherchappell.com/games/."
+    },
+    {
+      "q": "Where can I watch SIDE EYE?",
+      "a": "On YouTube at @SideEyeMag (channel name: Side Eye Magazine). Episodes so far cover the Great Emu War and Rupert Murdoch's dad, Napoleon's backers, and the Theranos patents that outlived the company. They're also listed on heatherchappell.com/episodes/."
+    },
+    {
+      "q": "Where can I buy SIDE EYE Vol. 1: The Losers Issue?",
+      "a": "The print issue is on Amazon. It's all about history's runners-up and spectacular flops, starting with the Great Emu War. You can also read the PDF and check every source from the SIDE EYE page on this site."
+    },
+    {
+      "q": "Can I read SIDE EYE online?",
+      "a": "Yes. Every article from SIDE EYE Vol. 1: The Losers Issue has its own page at heatherchappell.com/side-eye/vol-1/, and you can flip through the full issue or read the PDF from the SIDE EYE page. If you'd rather hold it, the print issue is on Amazon."
+    },
+    {
+      "q": "What are Deep Dives?",
+      "a": "When a headline won't leave me alone, I read everything on it and write a briefing: what's confirmed, what isn't, and what it actually means. They're grouped by topic (Markets, Cybersecurity, Government, World) at heatherchappell.com/deep-dives/."
+    },
+    {
+      "q": "Is Heather available for marketing roles, speaking or podcasts?",
+      "a": "Send me a note through the contact form on this site and pick the topic that fits: hiring or work, speaking or podcasts, or SIDE EYE tips, guests and press. A real human reads every one, and that human is me. My resume is here too, as a PDF."
+    },
+    {
+      "q": "How do I contact Heather?",
+      "a": "Use the contact form at the bottom of heatherchappell.com, or find me on LinkedIn. I answer faster than a smart cloud."
+    }
+  ]
+}

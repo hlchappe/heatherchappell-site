@@ -1,0 +1,175 @@
+{
+  "slug": "betamax",
+  "order": 110,
+  "section": "Out Back",
+  "kicker": "OUT BACK · EULOGY",
+  "label": "Lost the fight",
+  "title": "The Better Tape Lost.",
+  "dek": "Betamax had the sharper picture. VHS could fit the whole movie. Then the loser won the Supreme Court case that made your VCR legal, shot the evening news for decades and sold its last blank tape in 2016. Some funeral.",
+  "byline": "Heather Chappell & Edwin Galloway",
+  "pages": [
+    110,
+    110
+  ],
+  "hero": "issue1/p110.jpg",
+  "summary": "How Sony’s Betamax lost the format war to VHS on tape length, yet won the 1984 Supreme Court VCR case and lived on as Betacam in TV news.",
+  "topics": [
+    "Betamax",
+    "VHS",
+    "Sony",
+    "Sony v. Universal",
+    "Betacam"
+  ],
+  "blocks": [
+    {
+      "t": "sidebar",
+      "title": "In Loving Memory: Betamax, 1975 – 2016",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Beloved format of people who knew better."
+        },
+        {
+          "t": "p",
+          "text": "Survived by the Supreme Court ruling that made your VCR legal."
+        }
+      ]
+    },
+    {
+      "t": "p",
+      "text": "Rewind before returning · Be kind, rewind"
+    },
+    {
+      "t": "table",
+      "rows": [
+        [
+          "Year",
+          "Event"
+        ],
+        [
+          "1975",
+          "Betamax hits U.S. stores"
+        ],
+        [
+          "1977",
+          "VHS arrives, two hours long"
+        ],
+        [
+          "1982",
+          "Hollywood compares the VCR to a strangler"
+        ],
+        [
+          "1984",
+          "Supreme Court rules for Sony, 5–4"
+        ],
+        [
+          "1988",
+          "Sony starts making VHS decks"
+        ],
+        [
+          "2002",
+          "Last Betamax recorders"
+        ],
+        [
+          "2016",
+          "Last blank Betamax tapes"
+        ]
+      ]
+    },
+    {
+      "t": "h2",
+      "text": "Tale of the Tape"
+    },
+    {
+      "t": "table",
+      "rows": [
+        [
+          "",
+          "Beta",
+          "VHS"
+        ],
+        [
+          "Picture",
+          "Sharper ✓",
+          "Softer"
+        ],
+        [
+          "Cassette",
+          "Smaller ✓",
+          "Chunkier"
+        ],
+        [
+          "Tape at launch",
+          "1 hour",
+          "2 hours ✓"
+        ],
+        [
+          "Rental-store shelf",
+          "The one in the back",
+          "The whole wall ✓"
+        ],
+        [
+          "Supreme Court, 1984",
+          "Won ✓",
+          "Not invited"
+        ],
+        [
+          "Afterlife",
+          "Betacam: the TV news standard ✓",
+          "Your parents’ garage"
+        ]
+      ]
+    },
+    {
+      "t": "p",
+      "text": "FINAL: Beta 4, VHS 2. Still lost."
+    },
+    {
+      "t": "h2",
+      "text": "The Case for the Deceased"
+    },
+    {
+      "t": "p",
+      "text": "Sony’s Betamax reached American stores in 1975. JVC’s VHS showed up two years later. Plenty of people who knew what they were talking about thought Betamax was the better machine. Sharper picture. Smaller cassette. Solid build."
+    },
+    {
+      "t": "h2",
+      "text": "Cause of Death: A Football Game"
+    },
+    {
+      "t": "p",
+      "text": "The first Betamax tapes held one hour. That’s not a movie. That’s not a football game. VHS held two hours from day one, and RCA pushed it to four so you could tape the whole game. More companies built VHS decks. Rental stores stocked more VHS titles, and once the stores picked a side, it was over. In 1988, Sony started making VHS recorders. That’s not a loss. That’s a surrender with a press release."
+    },
+    {
+      "t": "p",
+      "text": "The other suspect: Legend says Sony kept adult movies off Betamax, so the market chose VHS. Adult films came out on both. Apocrypha 3"
+    },
+    {
+      "t": "h2",
+      "text": "The Part Nobody Remembers"
+    },
+    {
+      "t": "p",
+      "text": "Hollywood sued Sony to make home taping illegal. In 1982, Jack Valenti, the studios’ chief lobbyist, told Congress the VCR was to the film business “as the Boston strangler is to the woman home alone.” In 1984 the Supreme Court ruled for Sony, 5–4: taping a show to watch later is fair use. The court even cited Mister Rogers, who testified he was fine with families taping his show. Every VHS deck you ever owned was legal because of the Betamax case."
+    },
+    {
+      "t": "h2",
+      "text": "The Afterlife"
+    },
+    {
+      "t": "p",
+      "text": "Sony’s professional cousin, Betacam, became a standard for TV news crews for years. While your family rented VHS, the evening news was shot on Beta. Sony sold its last Betamax recorders in 2002 and kept making blank tapes until March 2016. Somebody was still buying them."
+    },
+    {
+      "t": "p",
+      "text": "Streaming is better. No late fees. No rewinding. No hunting for the one little Betamax shelf in the back. But streaming will never let you finally get the movie you wanted and discover the last renter taped a golf tournament over the ending."
+    },
+    {
+      "t": "p",
+      "text": "That built character. Ask anyone over forty. They’ll tell you. At length."
+    }
+  ],
+  "sources": [
+    "Documented events: Sony’s Betamax reached U.S. stores in 1975 and JVC’s VHS followed in 1977; Sony began making VHS recorders in 1988; Jack Valenti’s 1982 testimony to Congress; the U.S. Supreme Court’s 5–4 ruling in Sony Corp. of America v. Universal City Studios (1984), which cited Fred Rogers’s testimony; Betacam’s use in TV news; Sony’s end of Betamax recorders in 2002 and blank tapes in March 2016. The adult-films story is rated Apocrypha 3."
+  ]
+}

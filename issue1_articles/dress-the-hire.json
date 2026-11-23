@@ -1,0 +1,166 @@
+{
+ "slug": "dress-the-hire",
+ "order": 71,
+ "section": "The Files",
+ "kicker": "THE FILES · CUT-OUT",
+ "label": "Lost the story",
+ "title": "Dress the Hire",
+ "dek": "In 1799 some insiders needed a general for a job. Napoleon was their third pick. Cut out the hire and his wardrobe and dress him for every stage of the coup. It’s all drawn to scale. It fits.",
+ "byline": null,
+ "pages": [
+  71,
+  71
+ ],
+ "hero": "issue1/p071.jpg",
+ "visual": true,
+ "summary": "A cut-out paper doll of Napoleon with outfits for each stage of the 1799 Brumaire coup, from his return from Egypt to the founding of the Banque de France.",
+ "topics": [
+  "Napoleon",
+  "Coup of 18 Brumaire",
+  "Sieyès",
+  "Fouché",
+  "Lucien Bonaparte"
+ ],
+ "blocks": [
+  {
+   "t": "p",
+   "text": "Ed’s mom’s favorite page! (her words)"
+  },
+  {
+   "t": "list",
+   "items": [
+    "Cut on the dotted lines",
+    "Fold tabs back. Fouché will look away.",
+    "Dress him for each look"
+   ]
+  },
+  {
+   "t": "sidebar",
+   "title": "Now Hiring · Paris · 1799 — Wanted: One (1) Sword",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Must come with soldiers who follow orders. No party? No money? Even better."
+    },
+    {
+     "t": "p",
+     "text": "Apply to E. Sieyès, Director, who is overthrowing his own government."
+    },
+    {
+     "t": "list",
+     "items": [
+      "1 Joubert — killed in battle ✗",
+      "2 Moreau — said no ✗",
+      "3 Guy off a boat — Oct. 9 ✓"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Applicant No. 3"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Height · in bond price",
+     ""
+    ],
+    [
+     "Within a week",
+     "20"
+    ],
+    [
+     "Coup morning",
+     "12.88"
+    ],
+    [
+     "Nov. 8",
+     "11.38"
+    ],
+    [
+     "Late Sept.",
+     "7"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "text": "NOT SHORT. Measured in bond prices, he grew from 7 to 20 in seven weeks. That’s the chart the money men were watching."
+  },
+  {
+   "t": "h2",
+   "text": "The Wardrobe"
+  },
+  {
+   "t": "p",
+   "text": "Hat No. 3. Hats No. 1 and 2 were unavailable. One was killed in battle. One said no."
+  },
+  {
+   "t": "p",
+   "text": "The General’s Coat. Lightly used. Last owner walked away from his own army in Egypt."
+  },
+  {
+   "t": "p",
+   "text": "The Newspapers. Courtesy of a British naval officer. All bad news. Read, then leave for the general you abandon."
+  },
+  {
+   "t": "p",
+   "text": "Fouché’s Report. Mentions the coup “not one word.” Goes with everything."
+  },
+  {
+   "t": "p",
+   "text": "The Sword. The entire original order. Sieyès was “looking for a sword.” He got the guy attached to it."
+  },
+  {
+   "t": "p",
+   "text": "One Bond. About 7 francs in late Sept. 20 within a week of the coup. Somebody bet while it was happening."
+  },
+  {
+   "t": "p",
+   "text": "The Consul Coat. A job share for three. Within weeks, Sieyès got pushed aside. HR was not consulted."
+  },
+  {
+   "t": "p",
+   "text": "The Wreath. He applied for the job. Within five years, he applied this."
+  },
+  {
+   "t": "p",
+   "text": "The Banker’s Hat. Not his? His name was first on the bank’s shareholder list."
+  },
+  {
+   "t": "p",
+   "text": "Lucien, 24. The inside man. Sword aimed at his brother’s chest, as on day two. Not to scale. He’s the little brother."
+  },
+  {
+   "t": "p",
+   "text": "The Bank Key. Not for him. Leave it on the table for the men in the top hats."
+  },
+  {
+   "t": "h2",
+   "text": "The Looks"
+  },
+  {
+   "t": "p",
+   "text": "A career in five outfits"
+  },
+  {
+   "t": "list",
+   "items": [
+    "Oct. 9, 1799 — Off the Boat. Hat 3 · coat · news. No party. No money. Bad news. Hired.",
+    "18 Brumaire — As Ordered. Hat · coat · sword. Exactly what was ordered. Lasts one day.",
+    "Day Two — The Near Miss. Coat · sword · Lucien. Nearly outlawed. Add one little brother.",
+    "Within 5 Years — The Twist. Consul coat · wreath. Hired as a sword. Not going back in the case.",
+    "Meanwhile — The Bankers. Top hat · key · bond. He took the throne. They kept the bank."
+   ]
+  },
+  {
+   "t": "p",
+   "text": "BONUS ROUND: Find the coup in Fouché’s police report. (A historian tried. “Not one word.”)"
+  }
+ ],
+ "sources": [
+  "Drawn from the Napoleon feature (“Not a Loser. Not Short. Not Alone.”) and its sources: Mark Stokle, The Bankers of Brumaire (2020), https://theses.gla.ac.uk/81723/; Albert Vandal, L’Avènement de Bonaparte, vol. I (1902), https://archive.org/details/lavnementdebon01vanduoft; Louis Madelin, Fouché, vol. I (1901), https://archive.org/details/fouch1759182001made. The captions and jokes are ours."
+ ]
+}

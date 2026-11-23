@@ -1,0 +1,238 @@
+{
+ "slug": "ncic-intrusion",
+ "date": "2026-11-21",
+ "title": "NCIC Intrusion: Unconfirmed Breach, Real Accuracy Risk",
+ "words": 3289,
+ "from": "FBI INVESTIGATING APPARENT HACK OF NATIONAL CRIMINAL JUSTICE DATABASE",
+ "bottomLine": "The reported NCIC intrusion is an unconfirmed but plausible breach of the database police rely on for officer safety, and its gravest risk is corrupted or unreliable records rather than mere exposure. The government's response so far has been defined by non-confirmation, political framing, and shifting cyber leadership, which erodes confidence precisely when verified facts matter most. U.S. interests are best served by a prompt, authoritative FBI account, a records-integrity audit, and congressional oversight that separates the NCIC question from the broader outage debate.",
+ "summary": [
+  {
+   "title": "The breach is reported, not officially confirmed",
+   "points": [
+    "CNN, NBC and AP cite anonymous sources; ABC cites a law enforcement source; the FBI has declined on the record.",
+    "Fox's \"three sources\" description has not been matched by any official statement.",
+    "CNN reports officials learned of the intrusion around Thursday, November 19, 2026.",
+    "No group has claimed the intrusion and no attribution has been established."
+   ],
+   "plain": "People are saying someone broke into an important police computer system, but the FBI has not said so officially. Until it does, we should treat the story as likely but not proven."
+  },
+  {
+   "title": "NCIC's real danger is record accuracy",
+   "points": [
+    "NCIC holds records on fugitives, missing persons, criminal histories and stolen property, feeding about 56 state terminals that supply patrol cars.",
+    "Roughly 11 million transactions a day and more than 18 million active records, per 2023 FBI figures describing system size, not exposure.",
+    "No outlet reports altered records, and retired FBI agent Jason Pack notes no indication yet that records were changed.",
+    "A former FBI cyber official warned the concern is whether the accuracy of information officers rely on has been compromised."
+   ],
+   "plain": "Think of it like a map that officers use to find the road. If someone secretly changes a few street names, the risk is not that the map gets stolen but that officers end up in the wrong place. That is the danger here."
+  },
+  {
+   "title": "Official messaging has undercut confidence",
+   "points": [
+    "Trump said \"it's not good\" on Fox on November 21, then pivoted to the \"Russia, Russia, Russia hoax\" and unsupported voter-fraud claims.",
+    "Patel touted FBI cyber work on Fox on November 19, the same day officials learned of the intrusion, describing an operation completed months earlier.",
+    "Trump's remarks were read as downplaying by CNN and others, and offered no evidence tying the breach to Russia or voter fraud.",
+    "Officials told Congress the outages were maintenance-related, not coordinated attacks; Rubio said \"We are not under systemic attack.\""
+   ],
+   "plain": "When a bank gets robbed, people want the bank to tell them quickly and plainly what happened. Here, some leaders talked about other things, which makes people trust the explanation less even if the explanation is right."
+  },
+  {
+   "title": "Cyber leadership is in flux at a sensitive moment",
+   "points": [
+    "National Cyber Director Sean Cairncross was removed around November 19; accounts differ on whether he was fired or resigned.",
+    "Trump said he didn't think Cairncross was \"good enough\"; Axios reported Stephen Miller pushed the change.",
+    "Pentagon CIO Kirsten Davies is acting, and the post requires Senate confirmation.",
+    "Democrats take Senate control in January, a hard deadline for confirming a permanent nominee on current timing."
+   ],
+   "plain": "It is like changing the referee in the middle of a tense game. Even if the new referee is good, players will wonder about the call and whether the rules will hold."
+  },
+  {
+   "title": "Implications for U.S. interests and realistic policy options",
+   "points": [
+    "Three paths over 3–6 months: a limited incident closed quietly; a record-integrity case triggering audits and possible wrongful-stop litigation; or attribution to a state actor.",
+    "Canadian police have real-time NCIC access through the ACUPIES arrangement, so cross-border effects are possible.",
+    "The OPM 2015 breach, which exposed data on about 22.1 million people, shows how long consequences of a federal data loss persist.",
+    "Options: demand an FBI confirmation and scope statement, order an NCIC hit-record audit, require state terminal access reviews, and hold a Davies confirmation hearing with cyber briefings before December 1 and January."
+   ],
+   "plain": "If the police computer is working right and nobody changed anything, the damage is small. If someone quietly changed records, officers and innocent people could be harmed. The sensible move is to check the records carefully and tell the public what was found."
+  }
+ ],
+ "context": [
+  { "label": "Right now", "text": "The FBI is reported to be investigating an apparent intrusion into the National Crime Information Center, but has not confirmed it on the record. Officials reportedly learned of it around November 19, 2026, and the USDA is reported to have had a payments system targeted, though this is unconfirmed by the department." },
+  { "label": "How we got here", "text": "NCIC launched in 1967 under J. Edgar Hoover and now links all 50 states and Canadian police, with authority under 28 U.S.C. § 534. The closest precedent is the 2015 OPM breach, which exposed data on about 22.1 million people, and FISMA's 30-day congressional notice requirement, amended in 2014." },
+  { "label": "The politics", "text": "Trump downplayed the breach, tied it to the Russia probe and voter fraud without evidence, and removed National Cyber Director Sean Cairncross. Democrats, led by Schumer, want a team to investigate the outages and report by December 1, while Hawley and Stefanik have called for briefings." },
+  { "label": "The people", "text": "FBI Director Kash Patel wants to project control of cyber messaging, while Trump wants to frame the episode around his political priorities. Acting National Cyber Director Kirsten Davies needs Senate confirmation, and Democrats want a full accounting before taking Senate control in January. Officials like DHS Secretary Markwayne Mullin and Rubio want to rule out a systemic attack." },
+  { "label": "Why now, and what's next", "text": "The story is unfolding over the weekend of November 21, 2026, with the FBI yet to confirm. Key dates ahead include Schumer's December 1 reporting request, the January 3 deadline for a Senate-confirmed cyber nominee before Democrats take control, and any FISMA congressional notice timeline tied to discovery around November 19." },
+  { "label": "The culture and the public", "text": "Public concern centers on whether police can trust the records they use to stop and arrest people, and on whether farmers will receive payments during harvest and year-end closing. Media coverage divides between sourcing-focused outlets like CNN and NBC and partisan framings in Fox and Breitbart." }
+ ],
+ "sections": [
+  {
+   "title": "The breach is reported, not officially confirmed",
+   "paragraphs": [
+    "The FBI has not confirmed that its National Crime Information Center was breached. The reporting rests on anonymous sources. CNN cited two people briefed on the matter, NBC cited two sources, and AP cited one person familiar with the matter. ABC cited a law enforcement source confirming the hack. Fox News described \"three sources.\" The bureau declined to comment to AP and did not respond to CNN's request for comment. No official statement has put the intrusion, its timing, or its scope on the record.",
+    "What is attributed on the record is thin. Trump told Fox News on November 21 that \"it's not good,\" and Homeland Security Secretary Markwayne Mullin and other officials have spoken about outages elsewhere in government, but no official has confirmed the NCIC intrusion itself.",
+    "CNN reports that bureau officials learned of the intrusion around Thursday, November 19. Nobody has claimed it, and no group, state actor, or vendor has been linked to it. Reporting that the attackers have not been identified is as far as the official record goes.",
+    "The silence is itself a problem. NCIC feeds about 56 state terminals that supply patrol cars, so state and local officers are making decisions on information whose integrity the public cannot assess. Local agencies and the states that run their own terminals need to know whether to audit records, and the public needs to know whether a stop or arrest rests on a sound record. Unconfirmed reporting leaves those agencies guessing, and rumor and political commentary fill the gap. The OPM breach in 2015 was disclosed in stages over months, and officials later acknowledged the cost of that slow pace. The FISMA framework requires notice to Congress within 30 days of discovery, unless delayed notice would disrupt a law enforcement investigation, so the clock and the exemption both matter here.",
+    "The confirmation timeline should be treated as a decision point, not a courtesy. Discovery around November 19 means the 30-day congressional notice window, if it applies, runs to roughly December 19. Senate Minority Leader Schumer has asked for a report on the outages by December 1, a Democratic request rather than a binding order. Whether the FBI issues a scope statement before those dates, and whether it invokes the investigation exemption, will shape how credible the government's account looks when Congress returns to hearings in January."
+   ],
+   "why": "Until the FBI puts a confirmed scope and timeline on the record, every later claim about the breach, from the President's Russia remarks to the outage debate, will be argued over an empty factual base."
+  },
+  {
+   "title": "NCIC's real danger is record accuracy",
+   "paragraphs": [
+    "NCIC matters less for what it holds than for what officers do with it. A patrol officer who runs a plate or a name gets a \"hit\" that can justify a stop, a detention, or a drawn weapon. If a warrant, protection order, or stolen-vehicle flag is wrong, the error arrives at the roadside with force. That makes accuracy the core risk. Confidentiality matters too, but a copied record can be sold or leaked; a corrupted record is acted on in real time by thousands of officers who have no reason to doubt it.",
+    "The system's reach explains the stakes. Retired FBI agent Jason Pack describes NCIC as \"America's computer for law enforcement,\" with about 56 state terminals feeding patrol cars. A former FBI cyber official told CNN the question is \"whether they could compromise the accuracy of the information that officers rely on.\" The FBI's 2023 figures, which describe system size rather than exposure, put it at more than 18 million active records and roughly 11 million transactions a day. Canadian police also have real-time access under the ACUPIES arrangement, so any integrity failure crosses the border.",
+    "A credible audit would start with hit records: every query that returned a positive result over the window in question, checked against the source record and the time it was entered or modified. Investigators should pull warrants and protection orders and compare their creation, edit and cancellation logs against what appears in the system. Missing persons and stolen-property entries need the same treatment, since a deleted or altered entry can be as dangerous as a fabricated one.",
+    "The audit also has to examine access. State control terminal agencies run their own systems, so the review should cover state terminal access logs, credential use, and any vendor accounts that touched the host. Investigators would need to know who queried what, from which terminal, and whether any activity fell outside normal patterns. Pack notes that examiners will look at IP logs for compromised passwords among more than 100,000 users, a state terminal, or a vendor. No outlet reports altered records so far, and that absence should be tested, not assumed."
+   ],
+   "why": "an officer who trusts a corrupted record can take a person's liberty or life on the strength of a database nobody has yet proven clean."
+  },
+  {
+   "title": "Official messaging has undercut confidence",
+   "paragraphs": [
+    "The government has not yet given a single account of the NCIC intrusion, and the statements it has made point in different directions. On November 21, President Trump told Fox News \"I will say that it's not good — I don't like that,\" then said \"maybe we'll learn things that we would have never learned otherwise\" and invoked the \"Russia, Russia, Russia hoax.\" He also floated \"all the voter fraud that took place.\" Neither claim comes with evidence, and CNN and The Hill read the remarks as downplaying a breach of a system police depend on.",
+    "FBI Director Kash Patel appeared on Fox News on Thursday, November 19, the day bureau officials learned of the intrusion according to CNN, and touted the bureau's cyber work. CNN reported he described an operation completed months earlier as if it were still underway. Read charitably, that is a messaging failure. Read less charitably, it is a director speaking publicly while the bureau held facts it had not shared. Patel's defenders say the interview was pre-scheduled; no source has confirmed that, and it should be treated as unverified. The FBI has declined to comment on the record to AP and ABC, so the public has heard a director's upbeat framing and a President's rhetorical pivot, but no official account of what happened.",
+    "The Cabinet-level line on the wider outage wave adds a second layer of mixed signals. Homeland Security Secretary Markwayne Mullin said the outages were not cyberattacks. Rubio said \"We are not under systemic attack\" and \"zero evidence\" tied the incidents together. Director of National Intelligence Jay Clayton told Congress they were maintenance-related. Reuters quotes experts who say the outages may stem from rapid patching of newly discovered vulnerabilities, and Sen. Mark Warner said the evidence pointed the same way while warning AI could have played a role. Those claims may prove right, but they are being asserted before the FBI has said whether NCIC was reached, and when officials assert a conclusion ahead of the evidence, skeptics reasonably discount the rest.",
+    "That gap matters in a specific political setting. Sen. Josh Hawley, a Republican, has asked for a briefing so lawmakers can \"share with the American people what's happening here,\" and Sen. Chuck Schumer has asked for a team to report to Congress by December 1. Bipartisan demand for facts is growing, and rhetorical framing from the White House will not satisfy it. The most useful step available is a single, factual statement from the FBI or DOJ covering what is known about access, scope and record integrity, delivered to Congress and the public together, with the Russia and voter-fraud claims set aside unless evidence supports them."
+   ],
+   "why": "Officers and courts rely on NCIC records, and an official narrative that shifts with the speaker leaves the public unable to judge whether those records can be trusted."
+  },
+  {
+   "title": "Cyber leadership is in flux at a sensitive moment",
+   "paragraphs": [
+    "The national cyber director post has been vacant in practice since Sean Cairncross left around November 19, 2026, and the Pentagon's chief information officer, Kirsten Davies, is acting in the role. Accounts differ on whether Cairncross was fired or resigned. Trump said he did not think Cairncross was \"good enough,\" and Axios reported that Stephen Miller, now chief of staff, pushed for the change. Cairncross had clashed with Treasury Secretary Scott Bessent over AI policy, and he had served roughly 15 months, a short tenure for an office created by statute to coordinate federal cyber policy.",
+    "The office matters most for the seams between agencies. The NCIC intrusion sits with the FBI, which operates the host computer while state \"control terminal agencies\" run their own systems, a shared-management model that dates to the database's 1967 launch. The USDA payments disruption sits with a different department entirely. Fixing the gaps between a federal host, state terminals and departmental systems requires someone with authority to set common standards and direct briefings across all of them. Davies can hold the title, but acting status gives her less standing to press FBI and state partners, and no one has been named to fill the post on a permanent basis.",
+    "A confirmation fight would make that gap longer. Davies needs Senate confirmation, and Reuters and POLITICO note that the window for the White House to clear a nominee before Democrats take Senate control in January is narrow. A contested nomination could absorb the Senate's attention in December, the same month Senator Chuck Schumer has asked for a report on the outages by December 1. Senator Josh Hawley and Representative Elise Stefanik, both Republicans, have asked for cyber briefings, which are the kind of work a confirmed national cyber director would normally lead. Delay on the nomination would delay that work.",
+    "The political setting makes the vacancy harder to read. Officials have told Congress the outages were maintenance problems, and Rubio has said \"we are not under systemic attack,\" while the NCIC question remains unconfirmed. Without a confirmed official to speak for coordinated federal cyber policy, the public has only the President's framing and the FBI's silence to rely on. That is a poor position from which to ask state police agencies and USDA staff to cooperate on access logs and incident reporting."
+   ],
+   "why": "an unfilled cyber leadership post during an unconfirmed intrusion into the database police use for traffic stops means nobody with clear authority is positioned to coordinate the audit, the state terminal reviews and the congressional briefings that the situation requires before the window closes in January."
+  },
+  {
+   "title": "Implications for U.S. interests and realistic policy options",
+   "paragraphs": [
+    "The three scenarios call for different levers, and the executive and Congress hold most of them. If the intrusion proves limited, the FBI can close it with a confirmation statement and a congressional briefing, and little else is needed. If it proves a record-integrity case, the stakes shift to whether officers have been stopping people on warrants or protection orders that were altered or fabricated. That would require an audit of NCIC hit records against source warrants, and a review of access logs from the roughly 56 state terminals that feed patrol cars. Attribution to a state actor would bring in the 2015 OPM precedent, where data on about 22.1 million people was taken and the consequences lasted for years. Each path has its own decision point, and the government should act as though the harder one is possible until the FBI rules it out.",
+    "The executive's first obligation is an authoritative FBI or DOJ statement on whether the intrusion occurred, what systems it touched, and whether records were copied or changed. That statement should come before any further presidential commentary, since Trump's \"it's not good\" followed by references to the Russia probe and unsupported voter-fraud claims gives the public no fact to hold. The second step is a hit-record audit covering a defined window, comparing active NCIC entries with source documents for warrants, protection orders and stolen-property reports. The third is a state-terminal access review, starting with the control terminal agencies that run their own systems and any vendors with credentials. Investigators should also examine IP logs for compromised passwords among the more than 100,000 users, as Jason Pack has urged. Congress can require these steps through the oversight already requested by Sen. Schumer, whose December 1 deadline is not binding, and by Sen. Hawley's call for a briefing that Sen. Stefanik has echoed.",
+    "The cyber leadership vacuum complicates all three steps. With Kirsten Davies acting and the national cyber director post requiring Senate confirmation, the White House should move now to name a nominee and schedule a hearing that includes a classified briefing on NCIC, because the window closes when Democrats take the Senate in January. A confirmation fight would otherwise delay the very coordination that the audit needs.",
+    "The administration should also keep NCIC separate from the outage debate and the USDA incident. The officials who said the outages reflected maintenance and patching have not been shown wrong, and neither has any reporting tied the USDA payments system to the NCIC intrusion. Merging them into a single coordinated-attack story would make a verifiable problem harder to fix and would invite the charge that the government is shaping the facts. Keeping the questions apart lets each be answered on its own evidence."
+   ],
+   "why": "a database that tells officers who is wanted and who is protected is only useful if its records can be trusted, and the first task is to find out whether they can."
+  }
+ ],
+ "watch": [
+  "Whether the FBI or DOJ issues an on-the-record confirmation of the NCIC intrusion and its scope, with any date announced.",
+  "Whether any state control terminal agency or police department publicly reports anomalous NCIC hits or record changes.",
+  "Any congressional briefing scheduled in response to Hawley's request or Schumer's December 1 deadline.",
+  "USDA's public statement on whether food-safety or payments systems were reached, and whether GAO follow-up is scheduled.",
+  "Trump's nomination of a permanent National Cyber Director and any Senate hearing before the January 3 deadline."
+ ],
+ "people": [
+  {
+   "name": "Kash Patel (Kashyap Pramod Patel)",
+   "role": "DIRECTOR, FEDERAL BUREAU OF INVESTIGATION; FBI DIRECTOR SINCE FEBRUARY 2025",
+   "lede": "Patel is the FBI official whose public messaging is at the center of the NCIC intrusion, after he promoted FBI cybersecurity on Fox News the day officials learned of the breach. He wants to project control over cyber messaging and an FBI-led narrative on Operation Winter Shield while the bureau's account of the NCIC incident remains unconfirmed.",
+   "blocks": [
+    { "heading": "Who they are", "text": "Patel is a former federal prosecutor and Trump-aligned national security official who rose from a congressional staff role to the top of the FBI. He served as a Justice Department official and as a senior National Security Council counterterrorism adviser in the first Trump administration, and he later worked on Capitol Hill for Republican Rep. Devin Nunes. He was confirmed as FBI Director in early 2025 and has since reorganized the bureau's priorities, emphasizing immigration, violent crime, drug seizures, and cybercrime. He is 46 years old, according to press coverage." },
+    { "heading": "Personality and style", "text": "Public accounts describe Patel as combative, loyal to the president, and quick to frame FBI work as a rebuke to predecessors; CNN and The Hill have reported his pattern of touting results on television while leaving congressional requests unmet. Critics, including House Homeland Security Committee Chairman Andrew Garbarino and ranking Democrat Bennie Thompson, say he avoids oversight, skipping a worldwide threats hearing this week. The FBI's own explanation is that Patel was in the field visiting offices in four states, and it sent a career deputy in his place; the Daily Beast and other outlets describe him as embattled. His own remarks, such as calling the Winter Shield campaign ongoing when it ended months ago, suggest a preference for message over precision, per CNN's characterization." },
+    { "heading": "Career highlights", "items": [
+     "2010s: Federal prosecutor in the Justice Department's public corruption and national security units, per my background knowledge (dates approximate).",
+     "2017-2019: Served on Capitol Hill as a counsel to the House Intelligence Committee and worked for Rep. Devin Nunes, per my background knowledge.",
+     "2019-2020: Served in the first Trump administration as a senior counterterrorism official at the National Security Council and as a Pentagon official, per my background knowledge.",
+     "2020-2021: Served as chief of staff to acting Defense Secretary Christopher Miller and as a senior counterterrorism adviser at the Pentagon, per my background knowledge.",
+     "2024: Wrote a book and served as a prominent Trump-aligned figure, later named by Trump as his pick for FBI Director, per my background knowledge.",
+     "2025 onward: Confirmed as FBI Director and has led the bureau through a reorganization, a major staff exodus that he said involved people who had weaponized the government, and a shift of about 2,000 personnel out of Washington to the field."
+    ] },
+    { "heading": "Current involvements", "items": [
+     "FBI Director, leading the bureau's response to the apparent NCIC intrusion, which the FBI has not publicly confirmed.",
+     "Public face of Operation Winter Shield, the FBI's cybersecurity outreach campaign, which he described on Fox News as ongoing although CNN reports it ended months ago.",
+     "Oversight fight with House Homeland Security Committee Chairman Andrew Garbarino (R-N.Y.) over his refusal to testify at the annual worldwide threats hearing, which Garbarino called a significant departure from precedent.",
+     "Defending the FBI's September 2026 response to the ShinyHunters breach of its jobs portal, which exposed data on thousands of current and former employees.",
+     "Pending questions about the FBI's election security plans for the midterms and the ongoing Alex Pretti and Renee Good investigations, which he has declined to discuss in detail."
+    ] },
+    { "heading": "Big wins", "items": [
+     "Operation Blackout: Patel said the campaign against overseas scam compounds has seized roughly $17 billion tied to cryptocurrency fraud targeting Americans.",
+     "Arrests: Patel told the Senate Judiciary Committee in September 2026 that the FBI had caught all 10 of its Ten Most Wanted fugitives.",
+     "Crime results: Patel reported 71,650 violent crime arrests and more than 4,500 kilograms of deadly drugs seized over 21 months, a figure from his own op-ed and not independently verified.",
+     "Operation Level Up: The FBI says it has notified 10,406 victims of cryptocurrency investment scams and estimates it prevented about $660 million in losses; these are FBI figures."
+    ] },
+    { "heading": "Controversies", "items": [
+     "Worldwide threats hearing: Rep. Andrew Garbarino (R-N.Y.) said Patel's refusal to testify was a significant departure from precedent, and ranking Democrat Bennie Thompson said his absence limited oversight; the FBI says Patel was in the field and a career deputy director attended.",
+     "Mar-a-Lago gala: CNN and CNBC reported that Patel attended a Mar-a-Lago fundraiser offering $50,000 access to top officials on the night before he skipped the hearing; CNBC could not confirm he was aboard the DOJ jet, and the FBI confirmed his attendance at the event.",
+     "Hiring policy: Senators across party lines criticized his decision to remove bestiality as an automatic disqualifier for FBI applicants, which he defended as protecting trafficking victims.",
+     "Cyber messaging: CNN, NBC and the Daily Beast reported that Patel touted cybersecurity work on Fox News after officials learned of the NCIC intrusion; Patel has not publicly addressed the breach by name, and the FBI has not confirmed it."
+    ] },
+    { "heading": "Who they align with", "items": [
+     "Patron: President Donald Trump, who has publicly downplayed the NCIC breach and called it 'not good' while reviving complaints about the FBI's Russia probe, per CNN.",
+     "Administration allies: DHS Secretary Markwayne Mullin, who attended the same Mar-a-Lago event and whom officials have said outages were not caused by cyberattacks.",
+     "Acting Attorney General Todd Blanche, who appeared alongside Patel at public events and attended the Mar-a-Lago gala.",
+     "Rival: Rep. Andrew Garbarino (R-N.Y.), chair of the House Homeland Security Committee, who has publicly rebuked Patel over the hearing absence.",
+     "Rival: Rep. Bennie Thompson (D-Miss.), the committee's top Democrat and likely chair next year, who has accused Patel of shirking responsibilities."
+    ] }
+   ]
+  }
+ ],
+ "sources": [
+  "FBI investigating potential breach of its crime database",
+  "Trump downplays breach into FBI’s crime database while reviving complaints about agency’s Russia probe",
+  "Trump downplays breach into FBI’s crime database while reviving complaints about agency’s Russia probe",
+  "National Crime Information Center",
+  "NCIC Turns 50",
+  "FBI — NCIC Celebrates 40 Years",
+  "FBI — The FBI's National Crime Information Center",
+  "2015 Office of Personnel Management data breach",
+  "Chinese breach data of 4 million federal workers - The Washington Post",
+  "Chinese hack of federal personnel files included security-clearance database - The Washington Post",
+  "Federal Information Security Modernization Act",
+  "Federal Information Security Modernization Act of 2014",
+  "Federal Information Security Modernization Act (FISMA)",
+  "Federal Information Security Management Act of 2002",
+  "FBI's national crime database targeted in hack, Trump says - ABC News",
+  "FBI investigating apparent hack of a key criminal justice information database, AP source says - The Washington Post",
+  "Agriculture Department breached by hackers, sources say",
+  "USDA hit with cyberattack: Sources - ABC News",
+  "White House national cyber director is leaving the administration after series of tech outages",
+  "White House replaces national cyber director amid widespread tech outages - ABC News",
+  "White House national cyber director being replaced as nation reels from tech outages",
+  "White House national cyber director being replaced as nation reels from tech outages",
+  "White House cyber director out after string of outages",
+  "FBI's National Crime Information Center Database Reportedly Hacked for the Second Time",
+  "FBI Reportedly Hacked Again—Apparent Breach Hits NCIC Crime Database",
+  "Retired FBI agent warns NCIC breach could threaten police safety during traffic stops",
+  "FBI investigates apparent hack of database holding records on fugitives, missing people",
+  "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says - SecurityWeek",
+  "FBI Hacked Again NCIC Crime Database Breach Explained",
+  "FBI reportedly hacked again, this time targeting nationwide police database"
+ ],
+ "links": [
+  "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
+  "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536",
+  "https://www.cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database",
+  "https://edition.cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database",
+  "https://en.wikipedia.org/wiki/National_Crime_Information_Center",
+  "https://www.fbi.gov/news/stories/ncic-turns-50",
+  "https://archives.fbi.gov/archives/news/stories/2007/january/ncic012707",
+  "https://www.fbi.gov/news/testimony/the-fbis-national-crime-information-center",
+  "https://en.wikipedia.org/wiki/2015_Office_of_Personnel_Management_data_breach",
+  "https://www.washingtonpost.com/world/national-security/chinese-hackers-breach-federal-governments-personnel-office/2015/06/04/889c0e52-0af7-11e5-95fd-d580f1c5d44e_story.html",
+  "https://www.washingtonpost.com/world/national-security/chinese-hack-of-government-network-compromises-security-clearance-files/2015/06/12/9f91f146-1135-11e5-9726-49d6fa26a8c6_story.html",
+  "https://www.cisa.gov/topics/cyber-threats-and-advisories/federal-information-security-modernization-act",
+  "https://en.wikipedia.org/wiki/Federal_Information_Security_Modernization_Act_of_2014",
+  "https://security.cms.gov/learn/federal-information-security-modernization-act-fisma",
+  "https://en.wikipedia.org/wiki/Federal_Information_Security_Management_Act_of_2002",
+  "https://abcnews.com/US/fbis-national-crime-database-targeted-hack-trump/story?id=138347810",
+  "https://www.washingtonpost.com/politics/2026/11/21/fbi-database-ncic-hack/5dd8bf12-e5c9-11f1-a99e-b3e3805c6b8b_story.html",
+  "https://www.nbcnews.com/politics/national-security/agriculture-department-breached-hackers-sources-say-rcna610497",
+  "https://abcnews.com/GMA/Food/new-government-report-sparks-concern-potential-cyberattack-us/story?id=138316014",
+  "https://www.nbcnews.com/politics/white-house/national-cyber-director-sean-cairncross-leaving-kirsten-davies-replaci-rcna610329",
+  "https://abcnews.com/Politics/white-house-replaces-national-cyber-director-amid-widespread/story?id=138310514",
+  "https://www.cnn.com/2026/11/19/politics/national-cyber-director-replaced-sean-cairncross",
+  "https://edition.cnn.com/2026/11/19/politics/national-cyber-director-replaced-sean-cairncross",
+  "https://abcnews4.com/news/nation-world/white-house-cyber-director-out-after-string-of-outages-congress",
+  "https://www.latintimes.com/fbis-national-crime-information-center-database-reportedly-hacked-second-time-601689",
+  "https://www.yahoo.com/news/us/articles/fbi-reportedly-hacked-again-apparent-232444433.html",
+  "https://www.foxnews.com/politics/retired-fbi-agent-warns-ncic-breach-could-threaten-police-safety-traffic-stops",
+  "https://thenationaldesk.com/news/americas-news-now/fbi-investigates-apparent-hack-of-database-holding-records-on-fugitives-missing-people",
+  "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+  "https://allaboutlawyer.com/fbi-ncic-crime-database-breach-2026/",
+  "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/"
+ ]
+}

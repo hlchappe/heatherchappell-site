@@ -1,0 +1,453 @@
+{
+ "slug": "losers-library",
+ "order": 60,
+ "section": "The Files",
+ "kicker": "THE FILES · OVERDUE NOTICE",
+ "label": "Lost the story",
+ "title": "The Loser’s Library",
+ "dek": "A short, incomplete catalog of books that aren’t around anymore, who made sure of it, and the few that got away.",
+ "byline": "Heather Chappell & Edwin Galloway",
+ "pages": [
+  60,
+  63
+ ],
+ "hero": "issue1/p060.jpg",
+ "summary": "A catalog of 14 lost or nearly lost libraries, from Qin China and Alexandria to Timbuktu and the Herculaneum scrolls, and who controlled each record.",
+ "topics": [
+  "Library of Alexandria",
+  "Carthage",
+  "Maya codices",
+  "Timbuktu manuscripts",
+  "Herculaneum papyri",
+  "Archimedes Palimpsest"
+ ],
+ "blocks": [
+  {
+   "t": "caption",
+   "text": "Overdue since 213 BCE"
+  },
+  {
+   "t": "sidebar",
+   "title": "Date due · Property of history · Do not remove",
+   "blocks": [
+    {
+     "t": "table",
+     "rows": [
+      [
+       "213 BCE",
+       "Xianyang",
+       "Lost"
+      ],
+      [
+       "146 BCE",
+       "Carthage",
+       "Lost"
+      ],
+      [
+       "145 BCE–391 CE",
+       "Alexandria",
+       "Lost"
+      ],
+      [
+       "c. 1193–1205",
+       "Bihar",
+       "Lost"
+      ],
+      [
+       "1258",
+       "Baghdad",
+       "Lost"
+      ],
+      [
+       "c. 1428–1430",
+       "Tenochtitlan",
+       "Lost"
+      ],
+      [
+       "12 July 1562",
+       "Maní",
+       "Lost"
+      ],
+      [
+       "1914 and 1940",
+       "Louvain (Leuven)",
+       "Lost"
+      ],
+      [
+       "31 May–1 June 1981",
+       "Jaffna",
+       "Lost"
+      ],
+      [
+       "25–26 August 1992",
+       "Sarajevo",
+       "Lost"
+      ],
+      [
+       "January 2013",
+       "Timbuktu",
+       "Lost"
+      ],
+      [
+       "c. 950–2008",
+       "The Archimedes Palimpsest",
+       "Survived, sort of"
+      ],
+      [
+       "1783–1795",
+       "Sir Henry Clinton",
+       "Survived, sort of"
+      ],
+      [
+       "79 CE to now",
+       "Herculaneum",
+       "Read again"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "14 checked out · 11 never returned"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Every library on this list had a keeper. Then it had someone else: an army, a bishop, a council, or just damp air. Most of these books will never be read again. A few, it turns out, will."
+  },
+  {
+   "t": "h2",
+   "text": "Lost: 11 files · The fire, the flood, the decree, the damp"
+  },
+  {
+   "t": "h2",
+   "text": "No. 01 · Call no. 213.BCE · Xianyang, China · 213 BCE · Lost"
+  },
+  {
+   "t": "p",
+   "text": "The First Emperor’s chancellor, Li Si, had a proposal. Burn the histories of every state except Qin. Burn private copies of the old classics. Give owners 30 days. After that, tattooing and labor on the Great Wall. According to the historian Sima Qian, writing about a century later, the order spared books on medicine, divination, agriculture and forestry, and the court kept official copies of what it banned. Then, in 206 BCE, the rebel Xiang Yu took the capital and burned the Qin palace, official copies included. Later records say it burned for three months. The state’s backup turned out to be the single point of failure. The famous sequel, 460 scholars buried alive, rests on one Han-dynasty source, and several modern scholars doubt it."
+  },
+  {
+   "t": "p",
+   "text": "Apocrypha · The buried scholars: 3"
+  },
+  {
+   "t": "p",
+   "text": "Note the exemption list. The farming books made it. Hold that thought."
+  },
+  {
+   "t": "h2",
+   "text": "No. 02 · Call no. 146.BCE · Carthage · 146 BCE · Lost"
+  },
+  {
+   "t": "p",
+   "text": "Rome razed the city. It did not, as far as anyone recorded, burn the books. According to Pliny the Elder, the Senate gave Carthage’s libraries away to the regulis of Africa, the local Numidian princes.¹ It kept one work: Mago’s farming manual, 28 books long, and ordered it translated into Latin. Today Mago survives only as quotations inside Roman authors: north-facing vineyards, how to choose a bullock, and the stern advice that a man who buys a farm should sell his town house. Pliny called that advice harsh. Rome saved exactly one Carthaginian book and then argued with it. The original and the translation are both lost."
+  },
+  {
+   "t": "h2",
+   "text": "No. 03 · Call no. 145.BCE · The Library of Alexandria · Gradually, 145 BCE–391 CE · Lost"
+  },
+  {
+   "t": "p",
+   "text": "The legend is one fire. The record is a long list of suspects. The historian Roger Bagnall calls it “a murder mystery with a number of suspects.” Start with how the shelves were filled. According to the physician Galen, books found on ships docking at Alexandria were seized and copied. The owners got the copies. The library kept the originals, labeled “from the ships.” Ptolemy III borrowed Athens’s official texts of Aeschylus, Sophocles and Euripides against a deposit of fifteen talents of silver, kept them, sent back copies, and let the deposit go.² In 145 BCE, Ptolemy VIII drove the scholars out. In 48 BCE, a fire Caesar set to protect his fleet spread from the docks and burned something full of books, most likely stock warehoused near the harbor. In 391, a Christian crowd under Bishop Theophilus demolished the Serapeum, which held the library’s “daughter” collection. The whole time, Alexandria’s humid air was eating the papyrus, and nobody recopied it systematically. One popular suspect has an alibi: the story that Caliph Omar had the books burned in 642 to heat the city’s bathhouses first appears more than five centuries later.³"
+  },
+  {
+   "t": "p",
+   "text": "Apocrypha: 4"
+  },
+  {
+   "t": "p",
+   "text": "The ancient world’s greatest library may have ended the way a lot of public institutions end: nobody paying attention."
+  },
+  {
+   "t": "p",
+   "text": "Apocrypha · One great fire: 3"
+  },
+  {
+   "t": "sidebar",
+   "title": "Late fees: Alexandria’s book count, by who was telling it",
+   "blocks": [
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Earliest report",
+       "40,000"
+      ],
+      [
+       "A later one",
+       "400,000"
+      ],
+      [
+       "Later still",
+       "700,000"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The library kept growing for centuries after it was gone. Roger Bagnall’s guess: the real collection was about a tenth of the ancient claims."
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "No. 04 · Call no. 1193 · The monasteries of Bihar, India · c. 1193–1205 · Lost"
+  },
+  {
+   "t": "p",
+   "text": "Popular histories say Turkic raiders under Bakhtiyar Khalji burned Nalanda, the great Buddhist university, and that its library burned for months. The only near-contemporary account, Minhaj-i-Siraj’s Tabaqat-i Nasiri, describes Khalji’s men storming a fortified “Bihar,” killing its shaven-headed residents, and finding “a great number of books there.” It never names Nalanda. Most scholars identify the site as Odantapuri, about 15 kilometers away. Nalanda itself was damaged in the same wave of raids; excavators found a thick layer of ash across many of its buildings. Neither account mentions a fire lasting months, or the “nine million books” that circulate online."
+  },
+  {
+   "t": "p",
+   "text": "Apocrypha · The months-long fire: 4"
+  },
+  {
+   "t": "p",
+   "text": "Whatever the number, they are not coming back."
+  },
+  {
+   "t": "h2",
+   "text": "No. 05 · Call no. 1258 · Baghdad · 1258 · Lost"
+  },
+  {
+   "t": "p",
+   "text": "The Mongols sacked Baghdad for a week in February 1258. The killing was vast, though later chroniclers’ figures of up to two million are inflated. The famous “House of Wisdom” was an early Abbasid palace library and translation bureau, and the historian Dimitri Gutas argues it had declined sharply four centuries before the Mongols arrived. The great library actually standing in 1258, the Mustansiriyya, survived the sack, and the historian Michal Biran finds major Baghdad libraries operating again within about two years. Then there is the river. The earliest source we could find for books in the water is a sixteenth-century chronicle, which says so many were thrown in that they formed a bridge a horseman could cross. Biran calls it a literary trope. The destruction was real. The black river is a later writer’s."
+  },
+  {
+   "t": "p",
+   "text": "Apocrypha: 4"
+  },
+  {
+   "t": "h2",
+   "text": "No. 06 · Call no. 1428 · Tenochtitlan · c. 1428–1430 · Lost"
+  },
+  {
+   "t": "p",
+   "text": "Winners burn books, too. After the Mexica and their allies defeated Azcapotzalco, a council of rulers in Tenochtitlan, under the new king Itzcoatl, ordered the old painted histories destroyed. Nahua elders told the Franciscan Bernardino de Sahagún about it more than a century later. Their reasons, as they recalled them: the common people did not need to know the writings, “government will be defamed,” and the books contained “many falsehoods.” In their place came an official history with the Mexica at its center. Some modern historians name Itzcoatl’s adviser Tlacaelel as the mastermind. The sources don’t."
+  },
+  {
+   "t": "p",
+   "text": "Apocrypha · Tlacaelel did it: 3"
+  },
+  {
+   "t": "p",
+   "text": "Nobody counted the books."
+  },
+  {
+   "t": "h2",
+   "text": "No. 07 · Call no. 1562 · Maní, Yucatán · 12 July 1562 · Lost"
+  },
+  {
+   "t": "p",
+   "text": "In May 1562, after idols were reported near the town, Franciscan friars under Diego de Landa opened an idolatry inquiry. Spanish legal records report 6,300 Maya investigated, many under torture, more than 4,500 punished, and at least 157 dead. On 12 July, Landa held an auto-da-fé in Maní. Maya books were burned along with religious objects. Landa covered it in one sentence: the books held “superstition and lies of the devil,” so “we burned them all.” Popular accounts give a tidy tally of 27 books and about 5,000 idols. No one has traced those figures to an original record."
+  },
+  {
+   "t": "p",
+   "text": "Apocrypha · The tidy tally: 2"
+  },
+  {
+   "t": "p",
+   "text": "Landa was reported to the king, returned in 1572 as bishop of Yucatán, and wrote one of the most important early accounts of Maya life. Its notes on Maya writing, taken down with the help of Maya scribes, helped the Soviet linguist Yuri Knorozov show in 1952 that the script was partly phonetic.⁴ He burned the library and then wrote the guidebook. The guidebook ended up helping to read what was left. What was left is four books, and none of them survived on purpose."
+  },
+  {
+   "t": "sidebar",
+   "title": "What’s left: 4",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Maya books survive. None of them on purpose."
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Dresden",
+       "Bought from a private owner in Vienna, 1739. Soaked in a flooded basement during the 1945 bombing."
+      ],
+      [
+       "Paris",
+       "Found in 1859 in a basket of old papers in a chimney corner of the imperial library."
+      ],
+      [
+       "Madrid",
+       "Spent years as two pieces with two owners before a scholar realized they were one book."
+      ],
+      [
+       "Mexico",
+       "Dismissed as a fake for decades. Authenticated in 2018 as the oldest book of the Americas."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "No. 08 · Call no. 1914 · Louvain (Leuven), Belgium · 1914 and 1940 · Lost"
+  },
+  {
+   "t": "p",
+   "text": "On 25 August 1914, German troops burned the city of Louvain and its university library: roughly 250,000 to 300,000 volumes. Americans paid to rebuild it, and the donors’ names were carved into the building. Cardinal Mercier chose the inscription: Furore Teutonico Diruta, Dono Americano Restituta, “Destroyed by Teutonic fury, restored by American gift.” A campaign arose to soften it so as not to offend Germany. The architect, Whitney Warren, refused.⁵ On 16 May 1940, during the second German invasion, the library burned again, with about 900,000 books. Germany blamed British troops. The cause is still disputed."
+  },
+  {
+   "t": "h2",
+   "text": "No. 09 · Call no. 1981 · Jaffna, Sri Lanka · 31 May–1 June 1981 · Lost"
+  },
+  {
+   "t": "p",
+   "text": "Overnight, a mob burned the Jaffna Public Library and more than 97,000 books and manuscripts with it. An investigation later found between 100 and 175 police personnel responsible. Father H. S. David, a priest and linguist said to know 33 languages, watched the flames from St. Patrick’s College and was found dead the next morning; tradition says of shock. In 2016, Prime Minister Ranil Wickremesinghe said: “We regret it. We apologize for it.” That took 35 years."
+  },
+  {
+   "t": "h2",
+   "text": "No. 10 · Call no. 1992 · Sarajevo · 25–26 August 1992 · Lost"
+  },
+  {
+   "t": "p",
+   "text": "Seventy-eight years to the day after Louvain, shelling from Bosnian Serb army positions set the National and University Library of Bosnia and Herzegovina ablaze. About two million items, roughly 80 percent of the collection, were lost. UNESCO confirmed the attack was deliberate. Staff, firefighters and neighbors carried books out under sniper fire. Aida Buturović, a 32-year-old librarian, was killed trying to save them. The building reopened in 2014. The collection could not be. The eighteenth-century chronicler Mula Mustafa Bašeskija is credited with the line “That which is written down endures.” Sometimes only the line does."
+  },
+  {
+   "t": "h2",
+   "text": "No. 11 · Call no. 2013 · Timbuktu, Mali · January 2013 · Lost"
+  },
+  {
+   "t": "p",
+   "text": "As jihadist fighters left Timbuktu, they set fire to manuscripts at the Ahmed Baba Institute. A UN assessment later counted 4,203 manuscripts burned or stolen, about a tenth of the Institute’s collection. During the occupation, a network led by the librarian Abdel Kader Haidara moved manuscripts south to Bamako in steel trunks, by bush taxi and river boat. His team counted 377,491 documents moved. The journalist Charlie English later questioned the totals. The rescue was real. Hold the count loosely.⁶"
+  },
+  {
+   "t": "p",
+   "text": "Apocrypha · The headline numbers: 2"
+  },
+  {
+   "t": "h2",
+   "text": "Survived, sort of: 2 files · Ruined, overwritten, ignored, kept"
+  },
+  {
+   "t": "h2",
+   "text": "No. 12 · Call no. 950 · The Archimedes Palimpsest · c. 950–2008 · Survived, sort of"
+  },
+  {
+   "t": "p",
+   "text": "Sometimes the way to save a book is to ruin it. Around 950, a scribe in Constantinople copied works of Archimedes onto parchment. In 1229, the pages were scraped clean and reused for a prayer book. In 1922 the book vanished into private hands for about 70 years, during which someone painted forged gold-leaf Evangelists over some pages to raise its value. It sold at Christie’s in 1998 for $2 million. Imaging with ultraviolet, infrared and particle-accelerator X-rays found seven texts underneath, among them Archimedes’ Method. Erased, overwritten, forged over and auctioned. That’s what saved it."
+  },
+  {
+   "t": "h2",
+   "text": "No. 13 · Call no. 1783 · Sir Henry Clinton’s second draft · 1783–1795 · Survived, sort of"
+  },
+  {
+   "t": "p",
+   "text": "Not destroyed, just unpublished. After Yorktown, Clinton spent his last twelve or so years writing a history of his American command meant to show the loss wasn’t his fault. He kept copies of everything, down to his expense accounts. In the 1920s, the collector William L. Clements bought the Clinton Papers from the general’s great-great-granddaughter. Yale published the manuscript in 1954 as The American Rebellion, roughly 150 years after Clinton put down his pen. Sometimes the file survives and nobody reads it."
+  },
+  {
+   "t": "h2",
+   "text": "Read again: 1 file · 600 scrolls to go"
+  },
+  {
+   "t": "h2",
+   "text": "No. 14 · Call no. 79.CE · Herculaneum · 79 CE to now · Read again"
+  },
+  {
+   "t": "p",
+   "text": "Pliny the Elder, who recorded Carthage’s library giveaway, died in 79 CE during the eruption of Vesuvius. Across the bay, the same eruption buried a private library at Herculaneum, in a house now called the Villa of the Papyri. The heat carbonized the scrolls. That destroyed them, and it preserved them. Eighteenth-century scholars tried knives, slicing and mercury vapor, and mostly got fragments or powder. More than 600 scrolls have never been opened."
+  },
+  {
+   "t": "p",
+   "text": "Then the files got a new kind of reader. Researchers scanned sealed scrolls with synchrotron X-rays and turned the problem into an open prize competition, the Vesuvius Challenge. Contestants using machine learning started pulling Greek out of solid carbon. The first long passage was Epicurean philosophy about pleasure in simple things, capers included.⁷ The scroll read end to end in 2026 had already lost its outer layers to failed attempts to open it, the last in the 1980s."
+  },
+  {
+   "t": "sidebar",
+   "title": "Reading progress: Herculaneum, the Vesuvius Challenge, opening nothing",
+   "blocks": [
+    {
+     "t": "table",
+     "rows": [
+      [
+       "2023",
+       "One word.",
+       "Porphyras, “purple,” from inside a sealed scroll."
+      ],
+      [
+       "Feb 2024",
+       "$700,000 prize.",
+       "About 2,000 characters, 5% of one scroll. Youssef Nader, Luke Farritor, Julian Schilliger."
+      ],
+      [
+       "2025",
+       "A title.",
+       "Philodemus, On Vices, on a scroll at Oxford’s Bodleian."
+      ],
+      [
+       "25 Jun 2026",
+       "A whole scroll.",
+       "PHerc. 1667, ~20 columns of Greek ethics. Maybe Chrysippus. Still a hypothesis."
+      ],
+      [
+       "Next",
+       "$1,000,000",
+       "for the next complete one. 600+ never opened."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Scrolls read end to end: 1 · Unopened: 600+"
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Every other entry in this catalog is about who got to the files first: a Senate, a council, a friar, an army, the weather. At Herculaneum, the first keeper was a volcano. Then came collectors with knives. Now it is whoever can read a scroll without touching it. Carthage’s books went to the little kings and disappeared. Alexandria’s rotted. Maní’s burned in a town square. These waited, black and sealed, for a reader that wouldn’t break them."
+  },
+  {
+   "t": "quote",
+   "text": "History belongs to whoever keeps the files. It also belongs to whoever finally opens them."
+  },
+  {
+   "t": "p",
+   "text": "¹ Regulis means “little kings.” Edwin wanted it in the headline. It’s in a footnote. That’s growth. [H.C.]"
+  },
+  {
+   "t": "p",
+   "text": "² The most expensive overdue library book in history. Heather says I can’t prove that. I’m keeping it. [E.G.]"
+  },
+  {
+   "t": "p",
+   "text": "³ The legend has the books heating 4,000 bathhouses for six months. The historian Bernard Lewis pointed out that parchment makes poor fuel. Some legends fail on chemistry alone. [E.G.]"
+  },
+  {
+   "t": "p",
+   "text": "⁴ Knorozov did not visit the Maya region until 1990. And yes, the cat: Asya, a Siamese, is listed as his co-author on exactly one handwritten manuscript. Edwin made me add “exactly one.” He was right. [H.C.]"
+  },
+  {
+   "t": "p",
+   "text": "⁵ At one point Warren offered “folly” as a gentler translation of furore, then admitted the word means rage. Every translator has had that day. [E.G.]"
+  },
+  {
+   "t": "p",
+   "text": "⁶ For the heroic version, read Joshua Hammer’s The Bad-Ass Librarians of Timbuktu. For the skeptical one, Charlie English’s The Book Smugglers of Timbuktu. Read both. That’s more or less the point of this magazine. [H.C.]"
+  },
+  {
+   "t": "p",
+   "text": "⁷ Two thousand years under a volcano, and the first long passage anyone could read is about enjoying capers. Edwin has taken this personally. [H.C.]"
+  },
+  {
+   "t": "p",
+   "text": "The receipts: Every source for this story is online. Scan the code on page 1."
+  }
+ ],
+ "sources": [
+  "Xianyang, 213 BCE. Sima Qian, Records of the Grand Historian (Shiji), on Li Si’s proposal and its exemptions, and on Xiang Yu’s burning of the Qin palace in 206 BCE. The burial of 460 scholars rests on one Han-dynasty source and is doubted by several modern scholars (Apocrypha 3).",
+  "Carthage, 146 BCE. Pliny the Elder, Natural History, Book 18, on the libraries given to the reguli of Africa and the Latin translation of Mago by D. Silanus. Mago survives only in quotation by Roman authors.",
+  "Alexandria. Roger S. Bagnall, “Alexandria: Library of Dreams,” Proceedings of the American Philosophical Society 146 (2002), including the “murder mystery” line and the estimate that the real collection was about a tenth of the ancient claims. Galen on books seized from ships and on Ptolemy III’s deposit for the Athenian texts; Caesar’s fire of 48 BCE; Theophilus and the Serapeum (391); Orosius on the empty book chests. The Caliph Omar story first appears more than five centuries after 642 (Apocrypha 4); Bernard Lewis on parchment as fuel. Late fees chart: the 40,000, 400,000 and 700,000 figures are successive ancient reports, as summarized by Bagnall.",
+  "Bihar, c. 1193–1205. Minhaj-i-Siraj, Tabaqat-i Nasiri, the only near-contemporary account. It never names Nalanda; most scholars identify the site as Odantapuri. Excavators found an ash layer across many Nalanda buildings. The months-long fire and the “nine million books” have no early source (Apocrypha 4).",
+  "Baghdad, 1258. Dimitri Gutas, Greek Thought, Arabic Culture (1998), on the House of Wisdom; Michal Biran on Baghdad’s libraries after the sack and on the book-bridge as a literary trope; the earliest source we found for books in the Tigris is the sixteenth-century chronicle of al-Nahrawali (Apocrypha 4).",
+  "Tenochtitlan, c. 1428–1430. Bernardino de Sahagún, Florentine Codex, recording the testimony of Nahua elders. The sources do not name Tlacaelel (Apocrypha 3).",
+  "Maní, 1562. Diego de Landa, Relación de las cosas de Yucatán (c. 1566; abridged copy found in Madrid, 1862); Spanish legal records of the 1562 inquiry; Bishop Francisco de Toral’s report to Philip II; Yuri Knorozov’s 1952 decipherment work. The tally of 27 books and about 5,000 idols has not been traced to an original record (Apocrypha 2). What’s Left: the Dresden, Paris and Madrid codices and the Maya Codex of Mexico, authenticated by Mexico’s National Institute of Anthropology and History (INAH) in 2018.",
+  "Louvain, 1914 and 1940. KU Leuven library history; Whitney Warren and the inscription controversy. The cause of the 1940 fire is still disputed.",
+  "Jaffna, 1981. The investigation into police involvement; Prime Minister Ranil Wickremesinghe’s apology (2016).",
+  "Sarajevo, 1992. UNESCO on the deliberate shelling of the National and University Library of Bosnia and Herzegovina; the building reopened 9 May 2014.",
+  "Timbuktu, 2013. The UN assessment of 4,203 manuscripts burned or stolen at the Ahmed Baba Institute; Abdel Kader Haidara’s team’s count of 377,491 documents moved. Joshua Hammer, The Bad-Ass Librarians of Timbuktu (2016), and Charlie English, The Book Smugglers of Timbuktu (2017), who questions the totals (Apocrypha 2 for the headline numbers).",
+  "The Archimedes Palimpsest. The Walters Art Museum’s Archimedes Palimpsest Project (imaging 1999–2008, including X-rays at Stanford’s particle accelerator); the 1998 Christie’s sale.",
+  "Sir Henry Clinton. William L. Clements Library, University of Michigan (the Clinton Papers); William B. Willcox, ed., The American Rebellion: Sir Henry Clinton’s Narrative of His Campaigns (Yale, 1954).",
+  "Herculaneum. The Vesuvius Challenge and its published results: the first word, porphyras (2023); the $700,000 grand prize to Youssef Nader, Luke Farritor and Julian Schilliger (February 2024); the title of Philodemus, On Vices, on a Bodleian scroll (2025); and PHerc. 1667, announced 25 June 2026 as the first Herculaneum scroll read essentially end to end. It was not untouched: it had already lost its outer layers to failed attempts to open it, the last in the 1980s. Its attribution to Chrysippus is a working hypothesis."
+ ]
+}

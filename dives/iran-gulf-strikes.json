@@ -1,0 +1,229 @@
+{
+ "slug": "iran-gulf-strikes",
+ "date": "2026-11-21",
+ "title": "Iran's Gulf strikes test Hormuz, Bahrain and U.S. restraint",
+ "words": 3257,
+ "from": "IRAN STRIKES GULF TARGETS AND TANKERS AS BAHRAIN REPORTS INDUSTRIAL FIRE",
+ "bottomLine": "The November 21 strikes on Bahrain and Hormuz tankers are a calibrated, escalating campaign that uses cheap drones and missiles to pressure the U.S. blockade and the Gulf energy system without yet triggering full war. Its core risk to U.S. interests is that a single fatal or energy-infrastructure hit forces a direct U.S. response, drives up fuel prices and deepens domestic opposition to the war. Policymakers face a narrow choice between tolerating bounded tit-for-tat and accepting a wider military commitment.",
+ "summary": [
+  {
+   "title": "Iran is escalating below the threshold of full war",
+   "points": [
+    "Attacks on Bahrain and tankers have run at roughly one per day in November, after a lull of several weeks.",
+    "The IRGC frames strikes as responses to U.S. drone overflights and a claimed U.S. strike on Hengam Island; the Hengam strike is unconfirmed.",
+    "IRGC has publicly declared airspace violations a 'red line,' creating a pre-commitment that constrains its own escalation.",
+    "Bahrain reports no injuries; damage is material, consistent with a limited-signalling campaign."
+   ],
+   "plain": "Iran is poking the bear with small hits, not punching hard enough to start a full fight. It wants to show it can still hurt shipping and bases without losing everything."
+  },
+  {
+   "title": "Bahrain's damage and the attribution question are unresolved",
+   "points": [
+    "Bahrain's Interior Ministry reports a civilian industrial facility fire near Manama; the site is unnamed and its owner unconfirmed.",
+    "IRGC claims it destroyed two U.S. Patriot radars; Bahrain rejects this and no U.S. confirmation has been found.",
+    "IRNA says a Fifth Fleet interceptor crashed on Sitra Island and caused the fire; this single-source claim conflicts with Bahrain's account.",
+    "Smoke was reported over Sitra Island, where a Bapco refinery sits; the link is unconfirmed."
+   ],
+   "plain": "Nobody has yet proven who set the fire or what it hit. Whether it was an Iranian missile or a falling U.S.-fired interceptor matters a lot for who is to blame and how the U.S. should respond."
+  },
+  {
+   "title": "Hormuz shipping and oil markets carry the economic stakes",
+   "points": [
+    "Hormuz traffic reportedly runs about 65% below prewar levels; UKMTO logged 263 transits in the week to Nov 18.",
+    "Brent settled at $92.57 on Nov 20 after a third weekly loss, suggesting markets are discounting attacks so far.",
+    "Two tankers were struck Saturday exiting the strait; the Iranian navy says one hit a mine, UKMTO says an unknown projectile.",
+    "ADNOC reported one ship hit, one seafarer missing and 11 injured in earlier attacks."
+   ],
+   "plain": "The sea lane that carries a big share of the world's oil is getting more dangerous, but so far oil prices are not spiking. Traders are betting the damage stays limited."
+  },
+  {
+   "title": "Bahrain and the Gulf are absorbing mounting economic and diplomatic costs",
+   "points": [
+    "Allianz projects Bahrain's 2026 GDP hit near 8% and a deficit near 9% of GDP; IMF October figures are harsher (about −11%).",
+    "Oil and aluminum exports make up about two-thirds of Bahraini government revenue.",
+    "Bahrain asked the UN Security Council to act and demanded full compensation; GCC and Jordan condemned the strike.",
+    "UNSC Resolution 2817 (March 11) already condemned Iranian attacks on Bahrain, co-sponsored by 135 states."
+   ],
+   "plain": "Bahrain is a small country that depends heavily on oil and aluminum sales. Repeated attacks hurt its budget and its tourism, and it wants the world to make Iran stop."
+  },
+  {
+   "title": "Implications for U.S. interests and realistic policy options",
+   "points": [
+    "Public support is weak: Reuters/Ipsos found 31% approve of the war; Pew found 69% worried about fuel prices.",
+    "The Senate war-powers resolution failed 48-51 on Nov 19; Democrats take both chambers in January and funding expires Dec 12.",
+    "The White House reportedly asked the Pentagon whether strikes could avoid retaliation on Gulf energy sites (single-source, Axios).",
+    "Realistic options: contain and absorb bounded strikes, tighten escort and air-defence coverage, expand diplomacy via Oman or Qatar, or escalate strikes at a cost of wider Gulf exposure."
+   ],
+   "plain": "Americans don't want more war and worry about gas prices. The government can keep the sea lanes open with more ships and defences, try talking through mediators, or hit Iran harder and risk bigger fallout. Each choice has a price."
+  }
+ ],
+ "context": [
+  {
+   "label": "Right now",
+   "text": "Iran struck Bahrain and tankers near Hormuz on Nov 21 as U.S. blockade and escort operations continue. Bahrain reports fire and material damage without injuries; IRGC claims are disputed and unconfirmed by Washington."
+  },
+  {
+   "label": "How we got here",
+   "text": "The 1984-88 Tanker War and Operation Earnest Will and Praying Mantis set precedents for U.S. naval action in these waters. The 2026 conflict began Feb 28 with U.S.-Israeli strikes, followed by a blockade that has been lifted and reinstated."
+  },
+  {
+   "label": "The politics",
+   "text": "The Senate rejected a war-powers measure 48-51 on Nov 19, public approval of the war is low, and the midterms have shifted the House to Democrats in January. The White House insists the blockade continues and that presidential authority is unconstrained."
+  },
+  {
+   "label": "The people",
+   "text": "Supreme Leader Mojtaba Khamenei and IRGC commander Ahmad Vahidi appear to drive hardline strategy seeking to keep control of Hormuz and raise costs for the U.S. Bahrain wants UN action and compensation; Trump seeks a 'permanent' deal and has signalled restraint but says he alone decides."
+  },
+  {
+   "label": "Why now, and what's next",
+   "text": "Escalation is ongoing with near-daily incidents. Key dates: Dec 12 government funding deadline, further House and Senate war-powers votes expected before and after January, and any UNSC action on Bahrain's request."
+  },
+  {
+   "label": "The culture and the public",
+   "text": "Gulf publics and governments frame these strikes as Iranian aggression, while Iranian media present them as legitimate responses to U.S. provocations. American opinion is anxious about fuel prices and skeptical of the war, shaping how far Washington can go."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Iran is escalating below the threshold of full war",
+   "paragraphs": [
+    "Iran is escalating below the threshold of full war. Since 13 November, Iranian aerial attacks on Bahrain have recurred on a rough cadence, with strikes on 15, 17 and 18 November and the 21 November attack on an industrial facility near Manama. The pattern is consistent: small numbers of drones and missiles, aimed at targets that can be framed as US military assets, paired with ship strikes in and near the Strait of Hormuz that are mostly unattributed. Bahrain says there were no casualties. The IRGC says it hit two US Patriot radars at al-Riffa and Awali; Bahrain denies any military target was hit. Neither side has produced independent forensic evidence.",
+    "The leadership picture explains part of this restraint. Ali Shamkhani was killed on 28 February 2026 and IRGC intelligence chief Majid Khademi on 6 April. Mojtaba Khamenei succeeded his father after the assassination, and his visibility is unclear. Reports of a \"complete political deadlock\" between President Pezeshkian and the military rest on Iran International, which is opposition-linked and unconfirmed. The IRGC, under new commander Ahmad Vahidi, has been ordered toward \"maximum deterrence\" and \"powerful offensive operations,\" which points to a force acting with substantial autonomy in the field. Calibrated strikes let a damaged command structure show resolve without staging a major campaign it may not control.",
+    "The strikes also keep costs bounded. Iran is attacking a Gulf that has already absorbed roughly 125 missiles and 211 drones from Iran since February, according to Bahraini figures not independently verified. Iran is probing the US blockade and the escort of tankers without launching anything that would bring a full US air campaign or a decisive move against Iranian ports. The IRGC has itself declared that further airspace violations would draw a \"harsh and decisive response,\" a pre-commitment that also limits how far Tehran can climb without losing face.",
+    "That is the danger. A pattern built on deniability and small increments depends on each side reading the other's signals correctly, and the record here gives little reason for confidence. Attribution is contested on almost every incident: the Bahrain fire may have come from an Iranian projectile or from debris from a US or Bahraini interceptor, as IRNA claims; tanker damage has been blamed on mines by Tehran and on \"unknown projectiles\" by UKMTO. When an incident cannot be sorted quickly, both sides are likely to act on the worst reading. A single fatal strike on civilians or a hit on an energy asset would not stay bounded, and the commitments each side has already publicly made would make backing down harder."
+   ],
+   "why": "the bounded pattern is reassuring only until one incident is misread, and with leadership fragmented and attribution unresolved, the next error could move the conflict past the threshold this section describes."
+  },
+  {
+   "title": "Bahrain's damage and the attribution question are unresolved",
+   "paragraphs": [
+    "Bahrain's Interior Ministry says an Iranian attack struck a civilian industrial facility near Manama on Saturday, 21 November 2026, and started a fire. It has not named the site. Preliminary assessments report no injuries and material damage. Bahrain's Defence Force says interceptions produced shrapnel that caused material damage but no casualties. That is a different account of the same damage, and the difference matters.",
+    "The Revolutionary Guards say they targeted two US Patriot radars at al-Riffa and Awali, citing alleged US drone airspace violations. Bahrain rejects the radar claim and calls the site civilian. IRNA, citing an unnamed source, says an interceptor fired from the US Fifth Fleet base crashed on Sitra Island and caused the fire. Fars named different targets, Sheikh Isa and Juffair. No independent forensic evidence in the reporting resolves whether the fire came from an Iranian projectile or from debris from an American or Bahraini interception. Smoke over Sitra Island, home to a Bapco refinery, has been reported, but whether any energy asset was involved is unconfirmed.",
+    "This ambiguity is strategic. Washington cannot easily justify a retaliatory strike if the damage may have been caused by its own air defences, and Manama cannot easily press a case at the UN Security Council while the facility remains unnamed. Each side can reach for the account that suits it. Tehran's narrative frames the strike as a response to American overflights and a Hengam Island radar strike, a claim Washington has not confirmed in the reporting. Bahrain's foreign ministry has asked the Council to act and demanded full compensation from Iran, which is a firmer position than the evidence now allows. Gulf partners, already frustrated by the lack of notice before the war, will look to Washington for a clear answer.",
+    "Resolving attribution should come before any decision on retaliation, since a response built on a disputed fact would weaken the legal and diplomatic case for it. That requires a public damage assessment, identification of the facility, and examination of interceptor trajectories and fragments, ideally shared with Bahraini authorities. The Revolutionary Guards' pattern of claims, including the code-named \"Ya Umm al-Banin\" operation, suggests they will keep producing contested accounts unless they are answered with evidence."
+   ],
+   "why": "if the fire is later shown to have come from a US or Bahraini interception, the credibility of every subsequent Gulf and US attribution will be tested, and the next incident may be read through that doubt rather than on its facts."
+  },
+  {
+   "title": "Hormuz shipping and oil markets carry the economic stakes",
+   "paragraphs": [
+    "Oil prices have not yet priced in a disruption that is actually happening. Brent settled at $92.57 on Friday, November 20, its third weekly loss, even as tanker attacks ran at roughly one a day through November, according to a UOB Group client note cited by Benzinga. Kpler data cited by National Security Journal put Hormuz crude shipments near 8.5 million barrels a day in mid-November, about 74% of prewar export levels. UKMTO recorded 263 transits in the week to November 18, roughly 65% below prewar levels. Markets appear to be treating the campaign as a manageable tax on flows rather than a threat to them. That reading rests on the expectation that attacks stay bounded, that the US blockade and escort operations keep tankers moving, and that no single hit causes lasting damage to a major vessel or terminal.",
+    "That confidence is fragile. Bloomberg, via gCaptain, described the situation as \"something like a war, but not exactly a war,\" and warned that flows have pulled back for reasons that are not yet clear. Tanker attribution is also unresolved: Iran's navy says a burning vessel struck a mine, while UKMTO reports \"unknown projectiles,\" and most attacks carry no claim of responsibility. Traders are pricing a pattern they have not seen fully confirmed. A serious casualty to a laden supertanker, a hit on a Gulf export terminal, or a multi-day cut in transits would test that assumption directly. Given that the strait carried about one-fifth of world oil before the war, such an event would reprice fuel quickly, likely within a single trading session, and the price response would be sharper than the attacks so far have produced.",
+    "The political economy of that repricing runs through Washington. Pew (April 7) found 69% of Americans concerned about higher fuel prices from military action, with 45% extremely concerned, and Reuters/Ipsos (November 13–16) found only 31% approve of the war. Public sensitivity to pump prices is therefore the mechanism through which a shipping incident becomes a domestic political problem, with the December 12 funding deadline and the new Congress in January as the nearest pressure points. Gulf exposure compounds this. Allianz Research projects Bahrain's 2026 GDP falling about 8% and its deficit near 9% of GDP, and Stimson Center notes oil and aluminium make up about two-thirds of Bahraini government revenue. A tanker or terminal loss would hit Bahrain's budget as well as global supply."
+   ],
+   "why": "the economic cost of this campaign is currently absorbed by prices that assume containment, so a single serious tanker casualty could convert a bounded military problem into an immediate fuel-price and domestic political crisis for Washington."
+  },
+  {
+   "title": "Bahrain and the Gulf are absorbing mounting economic and diplomatic costs",
+   "paragraphs": [
+    "Bahrain is the most exposed state in the Gulf to this campaign. Allianz Research (9 November) projects a 2026 GDP contraction of about 8 percent and a budget deficit near 9 percent of GDP, the steepest in the GCC, with GCC growth overall forecast to contract 4.0 percent. The IMF's October figure of minus 11.3 percent real GDP is more severe; the two estimates differ, so the honest range is wide. Oil and aluminium exports make up roughly two-thirds of government revenue, according to the Stimson Center. Tourism, about 8 percent of GDP per Allianz, depends on short regional visits that the attacks discourage. Older April reporting cited by The National put public debt near 134 percent of GDP, and Moody's has moved Bahrain's outlook to negative; those figures need refreshing before use.",
+    "The diplomatic cost is sharper. Bahrain's foreign ministry has asked the UN Security Council to act and demanded full compensation from Iran. Jordan and the GCC condemned the strike, and the GCC secretary-general expressed \"full solidarity.\" Bahrain has also cited Resolution 2817 of 11 March 2026, which condemned Iranian attacks and was co-sponsored by 135 states, and the GCC defence pact. But Gulf officials have voiced \"profound disappointment\" at receiving little notice before the war began on 28 February, according to AP. That grievance sits alongside a deeper dependence: Bahrain hosts the US Navy's Fifth Fleet, and the Juffair district where it is headquartered has been struck during this war.",
+    "The political logic is therefore pulling in two directions. Bahrain and its neighbours need US protection, and the fiscal strain makes them less able to absorb a long campaign on their own. Yet the strikes have landed on civilian and industrial sites, and any further hit on energy infrastructure would be politically costly for Gulf governments that depend on uninterrupted export revenue. Expect Gulf officials to press Washington, mostly through private channels and anonymous briefings, to avoid strike options that invite Iranian retaliation on energy facilities. Axios reported that the White House asked the Pentagon whether strikes could be designed to avoid exactly that outcome; neither the White House nor the Pentagon has commented on the record.",
+    "The timing matters. Gulf budgets, insurance costs and investor confidence are being tested at the same moment US domestic patience is thin, with only 31 percent of Americans approving of the war in a Reuters/Ipsos poll of 13–16 November. Bahrain's appeal to the Council will be weighed against Russian and Chinese resistance, which this brief has not verified."
+   ],
+   "why": "Gulf governments are becoming more dependent on Washington even as their economies and their tolerance for being struck weaken, and that combination narrows the room for US options that risk exposing their energy sites."
+  },
+  {
+   "title": "Implications for U.S. interests and realistic policy options",
+   "paragraphs": [
+    "The core choice for Washington is between three paths, and each carries costs the research makes plain. Containment means keeping the naval blockade, the escort mission and Task Force Iron Gate running while absorbing a steady rate of incidents, roughly one attack a day in November by UOB's count. Its appeal is that it avoids a new front; its weakness is that the blockade, reinstated on 14 July, has already failed to end the pattern of attacks, and the widening to ship-to-ship transfers on 18 November adds another point of friction. Diplomacy is the path the record shows has been tried and has repeatedly collapsed: the June memorandum lifted the blockade on 18 June, the interim ceasefire fell apart on 8 July, and the 60-day window closed in August with no settlement. Any renewed channel, including the Oman track, is currently the weakest of the three options, though Trump's stated wish for a \"permanent\" deal leaves it open. Escalation, in the form of strikes on Iranian territory beyond the Qeshm and Hengam actions, risks exactly what Iran appears to be trying to provoke: direct costs to Gulf energy sites and a rise in fuel prices that the White House has already reportedly asked the Pentagon to assess.",
+    "Domestic politics narrow the field. The Senate rejected H.Con.Res. 93 by 48 to 51 on 19 November, its 21st war-powers vote, but the margin was close and Democrats take both chambers in January. Reuters/Ipsos found only 31 percent of Americans approve of the war, and Vance's post-midterm line that the war was the reason Republicans lost will weigh on any decision to widen it. Funding runs out on 12 December, and some Democrats have said they will not back money for the war. A large escalation before that deadline would hand opponents leverage; a visible attempt at de-escalation would be read through the same lens.",
+    "Gulf exposure cuts against escalation. Bahrain's government has asked the Security Council to act under Resolution 2817, cited Article 51 and the GCC defence pact, and demanded compensation. Its fiscal position is thin: Allianz puts 2026 GDP exposure near 8 percent and the deficit near 9 percent, and oil and aluminium make up about two-thirds of government revenue. Gulf officials have already voiced \"profound disappointment\" at being given little notice before the war. Washington therefore has to weigh the wish of Gulf partners for protection against their fear that US action will bring retaliation onto their own refineries and ports.",
+    "The likeliest near-term shift is not a deliberate decision but a single incident. A fatal strike on civilians, a hit on a Bapco or Sitra energy asset, or the loss of a US aircraft would each compress the timetable. The 1988 precedent of Operation Praying Mantis shows how quickly a tanker-war incident can become a US naval operation, and the 3 July 1988 shootdown of Iran Air 655 shows the cost of an error under pressure."
+   ],
+   "why": "the most probable path to a wider war runs through an accident the current policy does not control, not through a decision anyone has yet made."
+  }
+ ],
+ "watch": [
+  "Whether the Bahrain fire is independently attributed to an Iranian projectile or interceptor debris (ongoing).",
+  "Any CENTCOM statement confirming or denying the Patriot radar strike claim and the MQ-1/MQ-9 losses.",
+  "UN Security Council action on Bahrain's request, and whether Russia or China block enforcement.",
+  "Dec 12 government funding deadline and any war-powers or funding riders restricting Iran operations.",
+  "Hormuz weekly transit counts and Brent price moves; a sustained drop in flows or a casualty-producing tanker strike would signal escalation."
+ ],
+ "sources": [
+  "Bahrain says Iranian attack causes fire at industrial facility",
+  "Bahrain Says Iranian Attack Hits Industrial Facility, Causes Fire - Iran News",
+  "Iranintl",
+  "Iranian attack strikes civilian industrial facility in Bahrain, sparks fire",
+  "Iran war updates: Iran says US radar targeted in attacks on Bahrain bases",
+  "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
+  "Bahrain Says Iranian Attack Hit Industrial Facility; IRGC Says It Targeted US Bases - World Today News",
+  "Newsletter Newsletters Events Events Podcasts Videos Africanews",
+  "Bahrain says Iranian attack causes fire at industrial facility",
+  "IRGC Claims Missile, UAV Attack on US Positions in Bahrain",
+  "Alireza Tangsiri",
+  "Iran's IRGC says targeted US positions at two bases in Bahrain with missiles, drones",
+  "Iran claims missile and drone strikes targeted US Patriot Air Defence Radars at Bahrain bases",
+  "IRGC Aerospace Force targets US military positions in Bahrain in missile and drone operation",
+  "Bahrain says Iranian assault causes hearth at industrial facility",
+  "Bahrain says Iranian attack causes fire at industrial facility",
+  "Another Tanker Hit in Strait of Hormuz as Maritime Attacks Surge Worldwide",
+  "Fresh tanker strike adds to bloody week in Hormuz - Splash247",
+  "Strait of Hormuz attacks have increased to highest level since Iran war began - ABC News",
+  "Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
+  "Arab News",
+  "U.S. launches strikes on Iran's Qeshm Island in Strait of Hormuz",
+  "Two tankers struck in Hormuz; Iran holds talks with Qatar - Business Recorder",
+  "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027",
+  "10 vessels attacked in Hormuz Strait: analysts",
+  "July 14, 2026 — US naval blockade of Iranian ports goes into effect",
+  "US military says it has lifted naval blockade of Iranian ports",
+  "US military says strike disabled ship trying to run blockade on Iran",
+  "Iran Strikes Ali Al Salem in Kuwait After US Hits Qeshm",
+  "US launches task force to disrupt Iran’s land-based supply routes",
+  "7 May 2026 United States strikes on Iran",
+  "2026 United States naval blockade of Iran",
+  "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027",
+  "2026 Strait of Hormuz campaign",
+  "Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
+  "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz",
+  "Bahrain says Iran struck industrial site as tankers hit in Hormuz",
+  "Iran live updates: US denies Iranian claim it struck, damaged F-16 jet over Gulf - ABC News",
+  "Hormuz tankers hit in apparent Iranian attacks as Qataris visit Tehran for mediation talks",
+  "Iran Launches Drone, Missile Attacks on US Bases in Bahrain; Tankers Hit in Hormuz - Archynewsy"
+ ],
+ "links": [
+  "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+  "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
+  "https://www.haaretz.com/middle-east-news/iran/2026-11-21/ty-article/bahrain-says-iranian-attack-hits-industrial-facility-causes-fire/000001a1-ffcb-d9ff-a7b5-ffeffe980000",
+  "https://iranintl.com/en/liveblog/202611214578",
+  "http://www.jpost.com/middle-east/iran-news/article-915650",
+  "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles",
+  "https://politiko.com.ph/bahrain-says-iranian-attack-hits-industrial-facility-as-air-defences-intercept-attacks/",
+  "https://www.world-today-news.com/bahrain-says-iranian-attack-hit-industrial-facility-irgc-says-it-targeted-us-bases/",
+  "https://euronews.com/2026/03/12/iranian-attack-sparks-huge-fire-at-bahrain-facility",
+  "https://www.yahoo.com/news/world/articles/bahrain-says-iranian-attack-causes-213103888.html",
+  "https://sh1n.org/tweets/irgc-says-its-aerospace-force-launched-a-combined-missile-uav-attack-minutes-ago-2124234966896619776",
+  "https://en.wikipedia.org/wiki/Alireza_Tangsiri",
+  "https://www.thehawk.in/news/world/middle-east/irans-irgc-says-targeted-us-positions-at-two-bases-in-bahrain-with-missiles-drones",
+  "https://www.dailyprabhat.com/iran-claims-missile-and-drone-strikes-targeted-us-patriot-air-defence-radars-at-bahrain-bases/",
+  "https://www.presstv.co.uk/Detail/2026/11/21/781287/irgc-targets-us-military-positions-in-bahrain-in-missile-and-drone-operation",
+  "https://foxtonnews.com/world-news/bahrain-says-iranian-assault-causes-hearth-at-industrial-facility-us-israel-conflict-on-iran-information",
+  "https://msnbctv.news/bahrain-says-iranian-attack-causes-fire-at-industrial-facility-us-israel-war-on-iran-news/",
+  "https://gcaptain.com/another-tanker-hit-in-strait-of-hormuz-as-maritime-attacks-surge-worldwide/",
+  "https://splash247.com/fresh-tanker-strike-adds-to-bloody-week-in-hormuz",
+  "https://abcnews.com/International/strait-hormuz-attacks-increased-highest-level-iran-war/story?id=138304456",
+  "https://euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
+  "https://www.arabnews.com/middle-east/tanker-hit-in-strait-of-hormuz-as-missile-strikes-irans-qeshm-island-3013176",
+  "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+  "https://www.brecorder.com/news/40450177/two-tankers-struck-in-hormuz-iran-holds-talks-with-qatar",
+  "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+  "https://www.yahoo.com/news/articles/10-vessels-attacked-hormuz-strait-213304812.html",
+  "https://www.cnn.com/2026/07/14/world/live-news/iran-war-trump",
+  "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports",
+  "https://www.timesofisrael.com/us-military-says-strike-disabled-ship-trying-to-run-blockade-on-iran/amp/",
+  "https://thefirebrandproject.substack.com/p/us-and-iran-openly-exchange-strikes",
+  "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes",
+  "https://en.wikipedia.org/wiki/7_May_2026_United_States_strikes_on_Iran",
+  "https://en.wikipedia.org/wiki/2026_United_States_naval_blockade_of_Iran",
+  "https://cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons",
+  "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_campaign",
+  "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
+  "https://www.nst.com.my/world/world/2026/11/1582911/bahrain-accuses-iran-striking-industrial-site-tankers-hit-hormuz",
+  "https://globalnation.inquirer.net/349422/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz/amp",
+  "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071",
+  "https://www.timesofisrael.com/hormuz-tankers-hit-in-apparent-iranian-attacks-as-qataris-visit-tehran-for-mediation-talks/",
+  "https://www.archynewsy.com/iran-launches-drone-missile-attacks-on-us-bases-in-bahrain-tankers-hit-in-hormuz/"
+ ]
+}

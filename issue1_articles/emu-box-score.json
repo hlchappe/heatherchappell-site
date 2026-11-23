@@ -1,0 +1,127 @@
+{
+  "slug": "emu-box-score",
+  "order": 79,
+  "section": "The Files",
+  "kicker": "THE FILES · BOX SCORE · ONE NIGHT ONLY*",
+  "label": "Lost the fight",
+  "title": "Army vs. Emus",
+  "dek": null,
+  "byline": null,
+  "pages": [
+    79,
+    79
+  ],
+  "hero": "issue1/p079.jpg",
+  "visual": true,
+  "summary": "A box score for the 1932 Emu War in Western Australia: three soldiers and two machine guns against about 20,000 emus, at 9,860 rounds for 986 birds.",
+  "topics": [
+    "Emu War",
+    "Western Australia",
+    "Campion",
+    "Major Meredith"
+  ],
+  "blocks": [
+    {
+      "t": "p",
+      "text": "Campion, Western Australia · Nov. 2 - Dec. 10, 1932 · Two rounds"
+    },
+    {
+      "t": "p",
+      "text": "*Two rounds, actually. The first one lasted six days."
+    },
+    {
+      "t": "h2",
+      "text": "Tale of the Tape"
+    },
+    {
+      "t": "table",
+      "rows": [
+        [
+          "Army",
+          "",
+          "Emus"
+        ],
+        [
+          "3",
+          "Headcount",
+          "~20,000 (each bird = 200. Estimated. Nobody was counting.)"
+        ],
+        [
+          "2",
+          "Machine guns",
+          "0 (Did not need any.)"
+        ],
+        [
+          "One truck. Not enough. The gunner couldn’t aim.",
+          "Top speed",
+          "Nearly 50 km/h. Over rough ground, in several directions at once."
+        ],
+        [
+          "No",
+          "Can fly",
+          "No"
+        ],
+        [
+          "No",
+          "On the coat of arms",
+          "Yes"
+        ]
+      ]
+    },
+    {
+      "t": "table",
+      "rows": [
+        [
+          "Rounds fired",
+          "Birds confirmed",
+          "Rounds per bird"
+        ],
+        [
+          "9,860",
+          "986",
+          "10.0"
+        ]
+      ]
+    },
+    {
+      "t": "p",
+      "text": "Source: the commanding officer’s own report. Exactly ten. We make no accusations. We just noticed."
+    },
+    {
+      "t": "h2",
+      "text": "Rematch Requested"
+    },
+    {
+      "t": "list",
+      "items": [
+        "1934 — Denied",
+        "1943 — Denied",
+        "1948 — Denied"
+      ]
+    },
+    {
+      "t": "p",
+      "text": "What finally worked: bounties, farmers’ own rifles and better fences. No machine guns required."
+    },
+    {
+      "t": "sidebar",
+      "title": "Official Ruling",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The emus didn’t win. They just didn’t lose, which was more than the other side could say."
+        }
+      ]
+    },
+    {
+      "t": "p",
+      "text": "Please don’t send us your spreadsheet of 1932 emu counts. [E.G.] · They’re going to send the spreadsheet. [H.C.]"
+    }
+  ],
+  "sources": [
+    "Drawn from the Emu War feature’s sources. The 986 confirmed kills and 9,860 rounds are Major Meredith’s own figures, from his unpublished report; bird counts were estimates at the time.",
+    "Senate Hansard, 18 November 1932. https://historichansard.net/senate/1932/19321118_senate_13_137/",
+    "Murray Johnson, “‘Feathered Foes’: Soldier Settlers and Western Australia’s ‘Emu War’ of 1932,” Journal of Australian Studies 30:88 (2006).",
+    "Encyclopaedia Britannica, “Emu War.”"
+  ]
+}

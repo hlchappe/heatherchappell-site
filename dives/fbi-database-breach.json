@@ -1,0 +1,279 @@
+{
+ "slug": "fbi-database-breach",
+ "date": "2026-11-21",
+ "title": "FBI Criminal Database Breach: Unconfirmed, Politicized, and Unresolved",
+ "words": 3201,
+ "from": "FBI INVESTIGATING APPARENT HACK OF NATIONAL CRIMINAL JUSTICE DATABASE",
+ "bottomLine": "The reported intrusion into the FBI's National Crime Information Center is credibly sourced but officially unconfirmed, and its scope, entry point, and attacker remain unknown. Its significance lies less in any demonstrated damage than in what it exposes: a pattern of federal cyber weakness, an administration that minimizes incidents while shifting leadership, and a presidential framing that ties the breach to unrelated grievances without evidence. U.S. policymakers should prioritize verifying record integrity, because altered criminal records threaten officer safety far more than stolen ones.",
+ "summary": [
+  {
+   "title": "The breach is credibly reported but officially unconfirmed",
+   "points": [
+    "CNN, NBC, Reuters, ABC and AP reported an intrusion into NCIC between Nov. 19 and Nov. 21, 2026.",
+    "Every account rests on anonymous sources; AP relied on a single person familiar with the matter.",
+    "The FBI has declined to comment; no primary government document has confirmed the intrusion.",
+    "No group has claimed responsibility, and no link to ShinyHunters has been established."
+   ],
+   "plain": "Several news outlets say a important police database was broken into. The FBI hasn't said so on the record, and nobody has said who did it. So we know something happened, but not how much."
+  },
+  {
+   "title": "Record integrity matters more than data theft",
+   "points": [
+    "NCIC holds fugitive, missing-person, criminal-history and stolen-property records used by federal and local police.",
+    "Former FBI supervisory agent Jason Pack warned that altered data could affect officer safety on the roadside.",
+    "NCIC contains more than 18 million records as of FBI 2023 data; no source ties that number to exposure.",
+    "Access rules require one-year transaction logs, so audit trails are a key forensic check."
+   ],
+   "plain": "Think of a police phone book. If someone steals a copy, that's bad. If someone changes the numbers, officers could be sent to the wrong place. Changed records are the bigger danger."
+  },
+  {
+   "title": "Pattern of federal cyber failures raises credibility stakes",
+   "points": [
+    "The FBI disclosed an investigation into 'suspicious activities' on an internal system in March 2026.",
+    "A September 2026 breach of FBIjobs.gov was attributed by the FBI to a third-party vendor, with the entry point still undetermined.",
+    "A GAO report released Nov. 20 found five of 16 requirements were partially or not met at USDA and related agencies.",
+    "OPM's 2015 breach, which exposed about 21.5 million Social Security numbers, is the precedent for escalating counts."
+   ],
+   "plain": "This is not the first time a federal agency has had trouble keeping its computers safe. Each new incident makes people ask whether the government is doing enough to protect its information."
+  },
+  {
+   "title": "Official minimization and personnel churn undercut trust",
+   "points": [
+    "Officials told Congress on Nov. 18 that recent outages were maintenance-related, not coordinated attacks.",
+    "National Cyber Director Sean Cairncross was removed Nov. 19–20; Trump said he was 'not good enough.'",
+    "Kirsten Davies is acting national cyber director and requires Senate confirmation for the permanent post.",
+    "Patel's Nov. 19 Fox appearance touted an operation completed months earlier, after bureau officials had learned of the intrusion."
+   ],
+   "plain": "When the people in charge say 'everything is fine' and then change who is running the cyber office, the public gets suspicious. Trust depends on being straight about problems early."
+  },
+  {
+   "title": "Implications for U.S. interests and realistic policy options",
+   "points": [
+    "Trump linked the breach to the 'Russia, Russia, Russia hoax' and voter fraud without evidence; NCIC would not hold those records.",
+    "Congress has demanded answers, but no hearing on the NCIC breach was found in searches.",
+    "Cybersecurity Information Sharing Act of 2015 sunset is set for Dec. 11, 2026 per government guidance, with conflicting vendor reporting.",
+    "Feasible steps: confirm record integrity via CJIS audits, force credential resets, brief Congress, and set a public timeline."
+   ],
+   "plain": "The best response is to check whether the police records are still accurate, tell the public what is known, and fix the basic passwords and access controls. Politics should not replace these steps."
+  }
+ ],
+ "context": [
+  { "label": "Right now", "text": "Anonymous sources report an intrusion into the FBI's NCIC, reported Nov. 19–21, 2026, with no official confirmation, attacker, or confirmed scope. The USDA payments system was separately reported breached, with no established link." },
+  { "label": "How we got here", "text": "NCIC went live January 27, 1967 under J. Edgar Hoover and connected all 50 states by 1971. Prior federal breaches include OPM in 2015 and the FBI's own incidents in March and September 2026." },
+  { "label": "The politics", "text": "Trump called the breach 'not good' but pivoted to Russia and voter-fraud claims without evidence. Democrats like Schumer attacked the Cairncross firing, while Republicans including Ron Johnson and Elise Stefanik called for greater congressional oversight." },
+  { "label": "The people", "text": "FBI Director Kash Patel has not addressed the breach directly and touted unrelated work. Trump frames the incident politically. Stephen Miller reportedly pushed Cairncross's removal, and Kirsten Davies now serves as acting national cyber director." },
+  { "label": "Why now, and what's next", "text": "The reporting follows a cluster of outages from Nov. 12 and a Nov. 20 GAO report. The Cybersecurity Information Sharing Act's operative sunset is reported as Dec. 11, 2026, pending confirmation of the enacted text." },
+  { "label": "The culture and the public", "text": "Public trust in federal technology is strained by a run of outages and breaches. No polling on trust in NCIC or FBI cybersecurity was found, so public sentiment should not be assumed." }
+ ],
+ "sections": [
+  {
+   "title": "The breach is credibly reported but officially unconfirmed",
+   "paragraphs": [
+    "The intrusion into the FBI's National Crime Information Center is credibly reported but has not been confirmed by the bureau. CNN, citing two people briefed on the matter, first reported it on November 20. NBC News then confirmed it through two sources, Reuters also reported it that day, and on November 21 AP and ABC added their own accounts. Fox News cited three sources. The FBI has declined to comment to AP and ABC, and as of Friday night it had no comment for NBC. No primary government document has confirmed the intrusion, and the only on-record government statement is President Trump's remark that \"it's not good.\"",
+    "The sourcing is thinner than the volume of coverage suggests. AP's account rests on a single person familiar with the matter, the weakest attribution in the reporting, and ABC's \"confirmed\" also comes from one law enforcement source. Most of the other accounts depend on two anonymous people. Fox's commentator Jason Pack, a retired FBI supervisory agent, is an outside analyst and not a source on the facts. Pack himself said there was no indication yet that any records had been altered or that the system was down. Repetition across outlets reflects a shared pool of anonymous contacts, not independent corroboration.",
+    "\"Accessed\" and \"stolen\" should not be treated as established. Reporting says an intrusion occurred, but no outlet has confirmed which records, if any, were copied, altered or deleted, or how many people or agencies were affected. The method of entry, whether a compromised password among NCIC's more than 100,000 users, a state terminal or a third-party vendor, is also unknown; Pack's list is a set of hypotheses, not findings. No group has claimed responsibility, and BleepingComputer reports no indication of a link to ShinyHunters, which claimed the September FBIjobs.gov breach. Some outlets describe the NCIC as \"hacked\" or its data as taken; those characterizations go beyond what the sourced reporting establishes.",
+    "The political context raises the stakes for careful wording. The administration has told Congress that recent outages were maintenance-related rather than coordinated attacks, and it has moved National Cyber Director Sean Cairncross out of the job. Trump's Fox interview tied the breach to the \"Russia, Russia, Russia hoax\" and voter fraud without offering evidence, and CNN reported he declined to share specifics. Patel's November 19 Fox appearance touted an operation completed months earlier, after bureau officials had learned of the intrusion. Those facts make any unverified claim about the breach easy to contest and easy to politicize."
+   ],
+   "why": "Until the FBI or DOJ confirms the intrusion and its scope, every downstream judgment about officer safety, record integrity or attribution rests on anonymous reporting that officials have not yet stood behind."
+  },
+  {
+   "title": "Record integrity matters more than data theft",
+   "paragraphs": [
+    "The central risk in the NCIC intrusion is not that someone copied records but that someone changed them. A stolen fugitive list is a leak; an altered warrant entry or a cleared stolen-vehicle flag is a hazard to the officer who pulls it up at a traffic stop. Jason Pack, a retired FBI supervisory agent, made this point to Fox News: if any of this data has changed, it could affect officers' safety on the side of the road. That warning is a hypothesis, not a finding. No source has reported that any record was altered, and the FBI has not said whether anything was.",
+    "NCIC holds fugitive, missing-person, criminal-history and stolen-property records, and the FBI's 2023 figure of more than 18 million active records is a measure of system size, not of exposure. Restricted files, including the gang, terrorist and sex offender registries, are the most sensitive subset, and no outlet has said whether the intrusion reached them. Federal policy requires that a log be kept for at least one year on all NCIC and III transactions. Those logs are the single most useful forensic tool available: they can show which terminals and credentials queried which records, when, and whether query patterns look abnormal. Whether the intruders touched those logs is also unreported, which matters because a clean log can be as informative as a tampered one.",
+    "What remains missing is basic. No official has said when the intrusion began or when the bureau detected it beyond \"recent days.\" The entry point is unknown: a compromised credential among the system's more than 100,000 users, a state terminal, or a third-party vendor are all possibilities that Pack listed as things investigators would check through IP logs and metadata. Until investigators establish which of these occurred and compare current records against known-good copies, no one can say whether the database is trustworthy. The FBI has not publicly confirmed the breach, so the baseline for any integrity check is itself not yet on the record.",
+    "The historical context explains why caution is warranted. In 2015 the Office of Personnel Management first reported a breach affecting 4.2 million personnel records, then raised the figure to 21.5 million Social Security numbers, with officials conceding in June that their earlier 18 million estimate was preliminary and approximate. An initial count that later grows is a predictable pattern, and record integrity is harder to escalate-test after the fact. The political backdrop makes the stakes sharper: Trump's remarks tying the breach to the \"Russia, Russia, Russia hoax\" and voter fraud offered no evidence, and no reporting suggests NCIC holds records on either."
+   ],
+   "why": "if police cannot trust what NCIC returns, the damage lands on officers and the public in real time, and that is a harder problem to repair than a leak."
+  },
+  {
+   "title": "Pattern of federal cyber failures raises credibility stakes",
+   "paragraphs": [
+    "The breach at the National Crime Information Center arrives on top of a run of federal cyber incidents, and that sequence is itself the credibility problem. The FBI disclosed in March that it was investigating \"suspicious activities\" on an internal system holding sensitive surveillance and investigative material. In September, the FBI said it was investigating \"claims regarding unauthorized activity affecting FBIjobs.gov,\" a site the FBI's director later described as managed by a third-party vendor, while the point of breach remained undetermined. A GAO report released Nov. 20 found that five of 16 requirements were only partially met or not met at USDA and related agencies, and USDA disputed the watchdog's recommendations. Each incident may be explained on its own terms. Together they suggest a pattern that officials have not yet addressed.",
+    "The 2015 Office of Personnel Management breach shows why first counts are not safe to rely on. OPM first detected an intrusion in April 2015, initially reporting 4.2 million personnel records. On July 9, 2015, the figure rose to the Social Security numbers of 21.5 million people. OPM Director Katherine Archuleta had told Congress on June 24 that an 18 million figure was preliminary and approximate; it grew. The House Oversight Committee's staff report, under Chairman Jason Chaffetz, later called the failure one that jeopardized national security for a generation. The lesson for the NCIC case is not that the damage is large. It is that officials who speak early about scope have been wrong before, and the public record should not be built on unverified early numbers.",
+    "No shared actor has been established. The NCIC intrusion, the USDA payments breach and the September jobs-portal incident have not been tied together by any official or any source reviewed. BleepingComputer reports no indication that the NCIC incident is connected to ShinyHunters, the group that claimed the September breach. The argument here is about institutional credibility, not a common culprit. Treating the incidents as one campaign would be an analytic error, and so would ignoring that they are landing on the same agencies within a short window.",
+    "The political setting raises the stakes. Officials told Congress on Nov. 18 that recent outages stemmed from maintenance and technical changes, not coordinated attacks, and a run of six disruptions between Nov. 12 and 17 has been met with repeated denials. Sen. Chuck Schumer, on the Senate floor Friday, asked why the president had fired National Cyber Director Sean Cairncross if the outages were business as usual. Trump said Cairncross was not \"good enough.\" Trump has also tied the NCIC breach to the \"Russia, Russia, Russia hoax\" and voter fraud without evidence. Each denial and each unexplained personnel move makes the next incident harder to take at face value."
+   ],
+   "why": "when federal officials minimize incidents before the facts are in, the first numbers that do come out will be read as cover, so the government's credibility depends on the FBI publishing verified findings on scope and record integrity before a higher number surfaces on its own."
+  },
+  {
+   "title": "Official minimization and personnel churn undercut trust",
+   "paragraphs": [
+    "Officials have pushed back on the idea that recent disruptions were cyberattacks. On Nov. 18, officials told Congress the outages stemmed from maintenance and software changes, and DNI Jay Clayton said they were \"not a coordinated or state-sponsored attack.\" That line is hard to square with the NCIC and USDA reports now surfacing. The denials came before the bureau's intrusion was public, and no official has acknowledged the NCIC breach on the record. A minimizing posture, adopted early and maintained while facts are still unknown, leaves officials with little room to reverse course if the intrusion proves serious.",
+    "The personnel moves compound the problem. National Cyber Director Sean Cairncross was removed on Nov. 19 or 20, and the accounts of why conflict. Trump said he didn't think Cairncross was \"good enough.\" An unnamed White House official told The Hill the president believed he lacked \"proper cyber credentials,\" and Axios reported that Chief of Staff Stephen Miller pushed the change. Treasury Secretary Scott Bessent's allies, according to Axios, faulted Cairncross for not moving urgently on AI questions. Fox reported an administration official saying he did not want to serve another two years, and Cairncross described his exit as an honor. Who was pushed and who left is unsettled, and the reasons offered point in different directions. Kirsten Davies is acting in the role and needs Senate confirmation to hold it permanently.",
+    "FBI Director Kash Patel's Nov. 19 appearance on Fox News sits awkwardly alongside that record. He touted cybersecurity work, discussing an operation completed months earlier, after bureau officials had already learned of the intrusion, according to CNN. Patel has not addressed the NCIC incident by name. Whether he was informed before Trump commented is not reported. Each of these moves is defensible alone; together they read as a pattern of reassurance without disclosure.",
+    "Political framing deepens the damage. Trump tied the breach to the \"Russia, Russia, Russia hoax\" and voter fraud, offering no evidence, and CNN and GMA noted that NCIC would not hold such records. Schumer called Cairncross \"a political hack\" and blamed the firing on cuts to cyber staff, while Ron Johnson and Elise Stefanik called for better congressional oversight. Those partisan readings mean any federal statement now gets weighed against who is making it. Sen. Mark Warner has said there was no sign of a cyberattack while also warning AI can find vulnerabilities at unprecedented speed, a caution that cuts against the administration's reassurance."
+   ],
+   "why": "Until the FBI confirms the intrusion, explains its scope and names what was accessed, the bureau's credibility rests on statements that the record already complicates, and every new denial raises the cost of the next one."
+  },
+  {
+   "title": "Implications for U.S. interests and realistic policy options",
+   "paragraphs": [
+    "The most realistic first step is verification, not announcement. The FBI's Criminal Justice Information Services division can run audits of NCIC transaction logs, which CJIS rules require agencies to keep for at least one year, and can check whether any restricted-file entries or warrant records were added, changed or deleted. Forcing password resets across the system's more than 100,000 users, as former FBI supervisory agent Jason Pack suggested, is cheap and fast. DOJ's role is to decide whether the intrusion warrants a criminal investigation and to coordinate with states, whose terminals may be an entry point. Congress can press for a classified and then unclassified briefing and ask whether NCIC's systems had current security authorizations, the gap the OPM inspector general found in 2015 when 11 of 47 major systems lacked one.",
+    "The political risk is that the breach becomes a vehicle for unrelated fights. Trump's suggestion that the intrusion could surface Russia-probe or voter-fraud material has no evidentiary basis, and the NCIC would not hold those records. If the White House or DOJ treats the breach as a tool against political opponents, or if the FBI's own leadership shapes its public account to protect its record, the investigation's findings will be discounted by the people who most need them, including local police who depend on the database. Patel's Fox appearance, which touted an operation completed months earlier after bureau officials had already learned of the intrusion, shows how quickly the public message can get ahead of the facts.",
+    "Several decision points fall before December 11, 2026, the date government guidance gives for the extended sunset of the Cybersecurity Information Sharing Act of 2015. That law governs how agencies share threat information, and vendor reporting conflicts with the official date, so officials should confirm the enacted text now. Lawmakers weighing its reauthorization will be asking whether federal agencies can protect the data they already hold. A credible answer on NCIC, including whether records were altered, will matter more to that debate than any further statement about the attackers' motives.",
+    "Congress has demanded answers across party lines, but no hearing on the NCIC intrusion has been scheduled that searches could find. A public timeline from the FBI, even a provisional one stating what is known and what is still being checked, would reduce the pull toward speculation. Each week without one lets the outage denials, the cyber leadership change and the presidential commentary fill the gap."
+   ],
+   "why": "If altered criminal records reach officers on patrol, the damage will be measured in safety, not in stolen data, and only prompt verification can establish whether that has happened."
+  }
+ ],
+ "watch": [
+  "Any official FBI, CJIS, or DOJ statement confirming or denying the NCIC intrusion, expected in coming days",
+  "Whether CJIS orders audits of NCIC user credentials and terminal access, including the 100,000-plus user base",
+  "Congressional hearing scheduling or formal letters to the FBI on the NCIC and USDA incidents",
+  "Kirsten Davies's Senate confirmation timeline for permanent national cyber director",
+  "Cybersecurity Information Sharing Act sunset on Dec. 11, 2026, and whether Congress reauthorizes it"
+ ],
+ "people": [
+  {
+   "name": "Richard Fordyce",
+   "role": "USDA UNDER SECRETARY FOR FARM PRODUCTION AND CONSERVATION (CONFIRMED SEPTEMBER 2025; OVERSEES FSA, NRCS, RMA)",
+   "lede": "Fordyce is the USDA official who publicly addressed the November 2026 USDA cyber incident, calling it a \"cyberthreat\" and saying no data was lost, while the separate FBI NCIC breach is a different agency's matter. He wants USDA's farmer-facing systems restored quickly and the incident treated as contained, and he has pushed FSA loan and acreage-reporting modernization.",
+   "blocks": [
+    { "heading": "Who they are", "text": "Fordyce is a fourth-generation Missouri farmer who raises corn, soybeans and cattle in Harrison County with his wife Renee. He previously headed USDA's Farm Service Agency during Trump's first term and directed the Missouri Department of Agriculture from 2013 to 2017. He was confirmed as USDA Under Secretary for Farm Production and Conservation on September 18, 2025, and oversees the agencies that deliver farm loans, crop insurance and conservation programs." },
+    { "heading": "Personality and style", "text": "Senators and associates describe him as a farmer first with deep experience in local program delivery; Senator John Boozman said he had experienced the challenges of operating a family farm and had led FSA offices himself. In public remarks he is plainspoken and tends to frame problems through the lens of farmers and field offices, as in his line that the loan modernization piece is \"a decade or two late.\" During the current outage he was candid about limited outages but also downplayed the severity, saying the incident was a good news story because the systems worked. His characterization of the incident has drawn scrutiny from outlets that reported earlier software-update explanations." },
+    { "heading": "Career highlights", "items": [
+     "1993-2010: President of the Harrison County Farm Bureau in Missouri, per Ballotpedia.",
+     "2013-2017: Director of the Missouri Department of Agriculture, appointed by Governor Jay Nixon.",
+     "2017-2021 (approximately): Administrator of USDA's Farm Service Agency during Trump's first term.",
+     "2012: Named Soil Conservationist of the Year by the Conservation Federation of Missouri.",
+     "2021-2025: Director of Ag Business at Ozark Bank-affiliated OBP agency, per OBP announcement, after returning from USDA.",
+     "September 18, 2025: Confirmed by the U.S. Senate as USDA Under Secretary for Farm Production and Conservation."
+    ] },
+    { "heading": "Current involvements", "items": [
+     "Serving as USDA Under Secretary for Farm Production and Conservation, overseeing FSA, NRCS, RMA and the FPAC Business Center.",
+     "Leading the rollout of modernized acreage reporting, with a geospatial system now in every county and precision-agriculture data integration targeted for spring 2027, per his remarks in Ohio in October 2026.",
+     "Overseeing FSA and Rural Development loan application modernization, expected early 2027, which he said is a decade or two overdue.",
+     "Managing restoration of USDA systems after the November 2026 cyber incident; he said most systems would return by close of business Friday, November 20, with weekend work continuing.",
+     "Responding to a GAO report finding USDA only partially met or failed to meet five of 16 food and agriculture cybersecurity requirements; USDA disputed GAO's recommendations and Fordyce declined comment on the report."
+    ] },
+    { "heading": "Big wins", "items": [
+     "Senate confirmation as Under Secretary in September 2025, with endorsements from the National Cattlemen's Beef Association and the National Association of Conservation Districts.",
+     "Support from more than 100 agricultural, conservation and crop insurance groups that backed his nomination, according to NACD.",
+     "Helped lead the USDA's farm payment process in the administration's roughly $12 billion farm aid package, based on 2025 planted acres, per POLITICO's December 2025 interview.",
+     "Launched a nationwide county-by-county acreage reporting system, per his own description of the rollout."
+    ] },
+    { "heading": "Controversies", "items": [
+     "Shifting explanations on the November 2026 outages: DTN and The Daily Wire reported that he first blamed software updates before calling the incident a \"cyberthreat,\" and a Yahoo News account said he acknowledged outages but did not confirm a breach.",
+     "Downplaying the incident: Fox News reported his comment that the episode may be a good news story because people trying to do harm could not succeed, and Iowa Farmers Union president-level criticism asked USDA to explain what happened and what data was accessed.",
+     "Staffing and readiness concerns: POLITICO reported in December 2025 that farm groups and lawmakers criticized the aid package as too small, and that local offices were stretched after employee departures.",
+     "GAO criticism: a GAO report on food and agriculture cybersecurity drew a USDA dispute of the watchdog's recommendations, and USDA officials told GAO there were no plans for further cyber exercises, per DTN."
+    ] },
+    { "heading": "Who they align with", "items": [
+     "Patron: Agriculture Secretary Brooke Rollins, who Trump said he would work with Fordyce closely, and whom Fordyce thanked for her trust in his nomination.",
+     "Patron: President Donald Trump, who announced his appointment in January 2025 and praised him as a fourth-generation farmer.",
+     "Allies: Missouri Republican figures including Senator Eric Schmitt, who submitted a statement supporting his nomination, and Representative Sam Graves, who introduced him at the hearing.",
+     "Industry backers: National Cattlemen's Beef Association, National Association of Conservation Districts, American Soybean Association and the Missouri soybean community, including his former seat on the United Soybean Board.",
+     "Rivals/opponents: Senate Democrats and farm-state critics such as Senator Schumer, who criticized the administration's cyber leadership, and GAO, whose cybersecurity findings USDA disputed, are labeled here as oppositional rather than personal rivals."
+    ] }
+   ]
+  },
+  {
+   "name": "Sean Cairncross",
+   "role": "FORMER NATIONAL CYBER DIRECTOR (REMOVED NOVEMBER 19, 2026); FORMER CEO, MILLENNIUM CHALLENGE CORPORATION; FORMER RNC CHIEF OPERATING OFFICER",
+   "lede": "Cairncross led the White House office that sets federal cybersecurity policy until his removal, the period in which the FBI breach was reported. He has publicly framed his tenure as a success and has said he left because he did not want to serve another two years, a claim that conflicts with the White House account that he was fired.",
+   "blocks": [
+    { "heading": "Who they are", "text": "Sean Cairncross is an American lawyer and Republican political operative. He served as chief operating officer of the Republican National Committee from 2015 to 2017 and returned in March 2024. He ran the Millennium Challenge Corporation, a U.S. foreign aid agency, from 2019 to 2021, after Senate confirmation in July 2019. He was confirmed as National Cyber Director 59-35 on August 2, 2025 and sworn in August 4, 2025. He was removed on November 19, 2026." },
+    { "heading": "Personality and style", "text": "Cairncross has been described as having a background in politics and foreign aid rather than technical security. Critics among Senate Democrats questioned his lack of cybersecurity experience during his 2025 confirmation hearings. Two White House officials told Axios that Stephen Miller judged him to lack the strong cyber credentials for the role, while two other sources described the exit as amicable. In his own statement, he described the job as the honor of a lifetime and said he left proud of the administration's work. Reporting also says he was seen as an advocate of moving quickly on AI development in partnership with industry, and that he clashed with Treasury over AI policy, according to Axios." },
+    { "heading": "Career highlights", "items": [
+     "2015-2017: Chief operating officer, Republican National Committee; senior adviser to RNC Chair Reince Priebus until 2018.",
+     "2017-2019: Senior White House role during Trump's first term, serving as chief of staff on National Security Council committees.",
+     "2019-2021: Chief executive officer, Millennium Challenge Corporation, a U.S. foreign aid agency, confirmed by the Senate in July 2019.",
+     "March 2024: Returned to the Republican National Committee as chief operating officer.",
+     "February 2025: Nominated by Trump as United States National Cyber Director.",
+     "August 4, 2025: Sworn in as National Cyber Director after Senate confirmation 59-35 on August 2."
+    ] },
+    { "heading": "Current involvements", "items": [
+     "No current formal role.",
+     "Removed as National Cyber Director on November 19, 2026, with Kirsten Davies named acting director.",
+     "The Office of the National Cyber Director, which he led, is now run on an acting basis by Pentagon CIO Kirsten Davies, who requires Senate confirmation for a permanent appointment.",
+     "The exact date of his departure remains unclear according to Fox News, which reported the firing was backed by Trump.",
+     "Public statements on his exit are limited to his own written statement; the White House declined to comment on the reasons."
+    ] },
+    { "heading": "Big wins", "items": [
+     "Oversaw the March 2026 Trump administration cyber strategy, which pledged to detect, confront and defeat adversaries before they breach networks.",
+     "Advanced an agenda of 'introducing costs and consequences' for adversaries, as he described it at the November 2025 Aspen Cyber Summit.",
+     "Led the Millennium Challenge Corporation as CEO from 2019 to 2021 during the first Trump term.",
+     "Helped shape the administration's AI policy team, according to reporting that describes him as one of the voices on AI."
+    ] },
+    { "heading": "Controversies", "items": [
+     "Senate Democrats on the Homeland Security and Governmental Affairs Committee questioned his lack of cybersecurity expertise before his confirmation, according to Wikipedia's summary of the 2025 hearings.",
+     "Two White House officials told Axios that Stephen Miller pushed for his removal, and one said he lacked the strong cyber credentials for the job; this account has been disputed by the characterization of two other sources as amicable.",
+     "Several U.S. officials, as reported by Wikipedia, said he lacked sufficient experience and urgency in responding to AI threats; the White House has not publicly stated these reasons.",
+     "Reporting from Axios says Treasury Secretary Scott Bessent and allies argued he had not been urgent on AI questions, while he reportedly believed Treasury had become too involved in the team's efforts."
+    ] },
+    { "heading": "Who they align with", "items": [
+     "Patrons: Donald Trump, who backed the decision, according to a White House official and CNBC's source; Reince Priebus, his former boss at the RNC.",
+     "Allies: Former Republican National Committee associates and the broader Trump White House AI team he was part of.",
+     "Factions: Stephen Miller's faction, which pushed for his removal and now controls White House operations as chief of staff.",
+     "Rivals (labeled): Stephen Miller, the chief of staff who reportedly sought his removal; Treasury Secretary Scott Bessent and allies, who reportedly argued he was slow on AI policy; Senate Democrats who questioned his qualifications during confirmation."
+    ] }
+   ]
+  }
+ ],
+ "sources": [
+  "FBI investigating potential breach of its crime database",
+  "Trump downplays breach into FBI’s crime database while reviving complaints about agency’s Russia probe",
+  "Trump downplays breach into FBI’s crime database while reviving complaints about agency’s Russia probe",
+  "The FBI was hacked again, this time the breach targeted its crime database",
+  "FBI investigating hacking group’s claim of massive breach of agent info",
+  "NCIC Turns 50",
+  "FBI — NCIC Celebrates 40 Years",
+  "FBI — The FBI's National Crime Information Center",
+  "OPM DATA BREACH: PART II",
+  "- UNDER ATTACK: FEDERAL CYBERSECURITY AND THE OPM DATA BREACH",
+  "Committee Releases Year-Long Investigative Report into OPM Data Breaches - United States House Committee on Oversight and Government Reform",
+  "Frequently Asked Questions OPM Data Breach Department of the Navy",
+  "Court Reporting Services, Inc. RPTMJones HGO167000 OPM: DATA BREACH",
+  "OPM data breaches affect millions of current and former federal employees > Marine Corps Base Quantico > News Article Display",
+  "FBI national crime database suffers suspected breach: Reports",
+  "FBI's national crime database targeted in hack, Trump says - ABC News",
+  "U. S. Department of Justice Federal Bureau of Investigation Criminal Justice",
+  "U. S. Department of Justice Federal Bureau of Investigation",
+  "eCFR :: 28 CFR Part 20 -- Criminal Justice Information Systems",
+  "Criminal Justice Information Services (CJIS) Security Policy",
+  "Criminal Justice Information Services (CJIS) Security Policy",
+  "Criminal Justice Information Services (CJIS) Security Policy",
+  "Criminal Justice Information Services (CJIS) Security Policy",
+  "Criminal Justice Information Services (CJIS) Security Policy",
+  "Grassley, Leahy Press Federal Investigators on Breach of Democratic National Committee",
+  "Agriculture Department breached by hackers, sources say",
+  "USDA hit with cyberattack: Sources - ABC News",
+  "White House national cyber director leaving his post - CBS News",
+  "Sean Cairncross",
+  "White House cyber director out after string of outages"
+ ],
+ "links": [
+  "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
+  "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536",
+  "https://www.cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database",
+  "https://edition.cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database",
+  "https://cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database?Date=20261121&Profile=CNN&amp=&amp=&amp=&amp=",
+  "https://www.nbcnews.com/tech/security/fbi-investigating-hacking-groups-claim-massive-breach-agent-info-rcna599370",
+  "https://www.fbi.gov/news/stories/ncic-turns-50",
+  "https://archives.fbi.gov/archives/news/stories/2007/january/ncic012707",
+  "https://www.fbi.gov/news/testimony/the-fbis-national-crime-information-center",
+  "https://www.congress.gov/event/114th-congress/house-event/LC44424/text",
+  "https://www.govinfo.gov/content/pkg/CHRG-114shrg20565/html/CHRG-114shrg20565.htm",
+  "https://oversight.house.gov/release/committee-releases-year-long-investigative-report-opm-data-breaches/",
+  "https://www.secnav.navy.mil/opmbreachdon/Documents/DON_OPM_Breach_FAQs_071015pm.pdf",
+  "https://oversight.house.gov/wp-content/uploads/2015/06/2015-06-16-FC-OPM-Data-Breach.GO167000.pdf",
+  "https://www.quantico.marines.mil/News/News-Article-Display/Article/607587/opm-data-breaches-affect-millions-of-current-and-former-federal-employees/",
+  "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports",
+  "https://abcnews.com/US/fbis-national-crime-database-targeted-hack-trump/story?id=138347810",
+  "https://le.fbi.gov/file-repository/cjis_security_policy_v5-9-4_20231220.pdf",
+  "https://ucr.fbi.gov/cjis-security-policy-resource-center",
+  "https://www.ecfr.gov/current/title-28/chapter-I/part-20",
+  "https://le.fbi.gov/file-repository/cjis_security_policy_v5-9-2_20221207-1.pdf",
+  "https://fbi.gov/file-repository/cjis_security_policy_v5-9-1_20221001.pdf",
+  "https://www.dps.texas.gov/sites/default/files/documents/securityreview/documents/cjisSecurityPolicy_v6-0.pdf",
+  "https://publicapps.troopers.ny.gov/IEPD/documents/CJIS_Security_Policy.pdf",
+  "https://gbi.georgia.gov/document/document/181756524cjis-security-policy-v5-0feb92011pdf/download",
+  "https://www.grassley.senate.gov/news/news-releases/grassley-leahy-press-federal-investigators-breach-democratic-national-committee",
+  "https://www.nbcnews.com/politics/national-security/agriculture-department-breached-hackers-sources-say-rcna610497",
+  "https://abcnews.com/GMA/Food/new-government-report-sparks-concern-potential-cyberattack-us/story?id=138316014",
+  "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/",
+  "https://en.wikipedia.org/wiki/Sean_Cairncross",
+  "https://abcnews4.com/news/nation-world/white-house-cyber-director-out-after-string-of-outages-congress"
+ ]
+}

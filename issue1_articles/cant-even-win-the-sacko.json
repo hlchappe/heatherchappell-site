@@ -1,0 +1,68 @@
+{
+ "slug": "cant-even-win-the-sacko",
+ "order": 4,
+ "section": "Up Front",
+ "kicker": "FROM THE DESK · A LETTER FROM THE EDITORS",
+ "label": null,
+ "title": "Can’t Even Win the Sacko",
+ "dek": null,
+ "byline": "Heather Chappell & Edwin Galloway",
+ "pages": [
+  4,
+  4
+ ],
+ "hero": "issue1/p004.jpg",
+ "summary": "The editors’ letter opening SIDE EYE Issue 1 explains why the magazine is about history’s losers and how the two hosts research and check their work.",
+ "topics": [
+  "Editors’ letter",
+  "History’s losers",
+  "Fantasy football",
+  "The Sacko",
+  "Hannibal"
+ ],
+ "blocks": [
+  {
+   "t": "p",
+   "text": "Every history textbook has the same arrangement. The winners get chapters. The losers get one sentence, and it almost always starts with “Despite.”"
+  },
+  {
+   "t": "p",
+   "text": "Despite his brilliant tactics, Hannibal was defeated. Despite its size, the Armada was scattered. Despite having the only machine guns in the fight, a national army came home without a win. (Your textbook skipped that one. We didn’t.)"
+  },
+  {
+   "t": "p",
+   "text": "We started collecting the despites. The list got long, and the people on it got more interesting than anyone who beat them."
+  },
+  {
+   "t": "p",
+   "text": "Winners are boring. They build a statue, write a memoir and take credit for the weather. Losers leave behind a mess, a mystery and, usually, a much better story told by somebody who hated them."
+  },
+  {
+   "t": "p",
+   "text": "Somewhere along the way we noticed that the old line about history being written by the winners doesn’t hold up. Some winners never bothered to write anything down. Some losers wrote plenty and did just fine. Whoever keeps the files tends to keep the story. So that’s what we went looking for: who lost the fight, who lost the credit and who lost the story, and whether anyone got it back."
+  },
+  {
+   "t": "p",
+   "text": "This book is for the losers. We read what they left behind and what their enemies wrote about them, and we tried to be fair. Fair isn’t the same as nice. Some of these people lost because they absolutely earned it."
+  },
+  {
+   "t": "p",
+   "text": "This is our first issue, so a fair question: who are we, and why should you take our word for any of this? Well… you shouldn’t. We’re two curious people, not historians or journalists, and we believe in being public amateurs: doing the work out loud, where you can see it. We use AI to do deep research, reading across archives, letters and old newspapers to connect historical dots in ways no single textbook does. Then we check every claim against its sources, rate how solid it is and publish the receipts. Check our work. If we got something wrong, tell us."
+  },
+  {
+   "t": "p",
+   "text": "In fantasy football, the Sacko is the trophy you get for finishing dead last. Several people in this book would have been lucky to get it."
+  },
+  {
+   "t": "p",
+   "text": "If you’ve ever finished last in a fantasy league, a trivia night or a family argument about directions, you’re in good company. Hannibal’s in here."
+  },
+  {
+   "t": "caption",
+   "text": "THE SACKO: Awarded for finishing dead last. Ours is a plunger in a goblet."
+  }
+ ],
+ "sources": [
+  "Our letter from the editors. The history in it (Hannibal, the Armada, the Emu War) is sourced under those features below. The Sacko is the real-life last-place trophy of fantasy football leagues; ours is a plunger in a goblet."
+ ]
+}

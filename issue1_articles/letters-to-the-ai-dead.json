@@ -1,0 +1,308 @@
+{
+ "slug": "letters-to-the-ai-dead",
+ "order": 5,
+ "section": "Up Front",
+ "kicker": "UP FRONT · CORRESPONDENCE · MAILBAG NO. 1",
+ "label": null,
+ "title": "Letters to the AI Dead",
+ "dek": "We wrote to AI versions of history’s losers. Most of them wrote back. One of them sent his assistant.",
+ "byline": null,
+ "pages": [
+  5,
+  6
+ ],
+ "hero": "issue1/p005.jpg",
+ "summary": "Comic letters to AI versions of Hannibal, Harold Godwinson, the Byzantine Empire, Empress Matilda, Cornwallis and Varus, with fact-checked replies.",
+ "topics": [
+  "Hannibal",
+  "Harold Godwinson",
+  "Byzantine Empire",
+  "Empress Matilda",
+  "Lord Cornwallis",
+  "Publius Quinctilius Varus"
+ ],
+ "labels": [
+  "Lost the fight",
+  "Lost the credit",
+  "Lost the story"
+ ],
+ "blocks": [
+  {
+   "t": "p",
+   "text": "The AI dead are not the dead. Every fact in their replies was checked by two living people who were very tired by the end."
+  },
+  {
+   "t": "h2",
+   "text": "Brunch, but make it Cannae"
+  },
+  {
+   "t": "caption",
+   "text": "AI HANNIBAL: Carthage’s top general. Marched an army and war elephants over the Alps to attack Rome in 218 BCE."
+  },
+  {
+   "t": "p",
+   "text": "Dear AI Hannibal,"
+  },
+  {
+   "t": "p",
+   "text": "You got an army, a baggage train and a few dozen war elephants over the Alps in 218 BCE. We can’t get six adults to agree on a brunch reservation. How did you hold an army of hired soldiers and allies together for fifteen years in enemy territory?"
+  },
+  {
+   "t": "p",
+   "text": "— Respectfully, Two people who have never successfully split a check"
+  },
+  {
+   "t": "sidebar",
+   "title": "AI Hannibal replies",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Understood. Recommendations:"
+    },
+    {
+     "t": "p",
+     "text": "Pay them. Most of my army was hired or allied. Loyalty improves when wages arrive."
+    },
+    {
+     "t": "p",
+     "text": "Sleep where they sleep. Livy reports I slept on the ground among the sentries, under a soldier’s cloak. Nobody complains about the brunch spot when the general is lying in the dirt."
+    },
+    {
+     "t": "p",
+     "text": "Elephants are optional. Most of mine were gone soon after the Alps. Livy says I rode the last one through a flooded marsh and lost the sight in one eye doing it."
+    },
+    {
+     "t": "p",
+     "text": "Brunch plan: Arrive from an unexpected direction. Seat your strongest friends on the wings. Let the center fall back. Surround the table."
+    },
+    {
+     "t": "p",
+     "text": "This worked at Cannae. It did not work at Zama. Do not ask me about Zama."
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Harold, please sit down"
+  },
+  {
+   "t": "caption",
+   "text": "AI HAROLD: The last Anglo-Saxon king of England. Killed at the Battle of Hastings in 1066."
+  },
+  {
+   "t": "p",
+   "text": "Dear AI Harold Godwinson,"
+  },
+  {
+   "t": "p",
+   "text": "September 1066. A Norwegian army lands in the north, and it turns out your own brother Tostig is with them. You march up, beat them at Stamford Bridge, and your brother dies in the fighting. A few days later William of Normandy lands on the south coast, so you march back down the length of England and fight again at Hastings. You died there."
+  },
+  {
+   "t": "p",
+   "text": "We have one question, and it’s whether you ever thought about sitting down."
+  },
+  {
+   "t": "p",
+   "text": "— Sincerely, Two people who have also said yes to a second thing when we should have gone home"
+  },
+  {
+   "t": "sidebar",
+   "title": "AI Harold Godwinson replies",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "You’re absolutely right, and I’m so sorry. I’m sorry about all of it. I’m sorry about my brother, although in fairness he brought the Norwegians. I’m sorry about the marching. I’m especially sorry about the marching."
+    },
+    {
+     "t": "p",
+     "text": "I’ve prepared a revised plan for October 1066:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "1. Sit down.",
+      "2. Wait for more troops.",
+      "3. Let William walk to London for once."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "On the arrow in the eye: I can’t confirm it. The figure in the Bayeux Tapestry might be me and might be someone standing near me, and some historians think the arrow was altered when the embroidery was restored in the nineteenth century. Also, while we’re here, the Bayeux Tapestry isn’t a tapestry. It’s embroidered. And the Normans commissioned it. So I’m being remembered by a craft project made by the other team."
+    },
+    {
+     "t": "p",
+     "text": "Would you like me to regenerate the Battle of Hastings? Before you answer, could I sit down?"
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Re: Re: Re: Fwd: “The sequel”"
+  },
+  {
+   "t": "caption",
+   "text": "AI BYZANTINE EMPIRE: The eastern half of the Roman Empire. Outlived the western half by nearly 1,000 years and fell in 1453."
+  },
+  {
+   "t": "p",
+   "text": "Dear AI Byzantine Empire,"
+  },
+  {
+   "t": "p",
+   "text": "A history teacher once called you “the Eastern Roman Empire, basically the sequel.” You outlived the western half by nearly a thousand years and called yourselves Romans the whole time. We’re sorry about the sequel thing. You were the franchise."
+  },
+  {
+   "t": "p",
+   "text": "— Warmly, H & E"
+  },
+  {
+   "t": "sidebar",
+   "title": "AI Byzantine Empire replies",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Thank you for your correspondence, which has been received, logged, assigned to the appropriate office, forwarded to a second office for review, returned to the first office with notes, and approved for reply by the Logothete of the Course, pending consultation with the Patriarch."
+    },
+    {
+     "t": "p",
+     "text": "Please note the following corrections."
+    },
+    {
+     "t": "p",
+     "text": "Item 1. We were Romans. We called ourselves Romans. Our neighbors called us Romans. The word “Byzantine” was popularized long after we were gone, and a sixteenth-century German scholar named Hieronymus Wolf did a great deal to make it stick. We have not forgiven Mr. Wolf and have assigned an office to the matter."
+    },
+    {
+     "t": "p",
+     "text": "Item 2. Our operating period ran from the dedication of Constantinople in 330 to its fall to the Ottomans in 1453. That is 1,123 years. Please adjust the word “sequel” accordingly."
+    },
+    {
+     "t": "p",
+     "text": "Item 3. In reference to your use of the word “lost,” we would like to direct your attention to 1204, when an army of crusaders who had set out to fight in the Holy Land instead arrived at our city and sacked it. They held it until 1261. They were supposed to be on our side. They were supposed to be somewhere else. We have prepared a 400-page report on this subject and are happy to share it."
+    },
+    {
+     "t": "p",
+     "text": "Item 4. We would be glad to explain our court politics, but we are required to warn you that they are extremely byzantine."
+    },
+    {
+     "t": "p",
+     "text": "Addenda to follow."
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Second place, first family"
+  },
+  {
+   "t": "caption",
+   "text": "AI MATILDA: Named heir to England’s throne by her father. Her cousin took the crown instead. Her son became King Henry II."
+  },
+  {
+   "t": "p",
+   "text": "Dear AI Empress Matilda,"
+  },
+  {
+   "t": "p",
+   "text": "Your father, Henry I of England, made his barons swear to accept you as his heir. When he died in 1135, your cousin Stephen got to England first and had himself crowned. You spent most of the next two decades fighting him. At one point you captured him. You made it as far as London. Then the Londoners chased you out before your coronation."
+  },
+  {
+   "t": "p",
+   "text": "You never got crowned. We would like to express our sympathy."
+  },
+  {
+   "t": "p",
+   "text": "— Kindly, H & E"
+  },
+  {
+   "t": "sidebar",
+   "title": "AI Empress Matilda replies",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Thank you for the note. I will accept the sympathy and return the premise."
+    },
+    {
+     "t": "p",
+     "text": "Yes, the barons swore. Yes, several of them then un-swore. Yes, I captured Stephen at Lincoln in 1141, and yes, the Londoners had opinions about me that they expressed at volume. I was styled “Lady of the English,” which I’ll admit is not the same as a crown."
+    },
+    {
+     "t": "p",
+     "text": "I would ask you to consider the ending. Stephen’s war dragged on until 1153, when a treaty named my son Henry as his heir. My son took the throne in 1154 as Henry II. Every English monarch after him descends from me. Stephen’s line stopped with Stephen."
+    },
+    {
+     "t": "p",
+     "text": "So I lost the crown and won the family. I will be taking my name off your loser list and adding it to your timeline under “Came in second, owned the league.”"
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Out of office"
+  },
+  {
+   "t": "caption",
+   "text": "AI CORNWALLIS: British general whose 1781 surrender at Yorktown all but ended the American Revolution."
+  },
+  {
+   "t": "p",
+   "text": "Dear AI Lord Cornwallis,"
+  },
+  {
+   "t": "p",
+   "text": "When the British surrendered at Yorktown in 1781, you didn’t show up to hand over your sword. You sent your second-in-command and said you were ill. We have questions."
+  },
+  {
+   "t": "p",
+   "text": "— Suspiciously, H & E"
+  },
+  {
+   "t": "sidebar",
+   "title": "AI Lord Cornwallis replies",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Automatic reply: I’m currently unwell and unable to respond to messages about Yorktown. For urgent matters, please contact Brigadier General Charles O’Hara."
+    }
+   ]
+  },
+  {
+   "t": "sidebar",
+   "title": "AI Charles O’Hara replies",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Hello. I’ve been asked to cover this, same as last time."
+    },
+    {
+     "t": "p",
+     "text": "At Yorktown I rode out to deliver the sword, and I tried to hand it to the French commander, the Comte de Rochambeau. He directed me to General Washington. General Washington, since I was not Lord Cornwallis, directed me to his own second-in-command, General Benjamin Lincoln."
+    },
+    {
+     "t": "p",
+     "text": "So the man who lost sent a deputy, and the man who won sent one back."
+    },
+    {
+     "t": "p",
+     "text": "Lord Cornwallis would also like you to know that he went on to become Governor-General of India and later Lord Lieutenant of Ireland. He asked me to include that. He asked twice."
+    }
+   ]
+  },
+  {
+   "t": "sidebar",
+   "title": "Return to sender",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "AI PUBLIUS QUINCTILIUS VARUS"
+    },
+    {
+     "t": "p",
+     "text": "We asked about the three legions. It came back unopened. Forwarding address: a forest in Germany."
+    }
+   ]
+  }
+ ],
+ "sources": [
+  "The letters and the AI replies are invented comedy. The facts in them come from the features in this issue and standard histories. Hannibal sleeping on the ground among the sentries and losing the sight in one eye: Livy, History of Rome, Books 21–22. Matilda: see Stephen Won the Crown. Matilda Won the Next 800 Years. below. Cornwallis and O’Hara at Yorktown: see Two Generals, One Printing Press below. Harold, the Bayeux Tapestry and the Byzantine Empire (including Hieronymus Wolf and the “Byzantine” label): drawn from widely documented history; we did not rely on a single named source."
+ ]
+}

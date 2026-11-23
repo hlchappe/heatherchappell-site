@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Heather Chappell — Writer, SIDE EYE Host & Growth Marketer",
+    "description": "Heather Chappell: writer, co-host of the history magazine and YouTube show SIDE EYE, and a B2B SaaS demand generation and growth marketing leader."
+  },
+  "nav": [
+    "Games",
+    "Side Eye",
+    "Reading",
+    "Fiction",
+    "Work",
+    "Hey"
+  ],
+  "hero": {
+    "kicker": "HEATHERCHAPPELL.COM · FREE TO PLAY · NO QUARTERS · NO SIGN-UP · NO, REALLY",
+    "headline": "Hey friends. Play some games.",
+    "intro": "I'm Heather Chappell: writer, co-host of the history magazine and YouTube show SIDE EYE, and a B2B demand generation and growth marketing leader.",
+    "sub": "Then stick around. There's a history magazine that double-checks the textbook, a short story about a smart cloud that got way too familiar, and a marketing career with the numbers to back it up. My face is at the bottom, like a prize in the cereal.",
+    "cta": "Pick a game",
+    "sticker": "Inspected by the Dept. of Raised Eyebrows · Inspector No. 7"
+  },
+  "games_intro": {
+    "title": "THE SIDE-EYE ARCADE",
+    "sub": "Four games about the face you make when somebody says something ridiculous. No sign-up, no download, nobody asking to circle back. High scores run on the honor system. The Department is watching the honor system.",
+    "footnote": "No coworkers, dinner guests, or historical figures were harmed in the making of these games. Several were judged. Current Side-Eye Index: 8.6 on the Dolly Scale, up 0.4 since the last all-hands."
+  },
+  "sideeye": {
+    "kicker": "A FUNNY HISTORY MAGAZINE + YOUTUBE SHOW · HISTORY, ALLEGEDLY",
+    "title": "SIDE EYE Magazine",
+    "pitch": "You always suspected the story you were told was... incomplete. You were right, and I'd like that entered into the record. The good news is the real version is wilder. Edwin and I dig it up, check every footnote twice, and tell it like we're on your porch and the sweet tea is running low. He brings the doubt. I bring the volume.",
+    "issue_blurb": "Vol. 1: The Losers Issue. History's runners-up, also-rans, and spectacular flops, starting with a modern army that went to war against emus and lost. The emus have not apologized.",
+    "pdf_cta": "Read the PDF",
+    "amazon_cta": "Buy the print issue on Amazon",
+    "sources_cta": "See the sources",
+    "sources_note": "Every claim in the issue is footnoted. Check our work. Edwin already did, twice, and he's still squinting.",
+    "future_issues_title": "FUTURE ISSUES (ALLEGEDLY)",
+    "future_issue_placeholder": "Classified. Mostly because we're still writing it.",
+    "show_title": "SIDE EYE on YouTube",
+    "show_pitch": "Same stories, now with faces. Edwin and I trade notes on the parts of history that got sanded down, from the Great Emu War to Napoleon's backers to the Theranos patents that refuse to die. He's the skeptic. I'm the one saying \"hang on\" four times a minute.",
+    "subscribe_cta": "Subscribe to @SideEyeMag"
+  },
+  "fiction": {
+    "kicker": "SHORT FICTION · SATIRE",
+    "title": "Ms. Halprin's Overly Familiar Cloud",
+    "sub": "A satire about grief, gadgets, and an AI that skipped straight to first names."
+  },
+  "work": {
+    "kicker": "THE DAY JOB · FILED UNDER SERIOUS · EYEBROWS LOWERED",
+    "title": "17 years of B2B pipeline, built on purpose",
+    "intro": "I lead demand generation and growth marketing for B2B SaaS: full-funnel pipeline, ABM, lifecycle, and the attribution that shows which dollars did the work. I built ABM from the ground up at FedEx, scaled pipeline at Optimizely, and helped grow a startup 900%. Today I run demand generation for the NeuroTech division at Control Bionics. Same instinct as the magazine: question the story, find what's true, then make it impossible to ignore.",
+    "download_cta": "Download the resume (PDF)",
+    "stats": [
+      {
+        "num": "900%",
+        "label": "Revenue growth at FlavorCloud, a two-time Inc. 5000 company"
+      },
+      {
+        "num": "$130M→$315M",
+        "label": "ARR growth fueled by pipeline at Optimizely"
+      },
+      {
+        "num": "247%",
+        "label": "Lift in leads, with 96% more meetings booked"
+      },
+      {
+        "num": "27%",
+        "label": "Lower customer acquisition cost"
+      }
+    ]
+  },
+  "about": {
+    "title": "Oh, and here's my face",
+    "bio": "Heather Chappell started out in Clemson, South Carolina, finished growing up in Oxford, Mississippi, and graduated cum laude from Wake Forest. She still says y'all, and has converted three neighbors and one mail carrier. She co-creates SIDE EYE with Edwin, writes the occasional short story, and spends her days turning marketing budgets into pipeline. She has never once believed the first version of a story. This bio is the fourth.",
+    "sign_off": "Come say hey. I answer faster than a smart cloud, and I'll call you whatever you like."
+  },
+  "footer": {
+    "line": "Built at a kitchen table. Accent imported from Mississippi. Eyebrow raised on site.",
+    "fine_print": "© Heather Chappell. All games free. All history sourced. All side-eye affectionate. Inspected by the Department of Raised Eyebrows, Inspector No. 7. Eyebrow may raise without notice. Side-Eye Index figures are estimates, and also correct. Not liable for jargon lost in transit. Void where humorless. Allegedly."
+  },
+  "loading_lines": [
+    "Calibrating eyebrow to 14 degrees...",
+    "Charging the jargon blaster...",
+    "Fact-checking the emus...",
+    "Seating the dinner guests far apart...",
+    "Decanting a vintage eye-roll...",
+    "Asking the cloud to use our last name...",
+    "Side-Eye Index: 8.6 on the Dolly Scale and climbing...",
+    "Declining a 4:55 p.m. \"quick sync\"...",
+    "Stamping ALLEGEDLY in red ink...",
+    "Inspector No. 7 is squinting at the footnotes...",
+    "Saying y'all in Illinois (third warning)...",
+    "Leaving a reply-all thread with 41 people on it..."
+  ],
+  "easter_eggs": [
+    "FIG. 1: An eyebrow, mid-raise. Certified by the Department of Raised Eyebrows, Inspector No. 7.",
+    "Times this site has said \"synergy\": 0. You're welcome.",
+    "The emus declined to comment.",
+    "Certified free of \"circle back.\" Inspector No. 7 checked twice.",
+    "This margin intentionally left sarcastic.",
+    "Dept. of Raised Eyebrows Form 27-B, Request to Believe the First Version. Status: denied.",
+    "Side-Eye Index today: 8.6 on the Dolly Scale. Yesterday: also 8.6. We are nothing if not consistent.",
+    "Edwin has read this footnote and has notes.",
+    "Napoleon's height has been reviewed. The rumor has been sent to its room.",
+    "Please do not address the smart cloud by its first name. It hasn't earned yours either.",
+    "No quarters were required. Two turned up in the couch anyway.",
+    "Inspector No. 7 has never been seen without one eyebrow up. Nobody has asked."
+  ],
+  "reading": {
+    "kicker": "DEEP DIVES · BRIEFINGS I WRITE FOR MYSELF",
+    "title": "What I'm reading about now",
+    "intro": "When a headline won't leave me alone, I read everything on it and write a briefing: what's confirmed, what isn't, and what it actually means. Here's the stack.",
+    "featured_label": "Latest deep dive",
+    "read_cta": "Read the briefing",
+    "archive_title": "The archive",
+    "archive_cta": "Browse the whole archive",
+    "egg": "Every briefing separates what's confirmed from what's just loud. The Department of Raised Eyebrows insists."
+  },
+  "contact": {
+    "title": "Say hey",
+    "sub": "Hiring, SIDE EYE tips, speaking, or a really good conspiracy theory. A real human reads every one of these. That human is me.",
+    "topics": [
+      "Hiring or work",
+      "SIDE EYE (tips, guests, press)",
+      "Speaking or podcasts",
+      "Just saying hey"
+    ],
+    "sent": "Got it. Inspector No. 7 has stamped it 'real person.' I'll write back soon.",
+    "nav": "Contact"
+  }
+}

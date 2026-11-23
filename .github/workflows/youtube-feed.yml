@@ -1,0 +1,33 @@
+name: YouTube feed
+# Saves the SIDE EYE channel's public RSS feed into data/youtube-feed.xml every 6 hours.
+# The twice-daily Claude update task reads this file and adds any new episode to the site.
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch feed
+        run: |
+          curl -fsSL "https://www.youtube.com/feeds/videos.xml?channel_id=UCKaL1eAqrf5lh9mFv4I1kCQ" -o data/youtube-feed.new.xml
+          python3 - <<'PY'
+          import re, xml.etree.ElementTree as ET
+          ET.parse('data/youtube-feed.new.xml')  # fail on a broken download
+          PY
+          mv data/youtube-feed.new.xml data/youtube-feed.xml
+          python3 seo/youtube_feed.py
+      - name: Commit if a video was added or changed
+        run: |
+          git config user.name "youtube-feed bot"
+          git config user.email "actions@users.noreply.github.com"
+          # only commit when a new video was saved (the feed itself changes timestamps constantly)
+          git add data/youtube
+          if git diff --cached --quiet; then exit 0; fi
+          git add data/youtube-feed.xml
+          git commit -m "YouTube feed: new video"
+          git push

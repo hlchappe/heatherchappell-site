@@ -1,0 +1,214 @@
+{
+  "_HOW_TO_UPDATE": "New issue: add an object to 'issues' (status 'out' or 'soon'). New episode: add {id, ep, title, date, thumb} to the END of youtube.episodes (id = the part after watch?v=; thumb = an image in assets/, or leave it out to use YouTube's own thumbnail). Once youtube.channelId is filled in, the player on heatherchappell.com shows the newest uploads automatically. New Deep Dive: add it to the TOP of 'deepDives' (slug, date, title, words, topic, url, bottomLine) and put its full text in dives/<slug>.json; the first one is featured automatically. Contact form: paste your Web3Forms access key into contact.web3formsKey.",
+  "issues": [
+    {
+      "vol": 1,
+      "title": "The Losers Issue",
+      "status": "out",
+      "coverlines": [
+        "The Great Emu War",
+        "Napoleon wasn't short",
+        "Hannibal's audit",
+        "Ross Perot"
+      ],
+      "cover": "assets/cover-vol1.jpg",
+      "pdf": "https://drive.google.com/file/d/1pr3ruiFJ7ZR1DdG7IkpJ0kPtmNgzsvmT/view",
+      "amazon": "https://a.co/d/02FwgFhM",
+      "sources": "https://docs.google.com/document/d/1jUywtBZyBH9Ge-buXBDbmsIyyHYLFYSbw5G2jf-tAbU/view",
+      "reader": {
+        "dir": "issue1",
+        "pages": 111,
+        "front": "issue1/cover.jpg",
+        "back": "issue1/back.jpg"
+      }
+    }
+  ],
+  "youtube": {
+    "channelUrl": "https://www.youtube.com/@SideEyeMag",
+    "channelId": "UCKaL1eAqrf5lh9mFv4I1kCQ",
+    "episodes": [
+      {
+        "id": "ry-CURU1r1k",
+        "ep": "EP01",
+        "title": "How Rupert Murdoch's dad + Emu Wars changed today's media",
+        "runtime": "27:41",
+        "date": "2026-11-04",
+        "thumb": "assets/ep-emu.jpg"
+      },
+      {
+        "id": "9Jd4LOEjBzo",
+        "ep": "EP02",
+        "title": "Napoleon Was Their Third Pick",
+        "date": "2026-11-20",
+        "thumb": "assets/ep-napoleon.jpg",
+        "runtime": "13:54"
+      },
+      {
+        "id": "MAxg-0yCBug",
+        "ep": "EP03",
+        "title": "Theranos died in 2018. Who JUST renewed its Patents... and WHY?",
+        "date": "2026-11-22",
+        "thumb": "assets/ep-theranos.jpg",
+        "runtime": "2:33"
+      }
+    ]
+  },
+  "inlineVideoHosts": [
+    "heatherchappell.com"
+  ],
+  "work": {
+    "resumePdf": "assets/Heather-Chappell-Resume.pdf",
+    "roles": [
+      {
+        "years": "2026–",
+        "org": "Control Bionics",
+        "title": "Demand Generation Manager, NeuroTech",
+        "note": "Building the demand engine for the NeuroTech division."
+      },
+      {
+        "years": "2024–2026",
+        "org": "FedEx",
+        "title": "Digital Commercialization Manager",
+        "note": "Owned the B2B customer journey and digital upsell paths, built ABM from the ground up, and enabled 400 global enterprise reps on digital-product GTM."
+      },
+      {
+        "years": "2021–2023",
+        "org": "FlavorCloud",
+        "title": "Head of Marketing",
+        "note": "900% revenue growth, back-to-back Inc. 5000 rankings, and a Gartner Cool Vendor nod in Logistics."
+      },
+      {
+        "years": "2019–2021",
+        "org": "Optimizely",
+        "title": "Head of Demand Generation",
+        "note": "247% more leads, 96% more meetings, 27% lower CAC, and a predictive target-account list 4–8x likelier to convert, inside the team that grew ARR from $130M to $315M."
+      },
+      {
+        "years": "2017–2019",
+        "org": "Autocar Trucks",
+        "title": "Director of Acquisition",
+        "note": "Built true 1:1 ABM for North America's oldest motor-vehicle maker; repositioned GTM around safety data ahead of record 2018 sales."
+      },
+      {
+        "years": "2015–2017",
+        "org": "Wolters Kluwer Tax & Accounting",
+        "title": "Head of Marketing",
+        "note": "Marketing lead for a $500M business unit; launched the Stevie Awards' Best New B2B Product of 2017; ABM that lifted leads 400%."
+      },
+      {
+        "years": "2009–2015",
+        "org": "Wolters Kluwer Health",
+        "title": "Director of Digital Marketing",
+        "note": "Analytics-led marketing for a global institutional business and 280+ medical and nursing journals."
+      },
+      {
+        "years": "2004–2009",
+        "org": "Catherines & Lane Bryant Outlet",
+        "title": "Ecommerce Marketing Manager",
+        "note": "Ran e-commerce and internet marketing; delivered a planned 17% revenue increase in 2009."
+      }
+    ],
+    "skills": [
+      "Demand generation",
+      "ABM",
+      "Lifecycle & email",
+      "Paid media",
+      "Attribution",
+      "HubSpot",
+      "Salesforce",
+      "Marketo",
+      "6sense",
+      "Generative AI",
+      "Predictive modeling",
+      "Wake Forest, cum laude"
+    ]
+  },
+  "about": {
+    "headshot": "assets/headshot.jpg",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/growthmktg"
+      },
+      {
+        "label": "SIDE EYE on YouTube",
+        "url": "https://www.youtube.com/@SideEyeMag"
+      },
+      {
+        "label": "SIDE EYE on Amazon",
+        "url": "https://a.co/d/02FwgFhM"
+      }
+    ]
+  },
+  "deepDives": [
+    {
+      "date": "2026-11-22",
+      "title": "Nvidia's SEC Probe Tests Market Trust in the AI Boom",
+      "words": 2901,
+      "topic": "Markets",
+      "url": "https://drive.google.com/file/d/145WLVNcARMtLtDKL4eOTcsK0k6tOOP-s/view",
+      "bottomLine": "The reported SEC accounting inquiry into Nvidia is, on current evidence, an unconfirmed investigation that has been priced into a sharp, partly unrelated selloff rather than proof of fraud. Its real significance is what it exposes: heavy retail and pension exposure to a handful of AI stocks, and a leadership vacuum that concentrates financial oversight in an interim CEO who is also CFO.",
+      "slug": "nvidia-sec-probe"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "FBI Criminal Database Breach: Unconfirmed, Politicized, and Unresolved",
+      "words": 3201,
+      "topic": "Cybersecurity",
+      "url": "https://drive.google.com/file/d/1Aj4O2gX2RCRV3amv6C9E2YCmFULGQQ2N/view",
+      "bottomLine": "Credibly sourced but officially unconfirmed; the scope, entry point and attacker remain unknown.",
+      "slug": "fbi-database-breach"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Trump's Contractor Order Pre-empts Democratic Oversight in January",
+      "words": 2691,
+      "topic": "Government",
+      "url": "https://drive.google.com/file/d/1tYp8cN3ZM7dowLd6rZ0W-RPDNS6jzcPF/view",
+      "bottomLine": "Its real leverage is economic: contract termination, suspension and debarment across roughly 100,000 firms.",
+      "slug": "contractor-order"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "NCIC Intrusion: Unconfirmed Breach, Real Accuracy Risk",
+      "words": 3289,
+      "topic": "Cybersecurity",
+      "url": "https://drive.google.com/file/d/1PVWSiQ_bkZZecAFqXhdbVDQiTEeZEHps/view",
+      "bottomLine": "The gravest risk is corrupted or unreliable records rather than mere exposure.",
+      "slug": "ncic-intrusion"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Market Correction Driven by AI Doubt; Export Policy Stays Put",
+      "words": 2685,
+      "topic": "Markets",
+      "url": "https://drive.google.com/file/d/1j87IRawkpGTQOmTIqRqwW-P3KahLqaNs/view",
+      "bottomLine": "A confidence break in the AI trade, layered on a Bitcoin slide with disputed causes, rather than a clean policy shock.",
+      "slug": "market-correction"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Iran's Gulf Strikes Test Hormuz, Bahrain and U.S. Restraint",
+      "words": 3257,
+      "topic": "World",
+      "url": "https://drive.google.com/file/d/1MYicNNHHdd6bbKQsCSMV7UeGsUu2FDUY/view",
+      "bottomLine": "A calibrated, escalating campaign using cheap drones and missiles, without yet triggering full war.",
+      "slug": "iran-gulf-strikes"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Escalating Baltic and Ukrainian Strikes Test NATO's Limits and U.S. Diplomacy",
+      "words": 3137,
+      "topic": "World",
+      "url": "https://drive.google.com/file/d/1DZEx1mD1KLGAy4woyqyOMRVX4X8FjHqa/view",
+      "bottomLine": "The peace track is weakening just as strikes move closer to alliance territory.",
+      "slug": "baltic-ukraine-strikes"
+    }
+  ],
+  "deepDivesArchiveUrl": "https://drive.google.com/drive/folders/1NdKMpjvLSHJS3gC29kJhPHr4JHpYyJeL",
+  "contact": {
+    "web3formsKey": "fee501f3-981e-4df0-81d9-54408e84caa3",
+    "subjectTag": "[heatherchappell.com]",
+    "fallbackUrl": "https://www.linkedin.com/in/growthmktg"
+  }
+}

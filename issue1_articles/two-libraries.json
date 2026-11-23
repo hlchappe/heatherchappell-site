@@ -1,0 +1,71 @@
+{
+ "slug": "two-libraries",
+ "order": 24,
+ "section": "The Files",
+ "kicker": "THE FILES · READ THESE TWO TOGETHER",
+ "label": "Lost the story",
+ "title": "Two Libraries",
+ "dek": null,
+ "byline": null,
+ "pages": [
+  24,
+  24
+ ],
+ "hero": "issue1/p024.jpg",
+ "summary": "A one-page comparison: Rome emptied Carthage’s libraries, while Confederate veterans filled the textbooks after losing the Civil War.",
+ "topics": [
+  "Carthage",
+  "Confederacy",
+  "Pliny the Elder",
+  "Textbooks",
+  "Lost Cause"
+ ],
+ "visual": true,
+ "blocks": [
+  {
+   "t": "h2",
+   "text": "146 BCE · Carthage: The shelves were emptied."
+  },
+  {
+   "t": "p",
+   "text": "Rome destroyed Carthage and, according to Pliny the Elder, gave its libraries away. The one Carthaginian book Rome kept was a farming manual. Carthage lost the war, then lost the ability to explain itself."
+  },
+  {
+   "t": "quote",
+   "text": "One farming manual, and today only in pieces, quoted by Roman writers.",
+   "cite": "What survived"
+  },
+  {
+   "t": "p",
+   "text": "Next: Hannibal: Survived the Alps, Not the Audit, p. 25"
+  },
+  {
+   "t": "h2",
+   "text": "1865–1972 · The Confederacy: The shelves were filled."
+  },
+  {
+   "t": "p",
+   "text": "The Confederacy lost the Civil War. Its veterans and their supporters went home and wrote. Within a few decades they had shaped the textbooks, the monuments and the movies. Their version stayed in Virginia’s schools until 1972."
+  },
+  {
+   "t": "quote",
+   "text": "Textbooks, catechisms, memoirs, monuments and, in 1920, a rulebook for grading history books.",
+   "cite": "What got printed"
+  },
+  {
+   "t": "p",
+   "text": "Then: The Civil War Ended in 1865. The Fight Over the Textbooks Didn’t. p. 34"
+  },
+  {
+   "t": "p",
+   "text": "Same lesson ⇄ Opposite directions"
+  },
+  {
+   "t": "p",
+   "text": "The files decide what gets remembered."
+  }
+ ],
+ "sources": [
+  "A two-paragraph introduction to the next two features. Pliny the Elder, Natural History, Book 18, on Rome giving away Carthage’s libraries and keeping one farming manual. Everything else is sourced under the Hannibal and Civil War features below."
+ ]
+}

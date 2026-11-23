@@ -1,0 +1,284 @@
+{
+ "slug": "apocrypha-index",
+ "order": 8,
+ "section": "Up Front",
+ "kicker": "UP FRONT · REFERENCE",
+ "label": null,
+ "title": "The Apocrypha Index",
+ "dek": "Nine things everyone knows about losing, graded on how much of each was made up after the fact.",
+ "byline": null,
+ "pages": [
+  8,
+  9
+ ],
+ "hero": "issue1/p008.jpg",
+ "summary": "Nine famous stories about losing, from Churchill’s victors quote to salted Carthage and Nero’s fiddle, graded on how much was invented later.",
+ "topics": [
+  "Winston Churchill",
+  "Carthage",
+  "Marie Antoinette",
+  "Nero",
+  "Library of Alexandria",
+  "Bayeux Tapestry"
+ ],
+ "visual": true,
+ "blocks": [
+  {
+   "t": "sidebar",
+   "title": "The Invented-o-Meter",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "0 = it happened, and we have the paperwork · 5 = somebody wrote fan fiction and it stuck"
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Score",
+       "Rating",
+       "Stories"
+      ],
+      [
+       "0",
+       "Documented",
+       "nothing made the list"
+      ],
+      [
+       "1",
+       "Dressed up",
+       "nothing made the list"
+      ],
+      [
+       "2",
+       "Right event, wrong details",
+       "Tapestry"
+      ],
+      [
+       "3",
+       "Plausible, badly sourced",
+       "Nero, The Horse, Library"
+      ],
+      [
+       "4",
+       "Invented later",
+       "Churchill, Marathon, Yorktown"
+      ],
+      [
+       "5",
+       "Pure fan fiction",
+       "Salt, Cake"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Nothing scored a zero. Every story on this list happened, sort of, to somebody. That’s what makes them so hard to kill."
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Exhibit A · The one this whole issue is about"
+  },
+  {
+   "t": "quote",
+   "text": "“History is written by the victors.”",
+   "cite": "nobody we can find"
+  },
+  {
+   "t": "p",
+   "text": "There’s no record of Churchill saying it, and the idea was floating around long before him."
+  },
+  {
+   "t": "quote",
+   "text": "“History will be kind to me, as I intend to write it.”",
+   "cite": "The version everyone quotes"
+  },
+  {
+   "t": "quote",
+   "text": "“For my part, I consider that it will be found much better by all parties to leave the past to history, especially as I propose to write that history myself.”",
+   "cite": "What he actually said: House of Commons, January 23, 1948"
+  },
+  {
+   "t": "p",
+   "text": "The joke: rather than argue over who was to blame for the 1930s, Churchill offered to let history decide, and he was the one writing it. The first volume of his World War II memoirs came out that June. They helped win him the 1953 Nobel Prize in Literature."
+  },
+  {
+   "t": "p",
+   "text": "The quote about winners rewriting history was itself rewritten. The real one is a better joke, and it came true."
+  },
+  {
+   "t": "p",
+   "text": "Rating: 4 · Invented later"
+  },
+  {
+   "t": "h2",
+   "text": "No. 2 · Rome sowed salt over Carthage so nothing would grow."
+  },
+  {
+   "t": "p",
+   "text": "Rating: 5 · Fan fiction"
+  },
+  {
+   "t": "p",
+   "text": "No ancient writer says so. Not one. The salt turns up in the 1800s, and the historian R. T. Ridley traced it in a 1986 article titled, perfectly, “To Be Taken with a Pinch of Salt.”"
+  },
+  {
+   "t": "p",
+   "text": "Rome did plenty. The salt was extra."
+  },
+  {
+   "t": "p",
+   "text": "Earliest source · the 1800s, nearly 2,000 years late"
+  },
+  {
+   "t": "h2",
+   "text": "No. 3 · Marie Antoinette said “Let them eat cake.”"
+  },
+  {
+   "t": "p",
+   "text": "Rating: 5 · Fan fiction"
+  },
+  {
+   "t": "p",
+   "text": "A version of the line is in Rousseau’s Confessions, credited to an unnamed “great princess,” in a passage he wrote while Marie Antoinette was a little girl in Austria. The revolutionaries had real complaints about her. This wasn’t one of them."
+  },
+  {
+   "t": "p",
+   "text": "The quote is older than her crown."
+  },
+  {
+   "t": "p",
+   "text": "Earliest source · Rousseau, about an unnamed princess"
+  },
+  {
+   "t": "h2",
+   "text": "No. 4 · Pheidippides ran from Marathon to Athens, announced the victory and died."
+  },
+  {
+   "t": "p",
+   "text": "Rating: 4 · Invented later"
+  },
+  {
+   "t": "p",
+   "text": "Herodotus, the earliest source, has a runner (the manuscripts can’t agree on Pheidippides or Philippides) sent to Sparta before the battle to ask for help. The victory dash and the dramatic collapse show up in much later writers."
+  },
+  {
+   "t": "p",
+   "text": "In the original, nobody dies."
+  },
+  {
+   "t": "p",
+   "text": "Earliest source · Herodotus, who skips the ending"
+  },
+  {
+   "t": "h2",
+   "text": "No. 5 · The British band played “The World Turned Upside Down” at Yorktown."
+  },
+  {
+   "t": "p",
+   "text": "Rating: 4 · Invented later"
+  },
+  {
+   "t": "p",
+   "text": "Nobody who was there wrote it down. The story first appears in an 1828 book of anecdotes by Alexander Garden, who wasn’t at Yorktown and heard it secondhand. Music historians can’t even agree which tune it would have been."
+  },
+  {
+   "t": "p",
+   "text": "Great song choice. No evidence anyone chose it."
+  },
+  {
+   "t": "p",
+   "text": "First in print · 1828, 47 years after the surrender"
+  },
+  {
+   "t": "h2",
+   "text": "No. 6 · Nero fiddled while Rome burned."
+  },
+  {
+   "t": "p",
+   "text": "Rating: 3 · Badly sourced"
+  },
+  {
+   "t": "p",
+   "text": "Fiddles didn’t exist yet. Tacitus says Nero was away at Antium when the fire broke out in 64 CE, then passes along a rumor that the emperor sang about the fall of Troy on a private stage. Later writers were less careful."
+  },
+  {
+   "t": "p",
+   "text": "If he played anything, it was a lyre. And he was out of town."
+  },
+  {
+   "t": "p",
+   "text": "Earliest source · Tacitus, repeating a rumor"
+  },
+  {
+   "t": "h2",
+   "text": "No. 7 · Caligula made his horse a consul."
+  },
+  {
+   "t": "p",
+   "text": "Rating: 3 · Badly sourced"
+  },
+  {
+   "t": "p",
+   "text": "The sources say Caligula doted on his horse, Incitatus, and was said to have planned to make him consul. Read that again. Planned. Said to have."
+  },
+  {
+   "t": "p",
+   "text": "The horse never took office."
+  },
+  {
+   "t": "p",
+   "text": "Earliest source · ancient gossip, clearly labeled as gossip"
+  },
+  {
+   "t": "h2",
+   "text": "No. 8 · The Library of Alexandria burned down in one great fire."
+  },
+  {
+   "t": "p",
+   "text": "Rating: 3 · Badly sourced"
+  },
+  {
+   "t": "p",
+   "text": "Julius Caesar’s fighting in Alexandria in 48 BCE did involve a fire, and ancient writers disagree about what it destroyed. Most historians now think the library faded over centuries through neglect, politics and funding cuts."
+  },
+  {
+   "t": "p",
+   "text": "Less cinematic. More familiar to anyone who’s worked in a public institution."
+  },
+  {
+   "t": "p",
+   "text": "Earliest source · ancient writers, disagreeing"
+  },
+  {
+   "t": "h2",
+   "text": "No. 9 · The Bayeux Tapestry is a tapestry."
+  },
+  {
+   "t": "p",
+   "text": "Rating: 2 · Wrong details"
+  },
+  {
+   "t": "p",
+   "text": "It’s an embroidery: wool thread stitched onto linen, roughly 70 meters long. It does exist, and it does show the Norman Conquest. It was also commissioned by the winning side, so read its version of Harold accordingly."
+  },
+  {
+   "t": "p",
+   "text": "Real, embroidered, and made by the other team."
+  },
+  {
+   "t": "p",
+   "text": "Exhibit · Bayeux, France, still on display"
+  }
+ ],
+ "sources": [
+  "“History is written by the victors.” (Churchill) → 4. Churchill’s real line, House of Commons, 23 January 1948 (Hansard): “For my part, I consider that it will be found much better by all parties to leave the past to history, especially as I propose to write that history myself.” Our shortened version, “History will be kind to me, as I intend to write it,” is the popular paraphrase, not his words. The “victors” line is not documented as his. Sources: Hansard, House of Commons debate, 23 January 1948; Quote Investigator; Richard Langworth, Churchill by Himself (2008).",
+  "Rome salted Carthage → 5. No ancient source says so. R. T. Ridley, “To Be Taken with a Pinch of Salt: The Destruction of Carthage,” Classical Philology 81 (1986).",
+  "“The World Turned Upside Down” at Yorktown → 4. The story first appears in Alexander Garden, Anecdotes of the American Revolution, second series (1828), decades later. American Battlefield Trust; George Washington’s Mount Vernon; Colonial Music Institute essays.",
+  "The Library of Alexandria burned in one great fire → 3. See The Loser’s Library below.",
+  "The rest of the list. “Let them eat cake” → 5: Jean-Jacques Rousseau, Confessions, which credits the line to an unnamed “great princess.” Nero fiddled → 3: Tacitus, Annals, who reports the singing as a rumor. Pheidippides → 4: Herodotus, Histories, whose runner goes to Sparta before the battle. Caligula’s horse → 3: the ancient accounts, which report only that he was said to have planned it. The Bayeux Tapestry → 2: the embroidery itself, still on display in Bayeux, France."
+ ],
+ "note": "In print, the attribution under Exhibit A shows ‘Winston Churchill’ struck through, replaced by ‘nobody we can find’."
+}

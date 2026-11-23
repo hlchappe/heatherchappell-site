@@ -1,0 +1,803 @@
+{
+ "slug": "hannibal-audit",
+ "order": 25,
+ "section": "The Files",
+ "kicker": "THE FILES · FEATURE",
+ "label": "Lost the fight",
+ "title": "Hannibal: Survived the Alps, Not the Audit.",
+ "dek": "Rome’s armies never stopped him. Then he went through Carthage’s books, and the men he caught called in Rome.",
+ "byline": "Heather Chappell & Edwin Galloway",
+ "pages": [
+  25,
+  33
+ ],
+ "hero": "issue1/p025.jpg",
+ "summary": "Hannibal beat Rome’s armies but fled Carthage after auditing its embezzlers, who called in Rome; how Carthage’s record was kept, lost and salted later.",
+ "topics": [
+  "Hannibal",
+  "Carthage",
+  "Polybius",
+  "Pope Boniface VIII",
+  "Palestrina",
+  "Punic Wars"
+ ],
+ "labels": [
+  "Lost the fight",
+  "Lost the credit",
+  "Lost the story"
+ ],
+ "blocks": [
+  {
+   "t": "p",
+   "text": "In 195 BCE the most dangerous man in the Mediterranean walked out of Carthage at nightfall and never came home. Nobody chased him with an army. Somebody just wrote a letter."
+  },
+  {
+   "t": "sidebar",
+   "title": "Who called whom",
+   "blocks": [
+    {
+     "t": "table",
+     "rows": [
+      [
+       "1",
+       "195 BCE",
+       "Carthage’s embezzlers → Rome",
+       "Wanted: their auditor gone."
+      ],
+      [
+       "2",
+       "149 BCE",
+       "Utica → Rome",
+       "Wanted: the winning side."
+      ],
+      [
+       "3",
+       "1297–1303",
+       "The Colonna → France",
+       "Wanted: their town back."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Three local problems, three calls to a bigger power. The bigger power always answered. Map: SIDE EYE. Coastlines are modern."
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Hannibal beat Rome’s armies. His own city’s embezzlers beat him."
+  },
+  {
+   "t": "p",
+   "text": "In 195 BCE, the most dangerous man in the Mediterranean spent a normal day in the public square of Carthage. People saw him. That was the point. At nightfall he walked out of the city, rode to the coast and took a ship east. He never came home."
+  },
+  {
+   "t": "p",
+   "text": "Nobody was chasing him with an army. A small group of Roman officials had just arrived in town, on what was officially a visit about a border dispute. They had come because of a letter. The letter had come from Carthage."
+  },
+  {
+   "t": "p",
+   "text": "You probably know the other version. Hannibal crossed the Alps with elephants. He destroyed Roman armies at Lake Trasimene and Cannae. Rome finally beat him at Zama in 202 BCE. Fifty-six years later, Rome burned Carthage to the ground and sowed its fields with salt so nothing would ever grow there again. Winners and losers, swords and elephants."
+  },
+  {
+   "t": "p",
+   "text": "That version leaves out the people who decided how it ended. Hannibal’s real defeat came from the men cooking Carthage’s books. Carthage’s real afterlife was written by a hostage, a farm manual, a pope and an encyclopedia. The salt was added about 2,000 years late. And at every turn, somebody on the inside called in a bigger power to settle a local problem. Each of them could see only their own piece of the board."
+  },
+  {
+   "t": "p",
+   "text": "The bigger power always answered. It just never left on time."
+  },
+  {
+   "t": "h2",
+   "text": "Rome broke the deal. Carthage got the insult."
+  },
+  {
+   "t": "p",
+   "text": "Sardinia, 238 BCE"
+  },
+  {
+   "t": "p",
+   "text": "Start with the first war’s cleanup. In 241 BCE Carthage lost the First Punic War and owed Rome a fortune. Its leaders tried to save money in the most dangerous possible place: the paychecks of their own mercenary army, about 20,000 men by the Greek historian Polybius’s count. They also squeezed their Libyan subjects, taking half their crops and doubling the towns’ taxes."
+  },
+  {
+   "t": "p",
+   "text": "The soldiers and the farmers revolted together. About 70,000 Libyans joined the rising, again by Polybius’s count. Polybius called it the “Truceless War.” It nearly destroyed Carthage from the inside. The money men had looked at a spreadsheet and saved on the one line item holding swords."
+  },
+  {
+   "t": "p",
+   "text": "Rome waited until Carthage was on its knees. Then, around 238 BCE, it took the island of Sardinia, which Carthage had held for centuries, and added 1,200 talents, a huge sum in silver, to Carthage’s bill. Polybius, the historian who usually explains Rome’s side, could not explain this one. He wrote that the seizure was against all justice and that Rome had no reasonable excuse."
+  },
+  {
+   "t": "p",
+   "text": "So which side became famous for breaking its word? Carthage. The Latin phrase Punica fides, “Punic faith,” became Rome’s shorthand for treachery. Its earliest surviving use as a set phrase is in the Roman historian Sallust, writing about a century after Carthage was gone and could no longer answer back."
+  },
+  {
+   "t": "p",
+   "text": "The side that took the island kept the archive. The side that lost the island got the insult."
+  },
+  {
+   "t": "h2",
+   "text": "Hannibal ran a press office. Rome’s won."
+  },
+  {
+   "t": "p",
+   "text": "Italy, 218–203 BCE"
+  },
+  {
+   "t": "p",
+   "text": "Wars have always had a media team. This one had two."
+  },
+  {
+   "t": "caption",
+   "text": "Near Croton, Hannibal posted his campaigns in Punic and Greek on bronze. Polybius used its numbers. The plaque is lost."
+  },
+  {
+   "t": "p",
+   "text": "Rome’s first historian, a senator named Quintus Fabius Pictor, lived through the war and then wrote its history in Greek, not Latin. Greek was the language of educated readers across the Mediterranean, so Fabius could reach the neutral countries watching the fight. Many modern scholars think that was the point: defending Roman policy to the Greek world. Others debate it. Either way, it reads like the first foreign-language press release."
+  },
+  {
+   "t": "p",
+   "text": "Hannibal hired his own writers. Two Greek historians traveled with his army. One, Sosylus of Sparta, had taught Hannibal Greek. The other, Silenus, wrote a history from the Carthaginian camp. Hannibal also posted his own account. Near the end of the war he set up a bronze plaque in a temple of the goddess Hera near Croton, in southern Italy. It listed his campaigns and troop numbers in both Punic and Greek."
+  },
+  {
+   "t": "p",
+   "text": "Then the record-keepers chose. Polybius read Hannibal’s bronze, trusted its numbers and used them. He dismissed Sosylus’s history as the kind of chatter you hear in a barbershop. An earlier pro-Carthage historian, Philinus of Akragas, claimed Rome had broken a treaty. Polybius checked Rome’s own archive, found no such treaty and called the claim false.¹ Rome’s filing cabinet became the referee."
+  },
+  {
+   "t": "p",
+   "text": "Both of Hannibal’s historians are lost. The only direct scrap of Sosylus is a piece of papyrus, probably from Egypt, now in a university library in Würzburg, Germany. What happened to the bronze plaque, nobody knows. The temple that held it was stripped by a Roman official and looted by pirates. In the 1500s it was pulled apart for stone to build the local bishop’s palace.² One column still stands."
+  },
+  {
+   "t": "p",
+   "text": "Hannibal did leave one famous line in the record. Carthage called him home in 203 BCE. The Roman historian Livy has him complaining that Carthage’s own senate had beaten him through envy and smears, not Rome’s army. Take it with care. It is a defeated general’s excuse, reported by his enemy. Carthage had in fact voted him reinforcements after Cannae, and Rome controlled the sea."
+  },
+  {
+   "t": "p",
+   "text": "Hannibal’s press office kept its receipts on bronze. Rome kept its receipts in the archive."
+  },
+  {
+   "t": "h2",
+   "text": "Hannibal survived Rome. He didn’t survive the men cooking Carthage’s books."
+  },
+  {
+   "t": "p",
+   "text": "Carthage, 196–195 BCE"
+  },
+  {
+   "t": "p",
+   "text": "After Zama, Hannibal did something no one expects from a war hero. He ran for office and audited the government."
+  },
+  {
+   "t": "p",
+   "text": "In 196 BCE Carthage elected him sufete, one of its two chief magistrates. According to Livy, Hannibal went after the judges’ order, a powerful body whose members held their seats for life. He pushed through a law making them stand for election every year. Then he went through the state’s revenue and found where the money was leaking. He told the assembly that if the stolen public funds were recovered, Carthage could pay its yearly war debt to Rome without a new tax on its citizens."
+  },
+  {
+   "t": "sidebar",
+   "title": "While you were out · Call #1",
+   "blocks": [
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Date",
+       "196–195 BCE"
+      ],
+      [
+       "From",
+       "The officials Hannibal exposed"
+      ],
+      [
+       "Of",
+       "Carthage"
+      ],
+      [
+       "To",
+       "Their friends in Rome"
+      ],
+      [
+       "Checked",
+       "Wrote"
+      ],
+      [
+       "Message",
+       "Hannibal is secretly plotting with Antiochus III."
+      ],
+      [
+       "Result",
+       "Rome sent a commission. Hannibal left that night."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Carthage’s embezzlers called Rome. Rome answered."
+  },
+  {
+   "t": "p",
+   "text": "This was a direct hit on the people who had been skimming. They did not answer with a vote. They answered with mail. Livy says the officials Hannibal exposed wrote to their friends in Rome. Hannibal, they warned, was secretly plotting with Antiochus III, the king who ruled much of the old Persian empire and was Rome’s next big rival."
+  },
+  {
+   "t": "p",
+   "text": "Rome sent a commission. Officially it was there to settle a border fight with the Numidian king Masinissa. Hannibal understood the real assignment and left that night. Scipio Africanus, the Roman general who had beaten him at Zama, objected to Rome meddling in Carthage’s politics on the word of Hannibal’s enemies. He lost the argument."
+  },
+  {
+   "t": "p",
+   "text": "Each side seems to have seen only its own piece. The embezzlers saw a way to protect their money. Rome saw a way to remove its most dangerous enemy. The ordinary taxpayers Hannibal had just shielded from a new tax had no say in the letter."
+  },
+  {
+   "t": "p",
+   "text": "Rome hunted him for about twelve years. Hannibal advised Antiochus, as the letter had claimed he would, then moved from court to court. Around 183 BCE, at the court of King Prusias of Bithynia, in what is now Turkey, a Roman envoy named Titus Flamininus came asking for him. Hannibal took poison rather than be handed over."
+  },
+  {
+   "t": "sidebar",
+   "title": "53 folders, 4 survive",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "In the 900s a team working for the Byzantine emperor Constantine VII cut ancient histories into 53 subject folders. Four survive, most in pieces. Much of Polybius reaches us through them."
+    },
+    {
+     "t": "p",
+     "text": "The four: Embassies · Virtues and Vices · Sayings · Plots"
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Rome’s best historian lived in the house that burned Carthage."
+  },
+  {
+   "t": "p",
+   "text": "Rome and Carthage, 167–146 BCE"
+  },
+  {
+   "t": "p",
+   "text": "In 167 BCE Rome took about 1,000 leading men from the Achaean League, an alliance of Greek cities, as political hostages. One of them was a cavalry officer named Polybius."
+  },
+  {
+   "t": "p",
+   "text": "In Rome, Polybius met a teenager from the city’s most powerful family, Scipio Aemilianus, the adopted grandson of the general who beat Hannibal. Polybius became his tutor, adviser and close friend. He lived in the Scipio household for years. He is also one of the two main sources for the Punic Wars, alongside Livy."
+  },
+  {
+   "t": "p",
+   "text": "Then came the last war. By 150 BCE Carthage was split three ways. One faction wanted to please Rome. One wanted peace with Masinissa. A popular party drove some forty of Masinissa’s friends out of the city. When Carthage finally fought Masinissa without Rome’s permission, it broke its treaty, and Rome had its excuse. Polybius wrote that Rome had made up its mind long before and was waiting for a pretext that would look good abroad."
+  },
+  {
+   "t": "sidebar",
+   "title": "While you were out · Call #2",
+   "blocks": [
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Date",
+       "149 BCE"
+      ],
+      [
+       "From",
+       "Utica"
+      ],
+      [
+       "Of",
+       "Next city up the coast"
+      ],
+      [
+       "To",
+       "Rome"
+      ],
+      [
+       "Checked",
+       "Wants to see you"
+      ],
+      [
+       "Message",
+       "We surrender. First."
+      ],
+      [
+       "Result",
+       "Rome got a friendly harbor next door to Carthage."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Utica called Rome first. Rome used it as a landing dock."
+  },
+  {
+   "t": "p",
+   "text": "The next city up the coast, Utica, did not wait to see how it would end. It surrendered to Rome first. That handed the Roman army a friendly harbor right next to Carthage."
+  },
+  {
+   "t": "p",
+   "text": "What followed was a trap, built one step at a time. In 149 BCE Rome promised Carthage its freedom, its laws and its property if it sent 300 children from its leading families as hostages. Carthage sent them. The consuls, Rome’s two top elected officials, then asked for its weapons. Carthage handed over armor for about 200,000 men and 2,000 catapults. Only then did a consul announce the real price: abandon the city and rebuild at least nine miles from the sea. The people of Carthage, each seeing only the next demand, had disarmed themselves one reasonable step at a time."
+  },
+  {
+   "t": "caption",
+   "text": "Rome gave Carthage’s libraries away to allied kings. It kept one work: Mago’s farming guide, 28 books long, translated into Latin at public expense. Why, no ancient writer says."
+  },
+  {
+   "t": "sidebar",
+   "title": "Rome, 149 BCE · The price list",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Terms offered: freedom, laws and property."
+    },
+    {
+     "t": "table",
+     "rows": [
+      [
+       "300",
+       "children of leading families, as hostages",
+       "Paid"
+      ],
+      [
+       "~200,000",
+       "suits of armor",
+       "Paid"
+      ],
+      [
+       "2,000",
+       "catapults",
+       "Paid"
+      ],
+      [
+       "1",
+       "city. Abandon it. Rebuild at least nine miles from the sea.",
+       "Refused"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Each demand arrived after the last one was paid."
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "text": "They fought anyway, for three years. In 146 BCE Scipio Aemilianus broke in. Polybius stood beside him and watched the city burn. Book by book, the “neutral” history of the Punic Wars was being written by a man standing next to the general holding the torch."
+  },
+  {
+   "t": "p",
+   "text": "Polybius wasn’t a liar. He recorded Rome’s pretext, the Sardinia grab and the charge that Rome had used deceit. That makes him more useful, and more damning: even the house historian couldn’t make it look clean."
+  },
+  {
+   "t": "p",
+   "text": "Even Polybius didn’t survive whole. Most of his later books exist only in pieces. In the 900s CE, a team working for the Byzantine emperor Constantine VII cut ancient histories into subject folders, like “embassies” and “virtues and vices.” Of the 53 folders, four survive."
+  },
+  {
+   "t": "p",
+   "text": "The winner’s historian wrote the record. A filing system decided which pages we get to read."
+  },
+  {
+   "t": "h2",
+   "text": "Rome kept one Carthaginian book. It was a plantation manual."
+  },
+  {
+   "t": "p",
+   "text": "Rome, 146–133 BCE"
+  },
+  {
+   "t": "p",
+   "text": "After the fire, the Roman Senate had to decide what to do with Carthage’s libraries. According to the Roman writer Pliny the Elder, it gave them away to the kings of Rome’s African allies. It kept exactly one work: a 28-book guide to farming by a Carthaginian landowner and writer named Mago. The Senate ordered it translated into Latin at public expense."
+  },
+  {
+   "t": "p",
+   "text": "Carthage’s other books went to Numidian palaces and faded out. Its agricultural how-to stayed in Rome. No ancient writer says why the Senate picked that book. But look at what Rome was building. About 50,000 people from Carthage were sold into slavery in 146 BCE. Twenty-one years earlier, after a different war, Rome had enslaved 150,000 people from Epirus, in northwest Greece. Conquered land became public land, and rich Romans absorbed it into huge estates worked by enslaved people. If you were building that kind of estate, a farm manual is the one Carthaginian book you’d want."
+  },
+  {
+   "t": "p",
+   "text": "The people who got rich weren’t the soldiers. During the war against Hannibal, two of Rome’s army suppliers ran an insurance fraud on the state by reporting fake shipwrecks, by Livy’s account. When one was finally put on trial in 212 BCE, his supporters broke up the assembly. The consul shut the trial down. The supplier fled into exile anyway, but the message was sent: the money men could break up a courtroom."
+  },
+  {
+   "t": "p",
+   "text": "A Roman senator named Scipio Nasica had seen where this was going. During the debate over destroying Carthage, he argued Rome should leave it standing, because fear of a rival kept Romans disciplined. He lost. About a century later, the Roman historian Sallust dated the start of Rome’s decay to 146 BCE, the year Carthage fell."
+  },
+  {
+   "t": "p",
+   "text": "Within thirteen years of Carthage’s fall, Rome had a land crisis. In 133 BCE a reformer named Tiberius Gracchus tried to break up the giant estates. He wanted to give land back to small farmers, the same men who filled Rome’s armies. A mob of senators and their followers beat him to death. A century of political violence and civil wars followed, ending with emperors."
+  },
+  {
+   "t": "p",
+   "text": "Historians argue over how much of that crisis the wars caused. Some modern studies find Italy’s population was growing, not collapsing. But the ancient writers blamed the victory."
+  },
+  {
+   "t": "p",
+   "text": "Christian writers kept that lesson. Augustine was the North African bishop of Hippo, and he had studied in Carthage. In the 400s CE he wrote that destroying Carthage unleashed the “lust for rule” that tore Rome apart. A few decades later, Pope Leo I preached that Rome now ruled more widely through the faith than it ever had by conquest. One way to read it: the Church condemned the empire’s conquests and inherited its reach."
+  },
+  {
+   "t": "p",
+   "text": "Rome won the war. By the ancient writers’ account, the rich won the peace, and the Republic lost."
+  },
+  {
+   "t": "caption",
+   "text": "Palestrina, 1299. Boniface VIII ran the plough over the city “like ancient Carthage” and ordered salt sown. Whether anyone spread salt is not known."
+  },
+  {
+   "t": "h2",
+   "text": "The first city ploughed “like Carthage” and sown with salt was Christian."
+  },
+  {
+   "t": "p",
+   "text": "Palestrina, 1297–1299"
+  },
+  {
+   "t": "p",
+   "text": "The most famous image in the Carthage story is salt in the furrows. Its earliest known official appearance is signed. It’s in a pope’s paperwork."
+  },
+  {
+   "t": "p",
+   "text": "In 1297, two cardinals from the powerful Colonna family declared that Pope Boniface VIII had never been a legitimate pope. A Colonna had just seized about 200,000 gold florins of the pope’s money on the road. Boniface stripped both cardinals of their rank, excommunicated them and, in December 1297, declared a crusade against them. Christians who joined the war against the Colonna earned the same spiritual rewards, called indulgences, as crusaders fighting abroad."
+  },
+  {
+   "t": "p",
+   "text": "The crusade’s target was Palestrina, a Colonna stronghold about 22 miles east of Rome. After more than a year of siege, the town surrendered in September 1298. Its defenders expected leniency, based on what an Italian Dante encyclopedia describes as apparently unofficial assurances."
+  },
+  {
+   "t": "p",
+   "text": "In June 1299 Boniface ordered Palestrina destroyed anyway. Only the cathedral was left standing. In his own letter about it, Boniface wrote that he had run the plough over the city like ancient Carthage in Africa. He added that he had also ordered salt sown there, so the place would keep neither the standing, nor the name, nor the title of a city. Then he built a new town on the plain below and called it Città Papale. The Papal City."
+  },
+  {
+   "t": "p",
+   "text": "Read his wording closely. Boniface ties Carthage to the plough. The salt is his own addition, most likely borrowed from the Bible, where King Abimelech sows the city of Shechem with salt. Nobody knows whether workers actually spread salt on the ground. It may have been the language of a curse rather than a farm operation. But this letter is the earliest European text known to put Carthage and salt in the same breath."
+  },
+  {
+   "t": "p",
+   "text": "The poet Dante, who had been exiled from Florence and blamed Boniface for it, wrote the version most people remember. In his Inferno, Dante sends to hell an old soldier, Guido da Montefeltro, who supposedly told Boniface how to take Palestrina. The advice: promise a lot, deliver little. Two chroniclers of the time tell the same story, but some specialists think it’s a later legend. Either way, it’s Dante’s line that survived.³"
+  },
+  {
+   "t": "p",
+   "text": "The first man on record to plough a city “like Carthage” and order it sown with salt wasn’t a Roman general. He was a pope, and the city was Christian."
+  },
+  {
+   "t": "sidebar",
+   "title": "The salt’s paper trail",
+   "blocks": [
+    {
+     "t": "table",
+     "rows": [
+      [
+       "146 BCE",
+       "Carthage falls. No ancient source mentions salt."
+      ],
+      [
+       "1299",
+       "A pope’s letter: Palestrina ploughed “like Carthage,” and salt ordered sown."
+      ],
+      [
+       "?",
+       ""
+      ],
+      [
+       "1858",
+       "The salt reaches Carthage in print: New American Cyclopaedia, New York."
+      ],
+      [
+       "1930",
+       "Cambridge Ancient History. Then decades of textbooks."
+      ],
+      [
+       "1986",
+       "R. T. Ridley checks every ancient source: no salt, no plough."
+      ],
+      [
+       "1988",
+       "B. H. Warmington publishes a correction."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "No document links 1299 to 1858."
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Nobody salted Carthage. The reference books did."
+  },
+  {
+   "t": "p",
+   "text": "New York, Cambridge and the hill of Byrsa, 1858–1964"
+  },
+  {
+   "t": "p",
+   "text": "The ancient evidence that Rome salted Carthage: none. In 1986 the historian R. T. Ridley went through every ancient source on the city’s fall and found no salt and no plough. He titled his article “To Be Taken with a Pinch of Salt.”"
+  },
+  {
+   "t": "caption",
+   "text": "Punic houses on Byrsa Hill, where Carthage made its last stand. A French cathedral held the hilltop from 1890 to 1964. Photo: Bishkekrocks / Wikimedia Commons"
+  },
+  {
+   "t": "p",
+   "text": "So where did it come from? The earliest solid example in print is an American encyclopedia, the New American Cyclopaedia, published in New York starting in 1858. In 1930 the salt reached the Cambridge Ancient History, the reference work scholars trusted most, and spread from there through decades of textbooks. One historian who repeated it, B. H. Warmington, published a public correction in 1988. Even the famous slogan “Carthago delenda est,” Carthage must be destroyed, isn’t ancient in that wording. Cato said something like it. The tidy Latin catchphrase is a modern polish."
+  },
+  {
+   "t": "p",
+   "text": "No document links Boniface’s letter to the 1858 encyclopedia. Nobody has to have copied the pope. Five and a half centuries later, the reference books simply arrived at his image without knowing whose it was."
+  },
+  {
+   "t": "p",
+   "text": "The record-keepers also took the physical site. In 1881 France made Tunisia a protectorate. Three years later, Pope Leo XIII revived the ancient office of Archbishop of Carthage for Cardinal Charles Lavigerie, a French churchman who took the title Primate of Africa, the senior bishop of the continent. Lavigerie built a cathedral on the top of Byrsa, the hill where Carthage made its last stand in 146 BCE. He dedicated it to Louis IX, the French crusader-king who died besieging Tunis in 1270."
+  },
+  {
+   "t": "p",
+   "text": "A priest from Lavigerie’s own missionary order, Alfred-Louis Delattre, ran excavations at Carthage from 1875 to 1932, 57 years. He did dig Punic tombs. But historians who have studied his work describe a priority on Christian martyrs, poor records, few plans, thrown-out pottery and sold duplicates. In May 1930, the Catholic Church held its International Eucharistic Congress at Carthage. It was a huge public festival of the Mass, in the same year the Cambridge Ancient History printed the salt. Tunisian nationalists campaigned against it, and the backlash helped make the name of a young lawyer named Habib Bourguiba. He later led Tunisia to independence. In 1964 the Vatican signed the cathedral over to the Tunisian state."
+  },
+  {
+   "t": "p",
+   "text": "The story kept getting used. On October 19, 1918, three weeks before Germany’s armistice, the famous German classicist Ulrich von Wilamowitz-Moellendorff published an essay arguing Carthage fell because of pacifist politicians at home. One historian traces a line from that essay to the “stab in the back” myth the Nazis later used. In 1919 the economist John Maynard Keynes called the Versailles treaty a “Carthaginian peace.” It was a strange phrase. Rome signed no peace in 146 BCE. It erased the city."
+  },
+  {
+   "t": "p",
+   "text": "For most of a century, a church stood on Carthage’s citadel. For half of that, a reference book salted its fields. Neither was ancient."
+  },
+  {
+   "t": "h2",
+   "text": "The call always works. That’s the problem."
+  },
+  {
+   "t": "p",
+   "text": "The Colonna made their move in 1303."
+  },
+  {
+   "t": "caption",
+   "text": "Sept. 7, 1303: Boniface VIII seized at Anagni."
+  },
+  {
+   "t": "p",
+   "text": "The two cardinals had fled to France, where King Philip IV was fighting Boniface over taxes and power. On September 7, 1303, armed men rode into the pope’s hometown of Anagni. They were led by Guillaume de Nogaret, one of the French king’s top lawyers, and Sciarra Colonna, a soldier from the Colonna family. They seized Boniface in his palace. Townspeople freed him two days later. He died in Rome that October."
+  },
+  {
+   "t": "sidebar",
+   "title": "While you were out · Call #3",
+   "blocks": [
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Date",
+       "1297–1303"
+      ],
+      [
+       "From",
+       "The Colonna cardinals"
+      ],
+      [
+       "Of",
+       "In France"
+      ],
+      [
+       "To",
+       "King Philip IV"
+      ],
+      [
+       "Checked",
+       "Please call back"
+      ],
+      [
+       "Message",
+       "Re: Pope Boniface VIII."
+      ],
+      [
+       "Result",
+       "Sept. 7, 1303: the king’s lawyer and Sciarra Colonna seize the pope at Anagni."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "The Colonna ran to the King of France. His lawyer rode to Anagni with them."
+  },
+  {
+   "t": "p",
+   "text": "The call worked. In 1305 a new pope, Clement V, the former archbishop of Bordeaux, restored the Colonna. Within a few years the Papal City was dissolved and Palestrina got its name back. Philip even pushed the new pope to hold hearings on charges against the dead Boniface. Clement opened them in 1310 and shut them down the next year. The man who had written a city’s death into his own records nearly had his own record rewritten by the king his enemies invited in."
+  },
+  {
+   "t": "p",
+   "text": "And then the papacy itself moved. In 1309 Clement settled it in Avignon, in what is now southern France. It stayed there for nearly seventy years, under seven popes, all of them French. Historians list many reasons for the move. But the institution that cited Carthage to justify Palestrina ended up living next door to the power its losers had run to."
+  },
+  {
+   "t": "p",
+   "text": "That is the pattern under every chapter. Carthage’s embezzlers called Rome to remove an auditor, and half a century later Rome removed Carthage. Utica called Rome to get on the winning side, and became the capital of Rome’s new province, built on Carthage’s land. The Colonna ran to France and got their town back, and Rome lost its pope for seventy years. Each caller understood their own problem perfectly. None of them could see the whole board. The power that answered always could."
+  },
+  {
+   "t": "p",
+   "text": "The move still works the same way today. Someone threatens the insiders’ money, and the insiders ask an outside power to remove them. A local faction invites an outside power to settle a local fight. Afterward, the contractors and the people who keep the files decide who won. It always looks like a shortcut to the person who makes the call."
+  },
+  {
+   "t": "p",
+   "text": "The history gets written by whoever answers."
+  },
+  {
+   "t": "sidebar",
+   "title": "Call log · Sequence, not cause.",
+   "blocks": [
+    {
+     "t": "table",
+     "rows": [
+      [
+       "#",
+       "Caller",
+       "Called",
+       "Wanted",
+       "What happened next"
+      ],
+      [
+       "1",
+       "Carthage’s embezzlers",
+       "Rome",
+       "Remove an auditor",
+       "Half a century later, Rome removed Carthage."
+      ],
+      [
+       "2",
+       "Utica",
+       "Rome",
+       "Be on the winning side",
+       "Became the capital of Rome’s new province, on Carthage’s land."
+      ],
+      [
+       "3",
+       "The Colonna",
+       "France",
+       "Get their town back",
+       "The papacy sat in Avignon for nearly 70 years."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "sidebar",
+   "title": "What we can prove / what we can’t",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Proven:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "Rome seized Sardinia as Carthage’s mercenary war ended, and Polybius called it unjust.",
+      "Hannibal’s two Greek historians and his bronze plaque at Croton are lost; Polybius used the plaque and mocked Sosylus.",
+      "Polybius was a hostage who lived in the Scipio household and was present when Carthage fell.",
+      "In 149 BCE Carthage gave up 300 hostages, armor for about 200,000 men and 2,000 catapults before Rome ordered the city abandoned.",
+      "The Senate gave Carthage’s libraries away and had Mago’s farming manual translated.",
+      "Boniface VIII declared a crusade against the Colonna, destroyed Palestrina after its surrender and renamed the site the Papal City.",
+      "No ancient source says Rome salted Carthage. The salt appears in the 1930 Cambridge Ancient History.",
+      "Lavigerie’s cathedral on Byrsa belonged to the Church from 1890 until it was handed to Tunisia in 1964; Delattre dug Carthage for 57 years.",
+      "Boniface was seized at Anagni in 1303, and the papacy moved to Avignon in 1309."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Strongly supported:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "The salt’s earliest solid print appearance in the 1858 New American Cyclopaedia (page and edition year still being checked).",
+      "Hannibal’s reforms and audit, the embezzlers’ letter to Rome and his flight in 195 BCE (Livy, a hostile source, accepted by modern historians).",
+      "Boniface’s letter compares Palestrina’s ploughing to Carthage’s and orders salt sown (the Latin is quoted in a standard church annal; we have seen it second-hand).",
+      "Palestrina surrendered expecting leniency, based on apparently unofficial assurances.",
+      "Punica fides first appears as a set phrase in Sallust, after Carthage was gone."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Likely:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "Guido da Montefeltro’s “promise a lot, deliver little” advice (Dante and two chroniclers; some specialists call it legend).",
+      "That Fabius Pictor wrote in Greek to win over foreign opinion (scholars debate his purpose).",
+      "That the wars’ spoils, not just the wars, drove Rome’s land crisis (the ancient writers’ view; modern demographers dispute parts of it)."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Not proven:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "That Carthage’s leaders starved Hannibal of reinforcements in Italy. The record shows they sent some, and Rome held the sea.",
+      "That anyone physically salted Palestrina, or that 6,000 people died there.",
+      "That Boniface invented the Carthage salt myth, or that later writers copied him.",
+      "That Boniface consciously copied Rome’s tricks of 149 BCE. The parallel is ours.",
+      "That monks or the Church suppressed Carthaginian books. Rome gave the libraries away centuries before.",
+      "That Lavigerie’s cathedral destroyed Punic ruins. The Romans had already leveled the hilltop.",
+      "Why the Senate kept the farming manual. The choice is documented; the motive isn’t.",
+      "That the Colonna’s flight to France caused the papacy’s move to Avignon. The sequence is documented; the cause is not."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The other side. None of these people thought they were writing propaganda. Polybius recorded Rome’s worst behavior himself. Hannibal’s historians were probably lost because nobody bothered to copy them after better-written histories came along, not because anyone burned them. The Church didn’t erase Carthage’s history. Livy survived the Middle Ages thanks to an edition commissioned by pagan Roman aristocrats around 400 CE. And Augustine, a bishop, used Carthage’s fall to attack Rome’s lust for power. The salt in the encyclopedias was a citation error, and historians caught it. Boniface was doing what medieval rulers did to rebels who had robbed them. And the Avignon move had many causes, including Rome’s own violent politics. This reading is fair, and much of it is right. Of course, “nobody meant it” is how custody works. The people who keep the files rarely need a plan."
+    },
+    {
+     "t": "p",
+     "text": "Why the gap? One reading says there was no design at all: a long chain of honest choices by tutors, translators, editors and clerics, each serving their own patron. The other says every handoff favored whoever held power at that moment, and power doesn’t need to leave a memo. Either way, the record is not in doubt. Every time someone called in Rome, the person who answered wrote the next chapter."
+    }
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Notes"
+  },
+  {
+   "t": "p",
+   "text": "¹ Checking only the winner’s files and finding nothing is still finding nothing. [E.G.] · So the treaty might have existed? [H.C.] · Might. Nobody can prove it either way, which is the problem. [E.G.]"
+  },
+  {
+   "t": "p",
+   "text": "² Nothing ties the bishop to Hannibal’s bronze, which was gone long before. [E.G.] · But the bishop got the temple. [H.C.] · The bishop got the temple. [E.G.]"
+  },
+  {
+   "t": "p",
+   "text": "³ The pope who supposedly forgave Guido in advance also has a reserved seat in Dante’s hell. Dante set the poem in 1300, so in the story Boniface is still alive, and his spot is waiting. [E.G.] · You can do that? [H.C.] · If you’re writing the book. [E.G.]"
+  },
+  {
+   "t": "p",
+   "text": "The receipts: Every source for this story is online. Scan the code on page 1."
+  }
+ ],
+ "sources": [
+  "Polybius, Histories.",
+  "Appian, The Punic Wars.",
+  "Plutarch, Life of Cato the Elder and Life of Gaius Gracchus.",
+  "Pliny the Elder, Natural History, Book 18.",
+  "Aristotle, Politics, Book 2.",
+  "R. T. Ridley, Classical Philology 81 (1986)",
+  "Richard Miles, Carthage Must Be Destroyed (2010).",
+  "Full source file: Final Carthage Feature – Sources (v2 corrected) (https://docs.google.com/document/d/1J0QTiYOJJxZC3gU0DIi5QMMLV46Ot1tprwefuPdol8k/edit). Research summary and scorecard: Carthage – Research Summary & Scorecard (https://docs.google.com/document/d/1bwYsfJstxF_aZ8oUSadtliQj-9SSh9cw641KeTZTsJ0/edit).",
+  "Appian, The Punic Wars (Libyca), trans. Horace White. Livius.org: index (https://www.livius.org/sources/content/appian/appian-the-punic-wars/); §§51–55 page 11 (https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-11/); §§66–70 page 14 (https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-14/); §§71–75 page 15 (https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-15/); §§76–80 page 16 (https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-16/); §§81–85 page 17 (https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-17/); §§86–90 page 18 (https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-18/); §§91–95 page 19 (https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-19/); §§96–100 page 20 (https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-20/); §§111–115 page 23 (https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-23/); §§121–125 page 25 (https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-25/); §§126–130 page 26 (https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-26/); §§131–135 page 27 (https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-27/); §136 page 28 (https://www.livius.org/sources/content/appian/appian-the-punic-wars/appian-the-punic-wars-28/).",
+  "Polybius, Histories, trans. W. R. Paton (Loeb). LacusCurtius: Book 1 (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/1.html), Book 3 (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/3.html), Book 15 (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/15.html), Book 20 (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/20.html), Book 31 (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/31.html), Book 36 (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/36.html), Book 38 (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/38.html).",
+  "Diodorus Siculus, Library of History, Book 32, trans. F. R. Walton (Loeb). LacusCurtius (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/32.html).",
+  "Livy, History of Rome 36.4 (Latin (http://www.thelatinlibrary.com/livy/liv.36.shtml); English (https://erenow.org/ancient/livy-history-of-rome-vol-5/4.php)), 40.17 (English (https://erenow.org/ancient/livy-history-of-rome-vol-6/1.php)), 42.23–24 (English (https://erenow.org/ancient/livy-history-of-rome-vol-6/3.php)); Periochae (Summaries) 46–50 (https://www.livius.org/sources/content/livy/livy-periochae-46-50/) and 51–55 (https://www.livius.org/sources/content/livy/livy-periochae-51-55/). Livy 30.37 and 34.62 not read.",
+  "Plutarch, Cato the Elder, trans. B. Perrin (Loeb). LacusCurtius (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Cato_Major.html). Also Gaius Gracchus 11 (Perrin, LacusCurtius).",
+  "Pliny the Elder, Natural History 5.9 (Latin Library (https://www.thelatinlibrary.com/pliny.nh5.html)), 15.74–76 (LacusCurtius Latin (https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/15.html)), 18.22 and 18.35 (LacusCurtius Latin (https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/18.html)), 19.3–4 (LacusCurtius Latin (https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/19.html)).",
+  "Cato, On Agriculture 8.1. LacusCurtius (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cato/De_Agricultura/A.html).",
+  "Velleius Paterculus, Roman History 1.12–13, trans. F. W. Shipley (Loeb). LacusCurtius (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Velleius_Paterculus/1.html).",
+  "Sallust, The Jugurthine War 17.7 (LacusCurtius, Rolfe (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Sallust/Bellum_Jugurthinum/1.html)) and 108.3 (Latin Library (https://www.thelatinlibrary.com/sall.2.html)).",
+  "Columella, On Agriculture 1.1.13. LacusCurtius (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Columella/de_Re_Rustica/1.html).",
+  "Cassius Dio, Roman History 43.50, 52.43. LacusCurtius, Book 43 (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/43.html).",
+  "Macrobius, Saturnalia 3.9. Latin text (Tesserae) (https://github.com/tesserae/tesserae/blob/master/texts/la/macrobius.saturnalia.tess).",
+  "Ridley, R. T. “To Be Taken with a Pinch of Salt: The Destruction of Carthage.” Classical Philology 81.2 (1986) 140–46. PDF (https://gwern.net/doc/history/1986-ridley.pdf).",
+  "Hallward, B. L. Chapter in Cambridge Ancient History VIII (1930), p. 484.",
+  "Hurst, H. “Exceptions rather than the rule” (2010). Academia.edu (https://www.academia.edu/5427302/). His Excavations at Carthage: The British Mission II.1 (1994) was not read.",
+  "Lancel, S. Byrsa excavation report (CRAI, 1985). PDF (https://www.ancientportsantiques.com/wp-content/uploads/Documents/PLACES/NorthAfrica/Carthage-Lancel1985.pdf).",
+  "Hoyos, D. Mastering the West (Oxford 2015), as reviewed in Bryn Mawr Classical Review 2015.09.40. Review (https://bmcr.brynmawr.edu/2015/2015.09.40/).",
+  "Bailey, C. “Rome, Carthage, and Numidia: Diplomatic Favouritism before the Third Punic War.” Antichthon 52 (2018) 43–71. Abstract (https://www.cambridge.org/core/journals/antichthon/article/abs/rome-carthage-and-numidia-diplomatic-favouritism-before-the-third-punic-war/929CCC45FF105B9AD50D74C1B699821B).",
+  "Baronowski, D. Polybius and Roman Imperialism (2011), as reviewed in BMCR 2012.04.12. Review (https://bmcr.brynmawr.edu/2012/2012.04.12/). His “Polybius on the Causes of the Third Punic War,” Classical Philology 90 (1995), was not read.",
+  "Kim, Y.-C. “Privatization of ager in Africa from 123 to 63 BC.” Classical Quarterly 72.2 (2022), DOI 10.1017/S0009838822000866. PDF (https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E55AE73CAB86EC1530E0E9F36D6FBE54/S0009838822000866a.pdf).",
+  "Kiernan, B. “The First Genocide.” Diogenes 51.3 (2004) 27–39 (source for Meijer’s fig argument). PDF (https://gsp.yale.edu/sites/default/files/first_genocide.pdf).",
+  "Meijer, F. J. “Cato’s African Figs.” Mnemosyne 37 (1984) 117–24. Not read.",
+  "Bülow-Jacobsen, A., and M. Pade. On “Carthago delenda est.” Aigis 2022.2. PDF (https://aigis.igl.ku.dk/aigis/2022,2/Cato.pdf).",
+  "Rawson, E. “Scipio, Laelius, Furius and the Ancestral Religion.” Journal of Roman Studies 63 (1973) 161–74.",
+  "Isaenko, R. A. “Macrobius, Saturnalia 3.9 and the Roman Cult of Iuno Caelestis.” Philologia Classica 14.2 (2019). PDF (https://philclass.spbu.ru/article/download/6741/5186/18197).",
+  "Gruen, E. Rethinking the Other in Antiquity (Princeton 2011), as reviewed in BMCR 2011.08.24. Review (https://bmcr.brynmawr.edu/2011/2011.08.24/).",
+  "Goldsworthy, A. The Fall of Carthage (2006), p. 332 (via Wikipedia).",
+  "Miles, R. Carthage Must Be Destroyed (2010).",
+  "Gainsford, P. Post on salting the earth, Kiwi Hellenist (2016). Blog (https://kiwihellenist.blogspot.com/2016/12/salting-earth.html).",
+  "World History Encyclopedia, “Carthaginian Naval Warfare.” Link (https://www.worldhistory.org/Carthaginian_Naval_Warfare/).",
+  "Ancient Ports Antiques, “Carthage.” Link (https://www.ancientportsantiques.com/a-few-ports/carthage/).",
+  "Wikipedia: “Salting the earth” (https://en.wikipedia.org/wiki/Salting_the_earth), “Third Punic War” (https://en.wikipedia.org/wiki/Third_Punic_War), “Chedli Klibi” (https://en.wikipedia.org/wiki/Chedli_Klibi), “Battle of Corinth (146 BC)” (https://en.wikipedia.org/wiki/Battle_of_Corinth_(146_BC)).",
+  "Attalus.org: Aemilius Paullus (https://www.attalus.org/names/p/paullus.html); 167 BCE (https://www.attalus.org/bc2/year167.html); survival of the historians (http://www.attalus.org/info/overview.html).",
+  "Cherwell, “Lessons from history: the end of the Third Punic War, 1985” (2016). Link (https://www.cherwell.org/2016/02/05/lessons-from-history-the-end-of-the-third-punic-war-1985/).",
+  "Rerum Romanarum, on the 1985 mayors’ pact (2026). Link (https://www.rerumromanarum.com/2026/08/1985-mayors-of-rome-and-carthage-sign.html).",
+  "Boyd, post on negative ethnic stereotyping and Punica fides, Discentes (Penn, 2023). Link (https://web.sas.upenn.edu/discentes/2023/10/22/negative-ethnic-stereotyping-and-punica-fides/).",
+  "Pearse, R. “What percentage of ancient literature survives?” (2009). Link (https://www.roger-pearse.com/weblog/2009/10/24/what-percentage-of-ancient-literature-survives-some-data/).",
+  "AP wire story (Habib Fakhari, Feb. 1985) and La Repubblica (Feb. 1985), known only through the reports above."
+ ]
+}

@@ -1,0 +1,332 @@
+{
+  "slug": "still-banging",
+  "order": 100,
+  "section": "Out Back",
+  "kicker": "SCIENCE DESK · SURVIVAL STRATEGY · NEANDERTHALS · DENISOVANS · GHOSTS · HOBBITS",
+  "label": null,
+  "title": "History’s Losers, Still Banging.",
+  "dek": "Neanderthals didn’t lose. They married in. A scoreboard of history’s upright losers, ranked by one question: did they hook up with the winners?",
+  "byline": "Heather Chappell & Edwin Galloway",
+  "pages": [
+    100,
+    102
+  ],
+  "hero": "issue1/p100.jpg",
+  "summary": "How Neanderthals, Denisovans and ‘ghost’ populations survive as DNA in living humans, ranked against extinct human relatives who left no trace.",
+  "topics": [
+    "Neanderthals",
+    "Denisovans",
+    "Ancient DNA",
+    "Human evolution",
+    "Interbreeding"
+  ],
+  "blocks": [
+    {
+      "t": "p",
+      "text": "The official story: around 40,000 years ago, a better-organized species of human walked into Europe and the Neanderthals walked out of history. Game over. Thanks for playing."
+    },
+    {
+      "t": "p",
+      "text": "Except they’re still here. They’re in you. If your family tree has branches outside Africa, roughly 1 to 2 percent of your DNA came from a Neanderthal."
+    },
+    {
+      "t": "p",
+      "text": "They lost the war. They won the bedroom. And the cousins who never got a date? Those are the real losers.¹"
+    },
+    {
+      "t": "sidebar",
+      "title": "20%+",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "of the entire Neanderthal genome is still walking around, split up among living humans. Mostly buying oat milk."
+        },
+        {
+          "t": "p",
+          "text": "Apocrypha Index: 0 · Documented"
+        }
+      ]
+    },
+    {
+      "t": "caption",
+      "text": "THE FIRST DATE. Roughly 47,000 years ago, give or take. Nobody wrote it down. Everybody inherited it."
+    },
+    {
+      "t": "h2",
+      "text": "How Much of Them Is in You?"
+    },
+    {
+      "t": "p",
+      "text": "Share of a living genome, best estimates"
+    },
+    {
+      "t": "table",
+      "rows": [
+        [
+          "Group",
+          "Share"
+        ],
+        [
+          "Neanderthal (roots outside Africa)",
+          "1–2% · everybody in the club"
+        ],
+        [
+          "Denisovan (Papuans, Ayta, Aboriginal Aus.)",
+          "2–6% · the world champions"
+        ],
+        [
+          "West African “ghost” (no bones, ever)",
+          "2–19% · depends whose math"
+        ],
+        [
+          "Hobbit, luzonensis, naledi, late erectus",
+          "0 detected · never got the call back"
+        ],
+        [
+          "Our own early sapiens (Ranis, Oase; mated anyway)",
+          "0 descendants · did it, still lost"
+        ]
+      ]
+    },
+    {
+      "t": "p",
+      "text": "¹ Edwin wanted the headline to be “Love Is the Ultimate Survival Strategy.” I told him that’s a candle. [H.C.]"
+    },
+    {
+      "t": "p",
+      "text": "Hatched bar = model-dependent estimate. “0 detected” ≠ “never mated”: tropical fossils are terrible at keeping DNA."
+    },
+    {
+      "t": "h2",
+      "text": "The Scoreboard"
+    },
+    {
+      "t": "p",
+      "text": "Final standings · Upright Division · APOC = Apocrypha Index, 0 documented → 5 fan fiction"
+    },
+    {
+      "t": "table",
+      "rows": [
+        [
+          "Team",
+          "Last seen",
+          "How much of them is in you",
+          "APOC"
+        ],
+        [
+          "Division 1 · Won by banging",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Neanderthals",
+          "41,000–39,000 years ago",
+          "1–2% of everyone with roots outside Africa. Even many Africans carry some, delivered by humans who moved back.²",
+          "0"
+        ],
+        [
+          "Denisovans",
+          "Unknown. First ID’d from a pinky bone, 2010.",
+          "2–6% in Papuans, Aboriginal Australians and the Ayta Magbukon of the Philippines, the world champions. Tibetans got their altitude gene from them.",
+          "1"
+        ],
+        [
+          "Division 2 · Won, identity unknown",
+          "",
+          "",
+          ""
+        ],
+        [
+          "The West African “ghost”",
+          "No bones. Ever.",
+          "An estimated 2–19% of some West African genomes, depending on whose math you trust.",
+          "2"
+        ],
+        [
+          "The “super-archaic” ghost",
+          "Split off ~2 million years ago",
+          "Second-hand only, through Neanderthal and Denisovan grandparents. We don’t name people we haven’t met.",
+          "2"
+        ],
+        [
+          "Division 3 · True losers (no detectable DNA)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "H. floresiensis (“the Hobbit”)",
+          "~50,000 years ago",
+          "None detected. Stood about 3 ft 6 in.",
+          "1"
+        ],
+        [
+          "H. luzonensis",
+          "50,000+ years ago",
+          "None detected, in the same country as the top Denisovan carriers on Earth. Awkward.",
+          "1"
+        ],
+        [
+          "H. naledi",
+          "~236,000 years ago",
+          "None. May never have met us at all.",
+          "1"
+        ],
+        [
+          "Late H. erectus (Java)",
+          "117,000–108,000 years ago",
+          "None. Lasted nearly 2 million years and missed us by about 35,000.",
+          "1"
+        ],
+        [
+          "Division 4 · Our own losers",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Early sapiens of Ranis, Zlatý kůň & Oase",
+          "~45,000–37,000 years ago",
+          "Zero. They did the deed (one Oase man had a Neanderthal ancestor four to six generations back) and still left no descendants.³",
+          "1"
+        ]
+      ]
+    },
+    {
+      "t": "sidebar",
+      "title": "Plot Twist: It Went Both Ways",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "They had our Y chromosome. Modern-human DNA flowed into Neanderthals in waves from ~250,000 years ago. By the end, Neanderthal men carried a sapiens Y. The losers had our surname and our grandmother’s mitochondria. [1]"
+        },
+        {
+          "t": "p",
+          "text": "Mostly Neanderthal dads, human moms. A Feb. 2026 study in Science found 62% extra modern-human DNA on Neanderthal X chromosomes. One study. Watch this space. [2]"
+        },
+        {
+          "t": "p",
+          "text": "Meet Denny. Neanderthal mom, Denisovan dad: the only first-generation hybrid of two archaic groups ever found. The losers were dating each other, too. [1]"
+        }
+      ]
+    },
+    {
+      "t": "p",
+      "text": "² Neanderthals never lived in Africa. Their DNA got there the way your mom’s casserole dish ends up at my house: somebody carried it back. [E.G.]"
+    },
+    {
+      "t": "p",
+      "text": "³ Banging the winners was necessary. It was not sufficient. This also describes my twenties. [H.C.]"
+    },
+    {
+      "t": "h2",
+      "text": "Archaic Content"
+    },
+    {
+      "t": "p",
+      "text": "What your caveman side does for you · Serving size: 1 human"
+    },
+    {
+      "t": "table",
+      "rows": [
+        [
+          "Trait",
+          "Effect",
+          "Type"
+        ],
+        [
+          "Mountain lungs",
+          "Denisovan. EPAS1 lets Tibetans and Sherpas thrive in thin air. [0–1]",
+          "Gift"
+        ],
+        [
+          "The COVID shield",
+          "Neanderthal. In ~half of non-Africans; cuts ICU risk ~20%. “A double-edged sword.” [1]",
+          "Gift"
+        ],
+        [
+          "“Viking disease” fingers",
+          "Neanderthal. Three Dupuytren’s risk variants, incl. the 2nd and 3rd strongest. [1]",
+          "Curse"
+        ],
+        [
+          "Ouch",
+          "Neanderthal. Three SCN9A variants sharpen one kind of pain. Just the mustard-oil kind. [2]",
+          "Meh"
+        ],
+        [
+          "The COVID curse",
+          "Neanderthal. Raises severe-COVID risk. In 63% of Bangladeshis, ~16% of Europeans. [1]",
+          "Curse"
+        ],
+        [
+          "Hair-trigger immunity",
+          "Neanderthal. Tougher on bacteria and fungi. Also: more allergies. You’re welcome. [1]",
+          "Curse"
+        ],
+        [
+          "Early bird",
+          "Neanderthal. A small nudge toward being a morning person. [2]",
+          "Meh"
+        ],
+        [
+          "Tall nose",
+          "Neanderthal. One gene, taller nose. Cold-weather upgrade? Anybody’s guess.⁴ [2]",
+          "Meh"
+        ]
+      ]
+    },
+    {
+      "t": "h2",
+      "text": "Other Losers Who Banged Their Way to Victory"
+    },
+    {
+      "t": "quote",
+      "text": "Extinct, but it doesn’t mean that their gene pool is erased.",
+      "cite": "Axel Barlow, on cave bears"
+    },
+    {
+      "t": "list",
+      "items": [
+        "Cave bear → brown bear: 0.9–2.4%. Extinct ~24,000 years. Still riding around in living brown bears. [1]",
+        "Mystery mammoth → Columbian: ~50%. A lineage nobody knew existed is half of America’s iconic mammoth. [1]",
+        "Mountain weed → corn: ~20%. Highland teosinte is in every modern maize genome. [1]",
+        "Goatgrass → bread wheat: 1 of 3. Wheat’s genomes. A weed crashed the party ~10,000 years ago and brought the gluten. [0]",
+        "Polar bear → ABC Islands brown bears: up to 8.8%. Polar bear DNA in Alaskan brown bears. One-way traffic. [1]",
+        "Wolves + dogs → eastern coyotes: 26% / 10%. Wolf / dog. Wiped out of the East, still riding inside the coyotes. [0]",
+        "Red wolf → Galveston canids: ~40 yrs. After red wolves vanished from Texas, their “ghost” genes turned up on the island. [1]",
+        "Aurochs + steppe bison → wisent: 2 extinct parents, one cow-bison hybrid lineage, and today’s European bison. [1–2]"
+      ]
+    },
+    {
+      "t": "p",
+      "text": "Bonus · The reverse loser: Near Eastern pigs arrived in Europe and got absorbed by local wild boar so thoroughly that European pigs kept 4% or less of their ancestry. The invaders lost by banging. [0–1]"
+    },
+    {
+      "t": "p",
+      "text": "History belongs to whoever keeps the files. Turns out the Neanderthals kept theirs in the safest archive on Earth: you."
+    },
+    {
+      "t": "h2",
+      "text": "The Real Losers Are the Ones Who Didn’t Hook Up."
+    },
+    {
+      "t": "p",
+      "text": "⁴ I have the morning gene, the allergy gene and the nose. Heather has asked me to stop calling it “my heritage.” [E.G.] · [0–5] = Apocrypha Index"
+    }
+  ],
+  "sources": [
+    "Iasi et al. (2024), Science.",
+    "Sümer et al. (2024), Nature.",
+    "Platt, Harris and Tishkoff (2026), Science.",
+    "Max Planck Institute for Evolutionary Anthropology.",
+    "Hugo Zeberg and colleagues, Karolinska Institute (COVID-19 risk and Dupuytren’s disease).",
+    "University College London (pain sensitivity and nose shape).",
+    "Natural History Museum, London.",
+    "Smithsonian Human Origins Program.",
+    "National Geographic (Barlow; cave bears).",
+    "Frantz et al., PNAS (pigs)."
+  ],
+  "visual": true
+}

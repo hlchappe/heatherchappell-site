@@ -1,0 +1,98 @@
+{
+ "slug": "stephen-matilda",
+ "order": 59,
+ "section": "The Files",
+ "kicker": "THE FILES · LADY OF THE ENGLISH",
+ "label": "Lost the fight",
+ "title": "Stephen Won the Crown. Matilda Won the Next 800 Years.",
+ "dek": null,
+ "byline": "Heather Chappell & Edwin Galloway",
+ "pages": [
+  59,
+  59
+ ],
+ "hero": "issue1/p059.jpg",
+ "summary": "Empress Matilda lost the English crown to her cousin Stephen in the Anarchy, but her son became Henry II, ancestor of every English monarch since.",
+ "topics": [
+  "Empress Matilda",
+  "King Stephen",
+  "The Anarchy",
+  "Henry II",
+  "Treaty of Wallingford",
+  "Plantagenets"
+ ],
+ "blocks": [
+  {
+   "t": "caption",
+   "text": "Never crowned herself. Every English monarch since descends from her son. Illustration. (Timeline: Stephen, crowned 1135 · Matilda, never crowned · Henry II, 1154 · Richard I, 1189 · John, 1199 · Henry III, 1216 · Edward I, 1272 · Edward II, 1307 · and on, to today)"
+  },
+  {
+   "t": "p",
+   "text": "In 1127, Henry I of England made his barons swear to accept his daughter, Matilda, as his heir. He had lost his only legitimate son in a shipwreck, and he was determined that the crown would pass to his own line."
+  },
+  {
+   "t": "p",
+   "text": "Matilda had already been an empress. She had been married young to the Holy Roman Emperor Henry V and kept the title “Empress” after his death. She then married Geoffrey of Anjou, a much younger count, which by most accounts was a match neither of them enjoyed."
+  },
+  {
+   "t": "p",
+   "text": "When Henry I died in 1135, the barons’ oath lasted about as long as it took Matilda’s cousin, Stephen of Blois, to cross the Channel. Stephen got to England first, secured the treasury and was crowned. Many of the barons who had sworn to support Matilda decided they preferred him, or at least preferred not being ruled by a woman."
+  },
+  {
+   "t": "p",
+   "text": "What followed was nearly two decades of civil war, so chaotic that later writers called it the Anarchy."
+  },
+  {
+   "t": "p",
+   "text": "Matilda was not a woman who went away. She landed in England in 1139. In 1141 her forces captured Stephen at the Battle of Lincoln. For a moment she held the upper hand. She was acknowledged as “Lady of the English” and made her way to London, expecting a coronation at Westminster. The Londoners had other ideas. They rose against her and drove her out of the city before she could be crowned."
+  },
+  {
+   "t": "p",
+   "text": "Then her luck turned. Her half-brother and most important commander, Robert of Gloucester, was captured and had to be exchanged for Stephen. By 1142 she was besieged in Oxford Castle. According to the chroniclers, she escaped in winter, crossing the frozen countryside by night. Later tellings add white cloaks for camouflage in the snow, which is a wonderful detail we can’t fully confirm."
+  },
+  {
+   "t": "p",
+   "text": "She never got her crown. She left England in 1148."
+  },
+  {
+   "t": "p",
+   "text": "And then the ending. In 1153, with both sides exhausted and Stephen’s eldest son dead, the two parties agreed to the Treaty of Wallingford. Stephen would keep the throne for life. The heir would be Matilda’s son, Henry. Stephen died the following year, and Matilda’s son was crowned Henry II. He founded the Plantagenet dynasty, and every English monarch since descends from him."
+  },
+  {
+   "t": "p",
+   "text": "Stephen won the crown. Matilda won the bloodline. If this were a fantasy league, she’d have lost the final and still collected the dynasty trophy for the next eight hundred years."
+  },
+  {
+   "t": "sidebar",
+   "title": "The final score",
+   "blocks": [
+    {
+     "t": "table",
+     "rows": [
+      [
+       "Stephen",
+       "Crowned 1135.",
+       "His sons on the throne after him: 0"
+      ],
+      [
+       "Matilda",
+       "Never crowned.",
+       "Her son on the throne: Henry II, 1154, and every English monarch since"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "t": "p",
+   "text": "The receipts: Every source for this story is online. Scan the code on page 1."
+  }
+ ],
+ "sources": [
+  "Marjorie Chibnall, The Empress Matilda (1991)",
+  "The Gesta Stephani.",
+  "Henry of Huntingdon, Historia Anglorum.",
+  "The white cloaks in the snow during her escape from Oxford come from later tellings.",
+  "The page says we can’t fully confirm them."
+ ]
+}

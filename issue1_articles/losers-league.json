@@ -1,0 +1,551 @@
+{
+  "slug": "losers-league",
+  "order": 98,
+  "section": "The Files",
+  "kicker": "THE LOSERS LEAGUE · SEASON 1 · DRAFT DAY",
+  "label": null,
+  "title": "Draft Your Losers",
+  "dek": "Build a team entirely out of people who lost. Your team plays all season: every issue of SIDE EYE scores every loser on this board.",
+  "byline": null,
+  "pages": [
+    98,
+    99
+  ],
+  "hero": "issue1/p098.jpg",
+  "visual": true,
+  "summary": "A fantasy league of history’s losers: draft board with salaries, scoring rules, a team card, the Vol. 1 box score and the editors’ own teams.",
+  "topics": [
+    "Fantasy league",
+    "Hannibal",
+    "Napoleon",
+    "Carthage",
+    "Spanish Armada",
+    "Ross Perot"
+  ],
+  "blocks": [
+    {
+      "t": "table",
+      "rows": [
+        [
+          "Pos",
+          "Player",
+          "Salary",
+          "Scouting",
+          "Injury report"
+        ],
+        [
+          "QB",
+          "Hannibal Barca",
+          "$12",
+          "Crossed the Alps with elephants. Beat Rome at home for fifteen years.",
+          "Lost the final at Zama."
+        ],
+        [
+          "RB",
+          "Harold Godwinson",
+          "$6",
+          "Two games in nineteen days, at opposite ends of England.",
+          "Arrow report: disputed."
+        ],
+        [
+          "QB",
+          "Napoleon Bonaparte",
+          "$11",
+          "Comeback threat. Returned from Elba for a hundred days.",
+          "Traded to St. Helena."
+        ],
+        [
+          "WR",
+          "Marcus Licinius Crassus",
+          "$9",
+          "Richest man in Rome. Will try to buy the league.",
+          "Out: Parthia."
+        ],
+        [
+          "DEF",
+          "Publius Quinctilius Varus",
+          "$2",
+          "Three legions, one forest.",
+          "Augustus wants them back."
+        ],
+        [
+          "K",
+          "Lord Cornwallis",
+          "$3",
+          "Strong leg. Skips trophy ceremonies.",
+          "Out (sick). Sends O’Hara."
+        ],
+        [
+          "FLEX",
+          "Empress Matilda",
+          "$8",
+          "Never crowned. Won the dynasty anyway.",
+          "Chased out of London, 1141."
+        ],
+        [
+          "DEF",
+          "The Emus",
+          "$10",
+          "Near 50 km/h in a sprint. Outlasted two machine guns.",
+          "Healthy. Annoyingly so."
+        ],
+        [
+          "TE",
+          "The Byzantine Empire",
+          "$10",
+          "1,123 seasons in one city. Insists it was Rome.",
+          "Contract ended 1453."
+        ],
+        [
+          "DEF",
+          "Carthage",
+          "$7",
+          "Held out three years under siege after handing over its weapons.",
+          "Library: gone."
+        ],
+        [
+          "FLEX",
+          "The Spanish Armada",
+          "$5",
+          "Deep roster. 130 ships, give or take.",
+          "Weather-dependent."
+        ],
+        [
+          "QB",
+          "Hatshepsut",
+          "$9",
+          "About two decades as pharaoh.",
+          "Stats chiseled off by next owner."
+        ],
+        [
+          "WR",
+          "Betamax",
+          "$4",
+          "Lost the living room. Won the newsroom.",
+          "Rewind before returning."
+        ],
+        [
+          "FLEX",
+          "H. Ross Perot",
+          "$8",
+          "Brings his own charts. 19% of the vote.",
+          "Zero electoral votes."
+        ],
+        [
+          "RB",
+          "Direct Current",
+          "$3",
+          "Edison’s pick in the War of the Currents.",
+          "Lost to AC. Still in your phone charger."
+        ],
+        [
+          "BENCH",
+          "The Dodo",
+          "$1",
+          "Great attitude. Unbothered by sailors.",
+          "Retired, around the 1660s."
+        ]
+      ]
+    },
+    {
+      "t": "list",
+      "items": [
+        "1. Draft: Fill all seven starting slots for $50 or less. Bench is optional. FLEX takes any RB, WR or TE.",
+        "2. Save: Fill in the team card on the next page. Cut it out or snap a photo. Rosters lock for the season.",
+        "3. Score: Every issue prints a League Box Score: points for every loser, based on what happens to them in that issue.",
+        "4. Win: Add it up on your card. The highest season total takes home the Sacko. In this league, that’s the trophy."
+      ]
+    },
+    {
+      "t": "h2",
+      "text": "Scoring · Every Issue"
+    },
+    {
+      "t": "table",
+      "rows": [
+        [
+          "Code",
+          "Points",
+          "Meaning"
+        ],
+        [
+          "Showed up",
+          "+3",
+          "appears anywhere in the issue"
+        ],
+        [
+          "Fan mail",
+          "+2",
+          "writes to us from beyond"
+        ],
+        [
+          "Enemy press",
+          "+3",
+          "the other side wrote the record of your loss"
+        ],
+        [
+          "Renamed",
+          "-5",
+          "someone changed your name after you left"
+        ],
+        [
+          "Bye",
+          "0",
+          "not in this issue"
+        ],
+        [
+          "Feature",
+          "+5",
+          "gets a story of their own"
+        ],
+        [
+          "Myth busted",
+          "+10",
+          "we clear you of something you were blamed for"
+        ],
+        [
+          "Weather",
+          "-5",
+          "lost to weather"
+        ],
+        [
+          "Erased",
+          "-10",
+          "chiseled, burned or scraped off the record"
+        ]
+      ]
+    },
+    {
+      "t": "p",
+      "text": "Bench players score half, rounded down. Toward the loser."
+    },
+    {
+      "t": "sidebar",
+      "title": "League Rules",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Waiver wire: Every issue adds new losers to the board. Drop one, add one, stay under $50."
+        },
+        {
+          "t": "p",
+          "text": "Trades: Allowed. Good luck finding anyone who wants your losers."
+        },
+        {
+          "t": "p",
+          "text": "Commissioners: Heather and Edwin. Rulings are final, unless one of them changes their mind."
+        }
+      ]
+    },
+    {
+      "t": "h2",
+      "text": "The Losers League · Team Card · Season 1"
+    },
+    {
+      "t": "p",
+      "text": "Keep this. You’ll need it in Vol. 2."
+    },
+    {
+      "t": "p",
+      "text": "Team name ________ Owner ________ · QB $__ · RB $__ · WR $__ · TE $__ · FLEX $__ · K $__ · DEF $__ · Bench 1 $__ · Bench 2 $__ · Salary $____ / $50 · Vol. 1 · Vol. 2 · Vol. 3 · Vol. 4 · Season"
+    },
+    {
+      "t": "h2",
+      "text": "Vol. 1 League Box Score"
+    },
+    {
+      "t": "p",
+      "text": "Points for this issue only. Codes are on the scoring chart."
+    },
+    {
+      "t": "table",
+      "rows": [
+        [
+          "Pts",
+          "Loser",
+          "Codes",
+          "Note"
+        ],
+        [
+          "21",
+          "Carthage",
+          "Showed up · Feature · Myth busted · Enemy press",
+          "No ancient writer mentions the salt. The 1800s added it. We subtracted it."
+        ],
+        [
+          "10",
+          "Cornwallis",
+          "Showed up · Feature · Fan mail",
+          "Points collected by his deputy."
+        ],
+        [
+          "10",
+          "Matilda",
+          "Showed up · Feature · Fan mail",
+          "Never crowned. Outscored a pharaoh."
+        ],
+        [
+          "8",
+          "Napoleon",
+          "Showed up · Feature",
+          "Turns out he was the hire. Contract work pays less."
+        ],
+        [
+          "8",
+          "Hannibal",
+          "Showed up · Fan mail · Enemy press",
+          "His reviews were written by a Greek who lived in Rome."
+        ],
+        [
+          "8",
+          "Harold",
+          "Showed up · Fan mail · Enemy press",
+          "The tapestry was commissioned by the other team."
+        ],
+        [
+          "8",
+          "The Emus",
+          "Showed up · Feature",
+          "Didn’t win. Didn’t lose. Scored eight."
+        ],
+        [
+          "8",
+          "Betamax",
+          "Showed up · Feature",
+          "Better picture. Same points as Perot."
+        ],
+        [
+          "8",
+          "Perot",
+          "Showed up · Feature",
+          "Brought his own charts. Charts agree."
+        ],
+        [
+          "8",
+          "The Dodo",
+          "Showed up · Feature",
+          "Gave an interview. Bench rules: worth 4."
+        ],
+        [
+          "3",
+          "The Armada",
+          "Showed up · Feature · Weather",
+          "“God blew, and they were scattered.” So did the fantasy season."
+        ],
+        [
+          "3",
+          "Crassus",
+          "Showed up",
+          "Ranked No. 4. Offered cash for No. 3."
+        ],
+        [
+          "3",
+          "Varus",
+          "Showed up",
+          "Ranked No. 5. Augustus still wants the legions."
+        ],
+        [
+          "3",
+          "Direct Current",
+          "Showed up",
+          "One line in the timeline. Your outlets don’t care."
+        ],
+        [
+          "0",
+          "Byzantium",
+          "Showed up · Fan mail · Renamed",
+          "Wrote in to say they were Romans. This page calls them Byzantine. Sorry."
+        ],
+        [
+          "-2",
+          "Hatshepsut",
+          "Showed up · Feature · Erased",
+          "Lost to a chisel. Again. On paper this time."
+        ]
+      ]
+    },
+    {
+      "t": "h2",
+      "text": "Winners’ Circle · Vol. 1"
+    },
+    {
+      "t": "p",
+      "text": "Next issue: the best reader teams, printed here with the reason they won."
+    },
+    {
+      "t": "sidebar",
+      "title": "The Perfect Team — 69 pts · $50",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "In hindsight, which is the only way anyone has ever drafted correctly."
+        },
+        {
+          "t": "table",
+          "rows": [
+            [
+              "QB",
+              "Napoleon",
+              "8"
+            ],
+            [
+              "RB",
+              "Harold",
+              "8"
+            ],
+            [
+              "WR",
+              "Betamax",
+              "8"
+            ],
+            [
+              "TE",
+              "Byzantium",
+              "0"
+            ],
+            [
+              "FLEX",
+              "Matilda",
+              "10"
+            ],
+            [
+              "K",
+              "Cornwallis",
+              "10"
+            ],
+            [
+              "DEF",
+              "Carthage",
+              "21"
+            ],
+            [
+              "BN",
+              "The Dodo",
+              "4"
+            ]
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Spent exactly $50. Paid $10 for a tight end who scored zero, because the league only has one tight end."
+        }
+      ]
+    },
+    {
+      "t": "sidebar",
+      "title": "Heather’s Team — 40 pts · $49",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Drafted with her whole heart."
+        },
+        {
+          "t": "table",
+          "rows": [
+            [
+              "QB",
+              "Napoleon",
+              "8"
+            ],
+            [
+              "RB",
+              "Harold",
+              "8"
+            ],
+            [
+              "WR",
+              "Crassus",
+              "3"
+            ],
+            [
+              "TE",
+              "Byzantium",
+              "0"
+            ],
+            [
+              "FLEX",
+              "Perot",
+              "8"
+            ],
+            [
+              "K",
+              "Cornwallis",
+              "10"
+            ],
+            [
+              "DEF",
+              "Varus",
+              "3"
+            ]
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Every brooding man on the board, plus Perot. Took Crassus “for his personality.” Byzantium only made it because the league has one tight end."
+        }
+      ]
+    },
+    {
+      "t": "sidebar",
+      "title": "Edwin’s Team — 34 pts · $45",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Drafted from a spreadsheet."
+        },
+        {
+          "t": "table",
+          "rows": [
+            [
+              "QB",
+              "Hannibal",
+              "8"
+            ],
+            [
+              "RB",
+              "Direct Current",
+              "3"
+            ],
+            [
+              "WR",
+              "Crassus",
+              "3"
+            ],
+            [
+              "TE",
+              "Byzantium",
+              "0"
+            ],
+            [
+              "FLEX",
+              "The Armada",
+              "3"
+            ],
+            [
+              "K",
+              "Cornwallis",
+              "10"
+            ],
+            [
+              "DEF",
+              "Varus",
+              "3"
+            ],
+            [
+              "BN",
+              "The Dodo",
+              "4"
+            ]
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Took Crassus because “he has money.” Took the Armada because “130 ships.” Lost to weather."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "A game. Every player note and point comes from the features in this issue; see each feature’s sources."
+  ]
+}

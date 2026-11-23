@@ -1,0 +1,188 @@
+{
+ "slug": "dodo-was-framed",
+ "order": 12,
+ "section": "Up Front",
+ "kicker": "UP FRONT · COLD CASE No. 1662",
+ "label": "Lost the story",
+ "title": "The Dodo Was Framed!",
+ "dek": "For 400 years, the dodo has been the world’s shorthand for fat, dumb and doomed. Nobody ever took its side. We reopened the file.",
+ "byline": "Heather Chappell & Edwin Galloway",
+ "pages": [
+  12,
+  13
+ ],
+ "hero": "issue1/p012.jpg",
+ "summary": "The dodo’s reputation as fat, slow and stupid came from paintings, travel writers and taxonomists, not from anyone who saw a wild one.",
+ "topics": [
+  "Dodo",
+  "Mauritius",
+  "Roelant Savery",
+  "Lewis Carroll",
+  "Ustad Mansur",
+  "Extinction"
+ ],
+ "blocks": [
+  {
+   "t": "caption",
+   "text": "THE FRAME JOB: Roelant Savery, Edwards’s Dodo, 1626. Natural History Museum, London. Painted from overfed captives. Copied for 300 years."
+  },
+  {
+   "t": "p",
+   "text": "Case reopened"
+  },
+  {
+   "t": "p",
+   "text": "Everybody knows the dodo. Fat. Slow. Too stupid to run away. So dumb its name means “fool.” So gross that sailors wouldn’t eat it."
+  },
+  {
+   "t": "p",
+   "text": "Almost none of that came from anyone who saw a wild one."
+  },
+  {
+   "t": "h2",
+   "text": "The charges: all five, dismissed"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "Fat",
+     "Apocrypha 4",
+     "Wild dodos weighed about 10 to 14 kilos, roughly a big wild turkey. The chubby ones in the paintings were overfed captives and badly stuffed specimens."
+    ],
+    [
+     "Slow",
+     "Strongly supported",
+     "Its toe tendons match those of modern running and climbing birds. Researchers in 2024 called it almost certainly active and fast. Nobody ever timed one."
+    ],
+    [
+     "Stupid",
+     "Apocrypha 4",
+     "A 2016 scan of a dodo skull found a brain exactly the size you’d expect for a pigeon that big, plus an extra-large smell center. It wasn’t a genius. It was a perfectly normal pigeon."
+    ],
+    [
+     "Tasted terrible",
+     "Apocrypha 2",
+     "The Dutch first called it walghvogel, roughly “tasteless bird.” In 1602, one crew caught about two dozen and salted the leftovers for later."
+    ],
+    [
+     "Its name means “fool”",
+     "Apocrypha 3",
+     "An English travel writer said so in 1634 and credited Portuguese sailors. The Portuguese left no known record of the bird. The earliest dodo-word on record is the Dutch dodaars, from 1602, which means something like “fat-arse.”¹ Wrong end."
+    ]
+   ]
+  },
+  {
+   "t": "caption",
+   "text": "THE DEFENDANT: As the bones say it looked: lean, upright, about the weight of a big wild turkey."
+  },
+  {
+   "t": "h2",
+   "text": "The suspects: none of them ever saw one alive in the wild"
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "No. 1 · Roelant Savery",
+     "Painter · 1626",
+     "Painted a plump dodo that became the standard image for centuries, copied by people who never saw a feather."
+    ],
+    [
+     "No. 2 · Sir Thomas Herbert",
+     "Travel writer · 1634",
+     "Gave us “dodo” and the “fool” story, sourced to sailors who never wrote it down."
+    ],
+    [
+     "No. 3 · Carl Linnaeus",
+     "Taxonomist · 1766",
+     "Gave it the scientific name Didus ineptus. That’s Latin for “inept dodo.” Officially."
+    ],
+    [
+     "No. 4 · Lewis Carroll",
+     "Author · 1865",
+     "Put it in Alice, running a race where everybody wins. By 1886, “dodo” was slang for a dim person."
+    ],
+    [
+     "No. 5 · Richard Owen",
+     "Anatomist · 1866",
+     "Built a famous dodo skeleton and posed it like Savery’s painting. It came out squat. He fixed it three years later."
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "Exhibit A"
+  },
+  {
+   "t": "p",
+   "text": "Around 1625, an artist at the Mughal court in India painted a dodo: slim, brown and alert. Western scientists first saw it in 1958. By then everyone had already decided what a dodo looked like."
+  },
+  {
+   "t": "caption",
+   "text": "EXHIBIT A: c. 1625 · Mughal court. Attributed to Ustad Mansur. Institute of Oriental Manuscripts, St Petersburg."
+  },
+  {
+   "t": "h2",
+   "text": "What actually happened"
+  },
+  {
+   "t": "p",
+   "text": "~4,200 years ago: Survived. A drought killed more than 100,000 animals in a single Mauritius swamp, mostly giant tortoises and dodos. The dodo survived it."
+  },
+  {
+   "t": "p",
+   "text": "1598: The Dutch arrive. Pigs, monkeys and rats came with them. Dodos nested on the ground."
+  },
+  {
+   "t": "p",
+   "text": "1662: Last confirmed. The last confirmed dodos were seen on a tiny island offshore. Later “dodo” sightings may have been a different bird, the red rail, which had picked up the name. The dodo couldn’t even keep its own death certificate."
+  },
+  {
+   "t": "h2",
+   "text": "The experts had a rough few centuries too"
+  },
+  {
+   "t": "list",
+   "items": [
+    "Some 18th-century French naturalists decided the dodo was about as real as a griffin.",
+    "In 1977, a scientist argued in Science that a Mauritius tree couldn’t sprout without dodos. His evidence: he fed its seeds to 17 turkeys, and three sprouted. He had no comparison seeds. Young trees that sprouted long after the last dodo were already growing on the island."
+   ]
+  },
+  {
+   "t": "sidebar",
+   "title": "Ruling",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "The dodo lost the fight, and the fight was against pigs. It lost the story to a painter, a travel writer, a Swede, an anatomist and a math lecturer. None of them ever saw one alive in the wild."
+    }
+   ]
+  },
+  {
+   "t": "quote",
+   "text": "“I was a perfectly normal pigeon. That’s all I ever wanted to be.”",
+   "cite": "Last words, from the defendant"
+  },
+  {
+   "t": "p",
+   "text": "¹ “Fat-arse” is the likelier origin, not a certainty. Edwin wanted that in a footnote. I wanted it in the headline. [H.C.]"
+  },
+  {
+   "t": "p",
+   "text": "The receipts: Every source for this story is online. Scan the code on page 1."
+  }
+ ],
+ "sources": [
+  "Natural History Museum (London) publications on the dodo and Julian P. Hume’s research on dodo anatomy and history. The paintings named on the page: Roelant Savery, Edwards’s Dodo (1626), Natural History Museum, London; the Mughal dodo of about 1625, attributed to Ustad Mansur, Institute of Oriental Manuscripts, St Petersburg.",
+  "The research the page describes: the 2024 study of the dodo’s leg tendons and running ability.",
+  "The 2016 scan of a dodo skull and brain.",
+  "The roughly 4,200-year-old die-off in a Mauritius swamp.",
+  "The 1977 Science paper on the tambalacoque tree and the turkey experiment.",
+  "The 1602 Dutch word dodaars and Sir Thomas Herbert’s 1634 travel account.",
+  "Linnaeus’s Didus ineptus (1766)",
+  "Richard Owen’s skeleton (1866).",
+  "“Last Words, From the Defendant” is invented. The dodo did not give interviews."
+ ],
+ "note": "In print, the opening list of dodo myths and each charge name are struck through in red."
+}
