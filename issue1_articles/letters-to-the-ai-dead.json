@@ -304,5 +304,27 @@
  ],
  "sources": [
   "The letters and the AI replies are invented comedy. The facts in them come from the features in this issue and standard histories. Hannibal sleeping on the ground among the sentries and losing the sight in one eye: Livy, History of Rome, Books 21–22. Matilda: see Stephen Won the Crown. Matilda Won the Next 800 Years. below. Cornwallis and O’Hara at Yorktown: see Two Generals, One Printing Press below. Harold, the Bayeux Tapestry and the Byzantine Empire (including Hieronymus Wolf and the “Byzantine” label): drawn from widely documented history; we did not rely on a single named source."
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/letters-to-the-ai-dead-1.jpg",
+   "alt": "A row of grinning pastel skulls, the letters page banner",
+   "page": 5,
+   "w": 1122,
+   "h": 95,
+   "hero": false,
+   "wide": true,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/letters-to-the-ai-dead-2.jpg",
+   "alt": "Pull quote: I'm being remembered by a craft project made by the other team",
+   "page": 5,
+   "w": 415,
+   "h": 278,
+   "hero": true,
+   "wide": false,
+   "graphic": true
+  }
  ]
 }

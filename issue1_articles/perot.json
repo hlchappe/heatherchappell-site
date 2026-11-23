@@ -1,451 +1,523 @@
 {
-  "slug": "perot",
-  "order": 80,
-  "section": "The Files",
-  "kicker": "THE FILES · FEATURE",
-  "label": "Lost the fight",
-  "title": "The Outsider Had the White House on Speed Dial.",
-  "dek": "Ross Perot ran for president as the man Washington couldn’t buy. Nixon’s White House gave him a handler. Oliver North spent his money. General Motors paid him and three partners $742.8 million to go away. And in 1992, the only documented snooping in his story was what Time described as an FBI sting, baited with his own tapes, and State Department aides searching his passport file.",
-  "byline": "Heather Chappell & Edwin Galloway",
-  "pages": [
-    80,
-    86
-  ],
-  "hero": "issue1/p080.jpg",
-  "summary": "Ross Perot ran in 1992 as the outsider, but for decades he worked with the White House, funded Oliver North’s hostage mission and took a $742.8M GM buyout.",
-  "topics": [
-    "Ross Perot",
-    "1992 presidential election",
-    "Oliver North",
-    "EDS",
-    "General Motors",
-    "Richard Nixon"
-  ],
-  "blocks": [
-    {
-      "t": "caption",
-      "text": "Ross Perot at the U.S. Capitol. Photo: Maureen Keating, CQ Roll Call Collection, Library of Congress."
-    },
-    {
-      "t": "h2",
-      "text": "Nine Days Before the Election"
-    },
-    {
-      "t": "p",
-      "text": "On October 25, 1992, Ross Perot sat down with 60 Minutes and explained why he had quit the presidential race that summer."
-    },
-    {
-      "t": "caption",
-      "text": "THE VOODOO STICK. The pointer Perot aimed at his infomercial charts had a fake alligator foot on top. It’s in the Smithsonian now."
-    },
-    {
-      "t": "p",
-      "text": "He said Republicans had planned to smear his daughter Carolyn with a doctored photo and disrupt her wedding. He said he dropped out to protect his family. Then, on October 1, he had jumped back in."
-    },
-    {
-      "t": "p",
-      "text": "The White House called him paranoid. By then he was already a cartoon: the small Texas billionaire with the big stack of charts. He had gone on Larry King Live in February and promised to run if volunteers put him on the ballot in all 50 states. They did. He talked about the deficit like a mechanic talks about a bad transmission. He warned of “a giant sucking sound of jobs being pulled out of this country.” He spent about $60 million of his own money and said nobody could buy him."
-    },
-    {
-      "t": "p",
-      "text": "He was the outsider. No party, no donors, no lobbyists."
-    },
-    {
-      "t": "p",
-      "text": "That’s the story. It leaves out the 23 years before it."
-    },
-    {
-      "t": "p",
-      "text": "Long before he ran against Washington, Ross Perot had been one of Washington’s most useful private citizens. A president’s aides handled him. Nixon’s files, as AP read them, record White House help with his company’s contract appeals. A secret operation spent his money. And that wedding plot? No evidence of it has ever surfaced. But two covert operations from 1992 are on the record, and Perot was part of both of them."
-    },
-    {
-      "t": "p",
-      "text": "To see how, start where the phone first rang."
-    },
-    {
-      "t": "h2",
-      "text": "1969: The White House Assigns a Handler"
-    },
-    {
-      "t": "p",
-      "text": "In 1969, Perot was 39. He was a Naval Academy graduate and a former IBM salesman. Seven years earlier he had started a computer services company in Dallas called Electronic Data Systems, or EDS."
-    },
-    {
-      "t": "p",
-      "text": "The timing helped. In 1965 Congress created Medicare and Medicaid, and someone had to process millions of health claims. EDS won the work in Texas and copied the system to other states. By 1968, according to reference histories of the company, government health programs made up about a quarter of its sales. That year EDS went public, and Fortune magazine valued his stake at about $300 million. The headline called him “The Fastest Richest Texan Ever.”"
-    },
-    {
-      "t": "p",
-      "text": "Now Richard Nixon was in his first year as president. The Vietnam War dragged on, and North Vietnam held hundreds of American prisoners of war. Their wives were desperate for the world to notice how the men were treated. The White House wanted that too, but it couldn’t look like a government publicity campaign."
-    },
-    {
-      "t": "p",
-      "text": "Perot volunteered. He bought newspaper ads under the slogan “United We Stand.” He paid for a TV special. In December 1969 he chartered jets, loaded them with Christmas gifts and letters for the prisoners, and flew them toward Southeast Asia. North Vietnam wouldn’t let them in, but the world watched."
-    },
-    {
-      "t": "p",
-      "text": "It looked like one rich man’s crusade. Inside the White House, it was a management problem."
-    },
-    {
-      "t": "p",
-      "text": "Alexander Butterfield, a Nixon White House aide later famous for revealing Nixon’s secret tapes, told the Nixon Library’s oral history project: “I was put in charge of Ross. I was the point of contact for Ross.” H. R. Haldeman, Nixon’s chief of staff, wrote in his diary on November 11, 1969, that Perot kept calling about his ads and TV plans. It was “really almost unbelievable,” he wrote, and “our real need is to find a way to channel the energy and money productively.”"
-    },
-    {
-      "t": "p",
-      "text": "On February 1, 1970, Nixon met Perot and adopted his idea for a White House “action team” on the prisoners."
-    },
-    {
-      "t": "p",
-      "text": "So who was using whom? The record says both. Perot brought the ideas and the cash. The White House took them and assigned a staffer to keep him pointed in a useful direction. Butterfield also said Perot “never followed through on his things.”"
-    },
-    {
-      "t": "p",
-      "text": "The White House didn’t hire Perot. It gave him a handler."
-    },
-    {
-      "t": "h2",
-      "text": "1970-1980: Did the Favors Run Both Ways?"
-    },
-    {
-      "t": "p",
-      "text": "The next decade shows what that relationship looked like from each end."
-    },
-    {
-      "t": "p",
-      "text": "First, what Perot gave. In 1970, one of Wall Street’s biggest brokerages, duPont Glore Forgan, was failing, and regulators feared a collapse would set off a panic. Perot stepped in with his own money. His account is that Nixon officials urged him to do it as a patriotic duty. Time magazine gave the credit to a New York banker, Felix Rohatyn. Either way, Perot poured in about $100 million over four years, merged the firm with another shaky brokerage, Walston, and watched it fail anyway. In 1974, Time reported he might get back as little as $10 million."
-    },
-    {
-      "t": "p",
-      "text": "He lost tens of millions of dollars trying to save Wall Street. Nobody put that on a chart in 1992."
-    },
-    {
-      "t": "p",
-      "text": "Now what he asked for. In 1992, the Associated Press went through Nixon archive documents. A White House memo to Haldeman, dated January 12, 1972, listed what Perot had asked for. AP reported that the records show “White House intervention for Perot at the IRS and in two appeals of government contracts.” The contracts belonged to EDS. The same files record Perot pledging $50 million and $10 million to pro-Nixon causes. Neither was ever paid. Perot denied the pledges: “I can’t control what people scribble on pads.”"
-    },
-    {
-      "t": "p",
-      "text": "What the files don’t show is how the appeals turned out, or that anyone broke a rule. Big donors asked the Nixon White House for help all the time."
-    },
-    {
-      "t": "p",
-      "text": "That spring brought another well-timed move. On March 30, 1972, two top EDS executives, Milledge Hart and Mervin Stauffer, gave $100,000 to the presidential campaign of Rep. Wilbur Mills, using 17 separate committees. Eight days later, a new law took effect that required big donors to be named. Mills chaired the House Ways and Means Committee, which oversees Medicare, and Medicare was central to EDS’s government work."
-    },
-    {
-      "t": "p",
-      "text": "It was legal. No record shows that Mills did anything for EDS in return."
-    },
-    {
-      "t": "p",
-      "text": "The habit outlasted Nixon. In 1980, Texas Monthly later reported, the Texas welfare board picked a rival company for the state’s Medicaid contract. Staff said the rival’s bid would save taxpayers at least $20 million. According to the magazine, Perot then visited board members privately, and the board reversed itself and kept EDS."
-    },
-    {
-      "t": "p",
-      "text": "The outsider’s fortune didn’t come from Washington. But it ran through it.¹"
-    },
-    {
-      "t": "h2",
-      "text": "1985: He Becomes Oliver North’s Private Bank"
-    },
-    {
-      "t": "p",
-      "text": "The oddest job came in the Reagan years."
-    },
-    {
-      "t": "p",
-      "text": "In 1985, Americans were being held hostage in Lebanon. Oliver North, a Marine officer on President Ronald Reagan’s National Security Council staff, was running secret operations to get them out. He needed money that couldn’t come from the government’s books."
-    },
-    {
-      "t": "p",
-      "text": "The final report of the Iran-Contra independent counsel, Lawrence Walsh, spells it out. “Ross Perot provided the money for the operation, which North conducted with two Drug Enforcement Agents temporarily detailed to the NSC staff.” Then: “In all, Perot made available $1.3 million for this operation.” That included $200,000 paid to a drug-agency informant, $100,000 passed through the FBI, and $1 million for a ransom payment that was never made. The $1 million went back to Perot."
-    },
-    {
-      "t": "p",
-      "text": "News reports in 1986 said a Perot courier waited on the island of Cyprus with ransom money for a handoff that never happened."
-    },
-    {
-      "t": "p",
-      "text": "Perot’s explanation was simple: “I wouldn’t have done it unless it was at the request of the United States government.”"
-    },
-    {
-      "t": "p",
-      "text": "Before most Americans had heard the name Oliver North, Ross Perot was his private bank.²"
-    },
-    {
-      "t": "h2",
-      "text": "December 1986: General Motors Pays Him to Leave, and to Stay Quiet"
-    },
-    {
-      "t": "p",
-      "text": "By then Perot had sold his company. In 1984, General Motors bought EDS for about $2.5 billion. Perot got GM stock and a seat on GM’s board. He used the seat to criticize GM’s management, loudly and in public."
-    },
-    {
-      "t": "p",
-      "text": "In December 1986, GM ended the problem. It paid Perot and three EDS partners $742.8 million, or $61.90 a share, when GM’s special stock traded at about $31. (Much of the gap came from buying back notes that guaranteed Perot a minimum price.) The four men left the board. And the deal included a penalty: if Perot publicly criticized GM’s management, he owed the company up to $7.5 million."
-    },
-    {
-      "t": "p",
-      "text": "Perot took the money and called the deal “morally wrong.” He said “$700 million would buy a brand spanking new car plant.” Angry shareholders sued, calling it “hush mail.”"
-    },
-    {
-      "t": "p",
-      "text": "Buyouts like this, called greenmail, were common in the mid-1980s. What was unusual was the price tag on his opinions."
-    },
-    {
-      "t": "p",
-      "text": "Six years later, the candidate who told voters that nobody could buy him had already taken part in a $742.8 million payout to go away."
-    },
-    {
-      "t": "h2",
-      "text": "1986-1987: The Vice President Stops Taking His Calls"
-    },
-    {
-      "t": "p",
-      "text": "While the GM fight played out, Perot was running another campaign. It was about prisoners of war, and it cost him the vice president’s ear."
-    },
-    {
-      "t": "p",
-      "text": "In the mid-1980s, Perot went looking for American prisoners he believed were still alive in Southeast Asia. Vice President George H. W. Bush gave him access to government POW files. The New Republic later reported, “The files showed nothing.” Then Perot turned his search on Washington itself. In 1986 he took material attacking a senior Pentagon official to Bush and to the FBI director. The FBI looked into it and “found nothing.” In March 1987, Perot flew secretly to Hanoi, and the White House learned about the trip after he got home."
-    },
-    {
-      "t": "p",
-      "text": "As late as March 1987, Bush wrote Perot a warm letter. After the Hanoi trip, he stopped taking Perot’s calls."
-    },
-    {
-      "t": "p",
-      "text": "Five years later, Perot ran against him. Some of Bush’s aides said the campaign was a grudge match. Perot said it wasn’t, and he ran again in 1996, when Bush was long gone. No document proves that the feud caused the run."
-    },
-    {
-      "t": "p",
-      "text": "The man who had been calling the White House for 18 years finally found a line that wouldn’t pick up. Whether that put him on the ballot, the record can’t say."
-    },
-    {
-      "t": "h2",
-      "text": "August 1992: A Cowboy Offers Bush’s Man Some Tapes"
-    },
-    {
-      "t": "p",
-      "text": "By June 1992, Perot was leading the race. Polls had him at about 38 percent, ahead of both President Bush and Arkansas Gov. Bill Clinton. Then, on July 16, he quit. His reason at the time: “Now that the Democratic Party has revitalized itself, I have concluded that we cannot win in November.” A Time poll found only 17 percent of his supporters believed that."
-    },
-    {
-      "t": "p",
-      "text": "Behind the scenes, something else was going on."
-    },
-    {
-      "t": "p",
-      "text": "Perot had been hearing warnings about Republican spies from Scott Barnes, a self-described soldier of fortune whom Time called “a shady storyteller.” The tips reached the FBI, and the bureau took them seriously enough to set a trap. According to Time, the bait was a set of supposed wiretap recordings of Perot’s phone calls. “In reality,” Time reported, “the recordings were made by Perot himself as bait for the FBI’s trap.”"
-    },
-    {
-      "t": "p",
-      "text": "On August 6, Barnes approached Jim Oberwetter, chairman of the Bush–Quayle campaign in Texas. On August 10, an undercover agent dressed as a cowboy offered Oberwetter the tapes for $2,500. Oberwetter turned them down both times, and his campaign reported the approach to the Dallas police. The FBI denied running a sting on the campaign. Oberwetter called it entrapment."
-    },
-    {
-      "t": "p",
-      "text": "Oliver “Buck” Revell, head of the FBI’s Dallas office, said the bureau found “nothing to substantiate the allegation of a conspiracy to commit wiretapping.” As for the wedding plot Perot described in October, nobody has ever produced a source for it."
-    },
-    {
-      "t": "p",
-      "text": "Years later Barnes told the Associated Press, “It was a lie. We orchestrated the whole thing.” Barnes has contradicted himself elsewhere, so this account is unreliable too."
-    },
-    {
-      "t": "p",
-      "text": "Perot said the Bush campaign was spying on him. The only documented undercover operation of the race approached Bush’s Texas chairman. The bait was tapes Perot recorded himself.³"
-    },
-    {
-      "t": "h2",
-      "text": "Fall 1992: Somebody Really Did Open His File"
-    },
-    {
-      "t": "p",
-      "text": "Here the record takes a turn in Perot’s favor."
-    },
-    {
-      "t": "p",
-      "text": "In late September 1992, officials at the State Department searched Bill Clinton’s passport records. By then Clinton was the Democratic nominee. The officials were looking for a rumored letter from his student days in which he supposedly asked about giving up his U.S. citizenship. An official passed on the request “on behalf of the White House.” No such letter turned up."
-    },
-    {
-      "t": "p",
-      "text": "When the story broke, reporters found more. State Department aides had also searched Ross Perot’s passport file. On November 10, 1992, the Washington Post ran the headline “State Dept. Aides Searched Perot’s Passport File.” The official in charge of consular records, Elizabeth Tamposi, was forced out. The department’s inspector general later said officials had tried to use the department “to influence the outcome of a presidential election.” An independent counsel called the Clinton search “stupid” but found no crime."
-    },
-    {
-      "t": "p",
-      "text": "This doesn’t prove Perot’s wedding story. The passport search came after he quit in July, so it can’t explain why he left. But it does mean that when a candidate said the government was poking into his records, he wasn’t imagining all of it."
-    },
-    {
-      "t": "p",
-      "text": "He said they were watching him. Some of them were. Just not the way he said."
-    },
-    {
-      "t": "h2",
-      "text": "November 1992 and After: He Loses, and His Voters Don’t Go Home"
-    },
-    {
-      "t": "p",
-      "text": "On election day, Perot won 19,743,821 votes, 18.9 percent, and no electoral votes. His running mate is remembered for opening his debate with “Who am I? Why am I here?” He was Vice Adm. James Stockdale, who had spent seven and a half years as a prisoner of war in North Vietnam and won the Medal of Honor. The cause that first brought Perot to the White House had given him his running mate."
-    },
-    {
-      "t": "p",
-      "text": "For three decades, Republicans have said Perot cost Bush the election. The data say otherwise. Political scientists Dean Lacy and Barry Burden studied the 1992 vote and found that Perot’s candidacy “decreased Clinton’s margin of victory over Bush by seven percentage points.” Take Perot out, and Clinton wins by more."
-    },
-    {
-      "t": "p",
-      "text": "His voters didn’t disappear. In 1994, voters who had backed Perot in 1992 gave House Democrats only about a third of their votes, and Republicans took the House for the first time in 40 years. Political scientists Ronald Rapoport and Walter Stone argued that without Perot there would have been “little or no mobilization into the Republican Party in 1994.”"
-    },
-    {
-      "t": "p",
-      "text": "His deficit crusade stuck, too. Alan Blinder, an economist in the Clinton White House, credited “Perot and other people” with pushing deficit reduction “close to number one” on the new president’s list."
-    },
-    {
-      "t": "p",
-      "text": "In 1996 Perot ran again, for his new Reform Party, and got 8.4 percent. The Commission on Presidential Debates kept him out of the debates, and his lawsuit failed. In 2000 the Reform Party split apart. The conservative commentator Pat Buchanan won its nomination and the $12.6 million in federal campaign money that Perot’s 1996 vote had earned. Before that, in October 1999, a New York real estate developer named Donald Trump formed a Reform Party exploratory committee. He was recruited by allies of Minnesota’s Reform governor, Jesse Ventura, not by Perot, and he dropped out in February 2000."
-    },
-    {
-      "t": "p",
-      "text": "Perot died in 2019."
-    },
-    {
-      "t": "p",
-      "text": "He didn’t spoil 1992. His voters swung 1994."
-    },
-    {
-      "t": "h2",
-      "text": "Outside the Building, with a Key"
-    },
-    {
-      "t": "p",
-      "text": "Ross Perot sold himself as the man outside the building. For 18 years, he’d had a key. He ran errands for one president’s aides, banked a secret mission run from another president’s staff, and fell out with a vice president. One of the biggest checks he ever got came with a penalty for talking."
-    },
-    {
-      "t": "p",
-      "text": "Then, as the outsider, he told America the insiders were spying on him. He never proved the plot. But somebody really was going through his files."
-    },
-    {
-      "t": "p",
-      "text": "The outsider had the White House on speed dial. In 1992, he ran against the people who used to pick up."
-    },
-    {
-      "t": "h2",
-      "text": "What We Can Prove / What We Can’t"
-    },
-    {
-      "t": "p",
-      "text": "Proven:"
-    },
-    {
-      "t": "list",
-      "items": [
-        "A Nixon aide said he “was put in charge of Ross,” and Haldeman’s diary shows the White House trying to “channel” Perot’s money and energy.",
-        "The Iran-Contra independent counsel found that “Perot made available $1.3 million” for Oliver North’s hostage operation.",
-        "GM paid Perot and three partners $742.8 million in 1986, with a penalty of up to $7.5 million for public criticism.",
-        "Two EDS executives gave $100,000 to Wilbur Mills’s campaign through 17 committees on March 30, 1972."
-      ]
-    },
-    {
-      "t": "p",
-      "text": "Strongly supported:"
-    },
-    {
-      "t": "list",
-      "items": [
-        "In August 1992 an undercover FBI approach offered Bush’s Texas chairman supposed wiretaps of Perot, and Time reports the recordings were made by Perot himself. The chairman refused twice.",
-        "Perot’s candidacy didn’t cost Bush the election.",
-        "State Department aides searched Perot’s passport file in the fall of 1992 (Washington Post and Time; the Post article’s full text still needs reading)."
-      ]
-    },
-    {
-      "t": "p",
-      "text": "Likely:"
-    },
-    {
-      "t": "list",
-      "items": [
-        "The White House intervention for Perot at the IRS and in EDS contract appeals (AP’s 1992 reading of Nixon archive memos).",
-        "The 1980 Texas Medicaid reversal (Texas Monthly, 1988)."
-      ]
-    },
-    {
-      "t": "p",
-      "text": "Not proven:"
-    },
-    {
-      "t": "list",
-      "items": [
-        "Any Republican plot to smear Perot’s daughter or disrupt her wedding.",
-        "That any favor was traded for the Mills donation or the Nixon pledges.",
-        "That his feud with Bush caused his 1992 run.",
-        "Any CIA tie."
-      ]
-    },
-    {
-      "t": "p",
-      "text": "The other side. Perot was a sincere, if suspicious, patriot. His POW campaign helped the prisoners’ wives force the issue onto the world’s front pages. In 1979, when two EDS employees were jailed in Iran, he organized a private rescue that got them out. That act of loyalty to his own people became the novelist Ken Follett’s book On Wings of Eagles. Presidents have long leaned on private citizens for delicate jobs. John F. Kennedy’s team sent a private lawyer, James Donovan, to trade food and medicine for the Bay of Pigs prisoners. EDS’s first customers were private companies, and most of its revenue never came from Washington. Why weigh it: the documents fit a man who used the system and was used by it. They don’t fit a puppet."
-    },
-    {
-      "t": "p",
-      "text": "Why the gap? Maybe Perot was exactly what he said: a businessman who kept answering when his country called, and who grew suspicious when it stopped calling back. Or maybe he learned from the inside how favors, files and secret money really move, and assumed everyone else played that way too. Either way, the outsider had spent his whole career inside, and the paperwork says so."
-    },
-    {
-      "t": "h2",
-      "text": "Notes"
-    },
-    {
-      "t": "p",
-      "text": "¹ “Ran through” is doing careful work here. The company didn’t start on government money. Its first customers were private. [E.G.] · So he wasn’t a government billionaire. [H.C.] · He was a billionaire the government kept calling. [E.G.]"
-    },
-    {
-      "t": "p",
-      "text": "² The Walsh report says Perot “provided” and “made available” the money. “At North’s request” is Perot’s version and the newspapers’ headline. [E.G.]"
-    },
-    {
-      "t": "p",
-      "text": "³ Time says the recordings were made by Perot himself. We couldn’t confirm whether anyone asked him to make them, so we’re not saying. [E.G.] · I would like it noted that the FBI’s undercover man dressed as a cowboy. In Texas. [H.C.] · That was the disguise. [E.G.]"
-    }
-  ],
-  "sources": [
-    "Walsh, Lawrence E. Final Report of the Independent Counsel for Iran/Contra Matters. Vol. I: Investigations and Prosecutions. Washington, D.C.: U.S. Court of Appeals for the District of Columbia Circuit, Aug. 4, 1993. Ch. 14, “Other Money Matters: Traveler’s Checks and Cash Transactions” (section “The Cash: The DEA Hostage-Rescue Operation”). Federation of American Scientists mirror: https://irp.fas.org/offdocs/walsh/chap_14.htm.",
-    "Butterfield, Alexander. Oral history, Richard Nixon Presidential Library, June 12, 2008. https://www.nixonlibrary.gov/sites/default/files/forresearchers/find/histories/butterfield-2008-06-12.pdf",
-    "Haldeman, H. R. Diary, Nov. 11, 1969. Nixon Library. https://www.nixonlibrary.gov/sites/default/files/virtuallibrary/documents/haldeman-diaries/37-hrhd-journal-vol03-19691111.pdf",
-    "Foreign Relations of the United States, 1969–76, vol. VI, doc. 177 (Feb. 1, 1970). https://history.state.gov/historicaldocuments/frus1969-76v06/d177",
-    "Solomon, John (AP). “Perot Promised Nixon Money, Archives Indicate.” Seattle Times, May 7, 1992. https://archive.seattletimes.com/archive/19920507/1490494/perot-promised-nixon-money-archives-indicate",
-    "AP. “Mills’ campaign funds questioned.” Michigan Daily, Aug. 2, 1974. https://digital.bentley.umich.edu/midaily/mdp.39015071754571/657",
-    "Louis, Arthur M. “Ross Perot: The Fastest Richest Texan Ever.” Fortune, Nov. 1968. https://fortune.com/article/the-fastest-richest-texan-ever/",
-    "International Directory of Company Histories, “Electronic Data Systems Corp.” (Encyclopedia.com). https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/electronic-data-systems-corp",
-    "TSHA Handbook of Texas, “Electronic Data Systems.” https://www.tshaonline.org/handbook/entries/electronic-data-systems",
-    "Elkind, Peter. “Can Ross Perot Save America?” Texas Monthly, Dec. 1988. https://www.texasmonthly.com/news-politics/can-ross-perot-save-america/",
-    "Morrison, Donald. “Ambush on Wall Street.” Texas Monthly, Apr. 1974. https://www.texasmonthly.com/news-politics/ambush-on-wall-street/",
-    "TIME. “Perot’s Orderly Retreat,” Feb. 4, 1974. https://time.com/archive/6842290/wall-street-perots-orderly-retreat/",
-    "TIME. “Felix the Fixer,” June 17, 1974. https://time.com/archive/6817058/investment-felix-the-fixer/",
-    "In re General Motors Class E Stock Buyout Securities Litigation, 694 F. Supp. 1119 (D. Del. 1988). https://www.courtlistener.com/opinion/1874183/in-re-general-motors-class-e-stock-buyout-securities-litigation/",
-    "Grobow v. Perot, 539 A.2d 180 (Del. 1988). https://www.courtlistener.com/opinion/2381868/grobow-v-perot/",
-    "UPI. “Perot says GM’s buyout was lousy investment,” Dec. 2, 1986. https://www.upi.com/Archives/1986/12/02/Perot-says-GMs-buyout-was-lousy-investment/4967533883600/",
-    "UPI. “Lt. Col. Oliver North convinced Texas billionaire H. Ross Perot…,” Dec. 2, 1986. https://www.upi.com/Archives/1986/12/02/Lt-Col-Oliver-North-convinced-Texas-billionaire-H-Ross/1245533883600/",
-    "Church, George J. “Perot’s Private Probes.” TIME, May 4, 1987. https://time.com/archive/6709091/perots-private-probes/",
-    "Blumenthal, Sidney. “The Mission.” The New Republic, July 6, 1992. https://newrepublic.com/article/90592/ross-perot-vietnam-texas",
-    "Clift, Eleanor. “Perot vs. Bush: Campaign of Vendetta.” Newsweek, June 14, 1992. https://www.newsweek.com/perot-vs-bush-campaign-vendetta-199644",
-    "Behar, Richard. “Sting the President.” TIME, Nov. 9, 1992. https://content.time.com/time/subscriber/article/0,33009,976976,00.html",
-    "UPI. “Bush-Quayle official says he was offered alleged Perot tapes,” Aug. 14, 1992. https://www.upi.com/amp/Archives/1992/08/14/Bush-Quayle-official-says-he-was-offered-alleged-Perot-tapes/3343713764800/",
-    "Deseret News (AP). “FBI probes story that Perot office was wiretapped,” Aug. 14, 1992. https://www.deseret.com/1992/8/14/18999621/fbi-probes-story-that-perot-office-was-wiretapped/",
-    "UPI. “Perot charges Bush camp wanted to smear his daughter,” Oct. 25, 1992. https://www.upi.com/Archives/1992/10/25/Perot-charges-Bush-camp-wanted-to-smear-his-daughter/9601719985600/",
-    "UPI. “FBI official denies sting against Bush campaign official,” Nov. 18, 1992. https://www.upi.com/Archives/1992/11/18/FBI-officials-denies-sting-against-Bush-campaign-official/5057722062800/",
-    "Deseret News (AP). “Perot tricked into quitting ‘92 campaign,” Mar. 29, 1997. https://www.deseret.com/1997/3/29/19303460/perot-tricked-into-quitting-92-campaign/",
-    "Posner, Gerald. Citizen Perot (1996), excerpt “Perotnoia,” Dallas Observer. https://www.dallasobserver.com/news/perotnoia-6403424/",
-    "Washington Post. “State Dept. Aides Searched Perot’s Passport File,” Nov. 10, 1992. https://www.washingtonpost.com/archive/politics/1992/11/10/state-dept-aides-searched-perots-passport-file/be1b758d-5b23-493d-a641-e80ed37917b6/",
-    "In re Mullins, 87 F.3d 1372 (D.C. Cir. 1996). https://www.courtlistener.com/opinion/721291/in-re-janet-g-mullins-tutwiler-fee-application/",
-    "Berry v. Funk (D.C. Cir. 1998). https://caselaw.findlaw.com/court/us-dc-circuit/1392258.html",
-    "ADST oral history (Terence Shea), 2020. https://adst.org/2020/11/did-president-clinton-try-to-renounce-his-u-s-citizenship-investigating-the-presidential-scandal/",
-    "p1992.us, Perot’s July 16, 1992 statement. https://p1992.us/perot/perot071692spt.html",
-    "Roper Center, “None of the Above: Polling and Third-Party Candidates.” https://ropercenter.cornell.edu/blog/none-above-polling-and-third-party-candidates",
-    "Commission on Presidential Debates, transcript, Oct. 19, 1992. https://www.debates.org/voter-education/debate-transcripts/october-19-1992-debate-transcript/",
-    "Lacy, Dean, and Barry Burden. “The Vote-Stealing and Turnout Effects of Ross Perot in the 1992 U.S. Presidential Election.” AJPS 43(1), 1999. https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/9/280/files/2016/09/LacyBurdenAJPS1999.pdf",
-    "Rapoport, Ronald, and Walter Stone. Three’s a Crowd (U. Michigan Press, 2005). https://press.umich.edu/Books/T/Three-s-A-Crowd2 ; review, Texas Observer, 2006. https://www.texasobserver.org/2160-the-third-party-dynamic/",
-    "Teixeira, Ruy. “Deserted Democrats.” American Prospect, Dec. 19, 2001. https://prospect.org/2001/12/19/deserted-democrats-1994/",
-    "Miller Center. “Ross Perot: Election spoiler or message shaper?” July 10, 2019. https://millercenter.org/ross-perot-election-spoiler-or-message-shaper",
-    "Split-Ticket. “Examining Ross Perot’s impact on the 1992 presidential election,” 2023. https://split-ticket.org/2023/04/01/examining-ross-perots-impact-on-the-1992-presidential-election/",
-    "CNN. FEC vote on Reform Party funds, Sept. 12, 2000. https://edition.cnn.com/2000/ALLPOLITICS/stories/09/12/fec.reform/index.html",
-    "CIA. “The Negotiator” (James Donovan). https://www.cia.gov/stories/story/the-negotiator",
-    "TIME. POW wives “go public,” 2019. https://time.com/5562257/vietnam-pow-wives-go-public/",
-    "Farley, Richard. “Ross Perot’s forgotten mission.” TIME, Jan. 5, 2020. https://time.com/5759015/ross-perots-forgotten-mission-vietnam-war/",
-    "TSHA Handbook of Texas, “Perot, Henry Ross.” https://www.tshaonline.org/handbook/entries/perot-henry-ross",
-    "Pipes, Daniel. Review of Ken Follett, On Wings of Eagles. This World, no. 7 (Winter 1984). https://www.danielpipes.org/documents/7958.pdf",
-    "Image: Ross Perot at the U.S. Capitol. Photo: Maureen Keating, CQ Roll Call Collection, Library of Congress."
-  ]
+ "slug": "perot",
+ "order": 80,
+ "section": "The Files",
+ "kicker": "THE FILES · FEATURE",
+ "label": "Lost the fight",
+ "title": "The Outsider Had the White House on Speed Dial.",
+ "dek": "Ross Perot ran for president as the man Washington couldn’t buy. Nixon’s White House gave him a handler. Oliver North spent his money. General Motors paid him and three partners $742.8 million to go away. And in 1992, the only documented snooping in his story was what Time described as an FBI sting, baited with his own tapes, and State Department aides searching his passport file.",
+ "byline": "Heather Chappell & Edwin Galloway",
+ "pages": [
+  80,
+  86
+ ],
+ "hero": "issue1/p080.jpg",
+ "summary": "Ross Perot ran in 1992 as the outsider, but for decades he worked with the White House, funded Oliver North’s hostage mission and took a $742.8M GM buyout.",
+ "topics": [
+  "Ross Perot",
+  "1992 presidential election",
+  "Oliver North",
+  "EDS",
+  "General Motors",
+  "Richard Nixon"
+ ],
+ "blocks": [
+  {
+   "t": "caption",
+   "text": "Ross Perot at the U.S. Capitol. Photo: Maureen Keating, CQ Roll Call Collection, Library of Congress."
+  },
+  {
+   "t": "h2",
+   "text": "Nine Days Before the Election"
+  },
+  {
+   "t": "p",
+   "text": "On October 25, 1992, Ross Perot sat down with 60 Minutes and explained why he had quit the presidential race that summer."
+  },
+  {
+   "t": "caption",
+   "text": "THE VOODOO STICK. The pointer Perot aimed at his infomercial charts had a fake alligator foot on top. It’s in the Smithsonian now."
+  },
+  {
+   "t": "p",
+   "text": "He said Republicans had planned to smear his daughter Carolyn with a doctored photo and disrupt her wedding. He said he dropped out to protect his family. Then, on October 1, he had jumped back in."
+  },
+  {
+   "t": "p",
+   "text": "The White House called him paranoid. By then he was already a cartoon: the small Texas billionaire with the big stack of charts. He had gone on Larry King Live in February and promised to run if volunteers put him on the ballot in all 50 states. They did. He talked about the deficit like a mechanic talks about a bad transmission. He warned of “a giant sucking sound of jobs being pulled out of this country.” He spent about $60 million of his own money and said nobody could buy him."
+  },
+  {
+   "t": "p",
+   "text": "He was the outsider. No party, no donors, no lobbyists."
+  },
+  {
+   "t": "p",
+   "text": "That’s the story. It leaves out the 23 years before it."
+  },
+  {
+   "t": "p",
+   "text": "Long before he ran against Washington, Ross Perot had been one of Washington’s most useful private citizens. A president’s aides handled him. Nixon’s files, as AP read them, record White House help with his company’s contract appeals. A secret operation spent his money. And that wedding plot? No evidence of it has ever surfaced. But two covert operations from 1992 are on the record, and Perot was part of both of them."
+  },
+  {
+   "t": "p",
+   "text": "To see how, start where the phone first rang."
+  },
+  {
+   "t": "h2",
+   "text": "1969: The White House Assigns a Handler"
+  },
+  {
+   "t": "p",
+   "text": "In 1969, Perot was 39. He was a Naval Academy graduate and a former IBM salesman. Seven years earlier he had started a computer services company in Dallas called Electronic Data Systems, or EDS."
+  },
+  {
+   "t": "p",
+   "text": "The timing helped. In 1965 Congress created Medicare and Medicaid, and someone had to process millions of health claims. EDS won the work in Texas and copied the system to other states. By 1968, according to reference histories of the company, government health programs made up about a quarter of its sales. That year EDS went public, and Fortune magazine valued his stake at about $300 million. The headline called him “The Fastest Richest Texan Ever.”"
+  },
+  {
+   "t": "p",
+   "text": "Now Richard Nixon was in his first year as president. The Vietnam War dragged on, and North Vietnam held hundreds of American prisoners of war. Their wives were desperate for the world to notice how the men were treated. The White House wanted that too, but it couldn’t look like a government publicity campaign."
+  },
+  {
+   "t": "p",
+   "text": "Perot volunteered. He bought newspaper ads under the slogan “United We Stand.” He paid for a TV special. In December 1969 he chartered jets, loaded them with Christmas gifts and letters for the prisoners, and flew them toward Southeast Asia. North Vietnam wouldn’t let them in, but the world watched."
+  },
+  {
+   "t": "p",
+   "text": "It looked like one rich man’s crusade. Inside the White House, it was a management problem."
+  },
+  {
+   "t": "p",
+   "text": "Alexander Butterfield, a Nixon White House aide later famous for revealing Nixon’s secret tapes, told the Nixon Library’s oral history project: “I was put in charge of Ross. I was the point of contact for Ross.” H. R. Haldeman, Nixon’s chief of staff, wrote in his diary on November 11, 1969, that Perot kept calling about his ads and TV plans. It was “really almost unbelievable,” he wrote, and “our real need is to find a way to channel the energy and money productively.”"
+  },
+  {
+   "t": "p",
+   "text": "On February 1, 1970, Nixon met Perot and adopted his idea for a White House “action team” on the prisoners."
+  },
+  {
+   "t": "p",
+   "text": "So who was using whom? The record says both. Perot brought the ideas and the cash. The White House took them and assigned a staffer to keep him pointed in a useful direction. Butterfield also said Perot “never followed through on his things.”"
+  },
+  {
+   "t": "p",
+   "text": "The White House didn’t hire Perot. It gave him a handler."
+  },
+  {
+   "t": "h2",
+   "text": "1970-1980: Did the Favors Run Both Ways?"
+  },
+  {
+   "t": "p",
+   "text": "The next decade shows what that relationship looked like from each end."
+  },
+  {
+   "t": "p",
+   "text": "First, what Perot gave. In 1970, one of Wall Street’s biggest brokerages, duPont Glore Forgan, was failing, and regulators feared a collapse would set off a panic. Perot stepped in with his own money. His account is that Nixon officials urged him to do it as a patriotic duty. Time magazine gave the credit to a New York banker, Felix Rohatyn. Either way, Perot poured in about $100 million over four years, merged the firm with another shaky brokerage, Walston, and watched it fail anyway. In 1974, Time reported he might get back as little as $10 million."
+  },
+  {
+   "t": "p",
+   "text": "He lost tens of millions of dollars trying to save Wall Street. Nobody put that on a chart in 1992."
+  },
+  {
+   "t": "p",
+   "text": "Now what he asked for. In 1992, the Associated Press went through Nixon archive documents. A White House memo to Haldeman, dated January 12, 1972, listed what Perot had asked for. AP reported that the records show “White House intervention for Perot at the IRS and in two appeals of government contracts.” The contracts belonged to EDS. The same files record Perot pledging $50 million and $10 million to pro-Nixon causes. Neither was ever paid. Perot denied the pledges: “I can’t control what people scribble on pads.”"
+  },
+  {
+   "t": "p",
+   "text": "What the files don’t show is how the appeals turned out, or that anyone broke a rule. Big donors asked the Nixon White House for help all the time."
+  },
+  {
+   "t": "p",
+   "text": "That spring brought another well-timed move. On March 30, 1972, two top EDS executives, Milledge Hart and Mervin Stauffer, gave $100,000 to the presidential campaign of Rep. Wilbur Mills, using 17 separate committees. Eight days later, a new law took effect that required big donors to be named. Mills chaired the House Ways and Means Committee, which oversees Medicare, and Medicare was central to EDS’s government work."
+  },
+  {
+   "t": "p",
+   "text": "It was legal. No record shows that Mills did anything for EDS in return."
+  },
+  {
+   "t": "p",
+   "text": "The habit outlasted Nixon. In 1980, Texas Monthly later reported, the Texas welfare board picked a rival company for the state’s Medicaid contract. Staff said the rival’s bid would save taxpayers at least $20 million. According to the magazine, Perot then visited board members privately, and the board reversed itself and kept EDS."
+  },
+  {
+   "t": "p",
+   "text": "The outsider’s fortune didn’t come from Washington. But it ran through it.¹"
+  },
+  {
+   "t": "h2",
+   "text": "1985: He Becomes Oliver North’s Private Bank"
+  },
+  {
+   "t": "p",
+   "text": "The oddest job came in the Reagan years."
+  },
+  {
+   "t": "p",
+   "text": "In 1985, Americans were being held hostage in Lebanon. Oliver North, a Marine officer on President Ronald Reagan’s National Security Council staff, was running secret operations to get them out. He needed money that couldn’t come from the government’s books."
+  },
+  {
+   "t": "p",
+   "text": "The final report of the Iran-Contra independent counsel, Lawrence Walsh, spells it out. “Ross Perot provided the money for the operation, which North conducted with two Drug Enforcement Agents temporarily detailed to the NSC staff.” Then: “In all, Perot made available $1.3 million for this operation.” That included $200,000 paid to a drug-agency informant, $100,000 passed through the FBI, and $1 million for a ransom payment that was never made. The $1 million went back to Perot."
+  },
+  {
+   "t": "p",
+   "text": "News reports in 1986 said a Perot courier waited on the island of Cyprus with ransom money for a handoff that never happened."
+  },
+  {
+   "t": "p",
+   "text": "Perot’s explanation was simple: “I wouldn’t have done it unless it was at the request of the United States government.”"
+  },
+  {
+   "t": "p",
+   "text": "Before most Americans had heard the name Oliver North, Ross Perot was his private bank.²"
+  },
+  {
+   "t": "h2",
+   "text": "December 1986: General Motors Pays Him to Leave, and to Stay Quiet"
+  },
+  {
+   "t": "p",
+   "text": "By then Perot had sold his company. In 1984, General Motors bought EDS for about $2.5 billion. Perot got GM stock and a seat on GM’s board. He used the seat to criticize GM’s management, loudly and in public."
+  },
+  {
+   "t": "p",
+   "text": "In December 1986, GM ended the problem. It paid Perot and three EDS partners $742.8 million, or $61.90 a share, when GM’s special stock traded at about $31. (Much of the gap came from buying back notes that guaranteed Perot a minimum price.) The four men left the board. And the deal included a penalty: if Perot publicly criticized GM’s management, he owed the company up to $7.5 million."
+  },
+  {
+   "t": "p",
+   "text": "Perot took the money and called the deal “morally wrong.” He said “$700 million would buy a brand spanking new car plant.” Angry shareholders sued, calling it “hush mail.”"
+  },
+  {
+   "t": "p",
+   "text": "Buyouts like this, called greenmail, were common in the mid-1980s. What was unusual was the price tag on his opinions."
+  },
+  {
+   "t": "p",
+   "text": "Six years later, the candidate who told voters that nobody could buy him had already taken part in a $742.8 million payout to go away."
+  },
+  {
+   "t": "h2",
+   "text": "1986-1987: The Vice President Stops Taking His Calls"
+  },
+  {
+   "t": "p",
+   "text": "While the GM fight played out, Perot was running another campaign. It was about prisoners of war, and it cost him the vice president’s ear."
+  },
+  {
+   "t": "p",
+   "text": "In the mid-1980s, Perot went looking for American prisoners he believed were still alive in Southeast Asia. Vice President George H. W. Bush gave him access to government POW files. The New Republic later reported, “The files showed nothing.” Then Perot turned his search on Washington itself. In 1986 he took material attacking a senior Pentagon official to Bush and to the FBI director. The FBI looked into it and “found nothing.” In March 1987, Perot flew secretly to Hanoi, and the White House learned about the trip after he got home."
+  },
+  {
+   "t": "p",
+   "text": "As late as March 1987, Bush wrote Perot a warm letter. After the Hanoi trip, he stopped taking Perot’s calls."
+  },
+  {
+   "t": "p",
+   "text": "Five years later, Perot ran against him. Some of Bush’s aides said the campaign was a grudge match. Perot said it wasn’t, and he ran again in 1996, when Bush was long gone. No document proves that the feud caused the run."
+  },
+  {
+   "t": "p",
+   "text": "The man who had been calling the White House for 18 years finally found a line that wouldn’t pick up. Whether that put him on the ballot, the record can’t say."
+  },
+  {
+   "t": "h2",
+   "text": "August 1992: A Cowboy Offers Bush’s Man Some Tapes"
+  },
+  {
+   "t": "p",
+   "text": "By June 1992, Perot was leading the race. Polls had him at about 38 percent, ahead of both President Bush and Arkansas Gov. Bill Clinton. Then, on July 16, he quit. His reason at the time: “Now that the Democratic Party has revitalized itself, I have concluded that we cannot win in November.” A Time poll found only 17 percent of his supporters believed that."
+  },
+  {
+   "t": "p",
+   "text": "Behind the scenes, something else was going on."
+  },
+  {
+   "t": "p",
+   "text": "Perot had been hearing warnings about Republican spies from Scott Barnes, a self-described soldier of fortune whom Time called “a shady storyteller.” The tips reached the FBI, and the bureau took them seriously enough to set a trap. According to Time, the bait was a set of supposed wiretap recordings of Perot’s phone calls. “In reality,” Time reported, “the recordings were made by Perot himself as bait for the FBI’s trap.”"
+  },
+  {
+   "t": "p",
+   "text": "On August 6, Barnes approached Jim Oberwetter, chairman of the Bush–Quayle campaign in Texas. On August 10, an undercover agent dressed as a cowboy offered Oberwetter the tapes for $2,500. Oberwetter turned them down both times, and his campaign reported the approach to the Dallas police. The FBI denied running a sting on the campaign. Oberwetter called it entrapment."
+  },
+  {
+   "t": "p",
+   "text": "Oliver “Buck” Revell, head of the FBI’s Dallas office, said the bureau found “nothing to substantiate the allegation of a conspiracy to commit wiretapping.” As for the wedding plot Perot described in October, nobody has ever produced a source for it."
+  },
+  {
+   "t": "p",
+   "text": "Years later Barnes told the Associated Press, “It was a lie. We orchestrated the whole thing.” Barnes has contradicted himself elsewhere, so this account is unreliable too."
+  },
+  {
+   "t": "p",
+   "text": "Perot said the Bush campaign was spying on him. The only documented undercover operation of the race approached Bush’s Texas chairman. The bait was tapes Perot recorded himself.³"
+  },
+  {
+   "t": "h2",
+   "text": "Fall 1992: Somebody Really Did Open His File"
+  },
+  {
+   "t": "p",
+   "text": "Here the record takes a turn in Perot’s favor."
+  },
+  {
+   "t": "p",
+   "text": "In late September 1992, officials at the State Department searched Bill Clinton’s passport records. By then Clinton was the Democratic nominee. The officials were looking for a rumored letter from his student days in which he supposedly asked about giving up his U.S. citizenship. An official passed on the request “on behalf of the White House.” No such letter turned up."
+  },
+  {
+   "t": "p",
+   "text": "When the story broke, reporters found more. State Department aides had also searched Ross Perot’s passport file. On November 10, 1992, the Washington Post ran the headline “State Dept. Aides Searched Perot’s Passport File.” The official in charge of consular records, Elizabeth Tamposi, was forced out. The department’s inspector general later said officials had tried to use the department “to influence the outcome of a presidential election.” An independent counsel called the Clinton search “stupid” but found no crime."
+  },
+  {
+   "t": "p",
+   "text": "This doesn’t prove Perot’s wedding story. The passport search came after he quit in July, so it can’t explain why he left. But it does mean that when a candidate said the government was poking into his records, he wasn’t imagining all of it."
+  },
+  {
+   "t": "p",
+   "text": "He said they were watching him. Some of them were. Just not the way he said."
+  },
+  {
+   "t": "h2",
+   "text": "November 1992 and After: He Loses, and His Voters Don’t Go Home"
+  },
+  {
+   "t": "p",
+   "text": "On election day, Perot won 19,743,821 votes, 18.9 percent, and no electoral votes. His running mate is remembered for opening his debate with “Who am I? Why am I here?” He was Vice Adm. James Stockdale, who had spent seven and a half years as a prisoner of war in North Vietnam and won the Medal of Honor. The cause that first brought Perot to the White House had given him his running mate."
+  },
+  {
+   "t": "p",
+   "text": "For three decades, Republicans have said Perot cost Bush the election. The data say otherwise. Political scientists Dean Lacy and Barry Burden studied the 1992 vote and found that Perot’s candidacy “decreased Clinton’s margin of victory over Bush by seven percentage points.” Take Perot out, and Clinton wins by more."
+  },
+  {
+   "t": "p",
+   "text": "His voters didn’t disappear. In 1994, voters who had backed Perot in 1992 gave House Democrats only about a third of their votes, and Republicans took the House for the first time in 40 years. Political scientists Ronald Rapoport and Walter Stone argued that without Perot there would have been “little or no mobilization into the Republican Party in 1994.”"
+  },
+  {
+   "t": "p",
+   "text": "His deficit crusade stuck, too. Alan Blinder, an economist in the Clinton White House, credited “Perot and other people” with pushing deficit reduction “close to number one” on the new president’s list."
+  },
+  {
+   "t": "p",
+   "text": "In 1996 Perot ran again, for his new Reform Party, and got 8.4 percent. The Commission on Presidential Debates kept him out of the debates, and his lawsuit failed. In 2000 the Reform Party split apart. The conservative commentator Pat Buchanan won its nomination and the $12.6 million in federal campaign money that Perot’s 1996 vote had earned. Before that, in October 1999, a New York real estate developer named Donald Trump formed a Reform Party exploratory committee. He was recruited by allies of Minnesota’s Reform governor, Jesse Ventura, not by Perot, and he dropped out in February 2000."
+  },
+  {
+   "t": "p",
+   "text": "Perot died in 2019."
+  },
+  {
+   "t": "p",
+   "text": "He didn’t spoil 1992. His voters swung 1994."
+  },
+  {
+   "t": "h2",
+   "text": "Outside the Building, with a Key"
+  },
+  {
+   "t": "p",
+   "text": "Ross Perot sold himself as the man outside the building. For 18 years, he’d had a key. He ran errands for one president’s aides, banked a secret mission run from another president’s staff, and fell out with a vice president. One of the biggest checks he ever got came with a penalty for talking."
+  },
+  {
+   "t": "p",
+   "text": "Then, as the outsider, he told America the insiders were spying on him. He never proved the plot. But somebody really was going through his files."
+  },
+  {
+   "t": "p",
+   "text": "The outsider had the White House on speed dial. In 1992, he ran against the people who used to pick up."
+  },
+  {
+   "t": "h2",
+   "text": "What We Can Prove / What We Can’t"
+  },
+  {
+   "t": "p",
+   "text": "Proven:"
+  },
+  {
+   "t": "list",
+   "items": [
+    "A Nixon aide said he “was put in charge of Ross,” and Haldeman’s diary shows the White House trying to “channel” Perot’s money and energy.",
+    "The Iran-Contra independent counsel found that “Perot made available $1.3 million” for Oliver North’s hostage operation.",
+    "GM paid Perot and three partners $742.8 million in 1986, with a penalty of up to $7.5 million for public criticism.",
+    "Two EDS executives gave $100,000 to Wilbur Mills’s campaign through 17 committees on March 30, 1972."
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Strongly supported:"
+  },
+  {
+   "t": "list",
+   "items": [
+    "In August 1992 an undercover FBI approach offered Bush’s Texas chairman supposed wiretaps of Perot, and Time reports the recordings were made by Perot himself. The chairman refused twice.",
+    "Perot’s candidacy didn’t cost Bush the election.",
+    "State Department aides searched Perot’s passport file in the fall of 1992 (Washington Post and Time; the Post article’s full text still needs reading)."
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Likely:"
+  },
+  {
+   "t": "list",
+   "items": [
+    "The White House intervention for Perot at the IRS and in EDS contract appeals (AP’s 1992 reading of Nixon archive memos).",
+    "The 1980 Texas Medicaid reversal (Texas Monthly, 1988)."
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Not proven:"
+  },
+  {
+   "t": "list",
+   "items": [
+    "Any Republican plot to smear Perot’s daughter or disrupt her wedding.",
+    "That any favor was traded for the Mills donation or the Nixon pledges.",
+    "That his feud with Bush caused his 1992 run.",
+    "Any CIA tie."
+   ]
+  },
+  {
+   "t": "p",
+   "text": "The other side. Perot was a sincere, if suspicious, patriot. His POW campaign helped the prisoners’ wives force the issue onto the world’s front pages. In 1979, when two EDS employees were jailed in Iran, he organized a private rescue that got them out. That act of loyalty to his own people became the novelist Ken Follett’s book On Wings of Eagles. Presidents have long leaned on private citizens for delicate jobs. John F. Kennedy’s team sent a private lawyer, James Donovan, to trade food and medicine for the Bay of Pigs prisoners. EDS’s first customers were private companies, and most of its revenue never came from Washington. Why weigh it: the documents fit a man who used the system and was used by it. They don’t fit a puppet."
+  },
+  {
+   "t": "p",
+   "text": "Why the gap? Maybe Perot was exactly what he said: a businessman who kept answering when his country called, and who grew suspicious when it stopped calling back. Or maybe he learned from the inside how favors, files and secret money really move, and assumed everyone else played that way too. Either way, the outsider had spent his whole career inside, and the paperwork says so."
+  },
+  {
+   "t": "h2",
+   "text": "Notes"
+  },
+  {
+   "t": "p",
+   "text": "¹ “Ran through” is doing careful work here. The company didn’t start on government money. Its first customers were private. [E.G.] · So he wasn’t a government billionaire. [H.C.] · He was a billionaire the government kept calling. [E.G.]"
+  },
+  {
+   "t": "p",
+   "text": "² The Walsh report says Perot “provided” and “made available” the money. “At North’s request” is Perot’s version and the newspapers’ headline. [E.G.]"
+  },
+  {
+   "t": "p",
+   "text": "³ Time says the recordings were made by Perot himself. We couldn’t confirm whether anyone asked him to make them, so we’re not saying. [E.G.] · I would like it noted that the FBI’s undercover man dressed as a cowboy. In Texas. [H.C.] · That was the disguise. [E.G.]"
+  }
+ ],
+ "sources": [
+  "Walsh, Lawrence E. Final Report of the Independent Counsel for Iran/Contra Matters. Vol. I: Investigations and Prosecutions. Washington, D.C.: U.S. Court of Appeals for the District of Columbia Circuit, Aug. 4, 1993. Ch. 14, “Other Money Matters: Traveler’s Checks and Cash Transactions” (section “The Cash: The DEA Hostage-Rescue Operation”). Federation of American Scientists mirror: https://irp.fas.org/offdocs/walsh/chap_14.htm.",
+  "Butterfield, Alexander. Oral history, Richard Nixon Presidential Library, June 12, 2008. https://www.nixonlibrary.gov/sites/default/files/forresearchers/find/histories/butterfield-2008-06-12.pdf",
+  "Haldeman, H. R. Diary, Nov. 11, 1969. Nixon Library. https://www.nixonlibrary.gov/sites/default/files/virtuallibrary/documents/haldeman-diaries/37-hrhd-journal-vol03-19691111.pdf",
+  "Foreign Relations of the United States, 1969–76, vol. VI, doc. 177 (Feb. 1, 1970). https://history.state.gov/historicaldocuments/frus1969-76v06/d177",
+  "Solomon, John (AP). “Perot Promised Nixon Money, Archives Indicate.” Seattle Times, May 7, 1992. https://archive.seattletimes.com/archive/19920507/1490494/perot-promised-nixon-money-archives-indicate",
+  "AP. “Mills’ campaign funds questioned.” Michigan Daily, Aug. 2, 1974. https://digital.bentley.umich.edu/midaily/mdp.39015071754571/657",
+  "Louis, Arthur M. “Ross Perot: The Fastest Richest Texan Ever.” Fortune, Nov. 1968. https://fortune.com/article/the-fastest-richest-texan-ever/",
+  "International Directory of Company Histories, “Electronic Data Systems Corp.” (Encyclopedia.com). https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/electronic-data-systems-corp",
+  "TSHA Handbook of Texas, “Electronic Data Systems.” https://www.tshaonline.org/handbook/entries/electronic-data-systems",
+  "Elkind, Peter. “Can Ross Perot Save America?” Texas Monthly, Dec. 1988. https://www.texasmonthly.com/news-politics/can-ross-perot-save-america/",
+  "Morrison, Donald. “Ambush on Wall Street.” Texas Monthly, Apr. 1974. https://www.texasmonthly.com/news-politics/ambush-on-wall-street/",
+  "TIME. “Perot’s Orderly Retreat,” Feb. 4, 1974. https://time.com/archive/6842290/wall-street-perots-orderly-retreat/",
+  "TIME. “Felix the Fixer,” June 17, 1974. https://time.com/archive/6817058/investment-felix-the-fixer/",
+  "In re General Motors Class E Stock Buyout Securities Litigation, 694 F. Supp. 1119 (D. Del. 1988). https://www.courtlistener.com/opinion/1874183/in-re-general-motors-class-e-stock-buyout-securities-litigation/",
+  "Grobow v. Perot, 539 A.2d 180 (Del. 1988). https://www.courtlistener.com/opinion/2381868/grobow-v-perot/",
+  "UPI. “Perot says GM’s buyout was lousy investment,” Dec. 2, 1986. https://www.upi.com/Archives/1986/12/02/Perot-says-GMs-buyout-was-lousy-investment/4967533883600/",
+  "UPI. “Lt. Col. Oliver North convinced Texas billionaire H. Ross Perot…,” Dec. 2, 1986. https://www.upi.com/Archives/1986/12/02/Lt-Col-Oliver-North-convinced-Texas-billionaire-H-Ross/1245533883600/",
+  "Church, George J. “Perot’s Private Probes.” TIME, May 4, 1987. https://time.com/archive/6709091/perots-private-probes/",
+  "Blumenthal, Sidney. “The Mission.” The New Republic, July 6, 1992. https://newrepublic.com/article/90592/ross-perot-vietnam-texas",
+  "Clift, Eleanor. “Perot vs. Bush: Campaign of Vendetta.” Newsweek, June 14, 1992. https://www.newsweek.com/perot-vs-bush-campaign-vendetta-199644",
+  "Behar, Richard. “Sting the President.” TIME, Nov. 9, 1992. https://content.time.com/time/subscriber/article/0,33009,976976,00.html",
+  "UPI. “Bush-Quayle official says he was offered alleged Perot tapes,” Aug. 14, 1992. https://www.upi.com/amp/Archives/1992/08/14/Bush-Quayle-official-says-he-was-offered-alleged-Perot-tapes/3343713764800/",
+  "Deseret News (AP). “FBI probes story that Perot office was wiretapped,” Aug. 14, 1992. https://www.deseret.com/1992/8/14/18999621/fbi-probes-story-that-perot-office-was-wiretapped/",
+  "UPI. “Perot charges Bush camp wanted to smear his daughter,” Oct. 25, 1992. https://www.upi.com/Archives/1992/10/25/Perot-charges-Bush-camp-wanted-to-smear-his-daughter/9601719985600/",
+  "UPI. “FBI official denies sting against Bush campaign official,” Nov. 18, 1992. https://www.upi.com/Archives/1992/11/18/FBI-officials-denies-sting-against-Bush-campaign-official/5057722062800/",
+  "Deseret News (AP). “Perot tricked into quitting ‘92 campaign,” Mar. 29, 1997. https://www.deseret.com/1997/3/29/19303460/perot-tricked-into-quitting-92-campaign/",
+  "Posner, Gerald. Citizen Perot (1996), excerpt “Perotnoia,” Dallas Observer. https://www.dallasobserver.com/news/perotnoia-6403424/",
+  "Washington Post. “State Dept. Aides Searched Perot’s Passport File,” Nov. 10, 1992. https://www.washingtonpost.com/archive/politics/1992/11/10/state-dept-aides-searched-perots-passport-file/be1b758d-5b23-493d-a641-e80ed37917b6/",
+  "In re Mullins, 87 F.3d 1372 (D.C. Cir. 1996). https://www.courtlistener.com/opinion/721291/in-re-janet-g-mullins-tutwiler-fee-application/",
+  "Berry v. Funk (D.C. Cir. 1998). https://caselaw.findlaw.com/court/us-dc-circuit/1392258.html",
+  "ADST oral history (Terence Shea), 2020. https://adst.org/2020/11/did-president-clinton-try-to-renounce-his-u-s-citizenship-investigating-the-presidential-scandal/",
+  "p1992.us, Perot’s July 16, 1992 statement. https://p1992.us/perot/perot071692spt.html",
+  "Roper Center, “None of the Above: Polling and Third-Party Candidates.” https://ropercenter.cornell.edu/blog/none-above-polling-and-third-party-candidates",
+  "Commission on Presidential Debates, transcript, Oct. 19, 1992. https://www.debates.org/voter-education/debate-transcripts/october-19-1992-debate-transcript/",
+  "Lacy, Dean, and Barry Burden. “The Vote-Stealing and Turnout Effects of Ross Perot in the 1992 U.S. Presidential Election.” AJPS 43(1), 1999. https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/9/280/files/2016/09/LacyBurdenAJPS1999.pdf",
+  "Rapoport, Ronald, and Walter Stone. Three’s a Crowd (U. Michigan Press, 2005). https://press.umich.edu/Books/T/Three-s-A-Crowd2 ; review, Texas Observer, 2006. https://www.texasobserver.org/2160-the-third-party-dynamic/",
+  "Teixeira, Ruy. “Deserted Democrats.” American Prospect, Dec. 19, 2001. https://prospect.org/2001/12/19/deserted-democrats-1994/",
+  "Miller Center. “Ross Perot: Election spoiler or message shaper?” July 10, 2019. https://millercenter.org/ross-perot-election-spoiler-or-message-shaper",
+  "Split-Ticket. “Examining Ross Perot’s impact on the 1992 presidential election,” 2023. https://split-ticket.org/2023/04/01/examining-ross-perots-impact-on-the-1992-presidential-election/",
+  "CNN. FEC vote on Reform Party funds, Sept. 12, 2000. https://edition.cnn.com/2000/ALLPOLITICS/stories/09/12/fec.reform/index.html",
+  "CIA. “The Negotiator” (James Donovan). https://www.cia.gov/stories/story/the-negotiator",
+  "TIME. POW wives “go public,” 2019. https://time.com/5562257/vietnam-pow-wives-go-public/",
+  "Farley, Richard. “Ross Perot’s forgotten mission.” TIME, Jan. 5, 2020. https://time.com/5759015/ross-perots-forgotten-mission-vietnam-war/",
+  "TSHA Handbook of Texas, “Perot, Henry Ross.” https://www.tshaonline.org/handbook/entries/perot-henry-ross",
+  "Pipes, Daniel. Review of Ken Follett, On Wings of Eagles. This World, no. 7 (Winter 1984). https://www.danielpipes.org/documents/7958.pdf",
+  "Image: Ross Perot at the U.S. Capitol. Photo: Maureen Keating, CQ Roll Call Collection, Library of Congress."
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/perot-1.jpg",
+   "alt": "Opening page: Ross Perot and a giant telephone cord leading to the White House",
+   "page": 80,
+   "w": 1122,
+   "h": 1463,
+   "hero": true,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/perot-2.jpg",
+   "alt": "A hand pouring money into a watering can",
+   "page": 81,
+   "w": 550,
+   "h": 380,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/perot-3.jpg",
+   "alt": "A box of files with a sheriff's star",
+   "page": 83,
+   "w": 606,
+   "h": 365,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/perot-4.jpg",
+   "alt": "An empty office chair",
+   "page": 83,
+   "w": 371,
+   "h": 395,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/perot-5.jpg",
+   "alt": "A cowboy hat and a cactus",
+   "page": 84,
+   "w": 606,
+   "h": 293,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/perot-6.jpg",
+   "alt": "A ringing pink telephone",
+   "page": 84,
+   "w": 392,
+   "h": 293,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/perot-7.jpg",
+   "alt": "Hands holding up blank pink campaign signs",
+   "page": 85,
+   "w": 964,
+   "h": 468,
+   "hero": false,
+   "wide": true,
+   "graphic": false
+  }
+ ]
 }

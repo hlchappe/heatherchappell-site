@@ -1,211 +1,243 @@
 {
-  "slug": "quiz",
-  "order": 106,
-  "section": "Out Back",
-  "kicker": "OUT BACK · QUIZ",
-  "label": null,
-  "title": "A Quiz That Doesn’t Like You",
-  "dek": "Ten questions. Every answer is in this issue. Every wrong answer is too, which is the mean part.",
-  "byline": null,
-  "pages": [
-    106,
-    107
-  ],
-  "hero": "issue1/p106.jpg",
-  "visual": true,
-  "summary": "A ten-question multiple-choice quiz on the issue’s stories, from Napoleon’s coup and Carthage to the Emu War and Ross Perot, with answers.",
-  "topics": [
-    "Quiz",
-    "Napoleon",
-    "Emu War",
-    "Ross Perot",
-    "Carthage"
-  ],
-  "blocks": [
+ "slug": "quiz",
+ "order": 106,
+ "section": "Out Back",
+ "kicker": "OUT BACK · QUIZ",
+ "label": null,
+ "title": "A Quiz That Doesn’t Like You",
+ "dek": "Ten questions. Every answer is in this issue. Every wrong answer is too, which is the mean part.",
+ "byline": null,
+ "pages": [
+  106,
+  107
+ ],
+ "hero": "issue1/p106.jpg",
+ "visual": true,
+ "summary": "A ten-question multiple-choice quiz on the issue’s stories, from Napoleon’s coup and Carthage to the Emu War and Ross Perot, with answers.",
+ "topics": [
+  "Quiz",
+  "Napoleon",
+  "Emu War",
+  "Ross Perot",
+  "Carthage"
+ ],
+ "blocks": [
+  {
+   "t": "p",
+   "text": "Side Eye Assessment Service · Form L-1 · Section: Losing · Time: Until you give up"
+  },
+  {
+   "t": "p",
+   "text": "Use a No. 2 pencil. Fill each bubble completely. Every answer is in this issue. So is every wrong answer."
+  },
+  {
+   "t": "p",
+   "text": "1. Emmanuel Sieyès spent 1799 “looking for a sword.” Which two generals did he try before Napoleon?"
+  },
+  {
+   "t": "list",
+   "items": [
+    "A. Moreau and Bernadotte",
+    "B. Masséna and Joubert",
+    "C. Joubert and Moreau",
+    "D. Talleyrand and Fouché"
+   ]
+  },
+  {
+   "t": "p",
+   "text": "2. In late September 1799, a 100-franc French government bond sold for about 7 francs. What was it worth within a week of the coup?"
+  },
+  {
+   "t": "list",
+   "items": [
+    "A. About 20",
+    "B. 12.88",
+    "C. 11.38",
+    "D. Par, 100"
+   ]
+  },
+  {
+   "t": "p",
+   "text": "3. The Roman Senate had exactly one Carthaginian book translated into Latin. What was it about?"
+  },
+  {
+   "t": "list",
+   "items": [
+    "A. War elephants",
+    "B. Navigation",
+    "C. Carthage’s constitution",
+    "D. Farming"
+   ]
+  },
+  {
+   "t": "p",
+   "text": "4. In Madison’s notes from March 28, 1783, one ratio for counting enslaved people was voted down just before he proposed “5 to 3.” Which one?"
+  },
+  {
+   "t": "list",
+   "items": [
+    "A. One-half",
+    "B. Two-thirds",
+    "C. Three-quarters",
+    "D. Four-fifths"
+   ]
+  },
+  {
+   "t": "p",
+   "text": "5. In 1862 Lincoln argued the border states’ enslaved people could be bought for less than how many days’ cost of the war?"
+  },
+  {
+   "t": "list",
+   "items": [
+    "A. 30",
+    "B. 60",
+    "C. 87",
+    "D. 180"
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Form L-1 · Continued · Do not fold, spindle or mutilate"
+  },
+  {
+   "t": "p",
+   "text": "6. In 1844 John C. Calhoun cited 1840 census figures on insanity among free Black Northerners. What had a Massachusetts doctor already shown about the 133 “coloured lunatics and idiots” listed in Worcester?"
+  },
+  {
+   "t": "list",
+   "items": [
+    "A. They were counted twice",
+    "B. A clerk added the column by mistake",
+    "C. They had escaped from Virginia",
+    "D. They were the white patients in the state hospital"
+   ]
+  },
+  {
+   "t": "p",
+   "text": "7. The veterans’ 1920 rulebook asked Southern librarians to write three words on the title page of every book that failed it. Which three?"
+  },
+  {
+   "t": "list",
+   "items": [
+    "A. “Northern Propaganda Edition”",
+    "B. “Unjust to the South”",
+    "C. “Unfit for Southern Schools”",
+    "D. “Slavery Not the Cause”"
+   ]
+  },
+  {
+   "t": "p",
+   "text": "8. On November 8, 1932, newspaper paragraphs pulled the machine guns out of the Emu War. What sent them back?"
+  },
+  {
+   "t": "list",
+   "items": [
+    "A. Keith Murdoch’s Herald",
+    "B. Prime Minister Lyons",
+    "C. Protests from the wheat areas and Western Australia’s premier",
+    "D. Major Meredith’s report"
+   ]
+  },
+  {
+   "t": "p",
+   "text": "9. Major Meredith reported 986 confirmed emu kills. From how many rounds?"
+  },
+  {
+   "t": "list",
+   "items": [
+    "A. 986",
+    "B. 2,500",
+    "C. 9,860",
+    "D. 57,000"
+   ]
+  },
+  {
+   "t": "p",
+   "text": "10. According to the Iran-Contra independent counsel, how much did Ross Perot “make available” for Oliver North’s hostage operation?"
+  },
+  {
+   "t": "list",
+   "items": [
+    "A. $1.3 million",
+    "B. $1 million",
+    "C. $742.8 million",
+    "D. $7.5 million"
+   ]
+  },
+  {
+   "t": "sidebar",
+   "title": "Tiebreaker · Write-in",
+   "blocks": [
     {
-      "t": "p",
-      "text": "Side Eye Assessment Service · Form L-1 · Section: Losing · Time: Until you give up"
+     "t": "p",
+     "text": "Name the free man honored as a “faithful” slave on the 1931 stone at Harpers Ferry."
     },
     {
-      "t": "p",
-      "text": "Use a No. 2 pencil. Fill each bubble completely. Every answer is in this issue. So is every wrong answer."
-    },
-    {
-      "t": "p",
-      "text": "1. Emmanuel Sieyès spent 1799 “looking for a sword.” Which two generals did he try before Napoleon?"
-    },
-    {
-      "t": "list",
-      "items": [
-        "A. Moreau and Bernadotte",
-        "B. Masséna and Joubert",
-        "C. Joubert and Moreau",
-        "D. Talleyrand and Fouché"
-      ]
-    },
-    {
-      "t": "p",
-      "text": "2. In late September 1799, a 100-franc French government bond sold for about 7 francs. What was it worth within a week of the coup?"
-    },
-    {
-      "t": "list",
-      "items": [
-        "A. About 20",
-        "B. 12.88",
-        "C. 11.38",
-        "D. Par, 100"
-      ]
-    },
-    {
-      "t": "p",
-      "text": "3. The Roman Senate had exactly one Carthaginian book translated into Latin. What was it about?"
-    },
-    {
-      "t": "list",
-      "items": [
-        "A. War elephants",
-        "B. Navigation",
-        "C. Carthage’s constitution",
-        "D. Farming"
-      ]
-    },
-    {
-      "t": "p",
-      "text": "4. In Madison’s notes from March 28, 1783, one ratio for counting enslaved people was voted down just before he proposed “5 to 3.” Which one?"
-    },
-    {
-      "t": "list",
-      "items": [
-        "A. One-half",
-        "B. Two-thirds",
-        "C. Three-quarters",
-        "D. Four-fifths"
-      ]
-    },
-    {
-      "t": "p",
-      "text": "5. In 1862 Lincoln argued the border states’ enslaved people could be bought for less than how many days’ cost of the war?"
-    },
-    {
-      "t": "list",
-      "items": [
-        "A. 30",
-        "B. 60",
-        "C. 87",
-        "D. 180"
-      ]
-    },
-    {
-      "t": "p",
-      "text": "Form L-1 · Continued · Do not fold, spindle or mutilate"
-    },
-    {
-      "t": "p",
-      "text": "6. In 1844 John C. Calhoun cited 1840 census figures on insanity among free Black Northerners. What had a Massachusetts doctor already shown about the 133 “coloured lunatics and idiots” listed in Worcester?"
-    },
-    {
-      "t": "list",
-      "items": [
-        "A. They were counted twice",
-        "B. A clerk added the column by mistake",
-        "C. They had escaped from Virginia",
-        "D. They were the white patients in the state hospital"
-      ]
-    },
-    {
-      "t": "p",
-      "text": "7. The veterans’ 1920 rulebook asked Southern librarians to write three words on the title page of every book that failed it. Which three?"
-    },
-    {
-      "t": "list",
-      "items": [
-        "A. “Northern Propaganda Edition”",
-        "B. “Unjust to the South”",
-        "C. “Unfit for Southern Schools”",
-        "D. “Slavery Not the Cause”"
-      ]
-    },
-    {
-      "t": "p",
-      "text": "8. On November 8, 1932, newspaper paragraphs pulled the machine guns out of the Emu War. What sent them back?"
-    },
-    {
-      "t": "list",
-      "items": [
-        "A. Keith Murdoch’s Herald",
-        "B. Prime Minister Lyons",
-        "C. Protests from the wheat areas and Western Australia’s premier",
-        "D. Major Meredith’s report"
-      ]
-    },
-    {
-      "t": "p",
-      "text": "9. Major Meredith reported 986 confirmed emu kills. From how many rounds?"
-    },
-    {
-      "t": "list",
-      "items": [
-        "A. 986",
-        "B. 2,500",
-        "C. 9,860",
-        "D. 57,000"
-      ]
-    },
-    {
-      "t": "p",
-      "text": "10. According to the Iran-Contra independent counsel, how much did Ross Perot “make available” for Oliver North’s hostage operation?"
-    },
-    {
-      "t": "list",
-      "items": [
-        "A. $1.3 million",
-        "B. $1 million",
-        "C. $742.8 million",
-        "D. $7.5 million"
-      ]
-    },
-    {
-      "t": "sidebar",
-      "title": "Tiebreaker · Write-in",
-      "blocks": [
-        {
-          "t": "p",
-          "text": "Name the free man honored as a “faithful” slave on the 1931 stone at Harpers Ferry."
-        },
-        {
-          "t": "p",
-          "text": "________"
-        }
-      ]
-    },
-    {
-      "t": "p",
-      "text": "Answer sheet: 1–10, bubbles A B C D. Score ____/10. Pencils down."
-    },
-    {
-      "t": "p",
-      "text": "Answers are printed upside down and backward on the inside back cover, because we are not above it."
-    },
-    {
-      "t": "sidebar",
-      "title": "A Quiz That Doesn’t Like You · Answers (printed upside down on p. 111)",
-      "blocks": [
-        {
-          "t": "p",
-          "text": "Answers: 1-c, 2-a, 3-d, 4-b, 5-c, 6-d, 7-b, 8-c, 9-c, 10-a."
-        },
-        {
-          "t": "p",
-          "text": "Tiebreaker: Heyward Shepherd."
-        },
-        {
-          "t": "p",
-          "text": "10 right: You’re a Director now. Please don’t overthrow anyone. 7-9: Lucien Bonaparte would lend you his sword. 4-6: Your bonds are holding at 11.38. 1-3: You took the Sacko. We’re proud of you. 0: The emus would like a word."
-        }
-      ]
+     "t": "p",
+     "text": "________"
     }
-  ],
-  "sources": [
-    "Every answer is in this issue: questions 1–2 draw on the Napoleon feature; 3 on Two Libraries and The Loser’s Library; 4–7 and the tiebreaker on the Civil War feature; 8–9 on the Emu War feature (Meredith’s figures are his own, unpublished); 10 on the Perot feature."
-  ]
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Answer sheet: 1–10, bubbles A B C D. Score ____/10. Pencils down."
+  },
+  {
+   "t": "p",
+   "text": "Answers are printed upside down and backward on the inside back cover, because we are not above it."
+  },
+  {
+   "t": "sidebar",
+   "title": "A Quiz That Doesn’t Like You · Answers (printed upside down on p. 111)",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Answers: 1-c, 2-a, 3-d, 4-b, 5-c, 6-d, 7-b, 8-c, 9-c, 10-a."
+    },
+    {
+     "t": "p",
+     "text": "Tiebreaker: Heyward Shepherd."
+    },
+    {
+     "t": "p",
+     "text": "10 right: You’re a Director now. Please don’t overthrow anyone. 7-9: Lucien Bonaparte would lend you his sword. 4-6: Your bonds are holding at 11.38. 1-3: You took the Sacko. We’re proud of you. 0: The emus would like a word."
+    }
+   ]
+  }
+ ],
+ "sources": [
+  "Every answer is in this issue: questions 1–2 draw on the Napoleon feature; 3 on Two Libraries and The Loser’s Library; 4–7 and the tiebreaker on the Civil War feature; 8–9 on the Emu War feature (Meredith’s figures are his own, unpublished); 10 on the Perot feature."
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/quiz-1.jpg",
+   "alt": "A pencil with answer bubbles",
+   "page": 106,
+   "w": 291,
+   "h": 176,
+   "hero": true,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/quiz-2.jpg",
+   "alt": "A quiz that doesn't like you, questions 1 to 5",
+   "page": 106,
+   "w": 1122,
+   "h": 1097,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/quiz-3.jpg",
+   "alt": "Questions 6 to 10 and the answer sheet",
+   "page": 107,
+   "w": 1122,
+   "h": 1302,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  }
+ ]
 }

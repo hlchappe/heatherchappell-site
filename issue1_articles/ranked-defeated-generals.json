@@ -239,5 +239,27 @@
  "sources": [
   "Rome, Varus and Crassus. Tacitus, Annals; Suetonius, Life of Augustus; Cassius Dio, Roman History; Livy, History of Rome, Books 21–22 (Hannibal).",
   "Augustus’s “Varus, give me back my legions!” is Suetonius. The molten gold poured into Crassus’s mouth comes from a historian writing almost 300 years later (Cassius Dio), and we label it “alleged.” Harold, Napoleon and Cornwallis draw on the sources listed under Letters to the AI Dead, Not a Loser. Not Short. Not Alone., and Two Generals, One Printing Press."
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/ranked-defeated-generals-1.jpg",
+   "alt": "Ranking card for number 1, Hannibal Barca, with an elephant illustration",
+   "page": 7,
+   "w": 1122,
+   "h": 417,
+   "hero": true,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/ranked-defeated-generals-2.jpg",
+   "alt": "Ranking cards for defeated generals 2 through 6 and how they were ranked",
+   "page": 7,
+   "w": 1122,
+   "h": 907,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  }
  ]
 }

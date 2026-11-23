@@ -1065,5 +1065,157 @@
   "1930s: 2,000+ interviews; Escott: 72% vs. 46%: https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/articles-and-essays/introduction-to-the-wpa-slave-narratives/limitations-of-the-slave-narrative-collection/",
   "2025 bases; 2023 YouGov 56%: https://www.everycrsreport.com/reports/R48894.html ; https://yougov.com/en-us/articles/45912-what-do-americans-think-about-civil-war",
   "First monuments in cemeteries; women’s memorial groups: https://encyclopediavirginia.org/entries/ladies-memorial-associations/"
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/lost-cause-textbooks-1.jpg",
+   "alt": "Company E, 4th U.S. Colored Infantry at Fort Lincoln, 1865",
+   "page": 34,
+   "w": 942,
+   "h": 600,
+   "hero": true,
+   "wide": true,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/lost-cause-textbooks-2.jpg",
+   "alt": "1861 versus 1881: the Confederacy's founders on slavery, then twenty years later",
+   "page": 34,
+   "w": 942,
+   "h": 293,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/lost-cause-textbooks-3.jpg",
+   "alt": "A declaration of the causes of secession, Mississippi",
+   "page": 35,
+   "w": 460,
+   "h": 497,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/lost-cause-textbooks-4.jpg",
+   "alt": "A balance scale weighing cotton against people",
+   "page": 36,
+   "w": 482,
+   "h": 278,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/lost-cause-textbooks-5.jpg",
+   "alt": "Slavery by the numbers, 1860: 4 million people, about $3 billion",
+   "page": 36,
+   "w": 471,
+   "h": 410,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/lost-cause-textbooks-6.jpg",
+   "alt": "One country again? What 17 major civil wars left behind",
+   "page": 37,
+   "w": 964,
+   "h": 658,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/lost-cause-textbooks-7.jpg",
+   "alt": "A magnifying glass over a census page",
+   "page": 38,
+   "w": 460,
+   "h": 249,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/lost-cause-textbooks-8.jpg",
+   "alt": "The reunion: veterans shaking hands, 1913",
+   "page": 39,
+   "w": 942,
+   "h": 512,
+   "hero": false,
+   "wide": true,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/lost-cause-textbooks-9.jpg",
+   "alt": "A row of blue books crossed out in red",
+   "page": 40,
+   "w": 471,
+   "h": 264,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/lost-cause-textbooks-10.jpg",
+   "alt": "The rulebook and its run, 1866 to 1972",
+   "page": 41,
+   "w": 953,
+   "h": 161,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/lost-cause-textbooks-11.jpg",
+   "alt": "A blue history textbook with a red pencil",
+   "page": 41,
+   "w": 471,
+   "h": 263,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/lost-cause-textbooks-12.jpg",
+   "alt": "How to read a source: who was asking, white interviewer 72%, Black interviewer 46%",
+   "page": 42,
+   "w": 482,
+   "h": 205,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/lost-cause-textbooks-13.jpg",
+   "alt": "How to lose a war and win the exam, step by step",
+   "page": 42,
+   "w": 471,
+   "h": 731,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/lost-cause-textbooks-14.jpg",
+   "alt": "What the happy slave was for, step by step, and how the record goes",
+   "page": 43,
+   "w": 964,
+   "h": 614,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/lost-cause-textbooks-15.jpg",
+   "alt": "The other record: people who answered the happy slave story",
+   "page": 43,
+   "w": 964,
+   "h": 556,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  }
  ]
 }

@@ -163,5 +163,17 @@
   "Benjamin Franklin Stevens, ed., The Campaign in Virginia, 1781: An Exact Reprint of Six Rare Pamphlets on the Clinton-Cornwallis Controversy (1888).",
   "William B. Willcox, ed., The American Rebellion (1954).",
   "Journal of the American Revolution."
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/two-generals-1.jpg",
+   "alt": "Two generals, one printing press: Clinton vs. Cornwallis, the bouts and the official ruling",
+   "page": 97,
+   "w": 1122,
+   "h": 1397,
+   "hero": true,
+   "wide": true,
+   "graphic": true
+  }
  ]
 }

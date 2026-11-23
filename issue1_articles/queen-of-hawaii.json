@@ -975,5 +975,107 @@
   "Col. John H. Soper’s weapons list, Blount Report (1893): about 18 rifles and 24 revolvers from Castle & Cooke store stock",
   "Blount Report, FRUS 1894 App. II, p. 588: Committee of Safety membership and citizenship (J.B. Atherton not among the 13) — https://libweb.hawaii.edu/digicoll/annexation/blount/br0588.php",
   "Kam, Ralph Thomas, and Jeffrey K. Lyons, “Remembering the Committee of Safety,” Hawaiian Journal of History 53 (2019): 31–54 — https://evols.library.manoa.hawaii.edu/server/api/core/bitstreams/4ca3530b-82db-450a-b686-97762ca3470d/content"
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/queen-of-hawaii-1.jpg",
+   "alt": "Opening page: Queen Liliuokalani beside a pink anchor, The Queen of Hawaii vs. the United States",
+   "page": 49,
+   "w": 1122,
+   "h": 1097,
+   "hero": true,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/queen-of-hawaii-2.jpg",
+   "alt": "27,830 acres; 0 of 13 committee members were Hawaiian; 21,269 names; $1 rent",
+   "page": 49,
+   "w": 964,
+   "h": 161,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/queen-of-hawaii-3.jpg",
+   "alt": "The Thirteen: the committee that took the kingdom",
+   "page": 51,
+   "w": 964,
+   "h": 600,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/queen-of-hawaii-4.jpg",
+   "alt": "Rifles in a rack, bought from the store",
+   "page": 52,
+   "w": 482,
+   "h": 307,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/queen-of-hawaii-5.jpg",
+   "alt": "Sailors and marines from the USS Boston in Honolulu, January 1893",
+   "page": 53,
+   "w": 964,
+   "h": 351,
+   "hero": false,
+   "wide": true,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/queen-of-hawaii-6.jpg",
+   "alt": "A ripe pear with a price tag",
+   "page": 53,
+   "w": 482,
+   "h": 322,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/queen-of-hawaii-7.jpg",
+   "alt": "The missionaries' store became Dole",
+   "page": 55,
+   "w": 964,
+   "h": 571,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/queen-of-hawaii-8.jpg",
+   "alt": "An island with a price tag",
+   "page": 55,
+   "w": 471,
+   "h": 278,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/queen-of-hawaii-9.jpg",
+   "alt": "The takeover in nine moves",
+   "page": 57,
+   "w": 1122,
+   "h": 1426,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/queen-of-hawaii-10.jpg",
+   "alt": "What would sovereignty mean? Five paths compared",
+   "page": 58,
+   "w": 1122,
+   "h": 1404,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  }
  ]
 }

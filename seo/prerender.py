@@ -618,6 +618,42 @@ def render_issue_index(arts, cfg, copy, site_dir, base_path, has_ep=()):
             f'<ul class="dd">{"".join(items)}</ul></div></div>')
 
 
+LABEL_COL = {"lost the fight": "fight", "lost the credit": "credit", "lost the story": "story"}
+
+
+def _fig_html(f, cur, title, i, site_dir):
+    """One magazine figure (a crop from the print page)."""
+    kind = "wide" if f.get("wide") else ("l" if i % 2 else "r")
+    cls = f"ia-fig ia-fig-{kind}" + (" ia-g" if f.get("graphic") else " ia-art")
+    wh = f' width="{f["w"]}" height="{f["h"]}"' if f.get("w") else _wh(site_dir, f["src"])
+    pg = f'<span class="ia-pg">p. {int(f["page"]):02d}</span>' if f.get("page") else ""
+    return (f'<figure class="{cls}"><img src="{esc(f["src"])}" alt="{esc(f.get("alt") or title)}" loading="lazy"{wh}>'
+            f'{pg}</figure>')
+
+
+def _place_figures(blocks, figs):
+    """Spread figures through the text: before section heads where possible, else every few paragraphs."""
+    if not figs:
+        return {}
+    n = len(blocks)
+    anchors = [i for i, b in enumerate(blocks) if b.get("t") in ("h2", "sidebar") and i > 1]
+    if len(anchors) < len(figs):
+        ps = [i for i, b in enumerate(blocks) if b.get("t") == "p" and i > 0]
+        step = max(1, len(ps) // (len(figs) + 1))
+        anchors = sorted(set(anchors) | set(ps[step - 1::step]))
+    if not anchors:
+        anchors = [n]
+    out = {}
+    k = len(anchors)
+    for j, f in enumerate(figs):
+        pos = anchors[min(k - 1, round((j + 0.5) * k / len(figs) - 0.5))] if len(figs) <= k else anchors[j % k]
+        # side figures go just after a section head so the text wraps around them; wide ones sit before it
+        if not f.get("wide") and pos < n and blocks[pos].get("t") == "h2":
+            pos += 1
+        out.setdefault(pos, []).append(f)
+    return out
+
+
 def render_article(a, arts, cfg, copy, site_dir, base_path, eps_for=()):
     cur = issue_meta(cfg)
     se = copy.get("sideeye", {})
@@ -625,13 +661,13 @@ def render_article(a, arts, cfg, copy, site_dir, base_path, eps_for=()):
     prev = arts[k - 1] if k > 0 else None
     nxt = arts[k + 1] if k < len(arts) - 1 else None
     lo, hi = _pages(a)
-    hero = _hero(a)
+    figs = list(a.get("figures") or [])
+    hero_f = next((f for f in figs if f.get("hero")), None)
+    rest = [f for f in figs if f is not hero_f]
     words = _block_words(a.get("blocks"))
     meta = [f'<b>SIDE EYE · Vol. {esc(cur.get("vol"))}</b>']
     if a.get("section"):
         meta.append(f"<span>{esc(a['section'])}</span>")
-    if a.get("label"):
-        meta.append(f"<span>{esc(a['label'])}</span>")
     if isinstance(a.get("order"), int):
         meta.append(f"<span>Page {a['order']:02d}</span>")
     if words:
@@ -639,21 +675,69 @@ def render_article(a, arts, cfg, copy, site_dir, base_path, eps_for=()):
     by = a.get("byline")
     if by and not re.match(r"(?i)by\b", by):
         by = "By " + by
-    head = (f'<header class="dv-top"><div class="wrap"><a class="dv-back" href="{esc(base_path)}">← Vol. {esc(cur.get("vol"))} contents</a>'
+    lab = a.get("label") or ("Play along" if a.get("visual") else "")
+    labc = LABEL_COL.get(str(lab).lower(), "play")
+    sticker = f'<span class="ia-stk ia-stk-{labc}">{esc(lab)}</span>' if lab else ""
+    wide_hero = bool(hero_f and hero_f.get("w") and hero_f["w"] / max(1, hero_f["h"]) > 1.45)
+    side = ""
+    if hero_f and not wide_hero:
+        side = (f'<figure class="ia-hero{" ia-g" if hero_f.get("graphic") else ""}">{sticker}'
+                f'<img src="{esc(hero_f["src"])}" alt="{esc(hero_f.get("alt") or a["title"])}" width="{hero_f["w"]}" height="{hero_f["h"]}"></figure>')
+    head = (f'<header class="dv-top ia-top{" ia-top-split" if side else ""}"><div class="wrap ia-topin"><div class="ia-toptx">'
+            f'<a class="dv-back" href="{esc(base_path)}">← Vol. {esc(cur.get("vol"))} contents</a>'
             f'<div class="dv-meta">{"".join(meta)}</div>'
-            + (f'<p class="dv-from" style="margin:0 0 14px">{esc(a["kicker"])}</p>' if a.get("kicker") else "")
+            + (f'<p class="ia-kick">{esc(a["kicker"])}</p>' if a.get("kicker") else "")
             + f'<h1>{esc(a["title"])}</h1>'
             + (f'<p class="ia-dek">{esc(a["dek"])}</p>' if a.get("dek") else "")
             + (f'<p class="ia-by">{esc(by)}</p>' if by else "")
-            + "</div></header>")
+            + (sticker if not side and not wide_hero else "")
+            + f"</div>{side}</div></header>")
+    if wide_hero:
+        head += (f'<div class="wrap ia-splash"><figure class="ia-fig ia-fig-wide{" ia-g" if hero_f.get("graphic") else " ia-art"}">{sticker}'
+                 f'<img src="{esc(hero_f["src"])}" alt="{esc(hero_f.get("alt") or a["title"])}" width="{hero_f["w"]}" height="{hero_f["h"]}"></figure></div>')
     epc = "".join(ep_xcard(e) for e in eps_for)
-    body = (f'<div class="xcards" style="margin-bottom:28px">{epc}</div>' if epc else "") + render_blocks(a.get("blocks"))
+    blocks = a.get("blocks") or []
+    if figs:  # printed captions are already inside the cropped art
+        blocks = [b for b in blocks if b.get("t") != "caption"]
+    # a sidebar that a graphic already shows: put the graphic in its place, keep its text one click away
+    swap = {}
+    for i, b in enumerate(blocks):
+        if b.get("t") == "sidebar" and b.get("title"):
+            tw = [w for w in re.findall(r"[a-z0-9]+", b["title"].lower()) if len(w) > 2]
+            for f in rest:
+                if id(f) in [id(x) for x in swap.values()] or not f.get("graphic"):
+                    continue
+                aw = set(re.findall(r"[a-z0-9]+", (f.get("alt") or "").lower()))
+                if tw and sum(w in aw for w in tw) / len(tw) >= 0.6:
+                    swap[i] = f
+                    break
+    rest = [f for f in rest if id(f) not in [id(x) for x in swap.values()]]
+    place = _place_figures(blocks, rest)
+    parts, first = [], True
+    for i, b in enumerate(blocks):
+        for f in place.get(i, []):
+            parts.append(_fig_html(f, cur, a["title"], len(parts), site_dir))
+        if i in swap:
+            f = swap[i]
+            parts.append(_fig_html(dict(f, wide=True), cur, a["title"], len(parts), site_dir)
+                         + f'<details class="ia-txt"><summary>Read this as text</summary>{render_blocks([b], first=False)}</details>')
+            continue
+        h = render_blocks([b], first=first)
+        if b.get("t") == "p" and first:
+            first = False
+        parts.append(h)
+    for f in place.get(len(blocks), []):
+        parts.append(_fig_html(f, cur, a["title"], len(parts), site_dir))
+    body = (f'<div class="xcards" style="margin-bottom:28px">{epc}</div>' if epc else "") + "".join(parts)
+    body = f'<div class="ia-flow">{body}</div>'
     if a.get("visual") and lo:
         imgs = "".join(f'<img src="issue1/p{n:03d}.jpg" alt="SIDE EYE Vol. {esc(cur.get("vol"))}, page {n}: {esc(a["title"])}" loading="lazy"{_wh(site_dir, f"issue1/p{n:03d}.jpg")}>'
                        for n in range(lo, hi + 1))
-        body += f'<h2>The pages</h2><div class="ia-pages">{imgs}</div>'
+        body += (f'<details class="ia-print"><summary>See the full printed page{"s" if hi > lo else ""} (to print and play)</summary>'
+                 f'<div class="ia-pages">{imgs}</div></details>')
     if a.get("sources"):
-        body += '<h2 id="ia-src">Sources</h2><ol class="ia-src">' + "".join(f"<li>{esc(s)}</li>" for s in a["sources"]) + "</ol>"
+        body += ('<details class="ia-srcbox"><summary>Sources (' + str(len(a["sources"])) + ')</summary><ol class="ia-src">'
+                 + "".join(f"<li>{esc(s)}</li>" for s in a["sources"]) + "</ol></details>")
     if epc:
         body += f'<h2>Watch the episode</h2><div class="xcards">{epc}</div>'
     cta = []
@@ -669,8 +753,10 @@ def render_article(a, arts, cfg, copy, site_dir, base_path, eps_for=()):
         nav += f'<a class="nx" href="{esc(base_path + nxt["slug"] + "/")}"><span>Next →</span><b>{esc(nxt["title"])}</b></a>'
     body += f'<nav class="dv-nav" aria-label="More from this issue">{nav}</nav>'
     aside = []
+    hero = _hero(a)
     if hero:
-        aside.append(f'<img src="{esc(hero)}" alt="Opening page of “{esc(a["title"])}” in SIDE EYE Vol. {esc(cur.get("vol"))}"{_wh(site_dir, hero)}>')
+        aside.append(f'<figure class="ia-inprint"><img src="{esc(hero)}" alt="Page {lo} of SIDE EYE Vol. {esc(cur.get("vol"))} in print: {esc(a["title"])}" loading="lazy"{_wh(site_dir, hero)}>'
+                     f'<figcaption>In print · page {a.get("order") or lo}</figcaption></figure>')
     btns = []
     if cur.get("reader") and lo:
         btns.append(f'<button class="btn" type="button" data-reader-page="{lo}">Read it in the print layout</button>')
@@ -1189,7 +1275,7 @@ def prerender(index_html: str, site_dir: pathlib.Path, cfg: dict, copy: dict, di
                   "image": hero or cover_abs, "image_alt": f"Opening page of {a['title']} in SIDE EYE Vol. {vol}"},
                  divepage(render_article(a, arts, cfg, copy, site_dir, issue_path, eps_for_art.get(a["slug"], []))), f"article:{a['slug']}", "dive-on", og_type="article")
             lo, hi = _pages(a)
-            imgs = [hero] if hero else []
+            imgs = ([hero] if hero else []) + [f["src"] for f in a.get("figures") or []]
             if a.get("visual") and lo:
                 imgs += [f"issue1/p{n:03d}.jpg" for n in range(lo, hi + 1) if f"issue1/p{n:03d}.jpg" != hero]
             images[p] = imgs

@@ -176,5 +176,27 @@
   "Sport: Corinthian F.C. (https://en.wikipedia.org/wiki/Corinthian_F.C.) and the C. B. Fry quote (https://leicestershirefootballarchive.com/?p=4481)",
   "Gentlemen v Players and the Barn Door Match (https://en.wikipedia.org/wiki/Gentlemen_v_Players)",
   "W. G. Grace: Wikipedia (https://en.wikipedia.org/wiki/W._G._Grace) and Wisden (https://www.wisden.com/wisden-cricketers-almanack/wg-grace-the-man-who-wanted-to-play-forever-almanack)."
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/how-to-lose-like-a-victorian-1.jpg",
+   "alt": "A Victorian writing desk with an inkwell, quill and a stack of letters",
+   "page": 10,
+   "w": 392,
+   "h": 395,
+   "hero": true,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/how-to-lose-like-a-victorian-2.jpg",
+   "alt": "The Fine Print: gentlemen vs. players by the numbers",
+   "page": 11,
+   "w": 1122,
+   "h": 322,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  }
  ]
 }

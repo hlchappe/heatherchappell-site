@@ -597,5 +597,87 @@
   "CONFIRMED WITH CORRECTION: https://lexundria.com/j_ap/1.93-1.105/wst",
   "Wong 2025,: https://www.cambridge.org/core/product/F22D001E29438008136B6DA04F57C627/core-reader",
   "CONFIRMED: https://artdependence.com/articles/why-ancient-egypt-smashed-hatshepsut-s-statues-after-her-death/"
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/hatshepsut-1.jpg",
+   "alt": "The wardrobe: a dress, a kilt, a crown and a false beard on hangers",
+   "page": 44,
+   "w": 964,
+   "h": 395,
+   "hero": true,
+   "wide": true,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/hatshepsut-2.jpg",
+   "alt": "Her temple at Deir el-Bahri, where the paperwork was carved in stone",
+   "page": 45,
+   "w": 942,
+   "h": 293,
+   "hero": false,
+   "wide": true,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/hatshepsut-3.jpg",
+   "alt": "The paperwork, carved in stone: birth certificate, reference letter, job interview",
+   "page": 45,
+   "w": 471,
+   "h": 292,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/hatshepsut-4.jpg",
+   "alt": "The costume change in four statues: the dress, the dress and crown, the kilt, the beard",
+   "page": 46,
+   "w": 964,
+   "h": 439,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/hatshepsut-5.jpg",
+   "alt": "Hatshepsut's kneeling statue at the Met",
+   "page": 46,
+   "w": 964,
+   "h": 439,
+   "hero": false,
+   "wide": true,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/hatshepsut-6.jpg",
+   "alt": "1829 to 2026: the captions outlive the chisel",
+   "page": 47,
+   "w": 471,
+   "h": 600,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/hatshepsut-7.jpg",
+   "alt": "The beard said King. The grammar said Her.",
+   "page": 48,
+   "w": 471,
+   "h": 234,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/hatshepsut-8.jpg",
+   "alt": "The pharaoh dress code",
+   "page": 48,
+   "w": 471,
+   "h": 570,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  }
  ]
 }

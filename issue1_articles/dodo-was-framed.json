@@ -184,5 +184,57 @@
   "Richard Owen’s skeleton (1866).",
   "“Last Words, From the Defendant” is invented. The dodo did not give interviews."
  ],
- "note": "In print, the opening list of dodo myths and each charge name are struck through in red."
+ "note": "In print, the opening list of dodo myths and each charge name are struck through in red.",
+ "figures": [
+  {
+   "src": "issue1/art/dodo-was-framed-1.jpg",
+   "alt": "A gilded frame around a painting of a plump dodo: the frame job",
+   "page": 12,
+   "w": 415,
+   "h": 512,
+   "hero": true,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/dodo-was-framed-2.jpg",
+   "alt": "A pink and white dodo in a police lineup mugshot",
+   "page": 12,
+   "w": 337,
+   "h": 761,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/dodo-was-framed-3.jpg",
+   "alt": "The charges against the dodo: fat, slow, stupid, tasted terrible, its name means fool, all dismissed",
+   "page": 12,
+   "w": 707,
+   "h": 585,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/dodo-was-framed-4.jpg",
+   "alt": "The suspects: five people who drew, named or wrote about the dodo",
+   "page": 13,
+   "w": 1122,
+   "h": 483,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/dodo-was-framed-5.jpg",
+   "alt": "Exhibit A: a 17th-century painting of a dodo among other birds",
+   "page": 13,
+   "w": 539,
+   "h": 483,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  }
+ ]
 }

@@ -1,118 +1,130 @@
 {
-  "slug": "losers-code",
-  "order": 109,
-  "section": "Out Back",
-  "kicker": "OUT BACK · CODE BREAKER",
-  "label": null,
-  "title": "Crack the Losers’ Code",
-  "dek": "Every letter has been swapped for another. Three are done for you. The answer is the whole point of this magazine, which is a hint.",
-  "byline": null,
-  "pages": [
-    109,
-    109
-  ],
-  "hero": "issue1/p109.jpg",
-  "visual": true,
-  "summary": "A letter-substitution cryptogram whose two-sentence answer sums up the magazine’s theme: who keeps the files decides how history remembers losers.",
-  "topics": [
-    "Cryptogram",
-    "Puzzle",
-    "Carthage"
-  ],
-  "blocks": [
+ "slug": "losers-code",
+ "order": 109,
+ "section": "Out Back",
+ "kicker": "OUT BACK · CODE BREAKER",
+ "label": null,
+ "title": "Crack the Losers’ Code",
+ "dek": "Every letter has been swapped for another. Three are done for you. The answer is the whole point of this magazine, which is a hint.",
+ "byline": null,
+ "pages": [
+  109,
+  109
+ ],
+ "hero": "issue1/p109.jpg",
+ "visual": true,
+ "summary": "A letter-substitution cryptogram whose two-sentence answer sums up the magazine’s theme: who keeps the files decides how history remembers losers.",
+ "topics": [
+  "Cryptogram",
+  "Puzzle",
+  "Carthage"
+ ],
+ "blocks": [
+  {
+   "t": "p",
+   "text": "XQOUNVM SGZNPBO UN CXNGEGV WGGAO UXG IQZGO."
+  },
+  {
+   "t": "p",
+   "text": "UXG CQPPGVO BGU JXLAUGVO. UXG ZNOGVO BGU NPG OGPUGPJG."
+  },
+  {
+   "t": "sidebar",
+   "title": "Your Decoder · Code letter ↓ / Real letter ↓",
+   "blocks": [
     {
-      "t": "p",
-      "text": "XQOUNVM SGZNPBO UN CXNGEGV WGGAO UXG IQZGO."
-    },
-    {
-      "t": "p",
-      "text": "UXG CQPPGVO BGU JXLAUGVO. UXG ZNOGVO BGU NPG OGPUGPJG."
-    },
-    {
-      "t": "sidebar",
-      "title": "Your Decoder · Code letter ↓ / Real letter ↓",
-      "blocks": [
-        {
-          "t": "table",
-          "rows": [
-            [
-              "L",
-              "S",
-              "J",
-              "H",
-              "G",
-              "I",
-              "B",
-              "X",
-              "Q",
-              "K",
-              "W",
-              "Z",
-              "D"
-            ],
-            [
-              "",
-              "",
-              "",
-              "",
-              "E",
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              ""
-            ],
-            [
-              "P",
-              "N",
-              "A",
-              "R",
-              "V",
-              "O",
-              "U",
-              "T",
-              "E",
-              "C",
-              "F",
-              "M",
-              "Y"
-            ],
-            [
-              "",
-              "",
-              "",
-              "",
-              "",
-              "S",
-              "T",
-              "",
-              "",
-              "",
-              "",
-              "",
-              ""
-            ]
-          ]
-        }
+     "t": "table",
+     "rows": [
+      [
+       "L",
+       "S",
+       "J",
+       "H",
+       "G",
+       "I",
+       "B",
+       "X",
+       "Q",
+       "K",
+       "W",
+       "Z",
+       "D"
+      ],
+      [
+       "",
+       "",
+       "",
+       "",
+       "E",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       "P",
+       "N",
+       "A",
+       "R",
+       "V",
+       "O",
+       "U",
+       "T",
+       "E",
+       "C",
+       "F",
+       "M",
+       "Y"
+      ],
+      [
+       "",
+       "",
+       "",
+       "",
+       "",
+       "S",
+       "T",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
       ]
-    },
-    {
-      "t": "p",
-      "text": "Rome kept one Carthaginian book and translated it. You only have to do two sentences."
-    },
-    {
-      "t": "sidebar",
-      "title": "Crack the Code · Answer (printed upside down on p. 111)",
-      "blocks": [
-        {
-          "t": "p",
-          "text": "HISTORY BELONGS TO WHOEVER KEEPS THE FILES. THE WINNERS GET CHAPTERS. THE LOSERS GET ONE SENTENCE."
-        }
-      ]
+     ]
     }
-  ],
-  "sources": []
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Rome kept one Carthaginian book and translated it. You only have to do two sentences."
+  },
+  {
+   "t": "sidebar",
+   "title": "Crack the Code · Answer (printed upside down on p. 111)",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "HISTORY BELONGS TO WHOEVER KEEPS THE FILES. THE WINNERS GET CHAPTERS. THE LOSERS GET ONE SENTENCE."
+    }
+   ]
+  }
+ ],
+ "sources": [],
+ "figures": [
+  {
+   "src": "issue1/art/losers-code-1.jpg",
+   "alt": "Crack the losers' code: a substitution cipher",
+   "page": 109,
+   "w": 1122,
+   "h": 1353,
+   "hero": true,
+   "wide": true,
+   "graphic": true
+  }
+ ]
 }

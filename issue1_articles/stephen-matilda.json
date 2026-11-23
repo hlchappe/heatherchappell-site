@@ -94,5 +94,27 @@
   "Henry of Huntingdon, Historia Anglorum.",
   "The white cloaks in the snow during her escape from Oxford come from later tellings.",
   "The page says we can’t fully confirm them."
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/stephen-matilda-1.jpg",
+   "alt": "A row of crowns: every English monarch since Henry II descends from Matilda",
+   "page": 59,
+   "w": 964,
+   "h": 278,
+   "hero": true,
+   "wide": true,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/stephen-matilda-2.jpg",
+   "alt": "The final score: Stephen 0, Matilda every English monarch since",
+   "page": 59,
+   "w": 482,
+   "h": 219,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  }
  ]
 }

@@ -1,68 +1,80 @@
 {
-  "slug": "trophy-case",
-  "order": 111,
-  "section": "Out Back",
-  "kicker": "THE BACK OF THE BACK OF THE BOOK",
-  "label": null,
-  "title": "The Trophy Case",
-  "dek": "Real prizes, really awarded, for coming in last. History’s losers would like a word with the people who get these.",
-  "byline": null,
-  "pages": [
-    111,
-    111
-  ],
-  "hero": "issue1/p111.jpg",
-  "visual": true,
-  "summary": "Real prizes for finishing last, from the Tour de France’s lanterne rouge and the NFL’s Mr. Irrelevant to Eurovision’s nul points and the Razzies.",
-  "topics": [
-    "Last-place trophies",
-    "Lanterne rouge",
-    "Mr. Irrelevant",
-    "Razzie Awards",
-    "Wooden spoon"
-  ],
-  "blocks": [
+ "slug": "trophy-case",
+ "order": 111,
+ "section": "Out Back",
+ "kicker": "THE BACK OF THE BACK OF THE BOOK",
+ "label": null,
+ "title": "The Trophy Case",
+ "dek": "Real prizes, really awarded, for coming in last. History’s losers would like a word with the people who get these.",
+ "byline": null,
+ "pages": [
+  111,
+  111
+ ],
+ "hero": "issue1/p111.jpg",
+ "visual": true,
+ "summary": "Real prizes for finishing last, from the Tour de France’s lanterne rouge and the NFL’s Mr. Irrelevant to Eurovision’s nul points and the Razzies.",
+ "topics": [
+  "Last-place trophies",
+  "Lanterne rouge",
+  "Mr. Irrelevant",
+  "Razzie Awards",
+  "Wooden spoon"
+ ],
+ "blocks": [
+  {
+   "t": "sidebar",
+   "title": "Answers Below",
+   "blocks": [
     {
-      "t": "sidebar",
-      "title": "Answers Below",
-      "blocks": [
-        {
-          "t": "p",
-          "text": "Turn the book upside down. Losers see the world from a different angle."
-        },
-        {
-          "t": "p",
-          "text": "The answers printed upside down on this page belong to A Quiz That Doesn’t Like You (pp. 106–107), Crack the Losers’ Code (p. 109) and Find the Outsider (p. 108); they appear with those pieces."
-        }
-      ]
+     "t": "p",
+     "text": "Turn the book upside down. Losers see the world from a different angle."
     },
     {
-      "t": "list",
-      "items": [
-        "Lanterne Rouge · Tour de France: The red lantern goes to the rider who finishes the Tour dead last, named for the light on the back of a train’s last car. You still have to ride every mile to get it.",
-        "The Lowsman · NFL Draft: The last pick in the draft is crowned “Mr. Irrelevant” and gets a trophy of a player fumbling the ball. Then a week of parties.",
-        "Nul Points · Eurovision: A song so unloved that no country gave it a single point. Fans keep a list, the way other people keep a list of champions.",
-        "The Razzie · Hollywood: Halle Berry showed up in 2005 to accept her Worst Actress award for Catwoman, holding her Oscar in the other hand.",
-        "The Sacko · Your fantasy league: Last place takes home a trophy and the shame that comes with it. Ours is a plunger in a goblet. See page 4."
-      ]
-    },
-    {
-      "t": "h2",
-      "text": "And in the Overflow Cabinet"
-    },
-    {
-      "t": "list",
-      "items": [
-        "The Wooden Spoon · Cambridge, 1800s–1909: For the worst math score that still passed: a wooden spoon lowered from the gallery on strings. The last one was an oar.",
-        "The Lottery Ball · NBA: Finish with the worst record and you get the best odds at next year’s top pick: 14%. Losing, rewarded in Ping-Pong balls.",
-        "The Booby Prize · Michigan card parties, 1880s: One unlucky loser went home with a live mouse in a box. Nobody recorded what the mouse thought."
-      ]
+     "t": "p",
+     "text": "The answers printed upside down on this page belong to A Quiz That Doesn’t Like You (pp. 106–107), Crack the Losers’ Code (p. 109) and Find the Outsider (p. 108); they appear with those pieces."
     }
-  ],
-  "sources": [
-    "The Lanterne Rouge, Mr. Irrelevant, nul points, the Razzies (including Halle Berry’s 2005 acceptance) and the Sacko are widely reported.",
-    "Word Histories, “Wooden spoon” origin. https://wordhistories.net/2017/12/09/wooden-spoon-origin/",
-    "Hear the Boat Sing, “Cuthbert Lempriere Holthouse: the man with the last wooden spoon.” https://heartheboatsing.com/2020/09/24/cuthbert-lempriere-holthouse-the-man-with-the-last-wooden-spoon/",
-    "Wordorigins.org, “Booby.” https://www.wordorigins.org/big-list-entries/booby"
-  ]
+   ]
+  },
+  {
+   "t": "list",
+   "items": [
+    "Lanterne Rouge · Tour de France: The red lantern goes to the rider who finishes the Tour dead last, named for the light on the back of a train’s last car. You still have to ride every mile to get it.",
+    "The Lowsman · NFL Draft: The last pick in the draft is crowned “Mr. Irrelevant” and gets a trophy of a player fumbling the ball. Then a week of parties.",
+    "Nul Points · Eurovision: A song so unloved that no country gave it a single point. Fans keep a list, the way other people keep a list of champions.",
+    "The Razzie · Hollywood: Halle Berry showed up in 2005 to accept her Worst Actress award for Catwoman, holding her Oscar in the other hand.",
+    "The Sacko · Your fantasy league: Last place takes home a trophy and the shame that comes with it. Ours is a plunger in a goblet. See page 4."
+   ]
+  },
+  {
+   "t": "h2",
+   "text": "And in the Overflow Cabinet"
+  },
+  {
+   "t": "list",
+   "items": [
+    "The Wooden Spoon · Cambridge, 1800s–1909: For the worst math score that still passed: a wooden spoon lowered from the gallery on strings. The last one was an oar.",
+    "The Lottery Ball · NBA: Finish with the worst record and you get the best odds at next year’s top pick: 14%. Losing, rewarded in Ping-Pong balls.",
+    "The Booby Prize · Michigan card parties, 1880s: One unlucky loser went home with a live mouse in a box. Nobody recorded what the mouse thought."
+   ]
+  }
+ ],
+ "sources": [
+  "The Lanterne Rouge, Mr. Irrelevant, nul points, the Razzies (including Halle Berry’s 2005 acceptance) and the Sacko are widely reported.",
+  "Word Histories, “Wooden spoon” origin. https://wordhistories.net/2017/12/09/wooden-spoon-origin/",
+  "Hear the Boat Sing, “Cuthbert Lempriere Holthouse: the man with the last wooden spoon.” https://heartheboatsing.com/2020/09/24/cuthbert-lempriere-holthouse-the-man-with-the-last-wooden-spoon/",
+  "Wordorigins.org, “Booby.” https://www.wordorigins.org/big-list-entries/booby"
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/trophy-case-1.jpg",
+   "alt": "The trophy case: lantern rouge, the lowsman, nul points, the razzie, the sacko",
+   "page": 111,
+   "w": 964,
+   "h": 570,
+   "hero": true,
+   "wide": true,
+   "graphic": true
+  }
+ ]
 }

@@ -880,5 +880,67 @@
   "Barbara Payton: Confidential (magazine) · Tara Hanks · PBS: the ruling · PBS: the costs",
   "Smell-O-Vision: Cabinet: “Cinematic Airs” · in70mm.com: Carmen Laube · TCM · Roger Ebert: Michael Todd Jr. · Casino.org: Sphere scents · Business Wire: Sphere 4D effects; Q2 2026 results",
   "Photos: Hepburn (MGM), Freed (James Kriegsmann), Payton, Bowes (NBC): public domain, Wikimedia Commons. Other images: SIDE EYE."
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/final-rose-1.jpg",
+   "alt": "A glittering pink mansion staircase lit for a dating show finale",
+   "page": 14,
+   "w": 1122,
+   "h": 585,
+   "hero": true,
+   "wide": true,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/final-rose-2.jpg",
+   "alt": "Tonight's contestants: eleven famous flops, from The Wicker Man to Smell-O-Vision",
+   "page": 15,
+   "w": 999,
+   "h": 673,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/final-rose-3.jpg",
+   "alt": "A rosette ribbon for Jackie, official citation",
+   "page": 15,
+   "w": 314,
+   "h": 599,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/final-rose-4.jpg",
+   "alt": "Scent cue sheet from Smell-O-Vision: roses, something special, Eau de Cologne",
+   "page": 20,
+   "w": 471,
+   "h": 278,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/final-rose-5.jpg",
+   "alt": "Hans Laube, will you accept this rose?",
+   "page": 21,
+   "w": 1122,
+   "h": 644,
+   "hero": false,
+   "wide": true,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/final-rose-6.jpg",
+   "alt": "Rose ceremony scorecard: what each contestant was famous for and who got a rose",
+   "page": 22,
+   "w": 953,
+   "h": 585,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  }
  ]
 }

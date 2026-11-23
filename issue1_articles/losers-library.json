@@ -449,5 +449,67 @@
   "The Archimedes Palimpsest. The Walters Art Museum’s Archimedes Palimpsest Project (imaging 1999–2008, including X-rays at Stanford’s particle accelerator); the 1998 Christie’s sale.",
   "Sir Henry Clinton. William L. Clements Library, University of Michigan (the Clinton Papers); William B. Willcox, ed., The American Rebellion: Sir Henry Clinton’s Narrative of His Campaigns (Yale, 1954).",
   "Herculaneum. The Vesuvius Challenge and its published results: the first word, porphyras (2023); the $700,000 grand prize to Youssef Nader, Luke Farritor and Julian Schilliger (February 2024); the title of Philodemus, On Vices, on a Bodleian scroll (2025); and PHerc. 1667, announced 25 June 2026 as the first Herculaneum scroll read essentially end to end. It was not untouched: it had already lost its outer layers to failed attempts to open it, the last in the 1980s. Its attribution to Chrysippus is a working hypothesis."
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/losers-library-1.jpg",
+   "alt": "A pile of burning books",
+   "page": 60,
+   "w": 381,
+   "h": 454,
+   "hero": true,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/losers-library-2.jpg",
+   "alt": "Date due card: Carthage, Alexandria, Baghdad and more, all marked lost",
+   "page": 60,
+   "w": 381,
+   "h": 702,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/losers-library-3.jpg",
+   "alt": "Late fees: the overdue books, by the numbers",
+   "page": 61,
+   "w": 471,
+   "h": 278,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/losers-library-4.jpg",
+   "alt": "What's left: Dresden, Paris, Madrid, Mexico",
+   "page": 62,
+   "w": 964,
+   "h": 220,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/losers-library-5.jpg",
+   "alt": "Reading progress, Herculaneum: one word, then a whole scroll",
+   "page": 63,
+   "w": 964,
+   "h": 234,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/losers-library-6.jpg",
+   "alt": "History belongs to whoever keeps the files",
+   "page": 63,
+   "w": 482,
+   "h": 322,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  }
  ]
 }

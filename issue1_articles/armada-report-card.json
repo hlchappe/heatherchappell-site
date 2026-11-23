@@ -261,5 +261,37 @@
   "Garrett Mattingly, The Armada (1959).",
   "Colin Martin and Geoffrey Parker, The Spanish Armada (1988).",
   "Image: Zeeland’s Armada token, 1588. Rijksmuseum. Public domain."
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/armada-report-card-1.jpg",
+   "alt": "A shipwreck in a bottle",
+   "page": 103,
+   "w": 336,
+   "h": 352,
+   "hero": true,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/armada-report-card-2.jpg",
+   "alt": "The Spanish Armada's report card: D overall",
+   "page": 104,
+   "w": 1122,
+   "h": 1426,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/armada-report-card-3.jpg",
+   "alt": "Parent-teacher conference notes and the winners' report card",
+   "page": 105,
+   "w": 1122,
+   "h": 1426,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  }
  ]
 }

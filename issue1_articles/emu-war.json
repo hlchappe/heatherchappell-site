@@ -1,449 +1,531 @@
 {
-  "slug": "emu-war",
-  "order": 72,
-  "section": "The Files",
-  "kicker": "THE FILES · FEATURE",
-  "label": "Lost the fight",
-  "title": "The Emus Didn’t Win. The Newspapers Did.",
-  "dek": "Rupert Murdoch’s father ran the biggest one. In 1932 Australia’s Defence Minister pulled two machine guns out of a wheat field because of what the Melbourne and Sydney papers printed. He said so in the Senate. The biggest paper in Melbourne was run by Keith Murdoch, who had just campaigned for that government, and who spent his career finding out how far a paragraph could move a minister.",
-  "byline": "Heather Chappell & Edwin Galloway",
-  "pages": [
-    72,
-    78
-  ],
-  "hero": "issue1/p072.jpg",
-  "summary": "Australia’s 1932 Emu War was called off over newspaper reports, the Defence Minister told the Senate. Keith Murdoch ran Melbourne’s biggest paper.",
-  "topics": [
-    "Emu War",
-    "Australia",
-    "Keith Murdoch",
-    "George Pearce",
-    "Hansard",
-    "Western Australia"
-  ],
-  "blocks": [
-    {
-      "t": "caption",
-      "text": "Prime Minister Billy Hughes (left) and Keith Murdoch in France, 3 July 1918, the day after Hughes toured the Australian lines. Australian War Memorial E02650. Public domain."
-    },
-    {
-      "t": "h2",
-      "text": "The Minister’s Excuse"
-    },
-    {
-      "t": "p",
-      "text": "On November 18, 1932, Sir George Pearce, Australia’s Minister for Defence, stood up in the Senate and explained why he had called off a war."
-    },
-    {
-      "t": "p",
-      "text": "The war was against emus. Three soldiers, two machine guns, ten thousand rounds of ammunition, and about twenty thousand large flightless birds eating the wheat in Western Australia. The birds ran faster than the army’s truck. Parliament laughed. The internet is still laughing."
-    },
-    {
-      "t": "p",
-      "text": "Pearce’s reason for pulling the guns is in Hansard, the official record of Parliament. “Subsequently paragraphs appeared in the press of the eastern States to the effect that the machine gun shooting of the birds was not effective, as only a few birds had been shot. Assuming those paragraphs to be correct, I issued the instruction that the guns and crew should be withdrawn.”"
-    },
-    {
-      "t": "p",
-      "text": "Read that again. The Minister for Defence pulled a military unit out of the field because of newspaper paragraphs he had not checked."
-    },
-    {
-      "t": "p",
-      "text": "The joke says Australia declared war on emus and lost. The record says the army lost to the newspapers. And the biggest newspaper in Melbourne was run by a man who had already tried to move a general."
-    },
-    {
-      "t": "h2",
-      "text": "1918: A Newspaperman Tries to Move a General"
-    },
-    {
-      "t": "p",
-      "text": "Fourteen years earlier, Keith Murdoch was a young Australian journalist in London with a direct line to the Prime Minister, Billy Hughes."
-    },
-    {
-      "t": "p",
-      "text": "In May 1918, General John Monash was chosen to command the Australian Corps, Australia’s army in France. Charles Bean, Australia’s official war correspondent, didn’t like the choice. On May 18 he wrote a plan in his diary to put another general, Brudenell White, in charge instead. Then he went to London to see Murdoch. Bean “left him half persuaded.” The cartoonist Will Dyson “left him quite convinced.”"
-    },
-    {
-      "t": "caption",
-      "text": "CLOSER THAN THEY APPEAR. The army’s gun truck, as the enemy saw it. Over rough ground the birds outran it, and the ride was too bumpy to aim."
-    },
-    {
-      "t": "p",
-      "text": "Murdoch cabled Hughes. Hughes told Melbourne to hold the appointment until he arrived. As Murdoch’s biographer, the historian Geoffrey Serle, reports, Murdoch offered Monash a promotion out of field command, “reminding him that his cables went to 250 newspapers.”"
-    },
-    {
-      "t": "p",
-      "text": "Monash was ready for it. His own agenda for a meeting with his generals on June 6, 1918, has a line marked confidential: “Hughes & Murdoch (disaffected Brigadiers).”"
-    },
-    {
-      "t": "p",
-      "text": "On July 2, Hughes visited the front and talked to the generals. Afterward he turned on Murdoch, as Bean recorded it: “I havent met a single one of them that thinks as you do ... Where are they?” Murdoch told him the generals he’d met had been arranged. Two days later, Monash won the Battle of Hamel in ninety-three minutes. He kept his command. Nobody was punished."
-    },
-    {
-      "t": "p",
-      "text": "Bean confessed his part in print in 1942 and wrote that Murdoch “was doubtless misled by Bean and Dyson.” Murdoch never confessed."
-    },
-    {
-      "t": "p",
-      "text": "The plot failed. The newspaperman learned that he could get a prime minister to try."
-    },
-    {
-      "t": "h2",
-      "text": "1931-1932: The Herald Backs a New Government"
-    },
-    {
-      "t": "p",
-      "text": "By 1931 Murdoch was managing director of the Herald and Weekly Times. He ran the Herald, the biggest paper in Melbourne, plus the Sun News-Pictorial, the Sporting Globe and radio station 3DB. He never owned the company. He ran it for thirty years anyway."
-    },
-    {
-      "t": "p",
-      "text": "In the depths of the Depression, his Herald ran what Serle calls “a massive campaign” against the Labor government of James Scullin. A Labor minister named Joseph Lyons was, in Serle’s words, “lunching at the Herald even before he left the Labor Party.” Lyons walked out of Labor in 1931 and led the new United Australia Party to power in January 1932."
-    },
-    {
-      "t": "p",
-      "text": "Scullin left behind trouble in the wheat country. In April 1930 his government had promised wheat growers a guaranteed price of four shillings a bushel. The Senate killed it, and by September 1931 the promise was officially dead. Remember that one. It is the broken promise behind the Emu War, and it belonged to the government before Lyons."
-    },
-    {
-      "t": "p",
-      "text": "Did Murdoch make Lyons prime minister? The record says no. Six other Melbourne men recruited Lyons. One of them, the writer Ambrose Pratt, wrote his resignation speech. Serle’s verdict is flat: “Murdoch’s ‘kingmaker’ role remains largely a myth.”"
-    },
-    {
-      "t": "p",
-      "text": "But Murdoch backed him, loudly. Lyons’s new Defence Minister was Sir George Pearce, the senator for Western Australia since the country was founded in 1901. Pearce had walked out of Labor too, back in 1916. Labor never forgave him."
-    },
-    {
-      "t": "p",
-      "text": "Pearce once said Murdoch “gave the impression of greater influence than he in fact had.” He was about to find out how much influence the papers had."
-    },
-    {
-      "t": "h2",
-      "text": "Late 1932: The Farmers Ask for Machine Guns"
-    },
-    {
-      "t": "p",
-      "text": "Out in the wheat country east of Perth, ex-soldiers were losing everything. After the First World War the government had settled them on marginal land. Then wheat prices collapsed, and the guaranteed price never came."
-    },
-    {
-      "t": "p",
-      "text": "Then the emus came in from the dry interior, twenty thousand of them by the farmers’ count, and ate what was left."
-    },
-    {
-      "t": "p",
-      "text": "The farmers knew what a Lewis machine gun could do. They had used them in France. They asked for some."
-    },
-    {
-      "t": "p",
-      "text": "Pearce said yes, on one condition. The Commonwealth would pay nothing. Western Australia’s government would pay for the train fares and the bullets. Three soldiers would go, so the guns stayed in army hands. “The operation was not to cost the Commonwealth Government anything,” Pearce later told the Senate."
-    },
-    {
-      "t": "p",
-      "text": "A free war. That should have been the first clue."
-    },
-    {
-      "t": "h2",
-      "text": "November 1932: Who Invited the Camera?"
-    },
-    {
-      "t": "p",
-      "text": "According to the historian Murray Johnson, who wrote the one scholarly study of the Emu War, a cameraman from Fox Movietone, the newsreel company, went with the guns."
-    },
-    {
-      "t": "caption",
-      "text": "NO RSVP ON FILE. By the one scholarly account, a Fox Movietone cameraman went with the guns. Nobody has found the invitation."
-    },
-    {
-      "t": "p",
-      "text": "Newsreel crews did not wander into the Western Australian wheat belt by accident. Somebody told them where to be and when. Nobody has found the letter that invited him."
-    },
-    {
-      "t": "p",
-      "text": "Now look at the calendar. That same month, the Western Australian Parliament passed the law for a vote on leaving Australia altogether. Pearce was Western Australia’s own senator. A newsreel of the army saving the wheat crop, free to Canberra, would have played in every cinema in Perth before that vote."
-    },
-    {
-      "t": "p",
-      "text": "Did the government stage the Emu War for the cameras? The record shows the camera, the free operation and the timing. It does not show the memo. The motive is a fair guess. The order is unproven."
-    },
-    {
-      "t": "p",
-      "text": "What the camera actually caught was a truck losing a race to a bird."
-    },
-    {
-      "t": "h2",
-      "text": "November 2-8, 1932: Six Days from Ambush to Joke"
-    },
-    {
-      "t": "p",
-      "text": "The commander was Major G. P. W. Meredith of the Royal Australian Artillery. Heavy rain had already pushed the start back from October."
-    },
-    {
-      "t": "caption",
-      "text": "THE OTHER ARMY. About twenty thousand emus by the farmers’ count, against three soldiers."
-    },
-    {
-      "t": "p",
-      "text": "On November 2 his soldiers found about fifty emus near the town of Campion. Farmers tried to herd them into range. The birds split into small groups and ran in every direction. The first burst fell short."
-    },
-    {
-      "t": "p",
-      "text": "On November 4 Meredith waited by a dam as a large flock came toward it. The gunners opened fire at close range. The gun jammed after a handful of kills. The rest of the flock left."
-    },
-    {
-      "t": "p",
-      "text": "So he mounted a gun on a truck. The emus were faster than the truck over rough ground, and the ride was so bumpy the gunner couldn’t aim."
-    },
-    {
-      "t": "p",
-      "text": "Meanwhile the papers were writing. By November 5 the Melbourne Argus was running a piece headed “Elusive Emus.” Within days the words “emu war” were in print."
-    },
-    {
-      "t": "p",
-      "text": "On the morning of November 8, in the House of Representatives, the Country Party’s Harold Thorby asked the Prime Minister “who is responsible for this farce, and who is footing the bill?” The Country Party was the wheat growers’ own party. A few questions earlier in the same sitting, the Labor member for Kalgoorlie, Albert Green, had asked about the wheat relief everyone was waiting for.¹ Lyons said he would announce it that week. Thorby said the guns were in Central Australia. He had that from the press, and the press had the geography wrong."
-    },
-    {
-      "t": "p",
-      "text": "That same day, Pearce pulled the guns."
-    },
-    {
-      "t": "p",
-      "text": "The army hadn’t lost to the emus. It had lost to a paragraph."
-    },
-    {
-      "t": "h2",
-      "text": "November 10-18, 1932: The Minister Admits What Pulled the Guns"
-    },
-    {
-      "t": "p",
-      "text": "Two days later, the farmers got the rest of the bad news. On November 10 Lyons told the House his government would give wheat farmers £1,250,000 in hardship relief, paid through the states, plus a bounty of £1 a ton on fertilizer. What it would not give was a bounty on every bushel of wheat, the thing the growers actually wanted."
-    },
-    {
-      "t": "p",
-      "text": "So in one week the emus became a national joke, the guns were pulled, and the farmers were told no."
-    },
-    {
-      "t": "p",
-      "text": "On November 18 Pearce made his defense in the Senate. After blaming the eastern papers, he explained what happened next. “This action caused a storm of protest from the people in these wheat areas, and also from the Premier of that State, and I was informed that the guns had been effective, for hundreds of birds had been shot, and that since the cessation of the shooting the birds had returned in thousands. I then agreed that the guns and crew should be returned to the area.”"
-    },
-    {
-      "t": "p",
-      "text": "So the war was called off by the eastern papers and restarted by the western premier."
-    },
-    {
-      "t": "p",
-      "text": "In the same sitting, Senator James Dunn of the breakaway Lang Labor party called Pearce “this Minister of the ‘emu war’, this treacherous renegade of the Australian Labour movement.” He had to take back the second half. The first half stuck for ninety years."
-    },
-    {
-      "t": "p",
-      "text": "Pearce never named the papers. “The press of the eastern States” means Melbourne and Sydney: the Argus, the Sydney Morning Herald, and the two papers Keith Murdoch ran, the Herald and the Sun News-Pictorial."
-    },
-    {
-      "t": "p",
-      "text": "Which of them printed the paragraph that pulled the guns? Nobody has checked. The Melbourne Herald for that week sits in the National Library’s online newspaper archive, unread for this story. The earliest “it isn’t working” item anyone has found is in the Argus, and the Argus was not a Murdoch paper."
-    },
-    {
-      "t": "p",
-      "text": "The record shows a minister taking orders from the press. It does not yet show which press."
-    },
-    {
-      "t": "h2",
-      "text": "1932-1937: The West Votes. The Minister Loses."
-    },
-    {
-      "t": "p",
-      "text": "The guns went back out on about November 12 and came home for good on December 10. Meredith reported 986 confirmed kills from 9,860 rounds, and estimated 2,500 more birds died of wounds. Nine hundred and eighty-six is exactly one-tenth of 9,860, which gives a very tidy ten rounds per bird. His report has never been published. His numbers are his own."
-    },
-    {
-      "t": "p",
-      "text": "What actually worked was cheaper. Western Australia had been paying bounties for dead emus since 1923. In 1934 it paid out on more than 57,000 claims in six months. The bounties did the real work. The guns made the better picture."
-    },
-    {
-      "t": "p",
-      "text": "The west noticed. In April 1933 Western Australia voted two to one to leave the Commonwealth. London never acted on it."
-    },
-    {
-      "t": "p",
-      "text": "Keith Murdoch did well out of the Lyons years. In July 1933 he was knighted on the recommendation of the Lyons government."
-    },
-    {
-      "t": "p",
-      "text": "In 1934 Lyons won a second election, though his party lost its majority. According to a letter quoted by the journalist Bruce Page, he wrote to Murdoch that the Herald’s influence “had an immeasurable bearing upon the verdict rendered by the people.”"
-    },
-    {
-      "t": "p",
-      "text": "In 1937 the Wheatgrowers’ Union and the secessionist Dominion League campaigned in Western Australia under a slogan: “Put Pearce Last.” He lost the Senate seat he had held since 1901. The Australian Dictionary of Biography records both facts. Whether the emus are the link is a fair guess, not a proven one."
-    },
-    {
-      "t": "p",
-      "text": "The farmers took the risk and got a joke. The minister took the blame and lost his seat. The birds took the crop and stayed on the coat of arms."
-    },
-    {
-      "t": "h2",
-      "text": "1940: The Newspaperman Runs the Department That Censored the Press"
-    },
-    {
-      "t": "p",
-      "text": "Eight years after the Emu War, the government put Keith Murdoch in charge of the department that censored the press."
-    },
-    {
-      "t": "caption",
-      "text": "UNDER NEW MANAGEMENT. 1940: the man who ran Melbourne’s biggest paper became Director-General of Information."
-    },
-    {
-      "t": "p",
-      "text": "In June 1940, Prime Minister Robert Menzies made him Director-General of Information. His department, as Menzies told Parliament, “administers the censorship.” Within weeks Murdoch had a regulation that let the government make any paper print a correction. In his biographer’s telling, Murdoch put it this way: “That statement has been harmful. Here is the truth. Print it and print it where we tell you.”"
-    },
-    {
-      "t": "p",
-      "text": "His rivals revolted. Frank Packer’s Sydney Telegraph sneered at a man “so used to getting a docile ‘Yes, Sir Keith’ from those who trot at his beck and call in Melbourne.” The rule was softened, not scrapped. A month later Menzies told Parliament it was “in course of being redrawn.”"
-    },
-    {
-      "t": "p",
-      "text": "Murdoch resigned in December. The job later went, in an acting capacity, to John Williams, a Herald man who had worked under Murdoch for years."
-    },
-    {
-      "t": "p",
-      "text": "In 1932 the papers moved the guns. In 1940 the man who ran the biggest paper ran the department that could order the papers to print corrections."
-    },
-    {
-      "t": "h2",
-      "text": "What the Papers Learned"
-    },
-    {
-      "t": "p",
-      "text": "The joke says Australia declared war on emus and lost. The record is stranger. A government ran a free operation with, by the one scholarly account, a newsreel camera attached, in the month the west moved to leave. The newspapers took it away in six days. The farmers who asked for help were laughed at by their own party and turned down by a government the biggest Melbourne paper had backed."
-    },
-    {
-      "t": "caption",
-      "text": "FEAR AND LOATHING ON THE WHEAT BELT ’32"
-    },
-    {
-      "t": "p",
-      "text": "Nobody has shown that Keith Murdoch’s papers led the laughing. What the record does show is a minister admitting, in Parliament, that newspaper paragraphs pulled the army out of the field. The man who ran the biggest of those papers had tried to move a general in 1918. In 1940 he ran the department that censored the press."
-    },
-    {
-      "t": "p",
-      "text": "Australia has laughed at the birds for ninety years. The minister’s own words say the newspapers stopped the war. Which newspaper is still one search away."
-    },
-    {
-      "t": "h2",
-      "text": "What We Can Prove / What We Can’t"
-    },
-    {
-      "t": "p",
-      "text": "Proven:"
-    },
-    {
-      "t": "list",
-      "items": [
-        "Pearce approved the operation on condition the Commonwealth paid nothing; Western Australia paid fares and ammunition.",
-        "Three soldiers, two Lewis guns, ten thousand rounds; operations from November 2, withdrawn November 8, resumed about November 12, ended December 10.",
-        "Pearce told the Senate on November 18 that “paragraphs ... in the press of the eastern States” made him withdraw the guns, and Western Australian protests made him send them back.",
-        "The Country Party’s Thorby called it “this farce” in the House on November 8, the day the guns were pulled.",
-        "Lyons refused a per-bushel wheat bounty on November 10 and paid £1,250,000 in hardship relief and a fertilizer bounty instead.",
-        "The broken guaranteed-price promise was Scullin’s, from April 1930, killed in the Senate.",
-        "The Western Australian secession law passed in November 1932; the vote carried in April 1933.",
-        "“Put Pearce Last” ended Pearce’s Senate career in 1937.",
-        "Murdoch ran the Herald and Sun News-Pictorial in 1932 and backed the Lyons government.",
-        "Murdoch worked with Hughes to move Monash out of field command in 1918."
-      ]
-    },
-    {
-      "t": "p",
-      "text": "Strongly supported:"
-    },
-    {
-      "t": "list",
-      "items": [
-        "Murdoch ran the department that censored the press in 1940, and his correction regulation was amended, not withdrawn."
-      ]
-    },
-    {
-      "t": "p",
-      "text": "Likely:"
-    },
-    {
-      "t": "list",
-      "items": [
-        "A Fox Movietone cameraman went with the soldiers (Johnson, the one scholarly study).",
-        "Lyons’s thank-you letter to Murdoch after the 1934 election (one chain, via Page).",
-        "Meredith’s figures: 986 kills, 9,860 rounds, 2,500 wounded (his own report, unpublished).",
-        "The 1934 bounty total of more than 57,000 claims."
-      ]
-    },
-    {
-      "t": "p",
-      "text": "Not proven:"
-    },
-    {
-      "t": "list",
-      "items": [
-        "That the government staged the operation for the cameras. The camera, the free operation and the secession timing are documented; the intent is not.",
-        "Which paper printed the paragraph that pulled the guns.",
-        "That Murdoch’s Herald led the mockery, or covered the emus at all. Its November 1932 issues are online and unread.",
-        "That the Country Party planned the ridicule rather than seizing it.",
-        "The “medals for the emus” line. It is everywhere. It is not in Hansard.",
-        "That the emus cost Pearce his seat in 1937.",
-        "That Murdoch made Lyons prime minister. His own biographer calls it “largely a myth.”"
-      ]
-    },
-    {
-      "t": "p",
-      "text": "The other side. Historians who have studied the Emu War, and the Australian Dictionary of Biography, treat it as what Pearce said it was: a cheap favor to desperate farmers that went badly and got laughed at. A minister reading newspaper reports of a failed operation and pausing it is ordinary government, not press control. Every paper in the east ran the “war” headline, and the mockery in Parliament came from the Country Party and Lang Labor, not from any publisher. Geoffrey Serle, who wrote Murdoch’s entry in the Australian Dictionary of Biography, says his “kingmaker” role in the Lyons years “remains largely a myth,” and a serving Lyons minister said the same. On this reading the emus are a footnote and Murdoch is not in the story at all. Of course, the minister in question is Pearce, and he had reason to want the press to look less powerful than it had just proved to be."
-    },
-    {
-      "t": "p",
-      "text": "Why the gap? Maybe nobody staged anything, and a camera followed a good story the way cameras do. Or maybe the invitation was made by telephone and the motive was never written down, which is how governments arrange publicity. Either way, the fact that stands is in Hansard in Pearce’s own words: the newspapers stopped the war. The only question left is which newspaper. It is one search away."
-    },
-    {
-      "t": "h2",
-      "text": "Notes"
-    },
-    {
-      "t": "p",
-      "text": "¹ The famous line about giving medals to the emus is usually credited to Albert Green, the Labor member for Kalgoorlie. Nobody has found it in Hansard. Treat it as a story."
-    },
-    {
-      "t": "sidebar",
-      "title": "Corrections We’d Like to See",
-      "blocks": [
-        {
-          "t": "p",
-          "text": "In 1940 Sir Keith wanted the power to make any paper print a correction. We’ll go first."
-        },
-        {
-          "t": "list",
-          "items": [
-            "The eastern press, Nov. 1932. Our paragraphs said the guns were “not effective.” The Minister for Defence did not check them. He pulled the guns anyway. We regret the war.",
-            "Harold Thorby, Nov. 8. The guns were in Western Australia, not Central Australia. The Member got it from the press.",
-            "Major Meredith. 986 kills from 9,860 rounds is exactly ten rounds per bird. The report is unpublished. The numbers are his own."
-          ]
-        },
-        {
-          "t": "p",
-          "text": "“Print it and print it where we tell you.” Happy to, Sir Keith."
-        }
-      ]
+ "slug": "emu-war",
+ "order": 72,
+ "section": "The Files",
+ "kicker": "THE FILES · FEATURE",
+ "label": "Lost the fight",
+ "title": "The Emus Didn’t Win. The Newspapers Did.",
+ "dek": "Rupert Murdoch’s father ran the biggest one. In 1932 Australia’s Defence Minister pulled two machine guns out of a wheat field because of what the Melbourne and Sydney papers printed. He said so in the Senate. The biggest paper in Melbourne was run by Keith Murdoch, who had just campaigned for that government, and who spent his career finding out how far a paragraph could move a minister.",
+ "byline": "Heather Chappell & Edwin Galloway",
+ "pages": [
+  72,
+  78
+ ],
+ "hero": "issue1/p072.jpg",
+ "summary": "Australia’s 1932 Emu War was called off over newspaper reports, the Defence Minister told the Senate. Keith Murdoch ran Melbourne’s biggest paper.",
+ "topics": [
+  "Emu War",
+  "Australia",
+  "Keith Murdoch",
+  "George Pearce",
+  "Hansard",
+  "Western Australia"
+ ],
+ "blocks": [
+  {
+   "t": "caption",
+   "text": "Prime Minister Billy Hughes (left) and Keith Murdoch in France, 3 July 1918, the day after Hughes toured the Australian lines. Australian War Memorial E02650. Public domain."
+  },
+  {
+   "t": "h2",
+   "text": "The Minister’s Excuse"
+  },
+  {
+   "t": "p",
+   "text": "On November 18, 1932, Sir George Pearce, Australia’s Minister for Defence, stood up in the Senate and explained why he had called off a war."
+  },
+  {
+   "t": "p",
+   "text": "The war was against emus. Three soldiers, two machine guns, ten thousand rounds of ammunition, and about twenty thousand large flightless birds eating the wheat in Western Australia. The birds ran faster than the army’s truck. Parliament laughed. The internet is still laughing."
+  },
+  {
+   "t": "p",
+   "text": "Pearce’s reason for pulling the guns is in Hansard, the official record of Parliament. “Subsequently paragraphs appeared in the press of the eastern States to the effect that the machine gun shooting of the birds was not effective, as only a few birds had been shot. Assuming those paragraphs to be correct, I issued the instruction that the guns and crew should be withdrawn.”"
+  },
+  {
+   "t": "p",
+   "text": "Read that again. The Minister for Defence pulled a military unit out of the field because of newspaper paragraphs he had not checked."
+  },
+  {
+   "t": "p",
+   "text": "The joke says Australia declared war on emus and lost. The record says the army lost to the newspapers. And the biggest newspaper in Melbourne was run by a man who had already tried to move a general."
+  },
+  {
+   "t": "h2",
+   "text": "1918: A Newspaperman Tries to Move a General"
+  },
+  {
+   "t": "p",
+   "text": "Fourteen years earlier, Keith Murdoch was a young Australian journalist in London with a direct line to the Prime Minister, Billy Hughes."
+  },
+  {
+   "t": "p",
+   "text": "In May 1918, General John Monash was chosen to command the Australian Corps, Australia’s army in France. Charles Bean, Australia’s official war correspondent, didn’t like the choice. On May 18 he wrote a plan in his diary to put another general, Brudenell White, in charge instead. Then he went to London to see Murdoch. Bean “left him half persuaded.” The cartoonist Will Dyson “left him quite convinced.”"
+  },
+  {
+   "t": "caption",
+   "text": "CLOSER THAN THEY APPEAR. The army’s gun truck, as the enemy saw it. Over rough ground the birds outran it, and the ride was too bumpy to aim."
+  },
+  {
+   "t": "p",
+   "text": "Murdoch cabled Hughes. Hughes told Melbourne to hold the appointment until he arrived. As Murdoch’s biographer, the historian Geoffrey Serle, reports, Murdoch offered Monash a promotion out of field command, “reminding him that his cables went to 250 newspapers.”"
+  },
+  {
+   "t": "p",
+   "text": "Monash was ready for it. His own agenda for a meeting with his generals on June 6, 1918, has a line marked confidential: “Hughes & Murdoch (disaffected Brigadiers).”"
+  },
+  {
+   "t": "p",
+   "text": "On July 2, Hughes visited the front and talked to the generals. Afterward he turned on Murdoch, as Bean recorded it: “I havent met a single one of them that thinks as you do ... Where are they?” Murdoch told him the generals he’d met had been arranged. Two days later, Monash won the Battle of Hamel in ninety-three minutes. He kept his command. Nobody was punished."
+  },
+  {
+   "t": "p",
+   "text": "Bean confessed his part in print in 1942 and wrote that Murdoch “was doubtless misled by Bean and Dyson.” Murdoch never confessed."
+  },
+  {
+   "t": "p",
+   "text": "The plot failed. The newspaperman learned that he could get a prime minister to try."
+  },
+  {
+   "t": "h2",
+   "text": "1931-1932: The Herald Backs a New Government"
+  },
+  {
+   "t": "p",
+   "text": "By 1931 Murdoch was managing director of the Herald and Weekly Times. He ran the Herald, the biggest paper in Melbourne, plus the Sun News-Pictorial, the Sporting Globe and radio station 3DB. He never owned the company. He ran it for thirty years anyway."
+  },
+  {
+   "t": "p",
+   "text": "In the depths of the Depression, his Herald ran what Serle calls “a massive campaign” against the Labor government of James Scullin. A Labor minister named Joseph Lyons was, in Serle’s words, “lunching at the Herald even before he left the Labor Party.” Lyons walked out of Labor in 1931 and led the new United Australia Party to power in January 1932."
+  },
+  {
+   "t": "p",
+   "text": "Scullin left behind trouble in the wheat country. In April 1930 his government had promised wheat growers a guaranteed price of four shillings a bushel. The Senate killed it, and by September 1931 the promise was officially dead. Remember that one. It is the broken promise behind the Emu War, and it belonged to the government before Lyons."
+  },
+  {
+   "t": "p",
+   "text": "Did Murdoch make Lyons prime minister? The record says no. Six other Melbourne men recruited Lyons. One of them, the writer Ambrose Pratt, wrote his resignation speech. Serle’s verdict is flat: “Murdoch’s ‘kingmaker’ role remains largely a myth.”"
+  },
+  {
+   "t": "p",
+   "text": "But Murdoch backed him, loudly. Lyons’s new Defence Minister was Sir George Pearce, the senator for Western Australia since the country was founded in 1901. Pearce had walked out of Labor too, back in 1916. Labor never forgave him."
+  },
+  {
+   "t": "p",
+   "text": "Pearce once said Murdoch “gave the impression of greater influence than he in fact had.” He was about to find out how much influence the papers had."
+  },
+  {
+   "t": "h2",
+   "text": "Late 1932: The Farmers Ask for Machine Guns"
+  },
+  {
+   "t": "p",
+   "text": "Out in the wheat country east of Perth, ex-soldiers were losing everything. After the First World War the government had settled them on marginal land. Then wheat prices collapsed, and the guaranteed price never came."
+  },
+  {
+   "t": "p",
+   "text": "Then the emus came in from the dry interior, twenty thousand of them by the farmers’ count, and ate what was left."
+  },
+  {
+   "t": "p",
+   "text": "The farmers knew what a Lewis machine gun could do. They had used them in France. They asked for some."
+  },
+  {
+   "t": "p",
+   "text": "Pearce said yes, on one condition. The Commonwealth would pay nothing. Western Australia’s government would pay for the train fares and the bullets. Three soldiers would go, so the guns stayed in army hands. “The operation was not to cost the Commonwealth Government anything,” Pearce later told the Senate."
+  },
+  {
+   "t": "p",
+   "text": "A free war. That should have been the first clue."
+  },
+  {
+   "t": "h2",
+   "text": "November 1932: Who Invited the Camera?"
+  },
+  {
+   "t": "p",
+   "text": "According to the historian Murray Johnson, who wrote the one scholarly study of the Emu War, a cameraman from Fox Movietone, the newsreel company, went with the guns."
+  },
+  {
+   "t": "caption",
+   "text": "NO RSVP ON FILE. By the one scholarly account, a Fox Movietone cameraman went with the guns. Nobody has found the invitation."
+  },
+  {
+   "t": "p",
+   "text": "Newsreel crews did not wander into the Western Australian wheat belt by accident. Somebody told them where to be and when. Nobody has found the letter that invited him."
+  },
+  {
+   "t": "p",
+   "text": "Now look at the calendar. That same month, the Western Australian Parliament passed the law for a vote on leaving Australia altogether. Pearce was Western Australia’s own senator. A newsreel of the army saving the wheat crop, free to Canberra, would have played in every cinema in Perth before that vote."
+  },
+  {
+   "t": "p",
+   "text": "Did the government stage the Emu War for the cameras? The record shows the camera, the free operation and the timing. It does not show the memo. The motive is a fair guess. The order is unproven."
+  },
+  {
+   "t": "p",
+   "text": "What the camera actually caught was a truck losing a race to a bird."
+  },
+  {
+   "t": "h2",
+   "text": "November 2-8, 1932: Six Days from Ambush to Joke"
+  },
+  {
+   "t": "p",
+   "text": "The commander was Major G. P. W. Meredith of the Royal Australian Artillery. Heavy rain had already pushed the start back from October."
+  },
+  {
+   "t": "caption",
+   "text": "THE OTHER ARMY. About twenty thousand emus by the farmers’ count, against three soldiers."
+  },
+  {
+   "t": "p",
+   "text": "On November 2 his soldiers found about fifty emus near the town of Campion. Farmers tried to herd them into range. The birds split into small groups and ran in every direction. The first burst fell short."
+  },
+  {
+   "t": "p",
+   "text": "On November 4 Meredith waited by a dam as a large flock came toward it. The gunners opened fire at close range. The gun jammed after a handful of kills. The rest of the flock left."
+  },
+  {
+   "t": "p",
+   "text": "So he mounted a gun on a truck. The emus were faster than the truck over rough ground, and the ride was so bumpy the gunner couldn’t aim."
+  },
+  {
+   "t": "p",
+   "text": "Meanwhile the papers were writing. By November 5 the Melbourne Argus was running a piece headed “Elusive Emus.” Within days the words “emu war” were in print."
+  },
+  {
+   "t": "p",
+   "text": "On the morning of November 8, in the House of Representatives, the Country Party’s Harold Thorby asked the Prime Minister “who is responsible for this farce, and who is footing the bill?” The Country Party was the wheat growers’ own party. A few questions earlier in the same sitting, the Labor member for Kalgoorlie, Albert Green, had asked about the wheat relief everyone was waiting for.¹ Lyons said he would announce it that week. Thorby said the guns were in Central Australia. He had that from the press, and the press had the geography wrong."
+  },
+  {
+   "t": "p",
+   "text": "That same day, Pearce pulled the guns."
+  },
+  {
+   "t": "p",
+   "text": "The army hadn’t lost to the emus. It had lost to a paragraph."
+  },
+  {
+   "t": "h2",
+   "text": "November 10-18, 1932: The Minister Admits What Pulled the Guns"
+  },
+  {
+   "t": "p",
+   "text": "Two days later, the farmers got the rest of the bad news. On November 10 Lyons told the House his government would give wheat farmers £1,250,000 in hardship relief, paid through the states, plus a bounty of £1 a ton on fertilizer. What it would not give was a bounty on every bushel of wheat, the thing the growers actually wanted."
+  },
+  {
+   "t": "p",
+   "text": "So in one week the emus became a national joke, the guns were pulled, and the farmers were told no."
+  },
+  {
+   "t": "p",
+   "text": "On November 18 Pearce made his defense in the Senate. After blaming the eastern papers, he explained what happened next. “This action caused a storm of protest from the people in these wheat areas, and also from the Premier of that State, and I was informed that the guns had been effective, for hundreds of birds had been shot, and that since the cessation of the shooting the birds had returned in thousands. I then agreed that the guns and crew should be returned to the area.”"
+  },
+  {
+   "t": "p",
+   "text": "So the war was called off by the eastern papers and restarted by the western premier."
+  },
+  {
+   "t": "p",
+   "text": "In the same sitting, Senator James Dunn of the breakaway Lang Labor party called Pearce “this Minister of the ‘emu war’, this treacherous renegade of the Australian Labour movement.” He had to take back the second half. The first half stuck for ninety years."
+  },
+  {
+   "t": "p",
+   "text": "Pearce never named the papers. “The press of the eastern States” means Melbourne and Sydney: the Argus, the Sydney Morning Herald, and the two papers Keith Murdoch ran, the Herald and the Sun News-Pictorial."
+  },
+  {
+   "t": "p",
+   "text": "Which of them printed the paragraph that pulled the guns? Nobody has checked. The Melbourne Herald for that week sits in the National Library’s online newspaper archive, unread for this story. The earliest “it isn’t working” item anyone has found is in the Argus, and the Argus was not a Murdoch paper."
+  },
+  {
+   "t": "p",
+   "text": "The record shows a minister taking orders from the press. It does not yet show which press."
+  },
+  {
+   "t": "h2",
+   "text": "1932-1937: The West Votes. The Minister Loses."
+  },
+  {
+   "t": "p",
+   "text": "The guns went back out on about November 12 and came home for good on December 10. Meredith reported 986 confirmed kills from 9,860 rounds, and estimated 2,500 more birds died of wounds. Nine hundred and eighty-six is exactly one-tenth of 9,860, which gives a very tidy ten rounds per bird. His report has never been published. His numbers are his own."
+  },
+  {
+   "t": "p",
+   "text": "What actually worked was cheaper. Western Australia had been paying bounties for dead emus since 1923. In 1934 it paid out on more than 57,000 claims in six months. The bounties did the real work. The guns made the better picture."
+  },
+  {
+   "t": "p",
+   "text": "The west noticed. In April 1933 Western Australia voted two to one to leave the Commonwealth. London never acted on it."
+  },
+  {
+   "t": "p",
+   "text": "Keith Murdoch did well out of the Lyons years. In July 1933 he was knighted on the recommendation of the Lyons government."
+  },
+  {
+   "t": "p",
+   "text": "In 1934 Lyons won a second election, though his party lost its majority. According to a letter quoted by the journalist Bruce Page, he wrote to Murdoch that the Herald’s influence “had an immeasurable bearing upon the verdict rendered by the people.”"
+  },
+  {
+   "t": "p",
+   "text": "In 1937 the Wheatgrowers’ Union and the secessionist Dominion League campaigned in Western Australia under a slogan: “Put Pearce Last.” He lost the Senate seat he had held since 1901. The Australian Dictionary of Biography records both facts. Whether the emus are the link is a fair guess, not a proven one."
+  },
+  {
+   "t": "p",
+   "text": "The farmers took the risk and got a joke. The minister took the blame and lost his seat. The birds took the crop and stayed on the coat of arms."
+  },
+  {
+   "t": "h2",
+   "text": "1940: The Newspaperman Runs the Department That Censored the Press"
+  },
+  {
+   "t": "p",
+   "text": "Eight years after the Emu War, the government put Keith Murdoch in charge of the department that censored the press."
+  },
+  {
+   "t": "caption",
+   "text": "UNDER NEW MANAGEMENT. 1940: the man who ran Melbourne’s biggest paper became Director-General of Information."
+  },
+  {
+   "t": "p",
+   "text": "In June 1940, Prime Minister Robert Menzies made him Director-General of Information. His department, as Menzies told Parliament, “administers the censorship.” Within weeks Murdoch had a regulation that let the government make any paper print a correction. In his biographer’s telling, Murdoch put it this way: “That statement has been harmful. Here is the truth. Print it and print it where we tell you.”"
+  },
+  {
+   "t": "p",
+   "text": "His rivals revolted. Frank Packer’s Sydney Telegraph sneered at a man “so used to getting a docile ‘Yes, Sir Keith’ from those who trot at his beck and call in Melbourne.” The rule was softened, not scrapped. A month later Menzies told Parliament it was “in course of being redrawn.”"
+  },
+  {
+   "t": "p",
+   "text": "Murdoch resigned in December. The job later went, in an acting capacity, to John Williams, a Herald man who had worked under Murdoch for years."
+  },
+  {
+   "t": "p",
+   "text": "In 1932 the papers moved the guns. In 1940 the man who ran the biggest paper ran the department that could order the papers to print corrections."
+  },
+  {
+   "t": "h2",
+   "text": "What the Papers Learned"
+  },
+  {
+   "t": "p",
+   "text": "The joke says Australia declared war on emus and lost. The record is stranger. A government ran a free operation with, by the one scholarly account, a newsreel camera attached, in the month the west moved to leave. The newspapers took it away in six days. The farmers who asked for help were laughed at by their own party and turned down by a government the biggest Melbourne paper had backed."
+  },
+  {
+   "t": "caption",
+   "text": "FEAR AND LOATHING ON THE WHEAT BELT ’32"
+  },
+  {
+   "t": "p",
+   "text": "Nobody has shown that Keith Murdoch’s papers led the laughing. What the record does show is a minister admitting, in Parliament, that newspaper paragraphs pulled the army out of the field. The man who ran the biggest of those papers had tried to move a general in 1918. In 1940 he ran the department that censored the press."
+  },
+  {
+   "t": "p",
+   "text": "Australia has laughed at the birds for ninety years. The minister’s own words say the newspapers stopped the war. Which newspaper is still one search away."
+  },
+  {
+   "t": "h2",
+   "text": "What We Can Prove / What We Can’t"
+  },
+  {
+   "t": "p",
+   "text": "Proven:"
+  },
+  {
+   "t": "list",
+   "items": [
+    "Pearce approved the operation on condition the Commonwealth paid nothing; Western Australia paid fares and ammunition.",
+    "Three soldiers, two Lewis guns, ten thousand rounds; operations from November 2, withdrawn November 8, resumed about November 12, ended December 10.",
+    "Pearce told the Senate on November 18 that “paragraphs ... in the press of the eastern States” made him withdraw the guns, and Western Australian protests made him send them back.",
+    "The Country Party’s Thorby called it “this farce” in the House on November 8, the day the guns were pulled.",
+    "Lyons refused a per-bushel wheat bounty on November 10 and paid £1,250,000 in hardship relief and a fertilizer bounty instead.",
+    "The broken guaranteed-price promise was Scullin’s, from April 1930, killed in the Senate.",
+    "The Western Australian secession law passed in November 1932; the vote carried in April 1933.",
+    "“Put Pearce Last” ended Pearce’s Senate career in 1937.",
+    "Murdoch ran the Herald and Sun News-Pictorial in 1932 and backed the Lyons government.",
+    "Murdoch worked with Hughes to move Monash out of field command in 1918."
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Strongly supported:"
+  },
+  {
+   "t": "list",
+   "items": [
+    "Murdoch ran the department that censored the press in 1940, and his correction regulation was amended, not withdrawn."
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Likely:"
+  },
+  {
+   "t": "list",
+   "items": [
+    "A Fox Movietone cameraman went with the soldiers (Johnson, the one scholarly study).",
+    "Lyons’s thank-you letter to Murdoch after the 1934 election (one chain, via Page).",
+    "Meredith’s figures: 986 kills, 9,860 rounds, 2,500 wounded (his own report, unpublished).",
+    "The 1934 bounty total of more than 57,000 claims."
+   ]
+  },
+  {
+   "t": "p",
+   "text": "Not proven:"
+  },
+  {
+   "t": "list",
+   "items": [
+    "That the government staged the operation for the cameras. The camera, the free operation and the secession timing are documented; the intent is not.",
+    "Which paper printed the paragraph that pulled the guns.",
+    "That Murdoch’s Herald led the mockery, or covered the emus at all. Its November 1932 issues are online and unread.",
+    "That the Country Party planned the ridicule rather than seizing it.",
+    "The “medals for the emus” line. It is everywhere. It is not in Hansard.",
+    "That the emus cost Pearce his seat in 1937.",
+    "That Murdoch made Lyons prime minister. His own biographer calls it “largely a myth.”"
+   ]
+  },
+  {
+   "t": "p",
+   "text": "The other side. Historians who have studied the Emu War, and the Australian Dictionary of Biography, treat it as what Pearce said it was: a cheap favor to desperate farmers that went badly and got laughed at. A minister reading newspaper reports of a failed operation and pausing it is ordinary government, not press control. Every paper in the east ran the “war” headline, and the mockery in Parliament came from the Country Party and Lang Labor, not from any publisher. Geoffrey Serle, who wrote Murdoch’s entry in the Australian Dictionary of Biography, says his “kingmaker” role in the Lyons years “remains largely a myth,” and a serving Lyons minister said the same. On this reading the emus are a footnote and Murdoch is not in the story at all. Of course, the minister in question is Pearce, and he had reason to want the press to look less powerful than it had just proved to be."
+  },
+  {
+   "t": "p",
+   "text": "Why the gap? Maybe nobody staged anything, and a camera followed a good story the way cameras do. Or maybe the invitation was made by telephone and the motive was never written down, which is how governments arrange publicity. Either way, the fact that stands is in Hansard in Pearce’s own words: the newspapers stopped the war. The only question left is which newspaper. It is one search away."
+  },
+  {
+   "t": "h2",
+   "text": "Notes"
+  },
+  {
+   "t": "p",
+   "text": "¹ The famous line about giving medals to the emus is usually credited to Albert Green, the Labor member for Kalgoorlie. Nobody has found it in Hansard. Treat it as a story."
+  },
+  {
+   "t": "sidebar",
+   "title": "Corrections We’d Like to See",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "In 1940 Sir Keith wanted the power to make any paper print a correction. We’ll go first."
+    },
+    {
+     "t": "list",
+     "items": [
+      "The eastern press, Nov. 1932. Our paragraphs said the guns were “not effective.” The Minister for Defence did not check them. He pulled the guns anyway. We regret the war.",
+      "Harold Thorby, Nov. 8. The guns were in Western Australia, not Central Australia. The Member got it from the press.",
+      "Major Meredith. 986 kills from 9,860 rounds is exactly ten rounds per bird. The report is unpublished. The numbers are his own."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "“Print it and print it where we tell you.” Happy to, Sir Keith."
     }
-  ],
-  "sources": [
-    "Senate Hansard, 18 November 1932 (Pearce; Dunn). https://historichansard.net/senate/1932/19321118_senate_13_137/",
-    "House of Representatives Hansard, 8 November 1932 (Thorby; Green). https://historichansard.net/hofreps/1932/19321108_reps_13_136/",
-    "House of Representatives Hansard, 10 November 1932 (Lyons, Financial Statement). https://historichansard.net/hofreps/1932/19321110_reps_13_136/",
-    "House of Representatives Hansard, 20 August 1940 (Menzies: “administers the censorship”). https://historichansard.net/hofreps/1940/19400820_reps_15_164/",
-    "House of Representatives Hansard, 21 August 1940 (Menzies: “in course of being redrawn”). https://historichansard.net/hofreps/1940/19400821_reps_15_164/",
-    "C. E. W. Bean, diary, 18 May 1918, Australian War Memorial AWM38 3DRL 606/111/1. https://transcribe.awm.gov.au/transcription/item/rcdig1066557-1",
-    "C. E. W. Bean, diary, 20 May 1918, Australian War Memorial. https://transcribe.awm.gov.au/transcription/item/rcdig1066557-2",
-    "C. E. W. Bean, diary, 2 July 1918, Australian War Memorial. https://transcribe.awm.gov.au/transcription/item/rcdig1066562-0",
-    "Monash Personal Files, AWM 3DRL 2316, Book 19 (agenda, 6 June 1918). https://transcribe.awm.gov.au/transcription/item/rcdig0000632-1",
-    "C. E. W. Bean, Official History of Australia in the War of 1914–1918, vol. VI (1942). https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1069695/document/5519187.PDF",
-    "Geoffrey Serle, “Murdoch, Sir Keith Arthur,” Australian Dictionary of Biography, vol. 10 (1986). https://adb.anu.edu.au/biography/murdoch-sir-keith-arthur-7693",
-    "Australian Dictionary of Biography, “Pearce, Sir George Foster.” https://adb.anu.edu.au/biography/pearce-sir-george-foster-7996",
-    "Langmore, “Pratt, Ambrose Goddard Hesketh,” Australian Dictionary of Biography. https://adb.anu.edu.au/biography/pratt-ambrose-goddard-hesketh-8096",
-    "Dunstan, “Williams, Sir John Francis,” Australian Dictionary of Biography, vol. 18 (2012). https://adb.anu.edu.au/biography/williams-sir-john-francis-15864",
-    "Hawkins, “Joseph Lyons: the Tasmanian Treasurer,” Treasury Economic Roundup 2010, issue 3. https://treasury.gov.au/publication/economic-roundup-issue-3-2010/economic-roundup-issue-3-2010/joseph-lyons-the-tasmanian-treasurer",
-    "Time, “The Press: Censorship Down Under,” 30 December 1940. https://time.com/archive/6786036/the-press-censorship-down-under/",
-    "Cook & Jovanović (2019), study of the Emu War.",
-    "Bruce Page, The Murdoch Archipelago (2003), via Crick, Engelsberg Ideas, 15 May 2024.",
-    "Encyclopaedia Britannica, “Emu War.”",
-    "Australian Geographic (2016), on the “medals for the emus” line.",
-    "Image: Billy Hughes and Keith Murdoch in France, 3 July 1918. Australian War Memorial E02650. Public domain."
-  ]
+   ]
+  }
+ ],
+ "sources": [
+  "Senate Hansard, 18 November 1932 (Pearce; Dunn). https://historichansard.net/senate/1932/19321118_senate_13_137/",
+  "House of Representatives Hansard, 8 November 1932 (Thorby; Green). https://historichansard.net/hofreps/1932/19321108_reps_13_136/",
+  "House of Representatives Hansard, 10 November 1932 (Lyons, Financial Statement). https://historichansard.net/hofreps/1932/19321110_reps_13_136/",
+  "House of Representatives Hansard, 20 August 1940 (Menzies: “administers the censorship”). https://historichansard.net/hofreps/1940/19400820_reps_15_164/",
+  "House of Representatives Hansard, 21 August 1940 (Menzies: “in course of being redrawn”). https://historichansard.net/hofreps/1940/19400821_reps_15_164/",
+  "C. E. W. Bean, diary, 18 May 1918, Australian War Memorial AWM38 3DRL 606/111/1. https://transcribe.awm.gov.au/transcription/item/rcdig1066557-1",
+  "C. E. W. Bean, diary, 20 May 1918, Australian War Memorial. https://transcribe.awm.gov.au/transcription/item/rcdig1066557-2",
+  "C. E. W. Bean, diary, 2 July 1918, Australian War Memorial. https://transcribe.awm.gov.au/transcription/item/rcdig1066562-0",
+  "Monash Personal Files, AWM 3DRL 2316, Book 19 (agenda, 6 June 1918). https://transcribe.awm.gov.au/transcription/item/rcdig0000632-1",
+  "C. E. W. Bean, Official History of Australia in the War of 1914–1918, vol. VI (1942). https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/RCDIG1069695/document/5519187.PDF",
+  "Geoffrey Serle, “Murdoch, Sir Keith Arthur,” Australian Dictionary of Biography, vol. 10 (1986). https://adb.anu.edu.au/biography/murdoch-sir-keith-arthur-7693",
+  "Australian Dictionary of Biography, “Pearce, Sir George Foster.” https://adb.anu.edu.au/biography/pearce-sir-george-foster-7996",
+  "Langmore, “Pratt, Ambrose Goddard Hesketh,” Australian Dictionary of Biography. https://adb.anu.edu.au/biography/pratt-ambrose-goddard-hesketh-8096",
+  "Dunstan, “Williams, Sir John Francis,” Australian Dictionary of Biography, vol. 18 (2012). https://adb.anu.edu.au/biography/williams-sir-john-francis-15864",
+  "Hawkins, “Joseph Lyons: the Tasmanian Treasurer,” Treasury Economic Roundup 2010, issue 3. https://treasury.gov.au/publication/economic-roundup-issue-3-2010/economic-roundup-issue-3-2010/joseph-lyons-the-tasmanian-treasurer",
+  "Time, “The Press: Censorship Down Under,” 30 December 1940. https://time.com/archive/6786036/the-press-censorship-down-under/",
+  "Cook & Jovanović (2019), study of the Emu War.",
+  "Bruce Page, The Murdoch Archipelago (2003), via Crick, Engelsberg Ideas, 15 May 2024.",
+  "Encyclopaedia Britannica, “Emu War.”",
+  "Australian Geographic (2016), on the “medals for the emus” line.",
+  "Image: Billy Hughes and Keith Murdoch in France, 3 July 1918. Australian War Memorial E02650. Public domain."
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/emu-war-1.jpg",
+   "alt": "Opening page: a machine gun in a pink wheat field full of emus",
+   "page": 72,
+   "w": 1122,
+   "h": 1463,
+   "hero": true,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/emu-war-2.jpg",
+   "alt": "Prime Minister Billy Hughes and Keith Murdoch in France, 1916",
+   "page": 73,
+   "w": 964,
+   "h": 453,
+   "hero": false,
+   "wide": true,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/emu-war-3.jpg",
+   "alt": "Closer than they appear: an emu's eye in the gunsight",
+   "page": 74,
+   "w": 964,
+   "h": 410,
+   "hero": false,
+   "wide": true,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/emu-war-4.jpg",
+   "alt": "A newsreel camera on a tripod in the wheat",
+   "page": 75,
+   "w": 449,
+   "h": 541,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/emu-war-5.jpg",
+   "alt": "The other army: emus in the field",
+   "page": 75,
+   "w": 482,
+   "h": 629,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/emu-war-6.jpg",
+   "alt": "A giant pencil: under new management",
+   "page": 77,
+   "w": 482,
+   "h": 483,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/emu-war-7.jpg",
+   "alt": "An emu staring straight at the camera: fear and loathing on the wheat belt",
+   "page": 77,
+   "w": 482,
+   "h": 717,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/emu-war-8.jpg",
+   "alt": "Corrections we'd like to see",
+   "page": 78,
+   "w": 482,
+   "h": 453,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  }
+ ]
 }

@@ -64,5 +64,17 @@
  ],
  "sources": [
   "Our letter from the editors. The history in it (Hannibal, the Armada, the Emu War) is sourced under those features below. The Sacko is the real-life last-place trophy of fantasy football leagues; ours is a plunger in a goblet."
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/cant-even-win-the-sacko-1.jpg",
+   "alt": "A golden trophy cup with a pink toilet plunger standing in it: the Sacko",
+   "page": 4,
+   "w": 438,
+   "h": 863,
+   "hero": true,
+   "wide": false,
+   "graphic": false
+  }
  ]
 }

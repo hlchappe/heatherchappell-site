@@ -60,7 +60,7 @@ if dd.exists():
 try:
     from PIL import Image
     for folder in ['assets'] + [p.name for p in D.glob('issue*') if p.is_dir()]:
-        for src in list((D/folder).glob('*.jpg')) + list((D/folder).glob('*.jpeg')) + list((D/folder).glob('*.png')):
+        for src in list((D/folder).rglob('*.jpg')) + list((D/folder).rglob('*.jpeg')) + list((D/folder).rglob('*.png')):
             w = src.with_suffix('.webp')
             if not w.exists() or w.stat().st_mtime < src.stat().st_mtime:
                 im = Image.open(src); im = im.convert('RGBA' if 'A' in im.getbands() else 'RGB')

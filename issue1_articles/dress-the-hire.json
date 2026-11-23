@@ -162,5 +162,17 @@
  ],
  "sources": [
   "Drawn from the Napoleon feature (“Not a Loser. Not Short. Not Alone.”) and its sources: Mark Stokle, The Bankers of Brumaire (2020), https://theses.gla.ac.uk/81723/; Albert Vandal, L’Avènement de Bonaparte, vol. I (1902), https://archive.org/details/lavnementdebon01vanduoft; Louis Madelin, Fouché, vol. I (1901), https://archive.org/details/fouch1759182001made. The captions and jokes are ours."
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/dress-the-hire-1.jpg",
+   "alt": "Dress the hire: a cut-out paper doll of the general hired for the coup",
+   "page": 71,
+   "w": 1122,
+   "h": 1426,
+   "hero": true,
+   "wide": true,
+   "graphic": true
+  }
  ]
 }

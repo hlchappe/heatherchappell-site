@@ -67,5 +67,17 @@
  ],
  "sources": [
   "A two-paragraph introduction to the next two features. Pliny the Elder, Natural History, Book 18, on Rome giving away Carthage’s libraries and keeping one farming manual. Everything else is sourced under the Hannibal and Civil War features below."
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/two-libraries-1.jpg",
+   "alt": "Two libraries: Carthage's empty shelves in 146 BCE and the Confederacy's full shelves in 1865",
+   "page": 24,
+   "w": 1122,
+   "h": 1302,
+   "hero": true,
+   "wide": true,
+   "graphic": true
+  }
  ]
 }

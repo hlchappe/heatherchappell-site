@@ -799,5 +799,117 @@
   "Boyd, post on negative ethnic stereotyping and Punica fides, Discentes (Penn, 2023). Link (https://web.sas.upenn.edu/discentes/2023/10/22/negative-ethnic-stereotyping-and-punica-fides/).",
   "Pearse, R. “What percentage of ancient literature survives?” (2009). Link (https://www.roger-pearse.com/weblog/2009/10/24/what-percentage-of-ancient-literature-survives-some-data/).",
   "AP wire story (Habib Fakhari, Feb. 1985) and La Repubblica (Feb. 1985), known only through the reports above."
+ ],
+ "figures": [
+  {
+   "src": "issue1/art/hannibal-audit-1.jpg",
+   "alt": "Opening page: Hannibal, survived the Alps, not the audit, with an elephant in glasses doing paperwork",
+   "page": 25,
+   "w": 1122,
+   "h": 1463,
+   "hero": true,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/hannibal-audit-2.jpg",
+   "alt": "Who called whom: a map of three local problems and three calls to a bigger power",
+   "page": 26,
+   "w": 1122,
+   "h": 293,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/hannibal-audit-3.jpg",
+   "alt": "Near Croton, Hannibal posted his campaigns in Punic and Greek on bronze",
+   "page": 27,
+   "w": 493,
+   "h": 381,
+   "hero": false,
+   "wide": false,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/hannibal-audit-4.jpg",
+   "alt": "While you were out, call number 1: Carthage's officials to their friends in Rome",
+   "page": 27,
+   "w": 460,
+   "h": 322,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/hannibal-audit-5.jpg",
+   "alt": "53 folders, 4 survive",
+   "page": 28,
+   "w": 1122,
+   "h": 204,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/hannibal-audit-6.jpg",
+   "alt": "The bigger power always answered. It just never left on time.",
+   "page": 28,
+   "w": 527,
+   "h": 146,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/hannibal-audit-7.jpg",
+   "alt": "A plowed field and a tent: Mago's farming guide, the one Carthaginian book Rome kept",
+   "page": 29,
+   "w": 942,
+   "h": 366,
+   "hero": false,
+   "wide": true,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/hannibal-audit-8.jpg",
+   "alt": "The price list, Rome 149 BCE: 300 children, 200,000 suits of armor, 2,000 catapults, refused",
+   "page": 29,
+   "w": 471,
+   "h": 497,
+   "hero": false,
+   "wide": false,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/hannibal-audit-9.jpg",
+   "alt": "Palestrina, 1299: the city plowed over and sown with salt",
+   "page": 30,
+   "w": 953,
+   "h": 292,
+   "hero": false,
+   "wide": true,
+   "graphic": false
+  },
+  {
+   "src": "issue1/art/hannibal-audit-10.jpg",
+   "alt": "The salt's paper trail: from 146 BCE to 1988, no document links 1299 to 1858",
+   "page": 31,
+   "w": 964,
+   "h": 512,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/hannibal-audit-11.jpg",
+   "alt": "Call log: three callers, three bigger powers, three things they wanted",
+   "page": 33,
+   "w": 998,
+   "h": 322,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  }
  ]
 }

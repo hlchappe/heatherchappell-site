@@ -280,5 +280,37 @@
   "The Library of Alexandria burned in one great fire → 3. See The Loser’s Library below.",
   "The rest of the list. “Let them eat cake” → 5: Jean-Jacques Rousseau, Confessions, which credits the line to an unnamed “great princess.” Nero fiddled → 3: Tacitus, Annals, who reports the singing as a rumor. Pheidippides → 4: Herodotus, Histories, whose runner goes to Sparta before the battle. Caligula’s horse → 3: the ancient accounts, which report only that he was said to have planned it. The Bayeux Tapestry → 2: the embroidery itself, still on display in Bayeux, France."
  ],
- "note": "In print, the attribution under Exhibit A shows ‘Winston Churchill’ struck through, replaced by ‘nobody we can find’."
+ "note": "In print, the attribution under Exhibit A shows ‘Winston Churchill’ struck through, replaced by ‘nobody we can find’.",
+ "figures": [
+  {
+   "src": "issue1/art/apocrypha-index-1.jpg",
+   "alt": "The Invented-o-Meter, a scale from documented to pure fan fiction",
+   "page": 8,
+   "w": 1122,
+   "h": 366,
+   "hero": true,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/apocrypha-index-2.jpg",
+   "alt": "Exhibit A: History is written by the victors, rated 4 of 5, invented later",
+   "page": 8,
+   "w": 1122,
+   "h": 782,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  },
+  {
+   "src": "issue1/art/apocrypha-index-3.jpg",
+   "alt": "Apocrypha index cards rating famous quotes and myths",
+   "page": 9,
+   "w": 1122,
+   "h": 688,
+   "hero": false,
+   "wide": true,
+   "graphic": true
+  }
+ ]
 }

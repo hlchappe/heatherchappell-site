@@ -209,6 +209,15 @@
       <image:loc>https://heatherchappell.com/issue1/p008.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/apocrypha-index-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/apocrypha-index-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/apocrypha-index-3.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://heatherchappell.com/issue1/p009.jpg</image:loc>
     </image:image>
   </url>
@@ -218,12 +227,27 @@
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p103.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/armada-report-card-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/armada-report-card-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/armada-report-card-3.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://heatherchappell.com/side-eye/vol-1/betamax/</loc>
     <lastmod>2026-11-22</lastmod>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p110.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/betamax-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/betamax-2.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -232,12 +256,30 @@
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p004.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/cant-even-win-the-sacko-1.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://heatherchappell.com/side-eye/vol-1/dodo-was-framed/</loc>
     <lastmod>2026-11-22</lastmod>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p012.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/dodo-was-framed-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/dodo-was-framed-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/dodo-was-framed-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/dodo-was-framed-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/dodo-was-framed-5.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -246,12 +288,18 @@
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p071.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/dress-the-hire-1.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://heatherchappell.com/side-eye/vol-1/emu-box-score/</loc>
     <lastmod>2026-11-22</lastmod>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p079.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/emu-box-score-1.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -260,12 +308,54 @@
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p072.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/emu-war-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/emu-war-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/emu-war-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/emu-war-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/emu-war-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/emu-war-6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/emu-war-7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/emu-war-8.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://heatherchappell.com/side-eye/vol-1/final-rose/</loc>
     <lastmod>2026-11-22</lastmod>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p014.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/final-rose-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/final-rose-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/final-rose-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/final-rose-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/final-rose-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/final-rose-6.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -274,12 +364,48 @@
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p108.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/find-the-outsider-1.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://heatherchappell.com/side-eye/vol-1/hannibal-audit/</loc>
     <lastmod>2026-11-22</lastmod>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p025.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hannibal-audit-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hannibal-audit-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hannibal-audit-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hannibal-audit-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hannibal-audit-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hannibal-audit-6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hannibal-audit-7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hannibal-audit-8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hannibal-audit-9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hannibal-audit-10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hannibal-audit-11.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -288,12 +414,42 @@
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p044.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hatshepsut-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hatshepsut-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hatshepsut-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hatshepsut-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hatshepsut-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hatshepsut-6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hatshepsut-7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/hatshepsut-8.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://heatherchappell.com/side-eye/vol-1/how-to-lose-like-a-victorian/</loc>
     <lastmod>2026-11-22</lastmod>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p010.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/how-to-lose-like-a-victorian-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/how-to-lose-like-a-victorian-2.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -302,6 +458,12 @@
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p005.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/letters-to-the-ai-dead-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/letters-to-the-ai-dead-2.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://heatherchappell.com/side-eye/vol-1/losers-code/</loc>
@@ -309,12 +471,21 @@
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p109.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/losers-code-1.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://heatherchappell.com/side-eye/vol-1/losers-league/</loc>
     <lastmod>2026-11-22</lastmod>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p098.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/losers-league-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/losers-league-2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p099.jpg</image:loc>
@@ -326,12 +497,75 @@
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p060.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/losers-library-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/losers-library-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/losers-library-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/losers-library-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/losers-library-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/losers-library-6.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://heatherchappell.com/side-eye/vol-1/lost-cause-textbooks/</loc>
     <lastmod>2026-11-22</lastmod>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p034.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/lost-cause-textbooks-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/lost-cause-textbooks-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/lost-cause-textbooks-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/lost-cause-textbooks-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/lost-cause-textbooks-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/lost-cause-textbooks-6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/lost-cause-textbooks-7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/lost-cause-textbooks-8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/lost-cause-textbooks-9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/lost-cause-textbooks-10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/lost-cause-textbooks-11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/lost-cause-textbooks-12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/lost-cause-textbooks-13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/lost-cause-textbooks-14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/lost-cause-textbooks-15.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -340,12 +574,57 @@
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p064.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/napoleon-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/napoleon-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/napoleon-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/napoleon-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/napoleon-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/napoleon-6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/napoleon-7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/napoleon-8.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://heatherchappell.com/side-eye/vol-1/perot/</loc>
     <lastmod>2026-11-22</lastmod>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p080.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/perot-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/perot-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/perot-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/perot-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/perot-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/perot-6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/perot-7.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -354,12 +633,51 @@
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p049.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/queen-of-hawaii-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/queen-of-hawaii-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/queen-of-hawaii-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/queen-of-hawaii-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/queen-of-hawaii-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/queen-of-hawaii-6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/queen-of-hawaii-7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/queen-of-hawaii-8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/queen-of-hawaii-9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/queen-of-hawaii-10.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://heatherchappell.com/side-eye/vol-1/quiz/</loc>
     <lastmod>2026-11-22</lastmod>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p106.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/quiz-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/quiz-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/quiz-3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p107.jpg</image:loc>
@@ -371,12 +689,42 @@
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p007.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/ranked-defeated-generals-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/ranked-defeated-generals-2.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://heatherchappell.com/side-eye/vol-1/secret-government-plant/</loc>
     <lastmod>2026-11-22</lastmod>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p087.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/secret-government-plant-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/secret-government-plant-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/secret-government-plant-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/secret-government-plant-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/secret-government-plant-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/secret-government-plant-6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/secret-government-plant-7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/secret-government-plant-8.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p088.jpg</image:loc>
@@ -412,12 +760,36 @@
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p059.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/stephen-matilda-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/stephen-matilda-2.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://heatherchappell.com/side-eye/vol-1/still-banging/</loc>
     <lastmod>2026-11-22</lastmod>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p100.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/still-banging-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/still-banging-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/still-banging-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/still-banging-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/still-banging-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/still-banging-6.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p101.jpg</image:loc>
@@ -432,6 +804,9 @@
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p111.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/trophy-case-1.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://heatherchappell.com/side-eye/vol-1/two-generals/</loc>
@@ -439,12 +814,18 @@
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p097.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/two-generals-1.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://heatherchappell.com/side-eye/vol-1/two-libraries/</loc>
     <lastmod>2026-11-22</lastmod>
     <image:image>
       <image:loc>https://heatherchappell.com/issue1/p024.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://heatherchappell.com/issue1/art/two-libraries-1.jpg</image:loc>
     </image:image>
   </url>
   <url>
