@@ -432,6 +432,10 @@ def render_dive(slug, d, DD, path):
               + "</details>")
     if meta.get("url"):
         h += f'<p class="dv-pdf"><a class="btn paper" href="{esc(meta["url"])}" {EXT}>Download this briefing (PDF) ↓</a></p>'
+    rel = related_dives(slug, DD, {x.get("slug"): 1 for x in DD})
+    if rel:
+        toc.append(("dv-rel", "Related briefings"))
+        h += '<h2 id="dv-rel">Related briefings</h2><ul class="dd">' + "".join(dd_item_rich(x, {x.get("slug"): 1}) for x in rel) + "</ul>"
     nav = ""
     if prev:
         nav += f'<a href="{esc(dive_href(prev, {prev.get("slug"): 1}))}"><span>← Newer</span><b>{esc(prev.get("title"))}</b></a>'
@@ -441,7 +445,8 @@ def render_dive(slug, d, DD, path):
     words = d.get("words") or meta.get("words") or 0
     return (f'<header class="dv-top"><div class="wrap"><a class="dv-back" href="/deep-dives/">← All deep dives</a>'
             f'<div class="dv-meta"><b>Deep dive briefing</b><span>{esc(fmt(d.get("date") or meta.get("date")))}</span>'
-            + (f'<span>{esc(meta["topic"])}</span>' if meta.get("topic") else "")
+            + (f'<a href="/deep-dives/topic/{slugify(meta["topic"])}/">{esc(meta["topic"])}</a>' if meta.get("topic") else "")
+            + "".join(f'<a href="/deep-dives/country/{slugify(c)}/">{esc(c)}</a>' for c in meta.get("countries") or [])
             + f'<span>{esc(mins(words))}</span><span>{words:,} words</span></div>'
             f'<h1>{esc(d.get("title") or meta.get("title"))}</h1>'
             + (f'<p class="dv-from">Prompted by: {esc(d["from"])}</p>' if d.get("from") else "")
@@ -449,26 +454,128 @@ def render_dive(slug, d, DD, path):
             + "".join(f'<a href="{esc(path)}#{i_}" data-jump="{i_}">{esc(l)}</a>' for i_, l in toc) + "</aside></div>")
 
 
-def render_index(DD, copy, dv, topic=""):
+MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+
+
+def enrich_dives(DD, dv):
+    """Add countries (detected from the text unless set in config), regions, and year-month to each Deep Dive entry."""
+    try:
+        from seo.countries import detect, regions
+    except Exception:
+        try:
+            from countries import detect, regions
+        except Exception:
+            detect = regions = None
+    out = []
+    for d in DD:
+        d = dict(d)
+        if detect and not d.get("countries") and d.get("slug") in dv:
+            d["countries"] = detect(dv[d["slug"]])
+        d.setdefault("countries", [])
+        d["regions"] = regions(d["countries"]) if regions else []
+        dt = str(d.get("date") or "")
+        d["ym"] = dt[:7] if re.match(r"\d{4}-\d{2}", dt) else ""
+        out.append(d)
+    return out
+
+
+def month_label(ym):
+    try:
+        y, m = ym.split("-")
+        return f"{MONTHS[int(m) - 1]} {y}"
+    except Exception:
+        return ym or "Undated"
+
+
+def _dd_search_text(d, full):
+    bits = [d.get("title"), d.get("bottomLine"), d.get("topic"), " ".join(d.get("countries") or []), " ".join(d.get("regions") or [])]
+    if isinstance(full, dict):
+        bits += [full.get("from")] + [x.get("title") for x in full.get("summary") or []] + [x.get("name") for x in full.get("people") or [] if isinstance(x, dict)]
+    return re.sub(r"\s+", " ", " ".join(str(b) for b in bits if b)).lower()[:1500]
+
+
+def dd_item_rich(d, dv):
+    cs = d.get("countries") or []
+    chips = "".join(f'<em>{esc(c)}</em>' for c in cs[:3])
+    return (f'<li class="ddi" data-q="{esc(_dd_search_text(d, dv.get(d.get("slug"))))}" data-topic="{esc(d.get("topic") or "")}" '
+            f'data-c="{esc("|".join(cs))}" data-r="{esc("|".join(d.get("regions") or []))}" data-ym="{esc(d.get("ym"))}" data-date="{esc(d.get("date") or "")}">'
+            f'<a href="{esc(dive_href(d, dv))}" {dive_ext(d, dv)}><span class="d">{esc(fmt(d.get("date")))}</span>'
+            f'<span><b>{esc(d.get("title"))}</b><i>{esc(d.get("bottomLine") or "")}</i>{"<span class=dd-cs>" + chips + "</span>" if chips else ""}</span>'
+            f'<span class="t">{esc(d.get("topic") or "")} · {esc(mins(d.get("words")))}</span></a></li>')
+
+
+DD_JS = """<script>(function(){var r=document.getElementById('ddx');if(!r)return;var L=[].slice.call(r.querySelectorAll('li.ddi')),ul=r.querySelector('ul.dd'),
+q=r.querySelector('[name=q]'),t=r.querySelector('[name=topic]'),c=r.querySelector('[name=country]'),g=r.querySelector('[name=region]'),y=r.querySelector('[name=ym]'),o=r.querySelector('[name=sort]'),n=r.querySelector('.ddx-n');
+var M=['January','February','March','April','May','June','July','August','September','October','November','December'];
+function lab(ym){var p=ym.split('-');return p.length==2?M[+p[1]-1]+' '+p[0]:'Undated'}
+function go(push){var w=(q.value||'').toLowerCase().trim().split(/\\s+/).filter(Boolean),k=L.filter(function(li){var d=li.dataset;
+if(t.value&&d.topic!==t.value)return false;if(c.value&&('|'+d.c+'|').indexOf('|'+c.value+'|')<0)return false;if(g.value&&('|'+d.r+'|').indexOf('|'+g.value+'|')<0)return false;
+if(y.value&&d.ym.indexOf(y.value)!==0)return false;return w.every(function(x){return d.q.indexOf(x)>=0})});
+k.sort(function(a,b){return o.value==='old'?(a.dataset.date>b.dataset.date?1:-1):(a.dataset.date<b.dataset.date?1:-1)});
+ul.innerHTML='';var last=null;k.forEach(function(li){var m=li.dataset.ym;if(m!==last){var h=document.createElement('li');h.className='wk';h.textContent=lab(m);ul.appendChild(h);last=m}ul.appendChild(li)});
+n.textContent=k.length+(k.length===1?' briefing':' briefings');r.querySelector('.ddx-none').hidden=k.length>0;
+if(push!==false){var s=new URLSearchParams();[q,t,c,g,y,o].forEach(function(e){if(e.value&&!(e===o&&e.value==='new'))s.set(e.name,e.value)});try{history.replaceState(null,'',location.pathname+(s+''?'?'+s:''))}catch(e){}}}
+var P=new URLSearchParams(location.search);[q,t,c,g,y,o].forEach(function(e){if(P.get(e.name)!==null)e.value=P.get(e.name);e.addEventListener(e===q?'input':'change',go)});
+r.querySelector('.ddx-clear').addEventListener('click',function(){[q,t,c,g,y].forEach(function(e){e.value=''});o.value='new';go()});
+r.classList.add('js');go(false)})();</script>"""
+
+
+def render_index(DD, copy, dv, topic="", country="", ym="", title=None, lede=None):
     rd = copy.get("reading", {})
     topics = list(dict.fromkeys(d.get("topic") for d in DD if d.get("topic")))
-    lst = [d for d in DD if not topic or d.get("topic") == topic]
+    from collections import Counter
+    cc = Counter(c for d in DD for c in d.get("countries") or [])
+    rc = Counter(r for d in DD for r in d.get("regions") or [])
+    yms = sorted({d.get("ym") for d in DD if d.get("ym")}, reverse=True)
+    years = sorted({m[:4] for m in yms}, reverse=True)
+    lst = [d for d in DD if (not topic or d.get("topic") == topic) and (not country or country in (d.get("countries") or []))
+           and (not ym or d.get("ym") == ym)]
     filt = "".join(
-        f'<a href="{"/deep-dives/topic/" + slugify(x) + "/" if x else "/deep-dives/"}" class="{"on" if (topic or "") == x else ""}"'
-        f'{CUR if (topic or "") == x else ""}>{esc(x or "All")}</a>' for x in [""] + topics)
-    items, last = [], ""
-    for d in lst:
-        lab = week_label(d.get("date"))
-        if lab != last:
-            items.append(f'<li class="wk">{esc(lab)}</li>')
-        last = lab
-        items.append(dd_item(d, dv, None))
-    h1 = f"{esc(topic)} deep dives" if topic else esc(rd.get("title"))
+        f'<a href="{"/deep-dives/topic/" + slugify(x) + "/" if x else "/deep-dives/"}" class="{"on" if (topic or "") == x and not country and not ym else ""}"'
+        f'{CUR if (topic or "") == x and not country and not ym else ""}>{esc(x or "All")}</a>' for x in [""] + topics)
+    items, last = [], None
+    for d in sorted(lst, key=lambda d: str(d.get("date") or ""), reverse=True):
+        if d.get("ym") != last:
+            items.append(f'<li class="wk">{esc(month_label(d.get("ym")))}</li>')
+            last = d.get("ym")
+        items.append(dd_item_rich(d, dv))
+    opt = lambda vals, sel, fmt_=lambda v: v: "".join(f'<option value="{esc(v)}"{" selected" if v == sel else ""}>{esc(fmt_(v))}</option>' for v in vals)
+    tools = (f'<form class="ddx-tools" role="search" onsubmit="return false">'
+             f'<label class="ddx-q"><span>Search the briefings</span><input type="search" name="q" placeholder="Try: Nvidia, Russia, FBI, tariffs…" autocomplete="off"></label>'
+             f'<label><span>Topic</span><select name="topic"><option value="">All topics</option>{opt(topics, topic)}</select></label>'
+             f'<label><span>Country</span><select name="country"><option value="">All countries</option>{opt([c for c, _ in sorted(cc.items(), key=lambda kv: (-kv[1], kv[0]))], country, lambda v: f"{v} ({cc[v]})")}</select></label>'
+             f'<label><span>Region</span><select name="region"><option value="">All regions</option>{opt(sorted(rc), "", lambda v: f"{v} ({rc[v]})")}</select></label>'
+             f'<label><span>When</span><select name="ym"><option value="">Any time</option>'
+             + "".join(f'<optgroup label="{y}"><option value="{y}">All of {y}</option>{opt([m for m in yms if m.startswith(y)], ym, month_label)}</optgroup>' for y in years)
+             + f'</select></label><label><span>Sort</span><select name="sort"><option value="new">Newest first</option><option value="old">Oldest first</option></select></label>'
+             f'<p class="ddx-bar"><b class="ddx-n">{len(lst)} briefings</b><button type="button" class="ddx-clear">Clear filters</button></p></form>')
+    if country:
+        h1 = title or f"{esc(country)} deep dives"
+    elif ym:
+        h1 = title or f"Deep dives from {esc(month_label(ym))}"
+    else:
+        h1 = f"{esc(topic)} deep dives" if topic else esc(rd.get("title"))
+    browse = ""
+    if not (topic or country or ym):
+        browse = ('<div class="ddx-browse"><div><b>By country</b>' + "".join(f'<a href="/deep-dives/country/{slugify(c)}/">{esc(c)} <small>{n}</small></a>' for c, n in cc.most_common(14)) + '</div>'
+                  '<div><b>By month</b>' + "".join(f'<a href="/deep-dives/{m[:4]}/{m[5:]}/">{esc(month_label(m))} <small>{sum(1 for d in DD if d.get("ym") == m)}</small></a>' for m in yms[:12]) + '</div></div>')
     return (f'<header class="dv-top"><div class="wrap"><a class="dv-back" href="/#reading">← Back to the site</a>'
-            f'<div class="dv-meta"><b>Deep dives</b><span>{len(DD)} briefings</span><span>{k_words(DD)}K words</span></div>'
-            f'<h1>{h1}</h1><p class="dv-from" style="text-transform:none;font:17px/1.55 var(--serif);color:#cfc6b8">{esc(rd.get("intro"))}</p></div></header>'
-            f'<div class="wrap" style="padding-block:clamp(28px,4vw,56px)"><nav class="ddf" aria-label="Deep dives by topic">{filt}</nav>'
-            f'<ul class="dd">{"".join(items)}</ul></div>')
+            f'<div class="dv-meta"><b>Deep dives</b><span>{len(DD)} briefings</span><span>{k_words(DD)}K words</span><span>{len(cc)} countries</span></div>'
+            f'<h1>{h1}</h1><p class="dv-from" style="text-transform:none;font:17px/1.55 var(--serif);color:#cfc6b8">{esc(lede or rd.get("intro"))}</p></div></header>'
+            f'<div class="wrap" id="ddx" style="padding-block:clamp(28px,4vw,56px)"><nav class="ddf" aria-label="Deep dives by topic">{filt}</nav>{tools}'
+            f'<ul class="dd">{"".join(items)}</ul><p class="ddx-none" hidden>Nothing matches. Try fewer words or clear a filter.</p>{browse}</div>{DD_JS}')
+
+
+def related_dives(slug, DD, dv, k=4):
+    me = next((d for d in DD if d.get("slug") == slug), None)
+    if not me:
+        return []
+    mc = set(me.get("countries") or [])
+    def score(d):
+        sc = 3 * (d.get("topic") == me.get("topic")) + 2 * len(mc & set(d.get("countries") or []))
+        return sc
+    cands = [d for d in DD if d.get("slug") != slug and d.get("slug") in dv and score(d) > 0]
+    return sorted(cands, key=lambda d: (-score(d), str(d.get("date") or "")), reverse=False)[:k]
 
 
 def render_episodes(cfg, copy):
@@ -1098,8 +1205,8 @@ def prerender(index_html: str, site_dir: pathlib.Path, cfg: dict, copy: dict, di
     page_meta = _hook("seo.meta", "page_meta")
     jsonld = _hook("seo.jsonld", "jsonld")
 
-    DD = cfg.get("deepDives") or []
     dv = dict(dives or {})
+    DD = enrich_dives(cfg.get("deepDives") or [], dv)
     merged = {s: {**next((x for x in DD if x.get("slug") == s), {}), **d} for s, d in dv.items()}
     arts = load_articles(site_dir)
     cur = issue_meta(cfg)
@@ -1185,6 +1292,21 @@ def prerender(index_html: str, site_dir: pathlib.Path, cfg: dict, copy: dict, di
                   "description": _desc(f"{topic} deep-dive briefings by Heather Chappell: what's confirmed, what isn't, and what to watch."),
                   "image": head_abs},
                  divepage(render_index(DD, copy, dv, topic)), f"topic:{slugify(topic)}", "dive-on")
+        from collections import Counter
+        for country in Counter(c for d in DD for c in d.get("countries") or []):
+            p = f"/deep-dives/country/{slugify(country)}/"
+            emit(p, "topic", ctx_for("topic", p, topic=country, topic_slug=slugify(country)),
+                 {"title": f"{country}: Deep Dive Briefings · Heather Chappell",
+                  "description": _desc(f"Deep-dive news briefings about {country} by Heather Chappell: what's confirmed, what isn't, and what to watch."),
+                  "image": head_abs},
+                 divepage(render_index(DD, copy, dv, country=country)), f"country:{slugify(country)}", "dive-on")
+        for ym in sorted({d.get("ym") for d in DD if d.get("ym")}):
+            p = f"/deep-dives/{ym[:4]}/{ym[5:]}/"
+            emit(p, "topic", ctx_for("topic", p, topic=f"Deep dives, {month_label(ym)}", topic_slug=ym),
+                 {"title": f"Deep Dives, {month_label(ym)} · Heather Chappell",
+                  "description": _desc(f"Every deep-dive news briefing Heather Chappell published in {month_label(ym)}."),
+                  "image": head_abs},
+                 divepage(render_index(DD, copy, dv, ym=ym)), f"month:{ym}", "dive-on")
     for slug, d in dv.items():
         p = f"/deep-dives/{slug}/"
         md = merged[slug]

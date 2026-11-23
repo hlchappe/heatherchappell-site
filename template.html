@@ -286,6 +286,21 @@ dialog.reader::backdrop{background:#0d0d0d}
 .wall{font-size:22px;text-transform:uppercase;margin-bottom:18px}
 @media(max-width:760px){.wfeat{grid-template-columns:1fr}}
 
+.ddx-tools{display:grid;grid-template-columns:2fr repeat(5,minmax(0,1fr));gap:12px;align-items:end;margin:0 0 26px;padding:16px;border:3px solid var(--ink);background:#fff8ec;box-shadow:6px 6px 0 var(--ink)}
+#ddx:not(.js) .ddx-tools{display:none}
+.ddx-tools label span{display:block;font:700 11px/1 var(--mono);text-transform:uppercase;margin-bottom:6px}
+.ddx-tools input,.ddx-tools select{width:100%;min-height:44px;border:3px solid var(--ink);background:#fff;font:16px/1.2 var(--serif);padding:8px 10px;border-radius:0}
+.ddx-tools input:focus,.ddx-tools select:focus{outline:3px solid var(--teal);outline-offset:1px}
+.ddx-bar{grid-column:1/-1;display:flex;justify-content:space-between;align-items:center;margin:0;font:700 12px/1 var(--mono);text-transform:uppercase}
+.ddx-clear{background:none;border:0;font:inherit;text-decoration:underline;cursor:pointer;min-height:32px;color:var(--pinkd)}
+.ddx-none{font:700 14px/1.4 var(--mono);padding:18px 0}
+.dd-cs{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}.dd-cs em{font:700 11px/1 var(--mono);font-style:normal;text-transform:uppercase;background:var(--paper);border:2px solid var(--ink);padding:4px 6px}
+.ddx-browse{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:44px}
+.ddx-browse b{display:block;font:700 13px/1 var(--mono);text-transform:uppercase;margin-bottom:12px}
+.ddx-browse a{display:inline-flex;gap:6px;align-items:center;margin:0 8px 8px 0;padding:8px 10px;border:2px solid var(--ink);background:#fff;text-decoration:none;font:600 15px/1 var(--serif)}
+.ddx-browse a:hover{background:var(--yel)}.ddx-browse small{font:700 11px/1 var(--mono);color:var(--grey)}
+.dv-meta a{color:var(--yel);text-decoration:none;border-bottom:2px solid currentColor}
+@media(max-width:900px){.ddx-tools{grid-template-columns:1fr 1fr}.ddx-q{grid-column:1/-1}.ddx-browse{grid-template-columns:1fr}}
 .ddf{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:22px}
 .ddf button{min-height:44px;padding:8px 14px;border:3px solid var(--ink);background:#fff;font:700 13px/1 var(--mono);text-transform:uppercase;cursor:pointer}
 .ddf button.on,.ddf button:hover{background:var(--yel)}

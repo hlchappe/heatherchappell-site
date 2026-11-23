@@ -12,6 +12,7 @@ Standing rules: Heather Chappell is a writer (never "novelist"), co-host of SIDE
   - Convert it to `dives/<slug>.json` exactly as `DIVE_SCHEMA.md` says (verbatim text; only fix PDF artifacts). Fix obvious typos like "a important" → "an important" only.
   - Add an entry to the TOP of `config.json` → `deepDives`: `{slug, date, title, words, topic, url, bottomLine}`. `url` = `https://drive.google.com/file/d/<fileId>/view`. `topic` must be one of the existing topics (Markets, Cybersecurity, Government, World) unless none fits; then add a new short topic name.
   - Keep `deepDives` sorted newest first.
+  - Countries are detected automatically from the briefing text at build time (`seo/countries.py`). Only if the detected list is clearly wrong, add `"countries": ["Iran", "Israel"]` to the entry to override it. Country and month archive pages are created automatically.
 
 ## 2. New YouTube episodes
 - A GitHub workflow saves every new SIDE EYE video to `data/youtube/<videoId>.json` (title, published, full description, lengthSeconds) and `data/youtube/<videoId>.jpg` (thumbnail).
