@@ -611,7 +611,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
 
 <section class="reading band" id="reading" aria-labelledby="rh">
  <div class="wrap">
-  <div class="rhead"><div><span class="kick">{{reading.kicker}}</span><h2 id="rh">{{reading.title}}</h2></div><p class="lede" style="margin:0">{{reading.intro}}</p></div>
+  <div class="rhead"><div><span class="kick">{{reading.kicker}}</span><h2 id="rh">{{reading.title}}</h2></div><div><p class="lede" style="margin:0">{{reading.intro}}</p><p style="margin:18px 0 0"><a class="btn pink" id="ddtop" href="/deep-dives/">Search all deep dives ({{dd_count}}) →</a></p></div></div>
   <article class="feat" id="feat"></article>
   <div class="arch"><h3>{{reading.archive_title}}</h3><div id="ddlist"></div>
    <p style="margin-top:22px"><a class="btn paper" id="ddall" href="/deep-dives/">All deep dives ({{dd_count}}) →</a></p>
@@ -878,7 +878,7 @@ if (DD.length) { const f = DD[0];
     const label = 'Week of ' + wk.toLocaleDateString('en-US', {month: 'short', day: 'numeric'}); const head = label !== lastWk ? `<li class="wk">${esc(label)}</li>` : ''; lastWk = label;
     return head + `<li class="${ddn > 2 ? 'x' : ''}"><a href="${esc(dHref(d))}" ${dExt(d)}><span class="d">${esc(fmt(d.date))}</span><span><b>${esc(d.title)}</b><i>${esc(d.bottomLine || '')}</i></span><span class="t">${esc(d.topic || '')} · ${esc(mins(d.words))}</span></a></li>`; }).join('') + '</ul>';
 } else $('#reading').remove();
-$('#ddall').href = U('/deep-dives/', '#deep-dives');
+$('#ddall').href = U('/deep-dives/', '#deep-dives'); if ($('#ddtop')) $('#ddtop').href = $('#ddall').href;
 $('.allep') && ($('.allep').href = U('/episodes/', '#episodes'));
 
 /* deep dive pages (hash route #dive-<slug>) */
