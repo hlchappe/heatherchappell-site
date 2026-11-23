@@ -1221,7 +1221,8 @@ def prerender(index_html: str, site_dir: pathlib.Path, cfg: dict, copy: dict, di
     cover_abs = _abs(cur.get("cover") or "assets/cover-vol1.jpg")
     head_abs = _abs((cfg.get("about") or {}).get("headshot") or "assets/headshot.jpg")
     alt_for = {cover_abs: f"Cover of SIDE EYE Vol. {vol}: {cur.get('title', '')}, a history magazine co-created by Heather Chappell",
-               head_abs: "Heather Chappell"}
+               head_abs: "Heather Chappell",
+               "https://heatherchappell.com/assets/share-card.jpg": "Heather Chappell: writer, co-host of SIDE EYE, growth marketer"}
 
     for a in arts:
         a["_path"] = f"{issue_path}{a['slug']}/"

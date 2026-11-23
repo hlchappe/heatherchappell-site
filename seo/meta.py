@@ -19,6 +19,7 @@ SITE = "https://heatherchappell.com"
 NAME = "Heather Chappell"
 COVER = SITE + "/assets/cover-vol1.jpg"
 HEADSHOT = SITE + "/assets/headshot.jpg"
+CARD = SITE + "/assets/share-card.jpg"  # 1200x630 link-preview card with Heather's photo
 EP_THUMB = {"emu": SITE + "/assets/ep-emu.jpg", "napoleon": SITE + "/assets/ep-napoleon.jpg",
             "theranos": SITE + "/assets/ep-theranos.jpg"}
 
@@ -203,7 +204,7 @@ def page_meta(page_type, ctx=None):
             "Heather Chappell — Writer, SIDE EYE Host & Growth Marketer",
             "Heather Chappell: writer, co-host of SIDE EYE, the funny history magazine and YouTube "
             "show, and a B2B SaaS demand generation and growth marketing leader.",
-            COVER,
+            CARD,
             og_title="Heather Chappell — Writer, SIDE EYE Co-Host & Growth Marketer")
 
     if t == "side_eye":
@@ -218,14 +219,14 @@ def page_meta(page_type, ctx=None):
             "Free Funny Office-Life & History Games | Heather Chappell",
             "Four free browser games from Heather Chappell and SIDE EYE: office jargon, office-life stealth, "
             "workplace etiquette and history myth-busting trivia. No sign-up.",
-            COVER)
+            CARD)
 
     if t == "game":
         gid = ctx.get("game_id")
         if gid not in GAMES:
             raise ValueError(f"unknown game_id: {gid}")
         title, desc = GAMES[gid]
-        return _pack(title, desc, COVER)
+        return _pack(title, desc, CARD)
 
     if t == "episode":
         ep = ctx.get("episode") or {}
@@ -328,7 +329,7 @@ def page_meta(page_type, ctx=None):
             "Heather Chappell — B2B Demand Generation & Growth Marketing",
             "Heather Chappell, B2B SaaS demand generation and growth marketing leader: 17+ years of "
             "ABM and pipeline at FedEx, Optimizely, FlavorCloud and Wolters Kluwer.",
-            HEADSHOT,
+            CARD,
             og_title="Heather Chappell — B2B Demand Generation & Growth Marketing Leader")
 
     raise ValueError(f"unknown page_type: {page_type}")
