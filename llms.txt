@@ -66,6 +66,15 @@ heatherchappell.com has four free, funny browser games about office life, work c
 
 ## Deep Dives by topic
 
+### Government
+
+- [All Government Deep Dives](https://heatherchappell.com/deep-dives/topic/government/)
+- [Fauci, the Wuhan lab-leak question, and a contested contempt fight](https://heatherchappell.com/deep-dives/fauci-contempt-fight/): 2026-11-22. This is less a settled finding about COVID's origin than a fight over definitions and legal process: whether NIH-funded Wuhan work met the government's definition of gain-of-function research, and whether Fauci's categorical denials to Congress were knowingly false. The intelligence picture is split at low-to-moderate confidence, the criminal and contempt routes face serious procedural and pardon obstacles, and the policy consequences (funding bans and oversight rules) are already reshaping U.S. biosecurity research regardless of how the Fauci dispute resolves.
+- [Gain-of-function policy: a federal funding ban with unresolved scope](https://heatherchappell.com/deep-dives/gain-of-function-ban/): 2026-11-22. The July 2026 U.S. Government Policy for Stopping High-Risk Life Sciences Research is best understood as a federal-funding ban whose real impact depends on definitions, review mechanics and an unresolved private-research gap that have not yet been tested in practice. It matters to U.S. interests because it reshapes how biodefense and countermeasure science is funded, while the lab-origin debate and personnel fights keep the issue politically charged. Policymakers face a choice between tightening scope, clarifying definitions quickly, or accepting chilling effects on infectious-disease research.
+- [Nvidia China chip sales: a control failure or a policy split?](https://heatherchappell.com/deep-dives/nvidia-china-chips/): 2026-11-22. The Nvidia chip story is less about one company's conduct than about whether U.S. export controls can hold when licensing decisions, interagency turf and presidential trade bargaining pull in different directions. Roughly 880,000 advanced chips were approved for China-tied firms, Megaspeed remains off the Entity List, and the administration is publicly split over who owns the failure. The core test for U.S. interests is whether the new remote-access rule and congressional oversight can restore credible enforcement before the next wave of diversion.
+- [Seattle airport arrests expose contested authority over enforcement in public spaces](https://heatherchappell.com/deep-dives/seattle-airport-arrests/): 2026-11-22. The Sea-Tac arrests are less a single incident than a test of who controls immigration enforcement inside American transit hubs, where federal arrest authority meets local port control and no clear statute or published protocol sets the limits. The core factual dispute, whether force was excessive and whether agents entered a secure area with help, is unresolved, so policymakers face a legitimacy and oversight problem regardless of how the legal fight ends. The outcome matters for airport security operations, federal-state relations, and the wider debate over enforcement tactics before the new Congress convenes in January 2027.
+- [Trump's contractor order pre-empts Democratic oversight in January](https://heatherchappell.com/deep-dives/contractor-order/): 2026-11-21. Its real leverage is economic: contract termination, suspension and debarment across roughly 100,000 firms.
+
 ### Markets
 
 - [All Markets Deep Dives](https://heatherchappell.com/deep-dives/topic/markets/)
@@ -77,11 +86,6 @@ heatherchappell.com has four free, funny browser games about office life, work c
 - [All Cybersecurity Deep Dives](https://heatherchappell.com/deep-dives/topic/cybersecurity/)
 - [FBI Criminal Database Breach: Unconfirmed, Politicized, and Unresolved](https://heatherchappell.com/deep-dives/fbi-database-breach/): 2026-11-21. Credibly sourced but officially unconfirmed; the scope, entry point and attacker remain unknown.
 - [NCIC Intrusion: Unconfirmed Breach, Real Accuracy Risk](https://heatherchappell.com/deep-dives/ncic-intrusion/): 2026-11-21. The gravest risk is corrupted or unreliable records rather than mere exposure.
-
-### Government
-
-- [All Government Deep Dives](https://heatherchappell.com/deep-dives/topic/government/)
-- [Trump's contractor order pre-empts Democratic oversight in January](https://heatherchappell.com/deep-dives/contractor-order/): 2026-11-21. Its real leverage is economic: contract termination, suspension and debarment across roughly 100,000 firms.
 
 ### World
 

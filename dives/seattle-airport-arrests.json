@@ -1,0 +1,222 @@
+{
+ "slug": "seattle-airport-arrests",
+ "date": "2026-11-22",
+ "title": "Seattle airport arrests expose contested authority over enforcement in public spaces",
+ "words": 3167,
+ "from": "IMMIGRATION OFFICERS ARREST PASSENGERS AT SEATTLE AIRPORT, DELAYING FLIGHT",
+ "bottomLine": "The Sea-Tac arrests are less a single incident than a test of who controls immigration enforcement inside American transit hubs, where federal arrest authority meets local port control and no clear statute or published protocol sets the limits. The core factual dispute, whether force was excessive and whether agents entered a secure area with help, is unresolved, so policymakers face a legitimacy and oversight problem regardless of how the legal fight ends. The outcome matters for airport security operations, federal-state relations, and the wider debate over enforcement tactics before the new Congress convenes in January 2027.",
+ "summary": [
+  {
+   "title": "Federal arrest authority outruns any clear airport limit",
+   "points": [
+    "8 U.S.C. §1357 grants arrest authority with no sensitive-location bar for airports.",
+    "Airports are a CBP responsibility under CRS framing; ICE acting at Sea-Tac raises a jurisdiction question still unverified.",
+    "No court ruling found addresses arrests on jet bridges or airport concourses.",
+    "Legality turns on internal policy and Port-federal agreements, neither of which has been published."
+   ],
+   "plain": "The law says immigration officers can make arrests, and nobody has written a clear rule saying airports are off limits. So the fight is over internal rules and private deals that the public has not seen."
+  },
+  {
+   "title": "The factual record of the arrests is still disputed",
+   "points": [
+    "DHS says the operation targeted Ricardo Larrondo Mendoza, a visa overstay, and that other travelers obstructed and assaulted officers.",
+    "Mendoza told KUOW he saw no weapons, masks, or visible ICE badges; KUOW has not confirmed the agents were ICE.",
+    "A witness says an airline worker let agents back through a side door; the coffee allegation has no independent video resolution.",
+    "DHS's 1,600% assault figure lacks stated time periods or baselines."
+   ],
+   "plain": "Everyone describes the same event differently. The government says passengers attacked agents. Witnesses say the agents used too much force and may have been let in. Nobody has yet checked the facts with independent evidence."
+  },
+  {
+   "title": "Port and airline protocols are the decisive unknown",
+   "points": [
+    "The Port says federal authorities previously agreed to SEA protocols and is checking whether they were breached.",
+    "Alaska Airlines says it received no advance notice and does not direct or coordinate enforcement.",
+    "Port policy bars its police from aiding civil immigration arrests; the Port says it lacks jurisdiction over ICE or CBP operations.",
+    "No written protocol text has been published."
+   ],
+   "plain": "The airport and airline say they were not told in advance and did not help. Whether the government broke its own promises depends on a written agreement nobody has shown the public."
+  },
+  {
+   "title": "Enforcement at airports is rising and politically polarizing",
+   "points": [
+    "Deportation Data Project counts 568 airport-linked ICE arrests from Jan 2025 to March 2026, versus 108 in the prior comparable period.",
+    "The count covers only 16 airports and does not show whether arrests occurred inside terminals.",
+    "AP VoteCast: about 57% say enforcement has gone too far; 60% disapprove of ICE.",
+    "Pending Travel Without Fear Act (Rosen/Padilla, introduced Nov. 18, 2026) is unlikely to advance under current Senate control."
+   ],
+   "plain": "Airport arrests have gone up sharply, and most polled Americans think enforcement has gone too far. But the data is incomplete, and the bill to limit these arrests is unlikely to pass."
+  },
+  {
+   "title": "Options for U.S. policymakers: oversight, clarity, and access controls",
+   "points": [
+    "Publish or clarify the SEA protocols and any TSA-ICE information-sharing terms; the May 2025 MOA became public July 28, 2026.",
+    "Congressional oversight from January 3, 2027 can use hearings and letters; statute is unlikely under current control.",
+    "Litigation paths: civil suits under Washington's mask law face sovereign-immunity and Supremacy Clause defenses; habeas petitions may create the first judicial record.",
+    "Carriers can tighten gate access as Southwest did in Dallas on July 25, shifting pressure away from Washington."
+   ],
+   "plain": "The government can explain its rules more clearly, Congress can ask questions when it takes over, courts may eventually weigh in, and airlines can decide who gets past the gate. None of these is quick or certain."
+  }
+ ],
+ "context": [
+  {
+   "label": "Right now",
+   "text": "ICE arrested two people at Sea-Tac on November 21, 2026, delaying an Alaska Airlines flight by about three hours. DHS and Washington officials dispute the account, and the detainees' custody status remains unconfirmed."
+  },
+  {
+   "label": "How we got here",
+   "text": "Sensitive-location policies, from the 1993 INS memo through Morton's 2011 policy to Mayorkas's 2021 guidelines, covered schools, healthcare, and places of worship but never listed airports. The Biden-era guidance was rescinded in January 2025."
+  },
+  {
+   "label": "The politics",
+   "text": "Governor Ferguson and Washington Democrats call the tactics unacceptable and seek accountability, while DHS frames enforcement as officer safety and disputes the mask law. Public polling shows majority disapproval of ICE conduct, while Republicans largely support deportation."
+  },
+  {
+   "label": "The people",
+   "text": "Governor Bob Ferguson wants airlines and the state to pressure federal agents and is pushing an investigation; DHS leadership defends the operation and its assault prosecutions; Port commissioners want clarity on protocols and congressional scrutiny; Alaska Airlines seeks to avoid being drawn into enforcement; Senators Murray, Padilla and Rosen push oversight and legislation."
+  },
+  {
+   "label": "Why now, and what's next",
+   "text": "The arrests came days after the Travel Without Fear Act was introduced and before a heavy Thanksgiving travel window of about 875,000 passengers from November 25 to 30. Democrats take control of Congress January 3, 2027, which sets the next oversight window; a possible habeas filing could create the first court record."
+  },
+  {
+   "label": "The culture and the public",
+   "text": "Airports are everyday public spaces where families travel, and the arrests have raised fears about enforcement reaching transit and holiday movement. Labor groups and civil-rights advocates frame the event as a threat to community trust, while the administration frames it as a law-enforcement matter."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Federal arrest authority outruns any clear airport limit",
+   "paragraphs": [
+    "Federal law gives immigration officers broad arrest power without carving out airports. Under 8 U.S.C. §1357, designated officers may arrest without a warrant anyone they have reason to believe is removable and likely to escape before a warrant can be obtained. The statute contains no sensitive-location bar. That is the baseline against which the Seattle operation has to be judged, and it explains why defenders of the arrests can point to an unqualified grant of authority.",
+    "Airport-specific limits are thin. The 2011 ICE policy (Morton memo, Policy 10029.2) required senior approval for planned actions at schools, places of worship and healthcare facilities. The Biden-era 2021 guidelines expanded that list to medical facilities, vaccination sites, playgrounds, child care centers, emergency response locations and homeless shelters. Airports were not listed in any version reviewed, and the 2021 policy was rescinded by a January 20, 2025 memorandum. No court ruling found addresses arrests on jet bridges or in concourses. The courthouse cases that have gone against ICE rest on Administrative Procedure Act reasoning about agency policy, not on any airport-specific law, so they offer analogy rather than precedent.",
+    "Jurisdiction adds a second question. Congressional Research Service framing assigns airport immigration enforcement to Customs and Border Protection, with ICE responsible for the rest of the country. That makes ICE's presence at Sea-Tac a jurisdictional question that has not been resolved in public. Whether ICE was acting under a CBP arrangement, a TSA information-sharing channel or its own authority has not been established.",
+    "That leaves the answer resting on instruments the public has not seen. The Port of Seattle says federal authorities previously agreed to protocols at SEA and that it is checking whether they were breached; DHS has not said whether such protocols exist, and no text has been published. The Port's own policy bars its police from aiding civil immigration arrests, and the Port says it has no jurisdiction over ICE or CBP operations. Whether the arrests were lawful in the sense that matters to a court or a Port commission therefore depends on memos and agreements outside public view."
+   ],
+   "why": "Until the protocols and any TSA-ICE terms are published or litigated, neither the Port, the airlines nor Washington State can say with confidence what federal agents are permitted to do in a public terminal, and that gap is the real exposure."
+  },
+  {
+   "title": "The factual record of the arrests is still disputed",
+   "paragraphs": [
+    "The core facts of the November 21 arrests at Seattle-Tacoma International Airport remain in dispute. DHS says the operation began around 8:05 a.m. PT as travelers boarded an Alaska Airlines flight, targeting Ricardo Larrondo Mendoza, a Mexican national it says overstayed his visa. It says other travelers began to obstruct and assault officers, and it identifies Sofia Hernandez Mejia as the person who threw coffee, to be charged with assaulting a federal officer. Mendoza told KUOW he saw no weapons, masks, or visible ICE badges or insignias. KUOW has not confirmed the agents were ICE, and ICE did not respond to its request for comment. The Port of Seattle says its own protocols with federal authorities are under review, but it has not said what they are.",
+    "Some claims have more support than others. The timing and the flight delay, scheduled for 8:10 a.m. on Alaska 1306 and about three hours late, are not in dispute. Videos show agents on the ground with bystanders, which establishes that physical contact occurred but not who started it or whether force was excessive. A witness says an airline worker let agents back in through a side door after they were locked out, a claim that goes to the access question and has not been confirmed by Alaska Airlines. The coffee allegation has no independent video resolution. DHS's statement that assaults rose 1,600 percent gives no time period or baseline, so it cannot be checked. A woman said the family held work permits, but DHS has not addressed that, and a work permit is not legal status. Labor's account that four of six crew members refused to work the flight rests on a single source.",
+    "Several records would settle these questions: the full bystander and airport security video with timestamps; jet-bridge and side-door access logs showing who opened the entry and under whose credentials; gate and TSA staff statements; the written Port-federal protocols; and the immigration files of Mendoza and Mejia, including any pending applications or work-permit records. The Washington Attorney General's office has said the state's mask law gives it no enforcement power, so a civil suit from a private party would be the likeliest route to sworn testimony, and the timing of any such filing is unknown.",
+    "The political context pushes each side to fix its version early. Gov. Bob Ferguson has called ICE \"beyond reform,\" and Seattle Mayor Katie Wilson called the tactics \"unacceptable and un-American.\" DHS has framed the operation as officer safety, and its cited statistics have not been substantiated. Public opinion is already set: AP VoteCast found about 57 percent say enforcement has gone too far."
+   ],
+   "why": "until the access logs and protocol text are public, neither the government's account nor the state's can be tested, and the question of who opened the jet bridge will decide whether this becomes a protocol breach or a police-conduct case."
+  },
+  {
+   "title": "Port and airline protocols are the decisive unknown",
+   "paragraphs": [
+    "The Port says federal immigration authorities have previously agreed to protocols at Sea-Tac, and that it is in conversation with DHS on whether those protocols were breached. No written text has been published, so what the arrangements contain can only be inferred. Port policy bars its police from aiding civil immigration arrests, and the Port says enforcement at SEA happens without its participation or knowledge. A reasonable reading is that the agreements govern notice, Port-police non-involvement, and perhaps which areas agents may enter, rather than whether ICE may make arrests at all. Federal law grants that arrest authority without a sensitive-location bar, and the Port's own guidance says it has no jurisdiction over ICE or CBP operations.",
+    "Control of the jet bridge is the harder question. Governor Ferguson says state officials are investigating how the agents reached it, and a witness says an airline worker let agents back in through a side door. That account, if confirmed, would put the decision in the hands of carrier or airport staff, not the Port's police. Alaska Airlines says it received no advance notice and does not direct or coordinate immigration enforcement. Whether the jet bridge is Port-controlled or federally operated is unresolved, and it determines whether a breach lands on the Port, the airline, or the federal side.",
+    "A breach finding would cut in different directions. If DHS violated agreed protocols, the Port gains a basis for formal complaint and the airline gains cover for tighter gate access. If DHS says the protocols were followed, the Port's options narrow to public objection and oversight requests, and the dispute shifts toward whether any written agreement exists at all. Either way, a finding would not settle whether the force used was excessive, which DHS and witnesses dispute. The asymmetry matters: DHS can cite statutory authority, while the Port and carriers depend on federal cooperation for operations they cannot fully control.",
+    "The timing sharpens the stakes. Roughly 875,000 travelers are expected at Sea-Tac between Nov. 25 and 30, and the Port has not yet reported what the three-hour delay cost. Senator Murray has pledged accountability once Democrats take Congress on January 3, 2027, and the Travel Without Fear Act, introduced Nov. 18, is unlikely to advance. Carriers have precedent for acting on their own: Southwest restricted access in Dallas on July 25. Pressure from Ferguson on Alaska to demand ICE leave is a test of whether that path will be taken again."
+   ],
+   "why": "until the Port and DHS publish or confirm what their protocols require, and who controls the jet bridge, no party can prove a breach, and the airport remains a place where federal arrest authority operates on terms the public cannot see."
+  },
+  {
+   "title": "Enforcement at airports is rising and politically polarizing",
+   "paragraphs": [
+    "Airport arrests by immigration agents have grown sharply, but the data behind that trend is incomplete. The Deportation Data Project counts 568 ICE arrests linked to airports between January 20, 2025, and March 10, 2026, compared with 108 in the comparable pre-administration period. The count covers 16 airports and does not establish whether arrests happened inside terminals or at boarding. DHS has declined to confirm an uptick for operational-security reasons. KING 5 reported at least two other arrests at Sea-Tac since August, and ICE sources told CBS News in July that the rise reflects closer collaboration with the Transportation Security Administration. A 2026 deployment of agents to airports, announced during a DHS funding lapse, sits in the background, though its reach to Seattle is unclear.",
+    "Public opinion splits along lines that echo the Seattle dispute. An AP VoteCast analysis found about 57% say immigration enforcement has gone too far, 20% say not far enough, and 22% say about right; 60% disapprove of ICE. Fox News Voter Poll found 59% say enforcement has gone too far. The Economist/YouGov poll of November 13–16, 2026 (1,628 citizens, ±2.9 points) found 51% favor deporting all or most illegal immigrants, while 41% want only serious criminals deported. Republicans back broad deportation at 83%; Democrats favor serious criminals only at 64%. Both parties read these numbers as vindication. Conservative outlets such as Breitbart and RedState argue Democrats are overreading the midterms, while Democratic leaders say the vote rejected the administration's approach.",
+    "Legislative change faces steep odds before January 2027. The Travel Without Fear Act, introduced by Sen. Rosen and Sen. Padilla on November 18, 2026 with Sen. Duckworth as a co-signer, would require a judicial warrant for civil airport arrests. Nevada Current reports it is unlikely to move under Republican control and would need four Republican senators to break a filibuster. Democrats say they will open investigations once they take control of Congress on January 3, and Sen. Murray has promised accountability, but oversight is a different tool from statute. The bill's prospects depend on the midterm result and on whether any Republicans join.",
+    "Labor-market arguments add to the fight. Equitable Growth cites roughly 4,600 lost restaurant jobs and $71 million in lost wages in Minnesota between December 2025 and April 2026, while the Center for Immigration Studies argues enforcement has not harmed native workers. A CU Boulder study based on NBER work finds ICE surges raised unemployment for undocumented men and lowered U.S.-born construction employment rates. Each side's numbers serve its existing position, which keeps the debate from settling."
+   ],
+   "why": "Airports now sit at the center of a national argument about enforcement tactics, and the thin, contested data means both sides can keep claiming the trend proves their point while the public record that could settle it remains incomplete."
+  },
+  {
+   "title": "Options for U.S. policymakers: oversight, clarity, and access controls",
+   "paragraphs": [
+    "Policymakers have three realistic levers after Seattle: publish the rules, use oversight, and tighten access. The first costs little and can be done first. The Port says federal authorities previously agreed to protocols at Sea-Tac and that it is checking whether they were breached, but no protocol text has been released. DHS could publish whatever governs airport arrests, or confirm in writing that it has none, and the TSA-ICE memorandum, signed in May 2025 and made public on July 28, 2026, should be read alongside it. Clarity would not settle who was right on the coffee or the force used, but it would tell the public which rules applied, which is the question the incident has made urgent.",
+    "Congressional oversight is the second lever and the most likely to produce visible action. Sen. Patty Murray has promised accountability once Democrats take control on January 3, 2027, and Rep. Adam Smith wants Congress to \"aggressively regulate\" enforcement tactics. Letters, hearings and document requests can force the protocol question into the open. Statute is a harder path. The Travel Without Fear Act, introduced by Sens. Rosen and Padilla on November 18, would require judicial warrants for civil airport arrests, but it is unlikely to move under the current Senate and would need four Republican votes to overcome a filibuster.",
+    "Access controls are the third lever, and the one private actors are already testing. Gov. Ferguson is pressing every carrier at Sea-Tac to demand that ICE leave, and Southwest's July 25 decision in Dallas shows an airline can tighten gate access on its own. That approach can change behavior without a court ruling, but it shifts the fight onto airlines that say they do not coordinate enforcement and depend on federal cooperation. State litigation under Washington's mask law is a weaker option: the attorney general's office says it lacks enforcement power, and the law is civil-only, so any suit would face sovereign-immunity and Supremacy Clause defenses.",
+    "On the timing, the Thanksgiving window, when roughly 875,000 travelers are expected between November 25 and 30, creates pressure to clarify quickly. Public opinion gives that pressure weight: AP VoteCast found about 57% say enforcement has gone too far. The most effective first step is publishing or confirming the Sea-Tac protocols before the holiday rush."
+   ],
+   "why": "Whether the rules are written and followed will decide whether the next airport arrest is handled as a security matter or as another fight over who has authority in public space."
+  }
+ ],
+ "watch": [
+  "Port-DHS determination on whether SEA protocols were breached, with any published text (ongoing; no date set).",
+  "Thanksgiving travel window, November 25–30, 2026, and any further airport arrests or protests.",
+  "Federal assault charge filings and court appearances for the two detainees, plus any habeas petitions.",
+  "Washington's state investigation into jet-bridge access and any civil suit under SB 5855.",
+  "Congressional oversight plans after January 3, 2027, and status of the Travel Without Fear Act."
+ ],
+ "sources": [
+  "ICE officers arrest 2 passengers boarding Alaska Airlines flight in Seattle - CBS News",
+  "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
+  "Washington state officials condemn ICE after 2 arrested boarding flight at Seattle airport - ABC News",
+  "Immigration officers make arrests at Seattle airport in ‘distressing’ scene, delaying flight",
+  "Q Honieland ~e< Security Immigration Enforcement at Sensitive Locations",
+  "Policy Number: I 0029.2 FEA Number: 306-112-002b Office oftht• Director",
+  "'l'11El Official Website of the Department of Homeland Security ·;:~;;ICE",
+  "ICE's General Authority to Arrest and Detain",
+  "ICE agents deployed to US airports: Which airports are affected?",
+  "ICE officers set to deploy to airports as delays mount, border czar Homan confirms",
+  "Trump has deployed ICE agents to the nation's airports. What's their role?",
+  "ICYMI: Senator Rosen Introduces Bill to Limit ICE Operations at Airports - Jacky Rosen",
+  "Trump wants ICE agents at airports. Here's what they can (and can't) do",
+  "Rosen, Padilla Introduce Bill to Limit ICE Operations at Airports - Jacky Rosen",
+  "Federal immigration authorities targeting airports for arrests - ABC News",
+  "Senate passes Valdez bill banning law enforcement, including ICE, from wearing masks on duty - Sen. Javier Valdez",
+  "Masked law enforcement banned under new Washington state law - Sen. Javier Valdez",
+  "Heightened ICE enforcement harms US-born workers, shrinks workforce",
+  "What does the law do?",
+  "Washington state lawmakers push limits on masked ICE arrests, other tactics - Axios Seattle",
+  "ICE arrests 2 on Sea-Tac Airport jetway, disrupting flight boarding and sparking outrage",
+  "ICE arrests 2 people at Seattle airport, delaying LA-bound flight",
+  "ICE arrests at Seattle airport spark outrage, calls for congressional scrutiny",
+  "‘Outraged.’ Port officials react after ICE reportedly arrests family at Sea-Tac Airport",
+  "Local leaders speak out after ICE arrests at SEA-TAC",
+  "Two detained during ICE arrests at Sea-Tac airport - KIRO 7 News Seattle",
+  "Officials, passengers ‘outraged’ by ICE ambush at Sea-Tac as passengers boarded Alaska Airlines plane - Anchorage Daily News",
+  "Local, state officials say they're 'outraged' after ICE arrest at SEA",
+  "Sea-Tac officials ‘outraged’ by ICE ambush as passengers boarded plane",
+  "In 'Distressing' Scene, ICE Officers Detain Two People In Crowded Jet Bridge At Seattle Airport",
+  "Video Shows ICE Agents Dragging Passenger Away at Seattle Airport",
+  "Washington state governor, politicians react to ICE arrests at SEA Airport",
+  "ICE Arrests Two at Seattle-Tacoma Airport, DHS Says - Time News",
+  "DHS, Dem officials clash after ICE arrest at Seattle airport",
+  "Washington Governor Calls ICE Arrest of Alaska Airlines Passenger 'Outrageous' - Newsweek",
+  "Outrage grows over ICE arrest of passengers boarding a flight in Seattle"
+ ],
+ "links": [
+  "https://www.pbs.org/newshour/nation/immigration-officers-make-arrests-at-seattle-airport-in-distressing-scene-delaying-flight",
+  "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/",
+  "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport",
+  "https://abcnews.com/US/washington-state-officials-condemn-ice-after-2-arrested/story?id=138349974",
+  "https://www.cnn.com/2026/11/21/us/immigration-officers-arrests-seattle-airport",
+  "https://www.dhs.gov/sites/default/files/2022-06/ICE%20-%20Immigration%20Enforcement%20at%20Sensitive%20Locations.pdf",
+  "https://www.ice.gov/doclib/publicadvocate/pdf/10029.2-policy.pdf",
+  "https://niwaplibrary.wcl.american.edu/wp-content/uploads/ICE-Sensitive-LocationCourthouse-FAQ.pdf",
+  "https://www.congress.gov/crs_external_products/LSB/HTML/LSB10362.web.html",
+  "https://www.aljazeera.com/news/2026/3/24/ice-agents-deployed-to-us-airports-which-airports-are-affected",
+  "https://www.npr.org/2026/03/22/g-s1-114745/ice-tsa-airports-deployment-homan",
+  "https://www.npr.org/2026/03/26/nx-s1-5759159/trump-ice-airports-tsa",
+  "https://www.rosen.senate.gov/2026/11/20/icymi-senator-rosen-introduces-bill-to-limit-ice-operations-at-airports/",
+  "https://www.axios.com/2026/03/24/ice-airports-tsa-dhs-rules",
+  "https://www.rosen.senate.gov/2026/11/18/rosen-padilla-introduce-bill-to-limit-ice-operations-at-airports/",
+  "https://abcnews.com/US/federal-immigration-authorities-targeting-airports-arrests/story?id=135170980",
+  "https://senatedemocrats.wa.gov/valdez/2026/01/28/senate-passes-valdez-bill-banning-law-enforcement-including-ice-from-wearing-masks-on-duty/",
+  "https://senatedemocrats.wa.gov/valdez/2026/03/19/masked-law-enforcement-banned-under-new-washington-state-law/",
+  "https://www.colorado.edu/today/2026/05/04/heightened-ice-enforcement-harms-us-born-workers-shrinks-workforce",
+  "https://equity.wa.gov/sites/default/files/2026-07/Masking%20FAQ_FINAL_0.pdf",
+  "https://www.axios.com/local/seattle/2026/01/15/washington-ice-mask-ban-school-access-worker-notice-bills-immigration",
+  "https://komonews.com/news/local/port-of-seattle-seatac-airport-ice-alaska-airlines-reviewing-ice-incident-during-boarding-passengers-trauamatized-plane-boaridng-incident-dhs-homeland-security",
+  "https://www.nbclosangeles.com/news/local/ice-arrests-passengers-seattle-airport/3973862/",
+  "https://www.yahoo.com/news/us/articles/ice-arrests-seattle-airport-spark-040233773.html",
+  "https://www.kuow.org/immigration/2026-11-21/outraged-port-officials-react-after-ice-arrests-family-at-sea-tac-airport",
+  "https://www.yahoo.com/news/us/articles/local-leaders-speak-ice-arrests-223453994.html",
+  "https://www.kiro7.com/news/local/local-leaders-speak-out-after-ice-arrests-sea-tac/JV2HQ3X5ERHX7CKSD66MWSMYIQ/",
+  "https://www.adn.com/nation-world/2026/11/22/officials-passengers-outraged-by-ice-ambush-at-sea-tac-as-passengers-boarded-alaska-airlines-plane/",
+  "https://www.fox13seattle.com/news/seattle-ice-sea-tac",
+  "https://www.yakimaherald.com/news/northwest/sea-tac-officials-outraged-by-ice-ambush-as-passengers-boarded-plane/article_91a84856-d6b8-46ea-9f36-d6fe3bdc713e.html",
+  "https://www.huffpost.com/entry/distressing-scene-ice-officers-detain-two-people-in-crowded-jet-bridge-seattle-airport_n_6b0245f4e4b0db04454ad81e",
+  "https://www.deccanchronicle.com/world/americas/ice-detains-two-passengers-seattle-airport-jet-bridge-2006810",
+  "https://www.king5.com/article/news/local/ice-arrest-seattle-airport-politician-reaction/281-564d5fc1-f9bf-46de-bdcf-46bfb9ec5fbd",
+  "https://time.news/ice-arrests-two-at-seattle-tacoma-airport-dhs-says/",
+  "https://www.yahoo.com/news/us/articles/dhs-dem-officials-clash-ice-154815480.html",
+  "https://www.newsweek.com/governor-calls-ice-arrest-of-alaska-airlines-passenger-outrageous-12752822",
+  "https://www.ms.now/news/outrage-grows-over-ice-arrest-of-passengers-boarding-a-flight-in-seattle"
+ ]
+}

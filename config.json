@@ -143,6 +143,42 @@
   "deepDives": [
     {
       "date": "2026-11-22",
+      "title": "Fauci, the Wuhan lab-leak question, and a contested contempt fight",
+      "words": 3427,
+      "topic": "Government",
+      "url": "https://drive.google.com/file/d/14SeZf5XiA_h-1p5odv8WFbeFTtrgR-OL/view",
+      "bottomLine": "This is less a settled finding about COVID's origin than a fight over definitions and legal process: whether NIH-funded Wuhan work met the government's definition of gain-of-function research, and whether Fauci's categorical denials to Congress were knowingly false. The intelligence picture is split at low-to-moderate confidence, the criminal and contempt routes face serious procedural and pardon obstacles, and the policy consequences (funding bans and oversight rules) are already reshaping U.S. biosecurity research regardless of how the Fauci dispute resolves.",
+      "slug": "fauci-contempt-fight"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Gain-of-function policy: a federal funding ban with unresolved scope",
+      "words": 3068,
+      "topic": "Government",
+      "url": "https://drive.google.com/file/d/1osoQTo8Ga3ILEfSJFiPMkB4ujwnaeG5Q/view",
+      "bottomLine": "The July 2026 U.S. Government Policy for Stopping High-Risk Life Sciences Research is best understood as a federal-funding ban whose real impact depends on definitions, review mechanics and an unresolved private-research gap that have not yet been tested in practice. It matters to U.S. interests because it reshapes how biodefense and countermeasure science is funded, while the lab-origin debate and personnel fights keep the issue politically charged. Policymakers face a choice between tightening scope, clarifying definitions quickly, or accepting chilling effects on infectious-disease research.",
+      "slug": "gain-of-function-ban"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Nvidia China chip sales: a control failure or a policy split?",
+      "words": 3249,
+      "topic": "Government",
+      "url": "https://drive.google.com/file/d/1nCqOpluFPb6lxcUWQvxQilJ2VvVct14o/view",
+      "bottomLine": "The Nvidia chip story is less about one company's conduct than about whether U.S. export controls can hold when licensing decisions, interagency turf and presidential trade bargaining pull in different directions. Roughly 880,000 advanced chips were approved for China-tied firms, Megaspeed remains off the Entity List, and the administration is publicly split over who owns the failure. The core test for U.S. interests is whether the new remote-access rule and congressional oversight can restore credible enforcement before the next wave of diversion.",
+      "slug": "nvidia-china-chips"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Seattle airport arrests expose contested authority over enforcement in public spaces",
+      "words": 3167,
+      "topic": "Government",
+      "url": "https://drive.google.com/file/d/1OVuR-xtnSYWAvEkFjI2F8-DQkaH7uu1j/view",
+      "bottomLine": "The Sea-Tac arrests are less a single incident than a test of who controls immigration enforcement inside American transit hubs, where federal arrest authority meets local port control and no clear statute or published protocol sets the limits. The core factual dispute, whether force was excessive and whether agents entered a secure area with help, is unresolved, so policymakers face a legitimacy and oversight problem regardless of how the legal fight ends. The outcome matters for airport security operations, federal-state relations, and the wider debate over enforcement tactics before the new Congress convenes in January 2027.",
+      "slug": "seattle-airport-arrests"
+    },
+    {
+      "date": "2026-11-22",
       "title": "Nvidia's SEC Probe Tests Market Trust in the AI Boom",
       "words": 2901,
       "topic": "Markets",

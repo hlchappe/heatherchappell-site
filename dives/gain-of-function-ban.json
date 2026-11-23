@@ -1,0 +1,285 @@
+{
+ "slug": "gain-of-function-ban",
+ "date": "2026-11-22",
+ "title": "Gain-of-function policy: a federal funding ban with unresolved scope",
+ "words": 3068,
+ "from": "GAIN OF FUNCTION RESEARCH CONTROVERSY",
+ "bottomLine": "The July 2026 U.S. Government Policy for Stopping High-Risk Life Sciences Research is best understood as a federal-funding ban whose real impact depends on definitions, review mechanics and an unresolved private-research gap that have not yet been tested in practice. It matters to U.S. interests because it reshapes how biodefense and countermeasure science is funded, while the lab-origin debate and personnel fights keep the issue politically charged. Policymakers face a choice between tightening scope, clarifying definitions quickly, or accepting chilling effects on infectious-disease research.",
+ "summary": [
+  {
+   "title": "The policy's federal-funding ban is real but narrow",
+   "points": [
+    "EO 14292 (May 5, 2025) ordered a replacement policy within 120 days; the policy arrived roughly 14 months late.",
+    "Policy dated July 20, 2026, released July 28; it bars federal funding for dangerous gain-of-function (DGOF) research.",
+    "Adds a second category, international research of concern (IROC), and bars funding for work in countries of concern.",
+    "Private research is not yet covered; an interagency group will only 'explore' extension."
+   ],
+   "plain": "The government has said it will stop paying for the most worrying kinds of germ experiments. It has not yet said it will stop private labs from doing them. That gap is the main open question."
+  },
+  {
+   "title": "Definitions and review will decide the real impact",
+   "points": [
+    "ASM says the 'dangerous' versus 'potentially dangerous' distinction is ambiguous as written.",
+    "Institutions must establish review entities; the Independent Third-Party Review Body was due by Oct. 18, 2026.",
+    "Guidance and entity-of-concern lists were due Nov. 17, 2026; publication is unconfirmed.",
+    "NIH reportedly identified 40 projects as possibly DGOF and 172 more for possible suspension or termination."
+   ],
+   "plain": "A rule is only as clear as its definitions. Here, scientists say the key words are fuzzy, so no one knows exactly which experiments are stopped until the government spells it out."
+  },
+  {
+   "title": "Enforcement and the Fauci fight shape the politics",
+   "points": [
+    "Certifications carry False Claims Act exposure and up to five years' ineligibility for federal grants.",
+    "Senate Homeland Security (chair Rand Paul) voted 8-7 on Aug. 6, 2026 to hold Fauci in contempt.",
+    "Fauci invoked the Fifth Amendment repeatedly at the July 29, 2026 hearing; the Biden pardon covers conduct through Jan. 19, 2025.",
+    "DOJ, now led by Attorney General Todd Blanche, decides whether to act on any referral."
+   ],
+   "plain": "Scientists could lose their government money if they sign a false promise. Meanwhile, a senator is pushing to get a famous scientist charged with lying to Congress. Both stories feed the same fight."
+  },
+  {
+   "title": "The origin dispute keeps the policy contested",
+   "points": [
+    "FBI and some agencies reportedly assess a Wuhan lab leak; CIA rated it low confidence; this is contested.",
+    "Fauci says Wuhan-funded work was not DGOF under federal definitions; Paul says it was and that Fauci lied.",
+    "NIH called mouse illness an 'unexpected result'; the EcoHealth grant was $3.7 million starting 2014.",
+    "Verity and Washington Times reporting on Baric-Shi exemptions is treated as contested."
+   ],
+   "plain": "People argue about whether a lab in China caused COVID. That argument makes every rule about these experiments feel personal, even when the rules are about future work."
+  },
+  {
+   "title": "Options for policymakers: clarify, widen, or accept chill",
+   "points": [
+    "Near term: publish definitions, review charter and lists on schedule; this is the cheapest way to reduce chilling effects.",
+    "Congress: S.738 (Marshall) sits in HELP without action; S.854 (Risky Research Review Act) would create a review board; neither enacted.",
+    "Option to extend to private labs and DNA synthesis screening, which industry AI leaders urged on June 4, 2026.",
+    "Downside risk: broad entity lists or an enforcement action could deter countermeasure work the policy says it protects."
+   ],
+   "plain": "The government can make its rules clearer, pass laws to cover more labs, or keep things vague and risk scaring good scientists away. Each choice has costs."
+  }
+ ],
+ "context": [
+  {
+   "label": "Right now",
+   "text": "The July 20, 2026 policy (announced July 28) bans federal funding for DGOF research and adds IROC. Implementation guidance and review mechanisms were due in October and November 2026 but their publication is unconfirmed. Private research is not yet covered."
+  },
+  {
+   "label": "How we got here",
+   "text": "The 2011-2012 H5N1 publication fight, the 2014 federal pause after lab incidents, and the 2017 P3CO review framework set the pattern: pauses, reviews and reversals. The 2024 DURC/PEPP policy was rescinded before taking effect."
+  },
+  {
+   "label": "The politics",
+   "text": "HHS and NIH present the policy as ending dangerous research after COVID-era failures; ASM and many virologists say definitions could chill infectious-disease work. The Fauci-Paul contempt track and intra-GOP tensions amplify the fight."
+  },
+  {
+   "label": "The people",
+   "text": "NIH Director Jay Bhattacharya and HHS Secretary RFK Jr. promote the policy; Sen. Rand Paul drives oversight and the Fauci referral; Fauci disputes the DGOF characterization; ASM's Allen Segal and Johns Hopkins' Gigi Gronvall warn of chilling effects; Attorney General Todd Blanche controls any DOJ decision."
+  },
+  {
+   "label": "Why now, and what's next",
+   "text": "Key dates: ITPRB (Oct. 18, 2026, unconfirmed), guidance and entity lists (Nov. 17, 2026, unconfirmed), institutional implementation (Jan. 2027). The DOJ decision on the Fauci referral is open-ended."
+  },
+  {
+   "label": "The culture and the public",
+   "text": "The debate mixes science, COVID politics and personal distrust of Fauci. No reliable national polling on the policy exists, so claims of public support or opposition should be treated as unverified."
+  }
+ ],
+ "sections": [
+  {
+   "title": "The policy's federal-funding ban is real but narrow",
+   "paragraphs": [
+    "The July 2026 policy, dated July 20 and released July 28, bars federal funding for \"dangerous gain-of-function\" (DGOF) research. It also creates a second category, \"international research of concern\" (IROC), and bars federal life-sciences funding for work in countries of concern. HHS Secretary Robert F. Kennedy Jr. called it \"ending federal support for dangerous gain-of-function research,\" and NIH Director Jay Bhattacharya called it an \"explicit prohibition.\" Those statements are accurate as far as they go, but they describe a funding rule, not a general ban on the research itself.",
+    "The policy's reach is set by the funding channel. It applies to grants and contracts from federal agencies. Institutions that pay for work from their own budgets, or from private donors, fall outside it for now. The policy says private research will be \"explored\" by an interagency working group, and that group has published no timeline. That gap is the central statutory question. Congress has not closed it. Earlier bills, including S.738 from Sen. Roger Marshall and Sen. Rand Paul's S.854, were aimed at federal grants or an executive review board, and neither has been enacted.",
+    "Much of the operative content is left to agencies. The policy defines the categories but delegates much of the practical line-drawing to implementing guidance and review bodies. Under the Butler Snow timeline, the Independent Third-Party Review Body was due by Oct. 18, 2026, and implementation guidance and entity-of-concern lists by Nov. 17, 2026. I could not confirm that either was published. NIH has said paused projects stay paused until those mechanisms exist, so the practical effect of the ban depends on dates that are not yet verified. The policy also arrived roughly 14 months after EO 14292's 120-day deadline, which means agencies have had less time to prepare than the headline suggests.",
+    "The \"ban\" therefore overstates what is enforceable today. Federal money is cut off for projects classified as DGOF, but the classification process, the appeals path and the list of covered entities are not yet public in final form. Institutions that do not take federal money are not directly bound. Officials who describe this as ending gain-of-function research are claiming more than the text now delivers, and the gap will be exposed the first time a review decision or private-funding question reaches the press."
+   ],
+   "why": "Whether the policy works as a ban or as a narrow funding condition depends on the private-research question and on review-board decisions that have not yet been made."
+  },
+  {
+   "title": "Definitions and review will decide the real impact",
+   "paragraphs": [
+    "The operative risk in the July 2026 policy sits in how its definitions and review boards are applied, not in the headline ban. The policy bars federal funding for \"dangerous gain-of-function\" (DGOF) research, but the line between DGOF and \"potentially\" DGOF work is where most projects will be decided. The American Society for Microbiology says that distinction is ambiguous as written and that countermeasure work could be caught by it. The White House and HHS say countermeasure research continues. Both claims cannot be fully tested until agencies spell out how the terms are read.",
+    "The timetable makes the point. Butler Snow's reading of the July 20 issuance date puts the single Independent Third-Party Review Body (ITPRB) due by Oct. 18, 2026, and implementation guidance plus entity-of-concern lists due by Nov. 17, 2026. I could not confirm that either was published. Institutions then have until about Jan. 16, 2027 to stand up their own review entities. Until guidance and review mechanisms exist, NIH says paused projects stay paused. That leaves a working period in which NIH reportedly has identified 40 projects as possibly meeting the DGOF definition and 172 more for possible suspension or termination. The Science report behind those figures cites an internal NIH letter, and I have not verified the current status of any of them.",
+    "The policy is also arriving in a politically loaded setting. The EO that began this process was signed in May 2025 and set a 120-day deadline; the policy came out about 14 months later. Gerry Parker, who drafted the executive order while at the NSC, praised the policy, while Gigi Gronvall of Johns Hopkins said it appears \"intended to put a chill on all kinds of research\" in infectious disease. NIH Director Jay Bhattacharya disputes that framing, and the internal personnel disputes reported by the Daily Caller News Foundation, which rely on anonymous sources, add to the sense that the outcome depends on who runs the review. The historical precedent is relevant: the 2014 pause was followed by the 2017 P3CO framework, which critics said lacked transparency. The GAO's January 2026 finding that HHS does not consistently share how it assesses risk suggests the same opacity could recur, though that finding needs checking against the GAO report itself.",
+    "Officials should treat the review charter, the definitions and the entity lists as the real policy, and watch them closely in the first quarter of 2027."
+   ],
+   "why": "Whether this policy restricts only what it says it targets, or deters the infectious-disease and countermeasure work it says it protects, will be decided in the guidance and review rules that most people have not yet seen."
+  },
+  {
+   "title": "Enforcement and the Fauci fight shape the politics",
+   "paragraphs": [
+    "Enforcement in the July 2026 policy runs mainly through grant certifications. Institutions receiving federal life-sciences money must certify compliance, and the policy flags False Claims Act exposure and up to five years' ineligibility for federal grants as penalties for noncompliance, per Butler Snow's legal analysis. That is a civil and administrative lever, and it bites on universities and labs far more than on individual scientists. It is also the part of the policy most likely to shape behavior, because a false certification is what turns a paperwork error into a costly claim.",
+    "The Fauci fight runs on a separate track and is where the partisan framing is sharpest. Senate Homeland Security, chaired by Rand Paul (R-KY), voted 8-7 on Aug. 6, 2026 to hold Fauci in contempt, with Democrats opposed. Fauci had invoked the Fifth Amendment repeatedly at the July 29 hearing and said Paul's \"unhinged obsession with me\" drove the proceedings. Paul argues the Biden preemptive pardon, which covers conduct through Jan. 19, 2025, removes the privilege, while Fauci's counsel, David Schertler, called the vote \"a crude political stunt.\" Democrats, including ranking member Gary Peters, called the hearing biased. Each side reads the same record as vindication, which is why the policy itself gets absorbed into a fight about COVID-era accountability.",
+    "Criminal referral is far less certain than the headlines suggest. A committee vote does not send a contempt citation; Paul said he would refer it to DOJ without a full Senate vote, but the referral route runs through the presiding officer, Vice President JD Vance, before reaching Jeanine Pirro, and DOJ, now led by Attorney General Todd Blanche, decides whether to charge. Legal experts have said the pardon would not shield alleged false statements under oath, but the Fifth Amendment question and the pardon's reach are contested, and I could not independently verify the constitutional consensus Paul cites. Nothing in the record shows DOJ has signaled a decision. Officials should treat a prosecution as an open question, not a settled outcome.",
+    "For the policy, the practical implication is that enforcement attention may migrate toward certification and compliance rather than prosecution. Institutions will read the Fauci track as a signal about political appetite, which can raise caution beyond what the text requires, especially for infectious-disease work the policy says it protects. Mid-November implementation timing and the unverified status of guidance mean that caution will arrive before clear rules do."
+   ],
+   "why": "Legal exposure from certifications, not the contempt fight, is what will change how universities actually behave, so officials should keep the enforcement question separate from the Fauci politics."
+  },
+  {
+   "title": "The origin dispute keeps the policy contested",
+   "paragraphs": [
+    "The origin question is the political engine behind the July 2026 policy, even though the policy itself is forward-looking. Supporters, including Sen. Rand Paul, who chairs Senate Homeland Security, and Richard Ebright of Rutgers, tie the policy to COVID-era failures. The Washington Times and LegalInsurrection cast it as correcting those failures. Reporting from the Washington Times in July 2026 says the FBI and other agencies believe SARS-CoV-2 leaked from work at the Wuhan lab, and a congressional Republican report blames gain-of-function work there. The CIA rated lab origin low-confidence, and agencies differ. These intelligence assessments have not been independently verified here, and officials should treat them as contested.",
+    "The dispute runs back further than 2020. The 2011–2012 fight over Fouchier's and Kawaoka's H5N1 transmissibility papers produced the NSABB reversal, a 12-6 vote on Fouchier's paper, and a 2014 federal pause that followed a string of unrelated lab incidents. HHS's 2017 P3CO framework then excused HHS from that pause. Critics have long said the review process lacked transparency. An unnamed NIH official, quoted in Mind Matters in 2021, put the scientific worry plainly: \"If you ban gain-of-function research, you ban all of virology.\" Each generation of this debate has fused a specific origin claim with a broader argument about oversight, which is why the current policy inherits the same tension.",
+    "The EcoHealth and Wuhan Institute of Virology grant sits at the center of the fight. Fauci says the Wuhan-funded work was not dangerous gain-of-function under federal definitions. Paul says it was and that Fauci lied. NIH has said the mice became sicker but called this an \"unexpected result,\" and reported testimony says NIH concluded the project did not meet the 2014 or 2017 criteria. The House Republican position on those criteria is disputed, and NIH's position rests on reported testimony rather than records I could check. Reports that the Baric-Shi chimeric study continued under an exemption come from Verity, a lower-tier source, and remain contested.",
+    "Officials should keep the origin question separate from the forward-looking scope question. Whether a past grant broke an old rule is a matter for records, testimony and, possibly, DOJ. Whether the July 2026 policy's definitions, review board and private-funding gap are workable is a matter for guidance and implementation, which is still unconfirmed on the October and November deadlines. Blending the two makes the policy look like a verdict on COVID and invites the charge that its definitions were written to fit a conclusion. Keeping them apart lets the scope fight proceed on its own terms."
+   ],
+   "why": "a policy whose support rests on an unresolved origin dispute will be judged by partisans on that dispute, so officials need to defend its definitions and review mechanics on their own merits before the contested history sets the terms."
+  },
+  {
+   "title": "Options for policymakers: clarify, widen, or accept chill",
+   "paragraphs": [
+    "Policymakers have three realistic paths. The first is to clarify: publish the definitions, the charter for the Independent Third-Party Review Body, and the entity-of-concern lists on schedule, with worked examples showing where countermeasure work falls. The second is to widen: extend the rules to privately funded research and to DNA synthesis purchasers, which the White House has already begun to do through its separate nucleic-acid screening policy and which the June 4, 2026 letter from AI leaders Altman, Amodei, Hassabis and Suleyman urged Congress to mandate. The third is to accept chill, leaving the definitions as written and letting institutions sort out the risk themselves.",
+    "Each path has costs. Clarification is the cheapest and most defensible, and it answers the American Society for Microbiology's core complaint that the \"dangerous\" and \"potentially dangerous\" categories are ambiguous as written. It also protects the administration's own claim that vaccine, therapeutic and diagnostic work continues. Its weakness is that it does not settle the private-research gap, which remains the central statutory question. Widening would close that gap and give the policy real reach, but it would bring labs, DNA printers and AI-adjacent work into a regime that has not been tested, and it would draw industry opposition that a funding-only rule avoids. Accepting chill is the path critics such as Gigi Gronvall of Johns Hopkins warn about: researchers and institutions could avoid infectious-disease work broadly, a result no official has endorsed and that would undercut biodefense goals.",
+    "Congressional support is uneven. Sen. Marshall's S.738, which would bar federal grants for dangerous work, sits in HELP without action, and S.854, the Risky Research Review Act, has not moved past introduction. Rand Paul's chairmanship of Homeland Security keeps the issue alive, but his public fight with Intelligence Chair Tom Cotton and his Fauci contempt push make bipartisan drafting harder. Officials who want durable support should separate the forward-looking scope question from the COVID-origin dispute, since linking them invites a vote on the past rather than the rules.",
+    "The recommended sequence is clarify first, then widen only after the first review cycle. Publish definitions, the review charter and the lists on time; release a short FAQ on countermeasure work; and report publicly, as GAO has urged, how cases are decided. Once that record exists, propose extension to private labs and synthesis purchasers as a discrete bill, so the private-funding decision rests on evidence rather than on the headline ban."
+   ],
+   "why": "the choice between clarifying, widening and accepting chill will determine whether this policy strengthens U.S. biodefense or quietly weakens the infectious-disease research it says it protects."
+  }
+ ],
+ "watch": [
+  "Whether the Independent Third-Party Review Body was chartered by Oct. 18, 2026 (unconfirmed).",
+  "Whether implementation guidance and entity-of-concern lists were published, and whether China is named (due Nov. 17, 2026; unconfirmed).",
+  "Institutional implementation deadline in January 2027 and first review-board disputes.",
+  "Any DOJ action on the Senate contempt referral against Fauci.",
+  "Whether the interagency group proposes extending the policy to privately funded research, and any lawsuit or S.738/S.854 movement in Congress."
+ ],
+ "people": [
+  {
+   "name": "Gerald (Gerry) W. Parker",
+   "role": "FORMER NSC SENIOR DIRECTOR FOR BIOSECURITY AND PANDEMIC RESPONSE; BIODEFENSE EXPERT, TEXAS A&M ONE HEALTH",
+   "lede": "Parker drafted EO 14292, the May 2025 order that underpins the July 2026 federal-funding ban on dangerous gain-of-function research, and publicly praised the November 2026 synthetic DNA screening policy as a step forward. He wants a stronger, clearly defined federal biosecurity framework, which he has publicly argued the administration is delivering.",
+   "blocks": [
+    {
+     "heading": "Who they are",
+     "text": "Gerald Parker, DVM, PhD, is a veterinarian and biodefense specialist with a long federal career spanning the Army, HHS, DHS and DoD. He was named to lead the White House pandemic office in February 2025 but was in fact appointed as senior director for Biosecurity and Pandemic Response on the National Security Council. He resigned in July 2025 after roughly six months, and officials said he had never been formally appointed to the pandemic office. He is now publicly identified as a former NSC official and continues to comment on biosecurity policy."
+    },
+    {
+     "heading": "Personality and style",
+     "text": "Parker is widely described as deeply knowledgeable and not particularly partisan by Ashish Jha, who consulted him often. A Daily Caller report said he drafted the gain-of-function order without seeking much input from many officials, including at NIH, while Heartlander News reported that he froze out the agencies that had long championed such research. STAT and others reported that his exit came amid broader disarray in the pandemic office. His public style, as shown in his own statement on the new policy, is measured and supportive, framing the policy in terms of safeguards and industry competitiveness."
+    },
+    {
+     "heading": "Career highlights",
+     "items": [
+      "1990s-2010s: Served 26 years in the U.S. Army, later leading the U.S. Army Medical Research Institute of Infectious Diseases.",
+      "Held senior roles at the Department of Homeland Security, HHS (Principal Deputy Assistant Secretary for Preparedness and Response) and DoD (Deputy Assistant Secretary of Defense for Chemical and Biological Defense).",
+      "Chaired the NIH's National Science Advisory Board for Biosecurity under the Biden administration, where he recommended a new government agency to advise on gain-of-function research.",
+      "Directed the Pandemic and Biosecurity Policy Program at Texas A&M's Scowcroft Institute and served as associate dean for Global One Health at its veterinary college.",
+      "February 2025: reported selected to lead the White House Office of Pandemic Preparedness and Response Policy, though the appointment was reported but never formally announced.",
+      "2025: Appointed NSC senior director for Biosecurity and Pandemic Response; drafted EO 14292 signed May 5, 2025."
+     ]
+    },
+    {
+     "heading": "Current involvements",
+     "items": [
+      "Publicly identified as a former NSC senior director for biosecurity and pandemic response, having resigned in July 2025.",
+      "Publicly supportive of the November 2026 White House gene synthesis screening policy, which implements EO 14292.",
+      "Commentator on the gap in White House pandemic preparedness capacity after his exit and the empty OPPR office.",
+      "Ongoing role as a voice on whether the July 2026 policy's definitions and review process will hold up in practice."
+     ]
+    },
+    {
+     "heading": "Big wins",
+     "items": [
+      "Drafted EO 14292, which set the framework for the federal-funding ban on dangerous gain-of-function research.",
+      "Helped shape the July 2026 HHS policy, which Robert F. Kennedy Jr. said ends federal support for dangerous gain-of-function research.",
+      "Praised by public health figures such as Ashish Jha as a serious, focused appointee when he was named in 2025."
+     ]
+    },
+    {
+     "heading": "Controversies",
+     "items": [
+      "Daily Caller reported that Parker drafted the order without seeking input from many officials, including at NIH, and that the order's scope was narrower than expected.",
+      "Heartlander News reported that he froze out the NIAID and other agencies that had long resisted regulation, and that unresolved issues remained, including possible criminal penalties.",
+      "STAT and others reported that he resigned after about six months and that the White House never corrected reports that he had been appointed to lead OPPR.",
+      "Critics on the policy's effect, including Johns Hopkins' Gigi Gronvall, have warned that the broad scope could deter infectious disease work, though she is not directly criticising Parker."
+     ]
+    },
+    {
+     "heading": "Who they align with",
+     "items": [
+      "Allies and backers: the Trump administration's National Security Council and OSTP leadership, including OSTP Director Michael Kratsios, who introduced the November 2026 screening policy.",
+      "Policy allies: Robert F. Kennedy Jr. and HHS, which announced the July 2026 ban citing the EO's framework.",
+      "Public health and biosecurity supporters: Ashish Jha, who praised his appointment, and the biosecurity community that welcomed his 2025 selection.",
+      "Co-author on the policy's public case: former CDC Director Robert Redfield, who supported the July 2026 policy in a July 29 op-ed.",
+      "Rivals and opponents (labeled as rivals): Anthony Fauci, who disputes that U.S.-funded work meets the DGOF definition, and the NIAID and NIH research community that Parker reportedly sidelined during drafting."
+     ]
+    }
+   ]
+  }
+ ],
+ "sources": [
+  "Trump restricts funding for controversial 'gain-of-function' research : Shots - Health News : NPR",
+  "The American Academy of Microbiology discusses gain-of-function research of concern (GOFROC) and enhanced potential pandemic pathogens (ePPP)",
+  "Gain-of-Function Research: Ethical Analysis",
+  "Does influenza pandemic preparedness and mitigation require gain-of-function research?",
+  "Feds shut down ‘dangerous’ gain-of-function research, tighten oversight of foreign collaboration",
+  "IBC Policies & Guidelines",
+  "National Policy for Nucleic Acid Synthesis Screening",
+  "Improving the Safety and Security of Biological Research",
+  "NOT-OD-25-127: Implementation Update: Terminating or Suspending Dangerous Gain-of-Function Research in Accordance with the Executive Order on Improving the Safety and Security of Biological Research",
+  "Recent Executive Actions Related to Gain-of-Function Research and Laboratory Biosafety",
+  "Oversight of Gain-of-Function Research with Pathogens: Issues for Congress",
+  "NOT-OD-25-112: Implementation Update: Improving the Safety and Security of Biological Research",
+  "NOT-OD-26-101: USG Policy for Stopping High-Risk Life Sciences Research",
+  "Implementation Update: Improving the Safety and Security of Biological Research",
+  "Release of U.S. Government Policy for Stopping High-Risk Life Sciences Research",
+  "Ethical and Philosophical Considerations for Gain-of-Function Policy: The Importance of Alternate Experiments",
+  "Dual use and gain-of-function research: a significant endeavor with biosecurity imperatives",
+  "Global Pandemics: Gain-of-Function Research of Concern",
+  "P3CO",
+  "Zika Virus Focuses the Gain-of-Function Debate",
+  "A possible turning point for research governance in the life sciences",
+  "Presidential Documents 19611",
+  "Ethical criteria for self-identifying societal risk associated with dangerous gain-of-function research",
+  "With new data, NSABB may revisit H5N1 studies",
+  "The controversy over H5N1 transmissibility research: An opportunity to define a practical response to a global threat - PMC",
+  "One Study, Two Paths: The Challenge of Dual-Use Research",
+  "Fouchier study reveals changes enabling airborne spread of H5N1",
+  "Egyptian H5N1 Influenza Viruses—Cause for Concern?",
+  "Dangerous for ferrets: lethal for humans?",
+  "Trump Administration Releases New Government-Wide Policy to End Dangerous High-Risk Research",
+  "Text - S.738 - 119th Congress (2025-2026): Dangerous Viral Gain of Function Research Moratorium Act",
+  "All Info - S.738 - 119th Congress (2025-2026): Dangerous Viral Gain of Function Research Moratorium Act",
+  "Text - S.3012 - 117th Congress (2021-2022): Viral Gain of Function Research Moratorium Act",
+  "S.81 - 118th Congress (2023-2024): Viral Gain-of-Function Research Moratorium Act",
+  "Text - H.R.4071 - 117th Congress (2021-2022): Foreign Gain-of-Function Research Prevention Act of 2021",
+  "All Info - S.81 - 118th Congress (2023-2024): Viral Gain-of-Function Research Moratorium Act"
+ ],
+ "links": [
+  "https://www.npr.org/2025/05/05/nx-s1-5267612/trump-gain-of-function-research-funding",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10790700/",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4996883/",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5485867/",
+  "https://www.cidrap.umn.edu/dual-use-research/feds-shut-down-dangerous-gain-function-research-tighten-oversight-foreign",
+  "https://research-compliance.umich.edu/research-safety/institutional-biosafety-committee-ibc/ibc-policies-guidelines",
+  "https://www.whitehouse.gov/wp-content/uploads/2026/11/NSTM-6-NASS-Policy.pdf",
+  "https://www.whitehouse.gov/presidential-actions/2025/05/improving-the-safety-and-security-of-biological-research/",
+  "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-127.html",
+  "https://www.congress.gov/crs-product/IN12554",
+  "https://www.congress.gov/crs-product/R47114",
+  "https://www.grants.nih.gov/grants/guide/notice-files/NOT-OD-25-112.html",
+  "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-101.html",
+  "https://www.aphis.usda.gov/news/program-update/implementation-update-improving-safety-security-biological-research",
+  "https://grants.nih.gov/news-events/nih-extramural-nexus-news/2026/07/release-of-us-government-policy-for-stopping-high-risk-life-sciences-research",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5809449/",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12188730/",
+  "https://crsreports.congress.gov/product/pdf/IF/IF12021",
+  "https://www.congress.gov/crs_external_products/IF/HTML/IF12021.html",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4894681/",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12379582/",
+  "https://www.whitehouse.gov/wp-content/uploads/2025/05/eo-14292.pdf",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12838285/",
+  "https://cidrap.umn.edu/news-perspective/2012/02/new-data-nsabb-may-revisit-h5n1-studies",
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC3899166/",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3385452/",
+  "https://www.cidrap.umn.edu/avian-influenza-bird-flu/fouchier-study-reveals-changes-enabling-airborne-spread-h5n1",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3499568/",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3282654/",
+  "https://www.hhs.gov/press-room/stopping-high-risk-life-sciences-research.html",
+  "https://www.congress.gov/bill/119th-congress/senate-bill/738/text",
+  "https://www.congress.gov/bill/119th-congress/senate-bill/738/all-info",
+  "https://www.congress.gov/bill/117th-congress/senate-bill/3012/text?r=3",
+  "https://www.congress.gov/bill/118th-congress/senate-bill/81/history?r=73&s=1",
+  "https://www.congress.gov/bill/117th-congress/house-bill/4071/text?r=134",
+  "https://www.congress.gov/bill/118th-congress/senate-bill/81/all-info"
+ ]
+}

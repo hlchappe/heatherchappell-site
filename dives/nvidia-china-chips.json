@@ -1,0 +1,217 @@
+{
+ "slug": "nvidia-china-chips",
+ "date": "2026-11-22",
+ "title": "Nvidia China chip sales: a control failure or a policy split?",
+ "words": 3249,
+ "from": "US SEEKS ANSWERS ON NVIDIA CHIP SALES TO CHINA",
+ "bottomLine": "The Nvidia chip story is less about one company's conduct than about whether U.S. export controls can hold when licensing decisions, interagency turf and presidential trade bargaining pull in different directions. Roughly 880,000 advanced chips were approved for China-tied firms, Megaspeed remains off the Entity List, and the administration is publicly split over who owns the failure. The core test for U.S. interests is whether the new remote-access rule and congressional oversight can restore credible enforcement before the next wave of diversion.",
+ "summary": [
+  {
+   "title": "Licensing approvals outran enforcement capacity",
+   "points": [
+    "BIS approved 879,868 advanced chips across 21 applications to China-tied firms as of May 11, 2026, against 3.4M+ requested (House Foreign Affairs documents; AP cites ~850,000).",
+    "Approved recipients include Tencent (150,000), Alibaba (75,000), Baidu (43,000) and BYD (4,000); the Pentagon has linked several to the Chinese military.",
+    "Approvals measure licenses granted, not chips delivered; actual shipment volumes and end users remain unverified."
+   ],
+   "plain": "The government said yes to a huge pile of chips for Chinese companies. Nobody has yet shown where all of them ended up. Saying yes and checking where things go are two different jobs."
+  },
+  {
+   "title": "Megaspeed exposes an intermediary loophole",
+   "points": [
+    "Megaspeed, Singapore-based, reportedly bought over $4.8B of Nvidia chips since June 2024 (Reuters); Nvidia removed it from its sales list in August 2025.",
+    "CNN shipping records reportedly show ~$800M of controlled chips reached its Malaysian subsidiary after the no-sell listing; the $12B Guardian figure is uncorroborated.",
+    "Bessent says Treasury and other agencies backed an Entity List addition for months; Commerce has not acted, and a criminal probe is reported but unconfirmed."
+   ],
+   "plain": "A middleman company was told to stop buying, but chips still seemed to reach it. Blocking a seller only works if you also stop the people who pass things along."
+  },
+  {
+   "title": "The executive branch is split and publicly fighting",
+   "points": [
+    "Bessent says Treasury wanted Megaspeed listed and that Commerce 'has the pen'; Commerce denies a reported Situation Room confrontation.",
+    "Trump says he has 'not lost confidence' in Lutnick (Nov 21); some advisers reportedly discuss his dismissal (CNN).",
+    "Bessent says the H200 line is drawn and no further curbs on older chips are needed; Kennedy and Cotton frame the approvals as the core failure."
+   ],
+   "plain": "Two top officials are arguing in public about whose job it was to stop a problem. When the people in charge disagree out loud, it is harder to enforce rules."
+  },
+  {
+   "title": "Congress and the courts are the next pressure point",
+   "points": [
+    "Kennedy wants Bessent and Lutnick under oath; no hearing is announced.",
+    "Lutnick reportedly agreed to appear before Senate Banking on Dec 10, unconfirmed by official schedule.",
+    "House chairs seek briefings from Huang, Nvidia counsel Tim Teter and BIS Under Secretary Kessler; Huang reportedly to testify privately Dec 1 (single-source).",
+    "AI OVERWATCH Act passed committee 42-2-1 on Jan 21, 2026 but has no floor vote; the remote-access rule comments close Jan 18, 2027."
+   ],
+   "plain": "Lawmakers want to question the officials under oath and pass stricter laws. Right now those are plans and requests, not final actions."
+  },
+  {
+   "title": "Nvidia's exposure hinges on knowledge, and options for policymakers are narrowing",
+   "points": [
+    "Nvidia says H200 shipments were 'legal and authorized' and have stopped; its 10-Q reports no H200 revenue, so the volume question matters for both legal and market exposure.",
+    "Bessent's 10-day request to Nvidia (set Nov 15) falls around Nov 25; whether answers arrived and what the board's independent review found are unknown.",
+    "Options: Entity List action on Megaspeed, location-verification mandates for chips, licensing rollback, and DOJ inquiry into corporate knowledge (requested by 15 national-security figures on Nov 18)."
+   ],
+   "plain": "The big question is whether the company knew its chips were being misused. The government can respond by blocking the middlemen, requiring chip tracking, or pulling back the licenses. Each option has costs."
+  }
+ ],
+ "context": [
+  {
+   "label": "Right now",
+   "text": "Treasury Secretary Bessent says the administration is seeking answers from Nvidia about advanced chips reaching China, while the Commerce Department defends its licensing record. Nvidia says its H200 shipments were legal and has stopped them."
+  },
+  {
+   "label": "How we got here",
+   "text": "Export controls on advanced chips tightened from 2022 to 2025, with repeated loophole-and-patch cycles. The ZTE case showed that penalties and trade bargaining can become linked, and DOJ smuggling cases recur."
+  },
+  {
+   "label": "The politics",
+   "text": "The debate has bipartisan hawkish pressure, but the White House and industry have historically diluted congressional measures in conference, as with the GAIN AI Act. Trump's support for Lutnick and his trade diplomacy with Beijing shape how aggressively enforcement is pursued."
+  },
+  {
+   "label": "The people",
+   "text": "Bessent wants answers from Nvidia and tougher action on Megaspeed. Lutnick and Commerce defend licensing transparency. Kennedy and Cotton press for accountability and oath-backed testimony. Nvidia wants its shipments defended as legal and its market access restored."
+  },
+  {
+   "label": "Why now, and what's next",
+   "text": "Allegations surfaced in late October and November near U.S. midterms, and the remote-access rule took effect Nov 19. Next dates: Bessent's 10-day window (~Nov 25), a possible Huang House briefing (Dec 1, unconfirmed), Lutnick before Senate Banking (Dec 10, reported), and comments on the remote-access rule (Jan 18, 2027)."
+  },
+  {
+   "label": "The culture and the public",
+   "text": "Chinese state media frames the spy allegations as destabilizing U.S.-China ties and denies them. Public polling on the issue is sparse and sponsor-dependent, so it cannot yet show a settled national mood."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Licensing approvals outran enforcement capacity",
+   "paragraphs": [
+    "The central problem is that approval and delivery are different things, and the public record only measures the first. House Foreign Affairs Committee documents show the Bureau of Industry and Security approved 879,868 advanced chips across 21 license applications for China-tied firms as of May 11, 2026. Nvidia and AMD had sought more than 3.4 million. AP's figure is about 850,000 and other outlets say 800,000 or more; the spread reflects different counting, not a dispute over substance.",
+    "The licensing architecture explains how that pipeline formed. A January 2026 BIS rule, effective January 15, moved H200 and MI325X sales to case-by-case review, after President Trump announced on December 8, 2025 that approved Chinese customers could buy H200-class chips with a 25% fee. The rule added a 50% volume cap relative to U.S. sales and required third-party U.S. testing. Critics, including the Institute for AI Policy and Strategy, argue BIS has no practical way to verify end-use certifications. Commerce replies that the rule imposes \"significant additional national security-related requirements.\" Both positions can be true: the rule added conditions on paper, but the agency's ability to check where chips physically went is the open question.",
+    "Beijing complicated the picture. China reportedly blocked H200 imports at customs in early 2026, so licensed volume and actual sales diverged, and the status of that block is still unclear. Nvidia says it has now stopped H200 shipments, and its FY2026 10-K reports no revenue under the H200 licensing program. That makes approvals a poor proxy for chips in Chinese data centers. Commerce official Jeffrey Kessler described shipments as \"very few\" in July, while Reuters reported roughly 10,000 H200s going to each of several large Chinese internet firms. Those accounts cannot both describe the full picture.",
+    "Timing sharpens the stakes. The Alice Huang intelligence reporting surfaced in late October and November, close to the U.S. midterms, and Chinese state media has argued the story is meant to destabilize bilateral ties. Whatever the motive behind the timing, the policy question is the same: an approved pipeline of this size, with weak verification, leaves room for diversion regardless of who is accused of what."
+   ],
+   "why": "until the government can account for where approved chips were delivered and who used them, neither Congress nor the administration can say whether export controls worked."
+  },
+  {
+   "title": "Megaspeed exposes an intermediary loophole",
+   "paragraphs": [
+    "Megaspeed is a Singapore-based company that reportedly bought more than $4.8 billion of Nvidia chips after June 2024, according to Reuters. Nvidia removed it from its sales list in August 2025. Megaspeed denies wrongdoing and says it cooperated with U.S. inspections. CNN shipping records reportedly show about $800 million of controlled chips reached its Malaysian subsidiary after the no-sell listing. That figure is single-source. A $12 billion figure from the Guardian is an uncorroborated newspaper estimate and should not be cited as fact.",
+    "The case shows where the system is weakest. Export controls are written against sellers and destination countries, but diversion moves through intermediaries and third-country subsidiaries that sit outside the direct chain of licensing. A chip can be legal at the point of sale to a Singapore buyer and still end up in a restricted use. Nvidia's delisting of Megaspeed in 2025 did not stop shipments to its Malaysian affiliate, which suggests that a vendor's private blacklist is no substitute for a government Entity List designation that binds every exporter. The same pattern recurs in the enforcement record, from the Supermicro-linked indictment to the Greg Lui case, which both involved intermediaries rather than the chip designer itself.",
+    "The Megaspeed question is also a test of whether U.S. policy can act on its own findings. Bessent says Treasury, Defense, State and the U.S. Trade Representative backed an Entity List addition for months, and that Commerce, which holds the pen, has not acted. Commerce has not publicly rebutted that account in the sources available, and Sen. Tom Cotton says Lutnick ignored letters and warnings about the company. Reporting ties the delay to trade talks with Beijing, which is the reason critics treat the decision as a signal rather than a routine licensing call. A Trump administration that lists a company by name would show that enforcement against intermediaries is not negotiable. Continued inaction would tell Chinese buyers and third-country brokers that the listing threat is discretionary.",
+    "Entity List action is the most consequential near-term test, though it is not sufficient alone. It would reach a company that has been formally linked to diversion without requiring proof that Nvidia itself knew. It would also test whether the administration can separate enforcement from the Huang affair, which Bessent calls \"kind of a canard\" and which is being pursued in the context of a separate Chinese intelligence allegation that China denies and that the Justice Department has not confirmed. Beijing's response to new controls, which it has already warned against, will be read as evidence of how much the listing matters."
+   ],
+   "why": "a credible Entity List decision on Megaspeed would show whether U.S. controls can reach the intermediaries where diversion actually happens, or whether they stop at the vendor's door."
+  },
+  {
+   "title": "The executive branch is split and publicly fighting",
+   "paragraphs": [
+    "The split between Treasury and Commerce over Nvidia chip exports is best read as a mix of both. The substance is real: Treasury says it pressed for months to put Megaspeed on the Entity List, and Commerce controls that decision. But the public fight also carries a turf dimension, since the two departments are competing over who owns China chip policy. Bessent told CNBC on Nov. 13 that Treasury, Defense, State and the U.S. Trade Representative all backed the listing, adding \"But Commerce has the pen.\" Commerce spokeswoman Kristen Eichamer denied a reported Situation Room confrontation in which Bessent allegedly raised the issue with Commerce Secretary Howard Lutnick, and Bessent declined to confirm it. Each side's account of who was blocking whom is contested, and neither has produced a document settling it.",
+    "Trump's position shapes the outcome more than either department's arguments. He said on Nov. 21 that he has \"not lost confidence\" in Lutnick, and a White House official said he \"maintains complete confidence in the secretary.\" CNN has reported that some advisers have discussed Lutnick's dismissal, so the president's public backing is a deliberate choice rather than a settled fact. Trump has also tied the chip question to his broader trade agenda, and the reported delay on Megaspeed has been linked to talks with Beijing. In practice, a Commerce chief with presidential cover can slow or shape an Entity List decision that Treasury wants, and Bessent cannot force the outcome from his own department. That dynamic leaves the enforcement question dependent on a White House calculation rather than interagency consensus.",
+    "The split sends mixed signals to Beijing. Chinese officials have already rejected the espionage allegations as \"groundless\" and \"pure fabrication,\" and a visibly divided U.S. government gives Beijing room to argue that Washington's controls are negotiable and reversible. Bessent's position that \"the proper chip restrictions are in place\" and that no further curbs on older chips are needed suggests a line that Treasury considers settled, while Sen. John Kennedy and Sen. Tom Cotton argue the approvals themselves were the failure. A Chinese planner reading both messages can reasonably conclude that the administration will tighten controls where it is politically convenient and loosen them where trade talks require it.",
+    "Industry reads the same signals with a different concern: consistency. Nvidia says its H200 shipments were legal and authorized under BIS licenses, and its position is strongest where the rules are clear and applied uniformly. When agencies disagree about what the rules mean, companies face uncertainty about whether approved sales will be treated as compliant later, which raises the cost of doing business in China-linked markets and encourages intermediaries to exploit the gaps. The bureaucratic contest therefore has a direct enforcement effect, because the people most likely to exploit ambiguity are the intermediaries, not the licensed sellers."
+   ],
+   "why": "an export-control regime that depends on which Cabinet officer holds the pen, and on the president's trade bargaining, gives adversaries and smugglers the predictability they need and gives U.S. companies no stable rulebook to follow."
+  },
+  {
+   "title": "Congress and the courts are the next pressure point",
+   "paragraphs": [
+    "Congressional oversight of Nvidia's China sales is loud but has not yet produced binding law. Sen. John Kennedy (R-La.) said on Meet the Press on Nov. 22 that he wants Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick \"in front of a committee, put them under oath,\" but no hearing has been announced. House chairs Brian Mast, John Moolenaar and Scott Crawford have sought briefings from Jensen Huang, Nvidia legal chief Tim Teter and BIS Under Secretary Jeffrey Kessler. The House Foreign Affairs Committee has already released documents showing 879,868 advanced chips were approved for China-tied firms, and that record gives the hearings concrete material to work with.",
+    "Legislation is the harder test. The AI OVERWATCH Act cleared committee 42-2-1 on Jan. 21, 2026, and its transitional language would end licenses for covered chips issued before enactment, which goes straight at the H200 approvals. It has had no floor vote in either chamber. Sen. Banks's office says it was folded into the Fiscal Year 2027 defense authorization bill, but that is a proposed manager's amendment, not an adopted text. The pattern from earlier cycles is instructive: the GAIN AI Act passed the Senate but was dropped in conference after lobbying by the White House and Nvidia. Leadership signals are more bipartisan than before, with Speaker Johnson and Majority Leader Thune backing tighter restrictions on Nov. 12, but the NDAA conference is where industry and the executive branch have historically won. Realistically, some chip-security or remote-access provision has a better chance of surviving than a full license-termination mandate.",
+    "The Dec. 1 and Dec. 10 appearances will matter mainly for what they put on the record. A Huang session before House committees is reported as private and single-sourced, so its public yield may be thin. Lutnick's Dec. 10 Senate Banking appearance is more consequential, because Sen. Tom Cotton says Lutnick ignored letters and warnings about Megaspeed, and Commerce says it has \"a long track record of transparency with Congress.\" Under oath, the factual question of who knew what about Megaspeed and when becomes sharper. But testimony alone rarely produces accountability without follow-on subpoenas, referrals or appropriations language, and none of those is yet on the calendar.",
+    "The courts and enforcement agencies run on a separate clock. Justice and Commerce are reportedly pursuing a criminal probe of Megaspeed, and the SEC is reportedly examining Nvidia's accounting; neither has been confirmed by official release. Fifteen national-security and AI figures asked Attorney General Todd Blanche on Nov. 18 to probe whether Nvidia \"deliberately blinded itself\" to violations. The Justice Department's record on intermediaries is stronger than on the chipmaker itself, and the ZTE precedent shows how penalties can be traded against trade talks, a dynamic critics will raise again. Comments on the new remote-access rule close Jan. 18, 2027, so the rule's enforceability will take shape after the first wave of hearings."
+   ],
+   "why": "unless the December appearances lead to statute or a sustained subpoena fight, the gap between approved licenses and enforced limits will persist through the next NDAA cycle."
+  },
+  {
+   "title": "Nvidia's exposure hinges on knowledge, and options for policymakers are narrowing",
+   "paragraphs": [
+    "Nvidia's legal exposure turns on what the company knew, and the record on that is thin and contested. Nvidia says its H200 shipments were \"legal and authorized\" under BIS licenses and that they have now stopped. Its 10-Q reports no revenue under the H200 licensing program, which cuts against any claim that large volumes already moved. But the diversion allegations rest on third parties: the March 2026 SDNY indictment over roughly $510 million in servers, the Taiwan case against a senior Nvidia manager over 74 B300-equipped servers (untested in court), and the Megaspeed shipping records. Whether those intermediaries' conduct becomes Nvidia's conduct depends on knowledge. Fifteen national-security and AI figures asked Attorney General Blanche on Nov 18 to probe whether Nvidia \"deliberately blinded itself,\" and the board's independent inquiry, opened Nov 8, has produced no findings. Until it reports, the company's defense and the critics' theory cannot be tested.",
+    "The historical record gives policymakers a template and a warning. ZTE's 2017 settlement and 2018 denial order showed Commerce could impose penalties that rival anything in BIS history, but the ban was lifted after Trump's trade talks, so enforcement and bargaining became linked. The same risk applies now. Bessent says the proper chip restrictions are in place and that no further curbs on older chips are needed; Kennedy and Cotton treat the approvals themselves as the failure. The realistic options are narrower than the rhetoric: Entity List action on Megaspeed, which Bessent says other agencies have backed for months and which is the most direct signal available; a DOJ inquiry aimed at corporate knowledge, which would be slow and hard to prove; location-verification mandates, which industry groups already oppose through trade associations; or rollback of H200 licensing, which is hard to reverse once revenue arrangements are in place.",
+    "Each option has a cost. Tighter controls protect the national security case but cut into Nvidia's revenue, which analysts already dispute: Jefferies projects $44–62 billion trimmed from data-center revenue next year, while Nvidia says its Vera Rubin backlog means no top-line impact. Industry groups argue that broad restrictions push Chinese buyers toward domestic chipmakers and hand share to competitors. Hawks answer that the approvals of 879,868 chips to firms including Alibaba, Tencent and Baidu already carry that cost. Public sentiment favors tougher action, though the polling is sponsor-dependent: a Demand Progress/YouGov Blue poll (n=1,000, ±3.7) found 64% want a pause on advanced chip sales pending investigation. Timing matters too, since the allegations surfaced in late October near the midterms, which Chinese state media casts as an effort to destabilize U.S.-China ties. Nvidia's leadership change, with CFO Colette Kress as interim CEO and the board refusing to rehire Huang, adds a governance question that will outlast the news cycle."
+   ],
+   "why": "whether Nvidia's board and regulators can establish what the company knew will determine whether U.S. export controls are enforced against suppliers or only against intermediaries."
+  }
+ ],
+ "watch": [
+  "Whether Nvidia answers Bessent's 10-day request (~Nov 25) and what the board's independent review finds",
+  "Huang's reported private House testimony on Dec 1 (single-source, unconfirmed)",
+  "Lutnick's reported Senate Banking appearance on Dec 10 and whether Bessent testifies under oath",
+  "Any Entity List action on Megaspeed or DOJ charges in the reported criminal probe",
+  "Comment period on the remote-access rule closing Jan 18, 2027, and NDAA handling of the chip-security bills"
+ ],
+ "sources": [
+  "Bessent says no further restrictions are needed for Nvidia chip exports to China",
+  "NVIDIA CORP - Form 10-Q - FY2025",
+  "NVIDIA CORP - Form ARS - FY2026",
+  "NVIDIA CORP - Form 10-K - FY2024",
+  "Sen. Kennedy urges scrutiny of Lutnick over China’s access to Nvidia chips - The Washington Post",
+  "Kennedy urges Biden admin to stop transport of advanced AI microchips to China over security threat - Press releases - U.S. Senator John Kennedy",
+  "The Limits of Chip Export Controls in Meeting the China Challenge",
+  "Balancing the Ledger: Export Controls on U.S. Chip Technology to China",
+  "Collateral Damage: The Domestic Impact of U.S. Semiconductor Export Controls",
+  "Where the Chips Fall: U.S. Export Controls Under the Biden Administration from 2022 to 2024",
+  "U.S. Export Controls and China: Advanced Semiconductors",
+  "Understanding the Biden Administration’s Updated Export Controls",
+  "US accuses 2 men of smuggling Nvidia chips to China amid Trump AI announcement",
+  "NVIDIA CORP - Form 8-K - FY2006",
+  "FINISAR CORP - Form CORRESP - FY2018",
+  "Commerce Department Lifts Ban After ZTE Deposits Final Tranche of $1.4 Billion Penalty",
+  "China's ZTE To Pay $1 Billion Fine To Settle U.S. Trade Case : NPR",
+  "Acacia Communications, Inc. - Form 10-Q - FY2018",
+  "OCLARO, INC. - Form 10-Q - FY2018",
+  "All Info - S.4456 - 119th Congress (2025-2026): AI OVERWATCH Act",
+  "Congress Enters the Chip Wars",
+  "Banks Secures AI OVERWATCH Act in Senate NDAA",
+  "Bessent says we \"need answers\" on role Nvidia played in sending AI chips to China, suggests Alice Huang is \"kind of a canard\" - CBS News",
+  "John Kennedy: If Howard Lutnick is giving AI chips away to China, ‘he needs to stop’",
+  "China warns against new U.S. export controls on chips in wake of Nvidia's Huang scandal - CBS News",
+  "AXT INC - Form 10-Q - FY2026",
+  "Revised Semiconductor License Review Policy for China",
+  "Treasury secretary says no further restrictions needed for Nvidia chip exports - ABC News",
+  "Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster",
+  "Jensen Huang summoned to testify before Congress after resigning as Nvidia CEO",
+  "NVIDIA CORP/CA - Form 10-K405 - FY1999",
+  "NVIDIA CORP - Form DEF 14A - FY2015",
+  "Three men charged with illegally smuggling advanced AI chips into China",
+  "Man Charged With Illegally Shipping Nvidia Chips to China - Bloomberg",
+  "DOJ urged to investigate Nvidia over China chip smuggling",
+  "Jensen Huang scandal"
+ ],
+ "links": [
+  "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+  "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china",
+  "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/nvda-20250427.htm",
+  "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000038/a2026-annualxreportxwebxfi.pdf",
+  "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000029/nvda-20240128.htm",
+  "https://www.washingtonpost.com/politics/2026/11/22/sen-kennedy-urges-scrutiny-lutnick-over-chinas-access-nvidia-chips/",
+  "https://www.kennedy.senate.gov/public/press-releases?ID=DF1337EF-BF45-4B82-A782-A2289FBFD2C4",
+  "https://www.csis.org/analysis/limits-chip-export-controls-meeting-china-challenge",
+  "https://www.csis.org/analysis/balancing-ledger-export-controls-us-chip-technology-china",
+  "https://www.csis.org/analysis/collateral-damage-domestic-impact-us-semiconductor-export-controls",
+  "https://www.csis.org/analysis/where-chips-fall-us-export-controls-under-biden-administration-2022-2024",
+  "https://www.congress.gov/crs-product/R48642",
+  "https://www.csis.org/analysis/understanding-biden-administrations-updated-export-controls",
+  "https://www.axios.com/2025/12/09/us-doj-nvidia-chips-smuggling-china-ai",
+  "https://www.sec.gov/Archives/edgar/data/0001045810/000104581006000032/doj_pressrelease.htm",
+  "https://www.sec.gov/Archives/edgar/data/0001094739/000109473918000068/filename1.htm",
+  "https://www.commerce.gov/news/press-releases/2018/07/commerce-department-lifts-ban-after-zte-deposits-final-tranche-14",
+  "https://www.npr.org/2018/06/07/617849382/chinas-zte-to-pay-1-billion-fine-to-settle-u-s-trade-case",
+  "https://www.sec.gov/Archives/edgar/data/0001651235/000165123518000146/aciaq2201810q.htm",
+  "https://www.sec.gov/Archives/edgar/data/0001110647/000162828018006141/oclr-3x31x2018x10q.htm",
+  "https://www.congress.gov/bill/119th-congress/senate-bill/4456/all-info",
+  "https://www.lawfaremedia.org/article/congress-enters-the-chip-wars",
+  "https://www.banks.senate.gov/news/press-releases/banks-secures-ai-overwatch-act-in-senate-ndaa/",
+  "https://www.cbsnews.com/news/bessent-nvidia-china-ai-chips-alice-huang-canard/",
+  "https://www.nbcnews.com/meet-the-press/video/john-kennedy-if-howard-lutnick-is-giving-ai-chips-away-to-china-he-needs-to-stop-273979973777",
+  "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
+  "https://www.sec.gov/Archives/edgar/data/0001051627/000143774926036542/axti20261101_10q.htm",
+  "https://www.bis.gov/press-release/department-commerce-revises-license-review-policy-semiconductors-exported-china",
+  "https://abcnews.com/Technology/wireStory/treasury-secretary-restrictions-needed-nvidia-chip-exports-china-138332241&gsessionid=YTrCAuiqLLdZU3qv82ffu0We625A8KzenyvsMRSTtoSLXRqvzGH0rw",
+  "https://www.cnn.com/2026/11/13/politics/bessent-lutnick-nvidia-megaspeed-blame",
+  "https://www.cnn.com/2026/11/11/business/live-news/nvidia-jensen-huang-investigation-fallout",
+  "https://www.sec.gov/Archives/edgar/data/0001045810/000092962499000772/0000929624-99-000772.txt",
+  "https://www.sec.gov/Archives/edgar/data/0001045810/000104581015000067/nvda2015proxystatement.htm",
+  "https://www.nbcnews.com/tech/tech-news/three-men-charged-illegally-smuggling-advanced-ai-chips-china-rcna264371",
+  "https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china",
+  "https://www.nbcnews.com/tech/tech-news/doj-urged-investigate-nvidia-china-chip-smuggling-rcna609879",
+  "https://en.wikipedia.org/wiki/Jensen_Huang_spying_scandal"
+ ]
+}

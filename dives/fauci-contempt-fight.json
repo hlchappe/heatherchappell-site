@@ -1,0 +1,220 @@
+{
+ "slug": "fauci-contempt-fight",
+ "date": "2026-11-22",
+ "title": "Fauci, the Wuhan lab-leak question, and a contested contempt fight",
+ "words": 3427,
+ "from": "FBI AND SOME AGENCIES REPORTEDLY ASSESS A WUHAN LAB LEAK; CIA RATED IT LOW CONFIDENCE; THIS IS CONTESTED. FAUCI SAYS …",
+ "bottomLine": "This is less a settled finding about COVID's origin than a fight over definitions and legal process: whether NIH-funded Wuhan work met the government's definition of gain-of-function research, and whether Fauci's categorical denials to Congress were knowingly false. The intelligence picture is split at low-to-moderate confidence, the criminal and contempt routes face serious procedural and pardon obstacles, and the policy consequences (funding bans and oversight rules) are already reshaping U.S. biosecurity research regardless of how the Fauci dispute resolves.",
+ "summary": [
+  {
+   "title": "The gain-of-function definition decides the Fauci dispute",
+   "points": [
+    "Fauci's core defense: NIH-funded Wuhan work was not dangerous gain-of-function under the 2014–2017 operative definition, which he distinguishes from a layman's definition.",
+    "Richard Ebright (Rutgers) says the Wuhan work 'was — unequivocally — gain-of-function research.'",
+    "NIH conceded in October 2021 that EcoHealth's work 'could be characterized as meeting the definition' of gain-of-function.",
+    "Celine Gounder's fact-check: definitional conflict makes Fauci's wording vulnerable but does not by itself establish a knowing lie."
+   ],
+   "plain": "Fauci and his critics are arguing about what the word 'gain-of-function' means. If the word can mean two things, saying 'it never happened' can be wrong in one sense and right in another, which makes proving a lie very hard."
+  },
+  {
+   "title": "Intelligence agencies lean lab but remain low-confidence",
+   "points": [
+    "CIA shifted in January 2025 to low confidence that a research-related origin is more likely, based on existing reporting rather than new evidence.",
+    "FBI holds moderate confidence in a lab incident; DOE's view is low confidence and was not released in full.",
+    "Four other intelligence elements reportedly favor natural exposure at low confidence; China calls a lab leak 'extremely unlikely.'",
+    "Reports of a November 2026 ODNI release and a German BND assessment are unverified or single-sourced."
+   ],
+   "plain": "The spy agencies are not sure. Some lean toward the lab, some toward nature, and most say they cannot be confident either way. Their guesses are not proof."
+  },
+  {
+   "title": "Contempt and prosecution routes face serious legal obstacles",
+   "points": [
+    "Paul's committee voted 8–5 on August 6, 2026 to hold Fauci in contempt, bypassing a full Senate vote; Democrats call the procedure invalid.",
+    "Fauci invoked the Fifth Amendment more than 100 times on July 29, 2026; counts vary by outlet.",
+    "Biden's pardon covers conduct from January 1, 2014 through January 19, 2025; its scope and any Fifth Amendment effect are legally disputed.",
+    "The five-year statute of limitations on the May 2021 testimony has reportedly run; DOJ has not announced charges and says it is 'reviewing' the referral."
+   ],
+   "plain": "Congress can accuse someone of lying or refusing to answer, but turning that into a criminal case needs a prosecutor, a judge, and rules that hold up. Right now several of those steps are stuck or unclear."
+  },
+  {
+   "title": "Biosecurity policy is changing regardless of the verdict",
+   "points": [
+    "EO 14292 (May 5, 2025) halted federally funded dangerous gain-of-function research and ordered replacement policy.",
+    "The July 2026 OSTP policy prohibits federal funding for DGOF and 'international research of concern'; agencies had 120 days to issue guidance, with implementation reported for mid-November 2026.",
+    "Critics including the American Society for Microbiology say the definitions are vague and could stop outbreak-response work.",
+    "Sen. Emilia Sykes alleges dozens of grants were terminated; no independent count has been verified."
+   ],
+   "plain": "Whatever happens to Fauci, the government has already made new rules about risky virus research. Scientists worry the rules are too broad and could slow down work needed to fight the next outbreak."
+  },
+  {
+   "title": "Implications for U.S. interests and realistic options",
+   "points": [
+    "Congressional contempt is unlikely to produce a conviction; a criminal case requires a grand jury and faces a probable Fifth Amendment motion to dismiss.",
+    "Biosecurity rules will likely tighten for federally funded labs in the near term, with uncertain effects on outbreak readiness.",
+    "Policymakers can clarify the DGOF definition, establish the promised independent review body, and fund transparent intelligence declassification.",
+    "A durable origin answer requires Chinese data access that is unlikely to come, so the realistic goal is process reform rather than final resolution."
+   ],
+   "plain": "The useful question for leaders is not who was right about the past, but what rules protect science and public safety from here. Clear definitions, fair procedures and honest uncertainty are what they can actually control."
+  }
+ ],
+ "context": [
+  {
+   "label": "Right now",
+   "text": "Fauci invoked the Fifth Amendment repeatedly at a July 29, 2026 Senate hearing, and a committee voted to hold him in contempt on August 6. DOJ says it is reviewing the referral, and no charges have been announced."
+  },
+  {
+   "label": "How we got here",
+   "text": "The 2014 federal pause on gain-of-function funding was followed by the 2017 P3CO framework, which lifted it at HHS. The 2025 executive order and 2026 policy later reimposed tighter limits, but they post-date the Wuhan grants at issue."
+  },
+  {
+   "label": "The politics",
+   "text": "Rand Paul leads the Republican push to prosecute Fauci; Democrats call the process a politicized vendetta and dispute the procedure. Public opinion is sharply partisan, and the intelligence split is cited by both sides."
+  },
+  {
+   "label": "The people",
+   "text": "Fauci wants to end the matter and defend his testimony as accurate under the official definition. Paul wants criminal accountability and a finding that Fauci lied. Justice officials must decide whether to act, and Trump has signaled deference to the pardon while attacking the autopen issue."
+  },
+  {
+   "label": "Why now, and what's next",
+   "text": "The July hearing and August contempt vote set the current phase, with DOJ review still open. Implementation of the 2026 biosecurity policy is due around mid-November 2026, and an NIH and journal dispute over the Proximal Origin paper is pending."
+  },
+  {
+   "label": "The culture and the public",
+   "text": "Origin beliefs track partisan identity closely, and Fauci has become a symbol for many on both sides. Scientists worry that the fight is chilling research and eroding trust in public health institutions."
+  }
+ ],
+ "sections": [
+  {
+   "title": "The gain-of-function definition decides the Fauci dispute",
+   "paragraphs": [
+    "The 2014 pause set the baseline. In 2014 the Obama administration suspended federal funding for gain-of-function work on influenza, MERS and SARS, following a deliberative process that culminated in Office of Science and Technology Policy (OSTP) guidance. That guidance was issued in January 2017 as the P3CO framework, and HHS released its own P3CO framework in December 2017, which lifted the funding pause at HHS. P3CO was an HHS funding-review process reaching HHS-supported research, not all federally funded work. Fauci told Paul in July 2021 that the definition was formalized by OSTP that January after more than two years of development.",
+    "The grants at issue were reviewed under this standard. Fauci's defense rests on the 2014–2017 \"operative definition,\" which he distinguishes from a \"layman's definition,\" and he has said the Wuhan Institute of Virology work was \"judged by qualified staff up and down the chain as not being gain-of-function.\" Critics answer that the 2014 definition covers research that \"increase[s] the ability of infectious agents to cause disease by enhancing its pathogenicity or by increasing its transmissibility,\" and Richard Ebright of Rutgers says the work \"was — unequivocally — gain-of-function research.\" The later standards do not settle the question. Executive Order 14292 (May 5, 2025) and the July 2026 OSTP policy define dangerous gain-of-function research differently and post-date the grants, so they cannot retroactively decide whether the 2014–2017 grants qualified. The status of the grants therefore turns on which standard applies, and that is the question the record does not answer cleanly.",
+    "That ambiguity cuts both ways. For Paul, it means that a categorical denial to Congress of any gain-of-function funding is open to challenge, and NIH's own October 2021 concession that EcoHealth's work \"could be characterized as meeting the definition\" undercuts a flat \"never.\" For Fauci, the same ambiguity is his strongest shield. Celine Gounder's fact-check concluded that the definitional conflict makes his wording vulnerable but does not by itself establish that he knowingly lied, and rated the lying charge unsupported on this record. Neither side can prove its case on the definition alone."
+   ],
+   "why": "the question of whether the grants were covered is a question about which rule applied and when, and until that is settled in writing, both the accusation and the defense rest on contested ground."
+  },
+  {
+   "title": "Intelligence agencies lean lab but remain low-confidence",
+   "paragraphs": [
+    "The CIA's public position is the clearest and the most often misread. In January 2025, under Director John Ratcliffe, the agency said it assessed \"with low confidence\" that a research-related origin of the pandemic was more likely than a natural one. The judgment was reached under Biden's CIA, and by the agency's own account rested on existing reporting, not new evidence. The FBI has held a moderate-confidence view favoring a lab incident in Wuhan since at least 2021; former Director Christopher Wray said in 2023 that the bureau \"has for quite some time now assessed\" a potential lab incident. The Department of Energy also leans lab at low confidence, but its view was never released in full. On the other side, reporting says four intelligence elements lean toward natural exposure, also at low confidence. The National Intelligence Council's 2023 review found the community unable to determine with high confidence whether the pandemic began in a lab or in the wild.",
+    "What the public record contains is assessments, not the evidence behind them. Underlying intelligence, including the DOE analysis and the full reasoning behind the CIA and FBI calls, remains classified or redacted. A May 2020 Lawrence Livermore memo was declassified in June 2026 with large redactions, and some reporting on a November 2026 ODNI release comes only from secondary outlets I could not check against the primary document. A reported German BND assessment has never been confirmed by Berlin. Readers should treat every one of these as a judgment about a body of information they cannot inspect.",
+    "The politics compound the problem. Ratcliffe is a long-time lab-leak advocate, and the Senate HSGAC chair, Rand Paul, has pressed for the release of intelligence that he says shows Fauci steered analysis. Critics answer that the 2026 declassifications added no substantial new evidence. China's foreign ministry calls a lab leak \"extremely unlikely\" and says the CIA judgment \"throws dirty water on China.\" The WHO's SAGO panel also called the intelligence claims speculative. Each camp can cite the same low-confidence labels as proof of its position.",
+    "So the honest reading is that low confidence is the finding. Agencies lean lab, but not firmly enough to close the question, and the public cannot test their reasoning. Intelligence can shape the debate, but it cannot deliver a verdict on origin, and officials should avoid presenting it as one."
+   ],
+   "why": "Treating a low-confidence lean as settled fact would give both sides a false basis for policy and prosecution, and would leave the country without a reliable answer on how the pandemic began."
+  },
+  {
+   "title": "Contempt and prosecution routes face serious legal obstacles",
+   "paragraphs": [
+    "Contempt of Congress is a misdemeanor under federal law, carrying up to one year in prison and a fine of up to $100,000. The usual path is for a chamber to vote on a contempt resolution and certify it to the U.S. Attorney for the District of Columbia, who decides whether to seek an indictment from a grand jury. The Senate committee led by Rand Paul voted 8 to 5 on August 6, 2026 to hold Fauci in contempt, but it did so without a full Senate vote. Democrats, including ranking member Gary Peters, argue that the referral lacks legal force without floor action and warn of a damaging precedent. Paul has pointed to unspecified precedent and has not ruled out a later floor vote. The resolution directs Vice President JD Vance, as president of the Senate, to certify the report, and the Justice Department has said only that it is \"reviewing it, and will work with the Senate accordingly.\" Whether a committee-only referral can carry legal weight is unsettled, and no court has tested it.",
+    "The Fifth Amendment and the pardon are the central legal problem. Fauci invoked the privilege more than 100 times at the July 29, 2026 hearing; the count varies by outlet. Biden's preemptive pardon covers conduct from January 1, 2014 through January 19, 2025. Republicans argue that a pardon removes any real risk of federal prosecution, so the privilege falls away. Democrats and Fauci's counsel, David Schertler, reply that the pardon does not reach state charges or any new federal offense, and that political hostility to Fauci keeps a real risk alive. UNC law professor Michael Gerhardt has argued that a pardoned witness can still decline to answer. Former prosecutor Barbara McQuade has said Fauci would have a strong motion to dismiss on Fifth Amendment grounds if charged. The 1896 Supreme Court decision in Brown v. Walker, which Sen. Josh Hawley cited, is read by critics as less conclusive than Republicans suggest. President Trump has said he respects the Biden pardon, and his former attorney general, Pam Bondi, did not act on Paul's 2025 request to examine it.",
+    "The limitations question cuts against a quick prosecution. Fauci's central exposure is his May 11, 2021 Senate testimony that NIH \"has not ever and does not now fund gain-of-function research\" at the Wuhan Institute of Virology. The five-year federal statute of limitations on that statement has reportedly run, which pushes any charge toward other testimony or conduct, and toward a theory the pardon may not cover. A 2024 exposure, involving personal email use, is reported to run to 2029, but critics point out it is a separate matter. Any charge on later statements would still face the falsity problem: a materially false statement requires more than a contested definition, and the Fauci dispute turns largely on which definition governed, a question Celine Gounder's fact-check treated as insufficient on its own to establish a knowing lie. The Justice Department is also now led by acting Attorney General Todd Blanche, following Bondi's removal in April, a change whose effect on the case is unclear.",
+    "Taken together, a charge is possible but faces steep hurdles: a grand jury, a likely Fifth Amendment motion to dismiss, a pardon that has never been tested in court, an expired limitations period on the central statement, and a referral whose procedural validity is disputed. The Morens guilty plea shows that Justice is willing to pursue the wider NIH circle, but Fauci was not charged in that case. The realistic near-term outcome is continued congressional pressure and a legal record built slowly, not a verdict."
+   ],
+   "why": "Whatever DOJ decides, the contempt route as used here sets a procedural precedent that will shape how future committees compel and punish witnesses."
+  },
+  {
+   "title": "Biosecurity policy is changing regardless of the verdict",
+   "paragraphs": [
+    "Biosecurity policy is changing whatever happens to Fauci. The concrete actions are already in place. Executive Order 14292, signed May 5, 2025, halted federally funded \"dangerous gain-of-function\" (DGOF) research, rescinded the 2024 DURC/PEPP policy, and ordered a replacement within 120 days. NIH implemented the halt through notices NOT-OD-25-112 (May 7, 2025) and NOT-OD-25-127 (June 18, 2025), which suspended and terminated awards. The July 2026 Office of Science and Technology Policy framework, approved July 20, 2026 as the United States Government Policy for Stopping High-Risk Life Sciences Research, prohibits federal funding for DGOF and \"international research of concern.\" HHS's July 28 announcement adds that potential DGOF may be funded only after review by an independent third-party body that, per Celine Gounder, does not yet exist. Agencies were given 120 days for implementation guidance, with rollout reported for mid-November 2026.",
+    "The definitions are where the fight now sits, and they are vague. The 2025 order defines DGOF as enhancing pathogenicity or transmissibility, and critics in mSphere (2025) call those terms too loose to apply consistently. The American Society for Microbiology says the policy \"broadly defines several categories of research that, if shut down, will impede our ability\" to respond to outbreaks. The policy's scope is also narrow in one direction: it covers federal funding only, so privately funded work is untouched. Whoever writes the replacement guidance will decide which labs, universities and firms face cutoffs, which makes the definitional question an economic one as well as a scientific one.",
+    "The termination claims are weaker than they sound. Rep. Emilia Sykes (D-OH), at a September 2026 hearing, said dozens of grants, including tuberculosis research, were cut in summer 2025 over \"Gain of Function\" concerns, and she said the order had a chilling effect on biotechnology research. The administration says no taxpayer dollars support DGOF work. No independent count of terminated grants or dollar losses has been verified, so Sykes's figures should be treated as unaudited on both scale and attribution.",
+    "The preparedness risk is the cost that gets less attention. Infection Control Today reports experts arguing the restrictions could weaken the country's ability to prepare for future outbreaks, and researchers writing in PMC describe a \"policy vacuum\" in which labs, biosafety professionals and institutions lack clear rules. The 2025 Congressional Research Service report acknowledges that tighter biosecurity carries a commensurate cost. The 2011–2012 H5N1 controversy, which produced the 2013 HHS framework and the 2014 pause, shows the pattern: rules written in response to one contested episode tend to outlast the episode and shape research for a decade. Polling underlines the public side of this, with a 2023 Economist/YouGov survey finding 66% of Americans believe a lab origin is at least probably true, though that figure predates the current dispute."
+   ],
+   "why": "The Fauci dispute may end without a conviction, but the funding rules it helped drive will govern U.S. biology research for years, so the definitions and review body are the parts of this story worth watching."
+  },
+  {
+   "title": "Implications for U.S. interests and realistic options",
+   "paragraphs": [
+    "The most useful thing policymakers can do now is fix the definitions, because the Fauci dispute and the funding rules both turn on the same ambiguous word. The 2014 pause, the 2017 P3CO framework, EO 14292 (May 5, 2025) and the July 2026 OSTP policy each define dangerous gain-of-function differently enough that the same Wuhan grant can be \"covered\" or \"not covered\" depending on which standard is applied. A clear, published definition, tested against a list of past projects, would reduce the room for the categorical denials that now drive contempt fights. The July 28, 2026 HHS policy promised an Independent Third-Party Review Body for \"potential DGOF\" work; by Gounder's account that body does not yet exist. Standing it up with published criteria and a public record of its decisions is the single step most likely to reduce both over-restriction and evasion.",
+    "Intelligence transparency is the second lever, and it cuts in both directions. The CIA's January 2025 judgment is low confidence and rests on existing reporting, not new evidence; the FBI's moderate confidence and DOE's low-confidence view were never released in full. Declassifying the analytic basis, with redactions explained rather than hidden, would let the public weigh the reasoning instead of the verdict. The partial releases so far, including the Lawrence Livermore memo with large redactions and the unverified secondary reports on ODNI material, have produced more argument than clarity. Policymakers should resist treating any agency's low-confidence view as a verdict, and should resist the political incentive to present it as one.",
+    "Oversight structures and contempt tools carry their own risks. Paul's bypass of the full Senate, and Democrats' charge that it sets a \"damaging precedent,\" show how quickly a process fight can overwhelm the underlying question. Contempt of Congress is a misdemeanor, and any prosecution would face a probable Fifth Amendment motion to dismiss given the pardon's disputed reach. Using these tools aggressively risks chilling scientists who must testify, while producing little that a court will convert into a conviction. The more durable use of oversight is hearings that establish the record on definitions and funding decisions, not criminal referrals driven by the calendar.",
+    "The main cost to avoid is overclaiming on both sides. Advocates who call the Wuhan work unambiguous gain-of-function, or call the lab-leak hypothesis proven, get ahead of evidence that remains classified or unreleased. Defenders who insist the NIH never funded anything of concern ignore NIH's own 2021 concession that EcoHealth's work could be characterized as meeting the definition. Institutional credibility erodes whenever a confident claim collapses, and public-health agencies already face polling that shows deep partisan splits on origins. Any policy built on a contested origin finding, rather than on clear definitions, is likely to be reversed when the next administration disagrees."
+   ],
+   "why": "Whatever the outcome of the Fauci dispute, the definitions and oversight rules being written now will govern which outbreak-relevant research gets funded for years, so clarity on those terms matters more to U.S. preparedness than a verdict on the past."
+  }
+ ],
+ "watch": [
+  "DOJ decision on whether to open or decline any criminal inquiry into the contempt referral (no date announced).",
+  "Whether the full Senate takes any vote on the contempt resolution, and whether Vance certifies the referral.",
+  "Mid-November 2026 agency implementation of the OSTP biosecurity policy and its definitional guidance.",
+  "Journal and NIH response to the Proximal Origin letter, with a 30-day window reported from late November.",
+  "Any court test of the Biden pardon's scope or of the Fifth Amendment question, which would arise only if charges are filed."
+ ],
+ "sources": [
+  "What Fauci has said about COVID origins and gain-of-function research in his spat with Rand Paul - CBS News",
+  "Hearing Wrap Up: Dr. Fauci Held Publicly Accountable by Select Subcommittee - United States House Committee on Oversight and Government Reform",
+  "Sen. Paul says there's a \"very real chance\" Fauci could be prosecuted after taking the 5th in Senate hearing - CBS News",
+  "Joni Ernst: Answers and Accountability.",
+  "AN EVALUATION OF THE EVIDENCE SURROUNDING ECOHEALTH",
+  "Congress",
+  "Senate committee votes to hold Fauci in contempt of Congress, seeking to bypass floor vote with DOJ referral - CBS News",
+  "What happens now that Senate panel voted to hold Fauci in contempt",
+  "Senate committee votes to hold Dr. Anthony Fauci in contempt of Congress",
+  "WATCH: Senate panel votes to hold Fauci in contempt after he invoked 5th Amendment",
+  "Further evidence for “gain-of-function” mechanism of DFNA5 related hearing loss",
+  "Fauci-Part-1-Transcript.pdf",
+  "Statement in Support of: “Virology under the Microscope—a Call for Rational Discourse”",
+  "Oversight of Gain-of-Function Research with Pathogens: Issues for Congress",
+  "Global Pandemics: Gain-of-Function Research of Concern",
+  "Dual Use Research of Concern",
+  "A possible turning point for research governance in the life sciences",
+  "CIA says ‘more likely’ COVID-19 originated from a lab",
+  "CIA shifts assessment on Covid origins, saying lab leak likely caused outbreak",
+  "EXECUTIVE ORDER 14292 - - - - - - -",
+  "Presidential Documents 19611",
+  "Implementation Update: Improving the Safety and Security of Biological Research",
+  "oversight of the life sciences",
+  "Notice: Gain of Function Research Reporting for USDA",
+  "United States Government Policy for Stopping High-Risk Life Sciences Research",
+  "Fauci invokes 5th Amendment right during GOP-led hearing on COVID origins",
+  "DECLASSIFIED BY DNI GABBARD ON 18 JUNE 2026",
+  "Recent Executive Actions Related to Gain-of-Function Research and Laboratory Biosafety",
+  "Trump Administration Releases New Government-Wide Policy to End Dangerous High-Risk Research",
+  "Why was Fauci held in contempt for pleading the 5th, and what happens next?",
+  "Fox News Op-Ed: Sen. Rand Paul, MD: \"NIH lied and continues to lie about 'gain of function' research and COVID\" - Senator Rand Paul",
+  "WATCH: Fauci invokes 5th Amendment in GOP-led hearing about COVID-19 origins",
+  "Fact Check Team: Fauci returns to Congress as debate over COVID-19 origins resurfaces",
+  "FBI director says China laboratory leak was likely COVID source",
+  "FBI Director Wray acknowledges bureau assessment that Covid-19 likely resulted from lab incident",
+  "On Fox News, FBI's Wray repeats COVID lab leak claim : NPR"
+ ],
+ "links": [
+  "https://www.cbsnews.com/news/anthony-fauci-rand-paul-contempt-covid-origins-lab-leak-theory-gain-of-function/",
+  "https://oversight.house.gov/release/hearing-wrap-up-dr-fauci-held-publicly-accountable-by-select-subcommittee/",
+  "https://www.cbsnews.com/news/rand-paul-anthony-fauci-very-real-chance-prosecuted-covid-senate-hearing-5th/",
+  "https://www.ernst.senate.gov/news/columns/joni-ernst-answers-and-accountability",
+  "https://oversight.house.gov/wp-content/uploads/2024/04/2024.05.01-SSCP-Report_FINAL.pdf",
+  "https://www.congress.gov/118/bills/sres718/BILLS-118sres718is.htm",
+  "https://www.cbsnews.com/news/anthony-fauci-senate-committee-contempt-of-congress-rand-paul/",
+  "https://www.cnn.com/2026/08/06/politics/senate-vote-fauci-contempt-doj",
+  "https://www.cnn.com/2026/08/06/politics/live-news/fauci-contempt-hearing",
+  "https://www.pbs.org/newshour/politics/watch-live-sen-paul-holds-contempt-vote-after-fauci-invokes-5th-amendment",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5976723/",
+  "https://oversight.house.gov/wp-content/uploads/2024/05/Fauci-Part-1-Transcript.pdf",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10286701/",
+  "https://www.congress.gov/crs-product/R47114",
+  "https://www.congress.gov/crs-product/IF12021",
+  "https://ipo.rutgers.edu/rehs/bio-dual-use",
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12379582/",
+  "https://www.aljazeera.com/news/2025/1/27/cia-says-more-likely-covid-19-escaped-from-a-lab",
+  "https://www.nbcnews.com/politics/politics-news/cia-shifts-assessment-covid-origins-saying-lab-leak-likely-caused-outb-rcna189284",
+  "https://public-inspection.federalregister.gov/2025-08266.pdf?1746630916=",
+  "https://www.whitehouse.gov/wp-content/uploads/2025/05/eo-14292.pdf",
+  "https://www.aphis.usda.gov/news/program-update/implementation-update-improving-safety-security-biological-research",
+  "https://www.congress.gov/crs_external_products/IN/HTML/IN12554.html",
+  "https://nifa.usda.gov/about-nifa/announcements/notice-gain-function-research-reporting-usda?amp=&amp=&amp=&amp=",
+  "https://www.aspr.gov/s3/high-risk-life-sciences-research-oversight/usg-policy-for-stopping-high-risk-life-sciences-research",
+  "https://www.pbs.org/newshour/show/fauci-invokes-5th-amendment-right-during-gop-led-hearing-on-covid-origins",
+  "https://archive.dni.gov/files/documents/Newsroom/Reports%20and%20Pubs/COVID-19_Release_DNI_Gabbard_6-18_Part-1.pdf",
+  "https://www.congress.gov/crs-product/IN12554",
+  "https://www.hhs.gov/press-room/stopping-high-risk-life-sciences-research.html",
+  "https://www.pbs.org/newshour/politics/why-was-fauci-held-in-contempt-for-pleading-the-5th-and-what-happens-next",
+  "https://www.paul.senate.gov/op_eds/fox-news-op-ed-sen-rand-paul-md-nih-lied-and-continues-lie-about-gain-function-research-and-covid/",
+  "https://www.pbs.org/newshour/politics/watch-live-senate-panel-questions-fauci-on-diary-entries-about-covid-19-origins",
+  "https://abcnews4.com/news/nation-world/fact-check-team-fauci-returns-to-congress-as-debate-over-covid-19-origins-resurfaces-lawmakers-rand-paul-senator-capitol-hill-social-media-lab-leak?teaserSource=trending",
+  "https://www.aljazeera.com/news/2023/3/1/fbi-director-says-china-lab-leak-likely-source-of-covid-pandemic",
+  "https://www.cnn.com/2023/02/28/politics/wray-fbi-covid-origins-lab-china/index.html",
+  "https://www.npr.org/2023/02/28/1160214557/fbi-covid-origins-investigation-wray"
+ ]
+}
