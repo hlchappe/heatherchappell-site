@@ -923,6 +923,7 @@ Heather decided on Nov 24, 2026 that known errors are posted, and then that Vol.
 - The 64 Vol. 1 corrections were added on Nov 24, 2026, under the heading "Corrections to the First Printing" at the end of a new copy of that doc. The original was left as it was.
 - No corrections page and no corrections link go on heatherchappell.com.
 - A confirmed error is added to the same section, with the date, as soon as we have confirmed it. There is no fixed number of days (Heather, Nov 24: "No number").
+- The date on each entry is the day it was added.
 - Who can open the sources doc is not settled (DEC-2026-022, open). Until Heather decides, nobody changes its sharing or calls the corrections public.
 - Nobody but Heather changes who can see a sources doc or marks corrections published (see page 05, Never-Break Rules and Legal, rule 10).
 
