@@ -327,7 +327,7 @@ table{display:block; overflow-x:auto}
    - the options and what each changes
    - your proposed answer</li>
 </ol>
-<p>Until the question is ruled, use the lower rating and keep working. The Research Lead batches open rows into one decision-needed page at Heather's next gate. The answer goes into the rulings file, the Rulings Index and the Decision Register the same day. If it changes a role card or an AI file, that file is updated too.</p>
+<p>Until the question is ruled, use the lower rating and keep working. The Research Lead batches open rows into one decision-needed page at Heather's next gate. Questions reach Heather only through her decisions channel, each with 2 to 4 options, a pick, examples, a deadline and a priority (page 09, How a question reaches Heather). The answer goes into the rulings file, the Rulings Index and the Decision Register the same day. If it changes a role card or an AI file, that file is updated too.</p>
 <p>Vendors never message Heather directly about research. Agents never ask Heather a question the Decision Register already answers.</p>
 <h3>The five decisions of Nov 24, 2026</h3>
 <p>Heather made these five calls on Nov 24, 2026. They override any older doc.</p>
@@ -3222,7 +3222,7 @@ RESULT
 Sign-off: [name or agent + model], [date]
 </code></pre>
 <h3>T17 · Decision-needed page</h3>
-<p><strong>Used at:</strong> any gate, when something needs Heather. The research lead batches open questions into one page per gate.
+<p><strong>Used at:</strong> any gate, when something needs Heather. The research lead batches open questions into one page per gate, and the coordinator sends them to Heather's decisions channel (page 09).
 <strong>Filled by:</strong> Research lead. Search the Decision Register, the rulings file and the Must NOT list first. If the answer is there, cite its ID and do not ask.</p>
 <pre><code>RP-### Topic – Decision Needed – [gate] – v0.1 – DRAFT – YYYY-MM-DD
 
@@ -3234,14 +3234,20 @@ Decision Register IDs checked: · Rulings checked: · FAQ checked:
 
 CONTEXT (5 lines at most)
 
-OPTIONS
-| Option | What it changes (thesis, title word, locked doc, rating) | Risk | Cost (searches, time) |
-|---|---|---|---|
-| A | | | |
-| B | | | |
+OPTIONS (2 to 4)
+| Option | What it changes (thesis, title word, locked doc, rating) | Example in print or on screen | Risk | Cost (searches, time) |
+|---|---|---|---|---|
+| A | | | | |
+| B | | | | |
 
-RECOMMENDATION
+PICK
 [Option and one-line reason.]
+
+DEADLINE AND PRIORITY
+Answer needed by: YYYY-MM-DD · If no answer: [lower rating or proposed default] · Priority: High / Medium / Low
+
+ROUTE
+Sent to Heather's decisions channel by the coordinator. Never asked in a thread, comment or message.
 
 MEANWHILE
 Work continues using the lower level for any disputed fact.
@@ -3587,7 +3593,7 @@ Lead sign-off: · R9 passed: (date)
 <li>Never mark anything APPROVED, LOCKED or Published. Only Heather does that.</li>
 <li>Agents can't launch agents. The research lead launches every agent directly.</li>
 </ul>
-<p><strong>Asking a question.</strong> Look in the topic's rulings file and Must NOT list, then the Decision Register, then the FAQ on page 12. Still open? Add a row to the open-questions section of the research log with your proposed answer, use the lower level meanwhile, and keep working. The research lead batches questions for Heather at the next gate. Vendors never message Heather directly about research.</p>
+<p><strong>Asking a question.</strong> Look in the topic's rulings file and Must NOT list, then the Decision Register, then the FAQ on page 12. Still open? Add a row to the open-questions section of the research log with your proposed answer, use the lower level meanwhile, and keep working. The research lead batches questions for Heather at the next gate, and they reach her only through her decisions channel (page 09). Vendors never message Heather directly about research.</p>
 <h3>Roles at a glance</h3>
 <table>
 <thead>
@@ -3891,7 +3897,7 @@ Lead sign-off: · R9 passed: (date)
 - [ ] Every conflict is logged; the lower level is used until a ruling closes it.
 - [ ] Only wording-level conflicts were ruled alone; the rest went to Heather.
 - [ ] Every skipped step has a waiver row.
-- [ ] Questions for Heather are batched on one decision-needed page per gate.
+- [ ] Questions for Heather are batched on one decision-needed page per gate, each with 2 to 4 options, a pick, examples, a deadline and a priority, and sent through her decisions channel.
 - [ ] The research log has a handoff note for this session.</p>
 <p><strong>Approved example (illustration).</strong> Two files give different counts for a list of members. The lead logs a conflict row, uses the lower count in all drafts with "by one count", and records a wording-level ruling. A second conflict would change a thesis point, so it goes on the gate's decision-needed page with two options side by side and a recommendation.</p>
 <p><strong>Rejected example (illustration).</strong> The lead finds three checker items left Unchecked, checks them alone, marks them Confirmed and passes R7. Why it fails: the lead researched the topic, so the check is not independent; the items should be hedged, cut or held, or sent to a fresh checker.</p>
@@ -4169,6 +4175,23 @@ Lead sign-off: · R9 passed: (date)
 </table>
 <h4>When to search it</h4>
 <p>Search the register before you ask Heather anything. Search by keyword and by scope. If a row answers your question, follow it and cite its ID. If a row is Open (default proposed), work to the default and say so in your report.</p>
+<h4>How a question reaches Heather</h4>
+<p>Heather takes research decisions in one place: her decisions channel. Nobody asks her in a project thread, a document comment or a message. The route is:</p>
+<ol>
+<li>The research lead writes the question in the package's report or on the gate's decision-needed page (page 06, template T17).</li>
+<li>The coordinator sends it to Heather's decisions channel.</li>
+<li>Heather answers there. The coordinator passes her answer back to the lead, who logs it in this register the same day, with a link to where she answered.</li>
+</ol>
+<p>Every question sent this way has:</p>
+<ul>
+<li><strong>One question</strong> she can answer in a word or a pick.</li>
+<li><strong>2 to 4 options,</strong> each with what it changes.</li>
+<li><strong>Your pick</strong> and the one reason for it.</li>
+<li><strong>An example</strong> of what each option looks like in print or on screen.</li>
+<li><strong>A deadline:</strong> the date the work needs the answer, and what happens if none comes (usually: keep working on the lower rating or the proposed default).</li>
+<li><strong>A priority:</strong> High (blocks print, air or a gate this week), Medium (blocks the next gate) or Low (can wait for the next batch).</li>
+</ul>
+<p>Until she answers, work continues on the lower rating or the proposed default.</p>
 <h4>How a decision gets logged</h4>
 <ol>
 <li>Whoever is in the room when Heather decides (the research lead, an agent or the librarian) adds the row the same day.</li>
@@ -5086,7 +5109,7 @@ Lead sign-off: · R9 passed: (date)
 <h4>Can an AI be the checker?</h4>
 <p>Yes, if it is a fresh agent in a new session that did no research on the topic and wrote nothing in the piece. A human checker is added for covers and Red-tier items once there is budget. (Proposed default DEC-2026-007, not yet approved.) An outside AI (Track B) is never the last check on anything.</p>
 <h4>Who do I ask?</h4>
-<p>Nobody, until you have searched: the topic's rulings and Must NOT list, then the Rulings Index and Decision Register (page 09), then this FAQ. Still open? Add a row to the question file with your proposed answer and keep working at the lower rating. The research lead batches questions for Heather's next gate. Vendors never message Heather directly about research.</p>
+<p>Nobody, until you have searched: the topic's rulings and Must NOT list, then the Rulings Index and Decision Register (page 09), then this FAQ. Still open? Add a row to the question file with your proposed answer and keep working at the lower rating. The research lead batches questions for Heather's next gate and sends them through her decisions channel (page 09). Vendors never message Heather directly about research.</p>
 <h4>Can I use this image?</h4>
 <p>Only if you opened and read its licence yourself. Allowed: public domain, CC0, CC BY, CC BY-SA, US government works. Not allowed: non-commercial, no-derivatives, any licence you didn't open, or a blank source line. A photo credited to an agency but posted under CC by someone else needs a second check. A living person with no free photo gets a name card. Record every image in the credits file. Full rules are on page 05 (Never-Break Rules and Legal).</p>
 <h4>The magazine and the video disagree. Which one is right?</h4>
@@ -5158,12 +5181,18 @@ Lead sign-off: · R9 passed: (date)
 <td>First draft of pages 00 to 13, the web portal and the AI files, built from the proposed plan v0.2 and Heather's five decisions of Nov 24</td>
 <td>Not yet approved</td>
 </tr>
+<tr>
+<td>v0.1</td>
+<td>2026-11-24</td>
+<td>Added the decision route: questions reach Heather only through her decisions channel, with 2 to 4 options, a pick, examples, a deadline and a priority (pages 00, 06, 07, 09 and the AI files)</td>
+<td>Not yet approved</td>
+</tr>
 </tbody>
 </table>
 </section><section id="ai-files" class="sec"><p class="eyebrow">For Claude, ChatGPT, Gemini and other writing agents</p><h2>AI files</h2>
 <p>Paste the short prompt into the instructions box of a Claude Project, a custom GPT or a Gemini Gem. Upload the full guide as a knowledge file in the same place. Both are built from the same Drive masters as this page and carry the same version line.</p>
 <div class="aigrid">
-<div class="aicard"><h3>Short system prompt</h3><p class="meta">SIDE-EYE-RESEARCH-SYSTEM-PROMPT.txt · 549 words · 3,305 characters</p>
+<div class="aicard"><h3>Short system prompt</h3><p class="meta">SIDE-EYE-RESEARCH-SYSTEM-PROMPT.txt · 571 words · 3,435 characters</p>
 <p>Goes in the instructions box. Works on its own.</p><button type="button" class="copy" data-src="t-prompt">Copy prompt</button><span class="done" role="status"></span>
 <p><a href="ai/SIDE-EYE-RESEARCH-SYSTEM-PROMPT.txt" download>Download .txt</a></p>
 <details><summary>Show the text</summary><pre id="t-prompt">You are doing research for SIDE EYE, a history magazine and YouTube show by Heather and Edwin (&quot;History, allegedly.&quot;). Follow the SIDE EYE Research Guidelines v0.1 (SIDE-EYE-RESEARCH-GUIDE.txt). Heather&#x27;s rulings beat the guide; the guide beats older docs and skills. When two files disagree, use the lower rating until a ruling is logged.
@@ -5190,11 +5219,11 @@ NEVER:
 9. Contact a subject, source, archive or lawyer for SIDE EYE without Heather&#x27;s yes.
 10. Mark work Approved or Published.
 
-QUESTIONS: Check the topic&#x27;s rulings and Must NOT list, then the Decision Register, then the FAQ. Still open: add a row to the question file with a proposed answer and use the lower rating meanwhile. Don&#x27;t ask Heather directly about research.
+QUESTIONS: Check the topic&#x27;s rulings and Must NOT list, then the Decision Register, then the FAQ. Still open: add a row to the question file with a proposed answer and use the lower rating meanwhile. Don&#x27;t ask Heather directly about research: questions reach her only through her decisions channel, each with 2 to 4 options, your pick, examples, a deadline and a priority.
 
 STYLE for anything you write: plain English, short sentences, no em-dashes, never the &quot;receipts&quot; metaphor, they/them when pronouns are unknown.
 </pre></details></div>
-<div class="aicard"><h3>Full research guide</h3><p class="meta">SIDE-EYE-RESEARCH-GUIDE.txt · 34,600 words</p>
+<div class="aicard"><h3>Full research guide</h3><p class="meta">SIDE-EYE-RESEARCH-GUIDE.txt · 34,983 words</p>
 <p>Every page of this portal as one file, for a knowledge upload.</p>
 <p><a class="dl" href="ai/SIDE-EYE-RESEARCH-GUIDE.txt" download>Download .txt</a></p></div>
 </div></section>

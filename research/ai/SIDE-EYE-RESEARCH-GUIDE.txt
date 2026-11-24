@@ -98,7 +98,7 @@ Most questions already have an answer. Look in this order:
    - the options and what each changes
    - your proposed answer
 
-Until the question is ruled, use the lower rating and keep working. The Research Lead batches open rows into one decision-needed page at Heather's next gate. The answer goes into the rulings file, the Rulings Index and the Decision Register the same day. If it changes a role card or an AI file, that file is updated too.
+Until the question is ruled, use the lower rating and keep working. The Research Lead batches open rows into one decision-needed page at Heather's next gate. Questions reach Heather only through her decisions channel, each with 2 to 4 options, a pick, examples, a deadline and a priority (page 09, How a question reaches Heather). The answer goes into the rulings file, the Rulings Index and the Decision Register the same day. If it changes a role card or an AI file, that file is updated too.
 
 Vendors never message Heather directly about research. Agents never ask Heather a question the Decision Register already answers.
 
@@ -1912,7 +1912,7 @@ Sign-off: [name or agent + model], [date]
 
 ## T17 · Decision-needed page
 
-**Used at:** any gate, when something needs Heather. The research lead batches open questions into one page per gate.
+**Used at:** any gate, when something needs Heather. The research lead batches open questions into one page per gate, and the coordinator sends them to Heather's decisions channel (page 09).
 **Filled by:** Research lead. Search the Decision Register, the rulings file and the Must NOT list first. If the answer is there, cite its ID and do not ask.
 
 ```
@@ -1926,14 +1926,20 @@ Decision Register IDs checked: · Rulings checked: · FAQ checked:
 
 CONTEXT (5 lines at most)
 
-OPTIONS
-| Option | What it changes (thesis, title word, locked doc, rating) | Risk | Cost (searches, time) |
-|---|---|---|---|
-| A | | | |
-| B | | | |
+OPTIONS (2 to 4)
+| Option | What it changes (thesis, title word, locked doc, rating) | Example in print or on screen | Risk | Cost (searches, time) |
+|---|---|---|---|---|
+| A | | | | |
+| B | | | | |
 
-RECOMMENDATION
+PICK
 [Option and one-line reason.]
+
+DEADLINE AND PRIORITY
+Answer needed by: YYYY-MM-DD · If no answer: [lower rating or proposed default] · Priority: High / Medium / Low
+
+ROUTE
+Sent to Heather's decisions channel by the coordinator. Never asked in a thread, comment or message.
 
 MEANWHILE
 Work continues using the lower level for any disputed fact.
@@ -2219,7 +2225,7 @@ Every role, human or agent, follows these rules:
 - Never mark anything APPROVED, LOCKED or Published. Only Heather does that.
 - Agents can't launch agents. The research lead launches every agent directly.
 
-**Asking a question.** Look in the topic's rulings file and Must NOT list, then the Decision Register, then the FAQ on page 12. Still open? Add a row to the open-questions section of the research log with your proposed answer, use the lower level meanwhile, and keep working. The research lead batches questions for Heather at the next gate. Vendors never message Heather directly about research.
+**Asking a question.** Look in the topic's rulings file and Must NOT list, then the Decision Register, then the FAQ on page 12. Still open? Add a row to the open-questions section of the research log with your proposed answer, use the lower level meanwhile, and keep working. The research lead batches questions for Heather at the next gate, and they reach her only through her decisions channel (page 09). Vendors never message Heather directly about research.
 
 ## Roles at a glance
 
@@ -2524,7 +2530,7 @@ Why it passes: the saying and the event are rated on separate lines, and row 5 i
 - [ ] Every conflict is logged; the lower level is used until a ruling closes it.
 - [ ] Only wording-level conflicts were ruled alone; the rest went to Heather.
 - [ ] Every skipped step has a waiver row.
-- [ ] Questions for Heather are batched on one decision-needed page per gate.
+- [ ] Questions for Heather are batched on one decision-needed page per gate, each with 2 to 4 options, a pick, examples, a deadline and a priority, and sent through her decisions channel.
 - [ ] The research log has a handoff note for this session.
 
 **Approved example (illustration).** Two files give different counts for a list of members. The lead logs a conflict row, uses the lower count in all drafts with "by one count", and records a wording-level ruling. A second conflict would change a thesis point, so it goes on the gate's decision-needed page with two options side by side and a recommendation.
@@ -2744,6 +2750,25 @@ The Decision Register is one Google Sheet in Research > 02 Logs. It holds every 
 ### When to search it
 
 Search the register before you ask Heather anything. Search by keyword and by scope. If a row answers your question, follow it and cite its ID. If a row is Open (default proposed), work to the default and say so in your report.
+
+### How a question reaches Heather
+
+Heather takes research decisions in one place: her decisions channel. Nobody asks her in a project thread, a document comment or a message. The route is:
+
+1. The research lead writes the question in the package's report or on the gate's decision-needed page (page 06, template T17).
+2. The coordinator sends it to Heather's decisions channel.
+3. Heather answers there. The coordinator passes her answer back to the lead, who logs it in this register the same day, with a link to where she answered.
+
+Every question sent this way has:
+
+- **One question** she can answer in a word or a pick.
+- **2 to 4 options,** each with what it changes.
+- **Your pick** and the one reason for it.
+- **An example** of what each option looks like in print or on screen.
+- **A deadline:** the date the work needs the answer, and what happens if none comes (usually: keep working on the lower rating or the proposed default).
+- **A priority:** High (blocks print, air or a gate this week), Medium (blocks the next gate) or Low (can wait for the next batch).
+
+Until she answers, work continues on the lower rating or the proposed default.
 
 ### How a decision gets logged
 
@@ -3218,7 +3243,7 @@ Yes, if it is a fresh agent in a new session that did no research on the topic a
 
 ### Who do I ask?
 
-Nobody, until you have searched: the topic's rulings and Must NOT list, then the Rulings Index and Decision Register (page 09), then this FAQ. Still open? Add a row to the question file with your proposed answer and keep working at the lower rating. The research lead batches questions for Heather's next gate. Vendors never message Heather directly about research.
+Nobody, until you have searched: the topic's rulings and Must NOT list, then the Rulings Index and Decision Register (page 09), then this FAQ. Still open? Add a row to the question file with your proposed answer and keep working at the lower rating. The research lead batches questions for Heather's next gate and sends them through her decisions channel (page 09). Vendors never message Heather directly about research.
 
 ### Can I use this image?
 
@@ -3290,3 +3315,4 @@ The Change Log dates every rule change. Lint runs on every draft against the cur
 | Version | Date | What changed | Approved by |
 |---|---|---|---|
 | v0.1 | 2026-11-24 | First draft of pages 00 to 13, the web portal and the AI files, built from the proposed plan v0.2 and Heather's five decisions of Nov 24 | Not yet approved |
+| v0.1 | 2026-11-24 | Added the decision route: questions reach Heather only through her decisions channel, with 2 to 4 options, a pick, examples, a deadline and a priority (pages 00, 06, 07, 09 and the AI files) | Not yet approved |
