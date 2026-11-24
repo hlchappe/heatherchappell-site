@@ -1,0 +1,3292 @@
+SIDE EYE Research Guidelines, v0.1 draft, 2026-11-24. Built from the Drive masters in Side Eye > Research > Standards and Processes. The newest dated version wins. Heather's rulings beat this guide.
+
+# 00 · Start Here
+*v0.1 · DRAFT · 2026-11-24 · Owner: Research Librarian · Approved by: not yet approved*
+
+This page tells you what SIDE EYE research is, who decides what, and where to go next. Read it first, whether you are a human vendor, a connected AI agent or an outside AI tool working from a pasted pack.
+
+## What SIDE EYE research is
+
+SIDE EYE is a history magazine and a YouTube show made by Heather and Edwin. The tagline is "History, allegedly." Most topics are popular conspiracy stories. Our job is to find out which parts the record supports, which parts it does not, and how sure we can be about each one.
+
+Research starts with the magazine. Most magazine topics later become a YouTube video, so one research package is built to serve both formats (decision DEC-2026-001). The package moves through ten gates, R0 to R9. Gates R0 to R8 produce the magazine package. Gate R9 extends the same package to a video. Page 01 (The Research Process) sets out every gate.
+
+## The one rule
+
+**Test the conspiracy. Don't assume it.**
+
+Every pitch enters as a question marked "untested." A popular claim is a lead to check. It is never a fact to build on. When the record says no, the story changes to fit the record.
+
+What follows from the rule:
+
+- Never invent a quote, fact, source or detail.
+- Rate every fact on the six-level scale (page 02, How Sure Are We?).
+- Never raise a rating above its evidence. When two files disagree, the lower rating wins until a ruling is logged.
+- Our own reports, scripts, magazine pages and any AI output are never sources. They are leads.
+- Never get past a site that blocks you. Log it and follow page 11 (Access and Blocked Sources).
+- Never mark anything APPROVED or LOCKED.
+
+## Who decides what
+
+| Role | Decides or owns | Never does |
+|---|---|---|
+| Heather (editor-in-chief) | Approves the question (R0), the thesis (R6) and the package (R8). Approves the video thesis, then the title and thumbnail (R9). Rules on conflicts that change a thesis, a title word or a locked doc. Chooses which books to get (R3). Signs any Not Confirmed result that is kept (R7). Approves every standards release. Sets APPROVED and LOCKED. | Takes research questions from vendors directly (they come through the Research Lead). |
+| Edwin (co-host) | Consulted at intake, at the claims attack and at the thesis. | Sets APPROVED or LOCKED. |
+| Research Lead (agent or vendor, one per package) | Runs R0 to R9 day to day. Launches every agent. Keeps the research log. Batches open questions for Heather. Rules on wording-level conflicts where the lower rating wins. | Rules on a thesis, title or locked-doc conflict. Closes their own gaps. |
+| Research Librarian (standing role) | Keeps the registers. Releases portal versions. Runs a monthly audit for strays, duplicates and wrong statuses. | Changes a standard without Heather's approval. |
+| Independent checker | Runs the R7 check and the R9 check. Writes rating-change rows. | Checks a topic they researched or wrote. |
+| Writers, art and layout | Raise change requests when they need a new fact. | Grade their own work. Use a fact before it is rated and checked. |
+
+Statuses are DRAFT, IN REVIEW, APPROVED, LOCKED and SUPERSEDED. Only Heather sets APPROVED or LOCKED. LOCKED is for standards only.
+
+## What wins when documents disagree
+
+1. Heather's rulings, as logged in the Decision Register and the Rulings Index.
+2. This portal.
+3. Older docs, templates and skills.
+
+If an older doc or skill teaches something this portal has retired (for example, an on-screen proof badge), follow the portal and tell the Research Librarian so the old file can be fixed in the next release.
+
+## How the portal is organized
+
+The portal is a set of numbered master docs in Drive, an unlisted web page on heatherchappell.com built from those masters, and a pair of AI files built from the same masters. The Drive master is the source of truth. The web page and AI files are never edited by hand.
+
+AI agents read Drive. Human vendors read the web page. Every page and every Drive doc shows the same "vX.Y · date" line at the top. If the web page and the Drive doc show different lines, the sync failed: use the Drive version and tell the Research Librarian.
+
+| # | Page | What it holds |
+|---|---|---|
+| 00 | Start Here | This page |
+| 01 | The Research Process | Gates R0 to R9, tiers, change requests, waivers, agent operations |
+| 02 | How Sure Are We? | The six-level scale, old-label mapping, how each level is said in each format |
+| 03 | Sources and Quotes | Source tiers, circular citation, quote levels, translations, scan pages |
+| 04 | Checking and Corrections | Checker protocol, budget reserve, Definition of Done, corrections and propagation |
+| 05 | Never-Break Rules and Legal | The ten rules, living people, opinion, images, AI visuals, access, privacy |
+| 06 | Templates | Every fill-in doc and sheet |
+| 07 | Role Cards | One card per role |
+| 08 | Onboarding | Tracks, reading list, certification, access, probation, offboarding |
+| 09 | Decisions and Rulings | The Decision Register and the Rulings Index |
+| 10 | Research Register | Every research package with its status and link |
+| 11 | Access and Blocked Sources | The Source Access Registry and how to ask for access |
+| 12 | Glossary and FAQ | Terms, and answers such as "Which version is current?" and "A site blocked me" |
+| 13 | Change Log | Every release: version, date, what changed, who approved |
+| AI | AI Files | SIDE-EYE-RESEARCH-SYSTEM-PROMPT.txt (short, works alone) and SIDE-EYE-RESEARCH-GUIDE.txt (the whole portal as one file) |
+
+Anything whose breach would put a false fact in print is in the short system prompt as well as the long guide.
+
+## Where to go next
+
+| You are | Read in this order | Then |
+|---|---|---|
+| A new human vendor | 00, 02, 05, your role card (07), 08, 03, 04 | Take the certification in page 08 before live work |
+| A connected AI agent | SIDE-EYE-RESEARCH-SYSTEM-PROMPT.txt, your role card, the package brief and Must NOT list | Work only in the folders your brief names |
+| An outside AI tool | The pasted pack only | Do the bounded task you were given. Never be the last check on anything |
+| A Research Lead | 01, 02, 04, 09, 10, 11 | Open the research log and set the tier at R0 |
+| An independent checker | 04, 02, 03, the package's rulings and Must NOT list | Work from the numbered fact list in a fresh session |
+| A writer, artist or layout person | 02 (the format table), 05, the package's Must NOT list | Raise a change request for any new fact (page 01) |
+| The Research Librarian | 09, 10, 11, 13 | Run the release steps and the monthly audit |
+
+## How to ask a question
+
+Most questions already have an answer. Look in this order:
+
+1. The topic's rulings file and Must NOT list.
+2. The Decision Register and the Rulings Index (page 09).
+3. The FAQ (page 12).
+4. Still open? Add a row to the package's question file with:
+   - the question
+   - where you looked
+   - the options and what each changes
+   - your proposed answer
+
+Until the question is ruled, use the lower rating and keep working. The Research Lead batches open rows into one decision-needed page at Heather's next gate. The answer goes into the rulings file, the Rulings Index and the Decision Register the same day. If it changes a role card or an AI file, that file is updated too.
+
+Vendors never message Heather directly about research. Agents never ask Heather a question the Decision Register already answers.
+
+## The five decisions of Nov 24, 2026
+
+Heather made these five calls on Nov 24, 2026. They override any older doc.
+
+| ID | Decision | What it means for you |
+|---|---|---|
+| DEC-2026-001 | Research starts with the magazine and usually continues into a video. One foundation package serves both. | R0 to R8 build the magazine package plus video-ready notes. R9 extends it to video from the same Fact Ledger, with no fresh research round for facts the package already holds. |
+| DEC-2026-002 | The six-level scale is used everywhere. | Use Proven, Strongly supported, Likely, Contested, Unsupported, Refuted. "Documented", "Not proven", PROVEN/LIKELY/NOT PROVEN stamps and on-screen badges are retired. No proof stamps or badges on screen. |
+| DEC-2026-003 | Agents may ask Heather to open a blocked site in her own browser. | Log the request, who opened it, when and what was read in the Source Access Registry. Hold requests for the next gate when the work can wait. Never get past a block yourself. |
+| DEC-2026-004 | Known errors are posted publicly. | Known Vol. 1 errata go on a public corrections page once Heather approves it. Future confirmed errors are posted within 14 days of confirmation (proposed default, not yet approved). |
+| DEC-2026-005 | No lawyer. | The legal gate is a checklist run by someone who did not write the piece. Any line that puts a living person in a wrongdoing frame is softened to court and filing language or cut. See page 05. |
+
+Other working defaults in this portal (for example, whether Strongly supported may appear in a title) are proposed and not yet approved. Each one is marked "(proposed default, not yet approved)" where it appears.
+
+# 01 · The Research Process
+*v0.1 · DRAFT · 2026-11-24 · Owner: Research Librarian · Approved by: not yet approved*
+
+This page sets out the one research process every SIDE EYE topic follows, from first question to a checked package ready for the magazine and the video. Use it to know which gate you are in, what you must hand in, and when a gate has passed.
+
+## Magazine first, one package for both formats
+
+Research starts with the magazine. Most topics then become a YouTube video, so the foundation research is built to serve both (decision DEC-2026-001).
+
+- Gates R0 to R8 produce the magazine package. R0 names the magazine first and notes whether a video is likely. R8 hands off the magazine pack plus video-ready notes.
+- Gate R9 (YouTube extension) builds the video from the same Fact Ledger. There is no fresh research round for facts the package already holds.
+- No script, layout or art may use a fact until that fact has a ledger row, a rating and a check.
+
+One Fact Ledger per topic is the master. When the magazine and the video disagree, neither wins: the ledger is fixed, and every product that used the fact is fixed from it (page 04, Checking and Corrections).
+
+## Tiers
+
+The Research Lead sets the tier at R0 and writes it in the research log.
+
+| Tier | Covers | Gates it runs |
+|---|---|---|
+| A | Lead features, Case Files, covers | Every gate, R0 to R8, plus R9 when a video follows |
+| B | Sidebars, and Shorts cut from approved work | R1, R4 and R7, against an existing ledger |
+| C | Opinion pieces and host banter | R7 on any fact it states |
+
+Shorts are regular horizontal videos longer than 60 seconds (DEC-2026-019). They are checked like any other product.
+
+## The gates
+
+Each gate lists who leads, what must be true before it starts, the steps, what must be true for it to pass, Heather's part, and what it produces. A gate passes only when every "passes when" item is true and filed in Drive. Nothing counts as delivered until it is in Drive.
+
+### R0 · Intake
+
+- **Enters when:** a topic is named.
+- **Steps:**
+  1. Write the pitch as a testable question with names, places and years. Mark it "untested."
+  2. Name the formats: magazine first, and note whether a video is likely.
+  3. Set the tier, the owner (Research Lead) and the search budget.
+  4. Set the living-person risk tier: Green (dead or historical), Amber (living public figure, documented facts only) or Red (a living person plus crime, fraud, sex, health, coordination or money-for-favors, or any private person). See page 05.
+  5. Open the research log and give the package its ID (RP-###).
+- **Passes when:** the question is testable, formats and tier are set, the log is open and the package has an ID.
+- **Heather:** approves the question. Edwin is consulted.
+- **Outputs:** research log, package folder, Research Register row.
+
+### R1 · Inventory and brief
+
+- **Enters when:** R0 has passed.
+- **Steps:**
+  1. Read and log what already exists: Drive research, sources docs, corrections, the Decision Register, the Killed Claims list and the Source Access Registry.
+  2. Write the common brief: the question, facts already established (with ratings), the rules, the rating scale, the report format, the search budget, known blocked sites, and every Must NOT line that applies.
+  3. Reserve the checker's budget now: one search per print-bound fact expected, plus 10, to be run in a fresh session.
+- **Passes when:** the inventory is logged, the brief is filed and frozen, and the checker reserve is written in the log.
+- **Heather:** none.
+- **Outputs:** inventory list, common brief.
+
+### R2 · Gather
+
+- **Enters when:** the brief is frozen.
+- **Steps:**
+  1. The Research Lead launches one agent or vendor per desk (a desk covers one set of people, years and questions).
+  2. Each desk returns a report in the standard format: summary of 200 to 450 words, rated findings with source chains, links table, leads, and an access-needed list with full citations.
+  3. Blocked sources go on the access list and into the Source Access Registry.
+  4. The Lead writes the Phase 1 summary.
+- **Passes when:** every desk report is in the standard format and filed in 01 Desk Reports, and the Phase 1 summary is filed.
+- **Heather:** none.
+- **Outputs:** desk reports, links tables, access list, Phase 1 summary.
+
+### R3 · Gaps and books
+
+- **Enters when:** the Phase 1 summary shows thin areas or access needs. If it shows none, log "R3 not needed" with the reason.
+- **Steps:**
+  1. Send gap teams to the thin areas. Log every correction they make to Phase 1 findings.
+  2. Rank the books and sources on the access list.
+  3. Send blocked-site requests to Heather (DEC-2026-003). Batch them for this gate when the work can wait.
+  4. Assign one reader per book chunk. Every finding carries a page and line.
+- **Passes when:** gap corrections are logged and every access item is marked Got, Ordered or Waived.
+- **Heather:** chooses which books to get. Opens blocked sites in her browser when asked; each one is logged in the Source Access Registry.
+- **Outputs:** gap reports, reader reports, updated access list.
+
+### R4 · Ledger and readiness
+
+- **Enters when:** R2 has passed, and R3 if it ran.
+- **Steps:**
+  1. Build one Fact Ledger with a fact ID per row: statement with its hedge (safe wording), level, source chain, quote level, check status, last changed, used in.
+  2. Build the conflict register. Where sources or files disagree, the lower rating wins until a ruling is logged.
+  3. Run the readiness check: a sourced popular belief to test, at least one clock (a date or deadline that drives the story), at least one readable document, and at least 10 surprises rated Proven.
+- **Passes when:** the ledger is complete, every conflict is ruled or held at the lower rating, and the readiness check passes.
+- **Heather:** rules on flagged conflicts that would change the thesis, a title word or a locked doc. The Lead rules on wording-level conflicts.
+- **Outputs:** Fact Ledger (sheet), conflict register, rulings file.
+
+### R5 · Claims and attack
+
+- **Enters when:** R4 has passed.
+- **Steps:**
+  1. List five or six claims. Fix the proof standard for each one before any attack starts.
+  2. Launch one red-team agent per claim. Score the central claim, never the true facts around it.
+  3. Run the myth-buster: the strongest case against the thesis, unsoftened.
+  4. Write the scorecard: each claim rated, corrections to carry, before-print checks ranked by value.
+  5. Write the Must NOT list. Each line gets its reason and fact ID, and goes into the Killed Claims list.
+- **Passes when:** every claim has a red-team result, the scorecard and Must NOT list are filed, and the Killed Claims list is updated.
+- **Heather:** none. Edwin is consulted.
+- **Outputs:** claims and proof standards, red-team reports, myth-buster report, scorecard, Must NOT list.
+
+### R6 · Thesis and drill
+
+- **Enters when:** the R5 scorecard is filed.
+- **Steps:**
+  1. Write the thesis as "Everybody thinks X. The record shows Y." with four or five supporting points, each with its level.
+  2. Run the surprise drill: one specialist per strong lead, about 30 searches each. Or log a waiver.
+  3. Update the rulings file so the checker has it before R7.
+- **Passes when:** the thesis and points are filed with levels, and the drill is run or waived in the log.
+- **Heather:** approves the thesis. The title, cover line and headline are written after the thesis is approved, never before. Edwin is consulted.
+- **Outputs:** thesis page, drill reports.
+
+### R7 · Independent check
+
+- **Enters when:** there is a numbered list of every print-bound fact, plus the cover, headline and teaser. The rulings file is current. The checker reserve is unspent.
+- **Steps:**
+  1. A checker who did no research on the topic and wrote nothing in the piece runs the check in a fresh session.
+  2. Check the mandatory set first: cover, title, headline, teaser, craziest part, biggest number, twist, other-side quote, every direct quote, every number, every claim about a living person.
+  3. Record each result in the fact-check log: Confirmed, Confirmed with correction, Not confirmed, Wrong or Unchecked.
+  4. Run the legal gate checklist. Someone who did not write the piece runs it (DEC-2026-005).
+  5. Fix and re-check. At most two fix loops. A third goes to Heather with both reports.
+- **Passes when:** every item has a result. The mandatory set has zero Wrong and zero Not confirmed. Open items are zero, or each one is signed in the Decision Register. Any fact still unchecked is hedged, cut or held, and never printed at its old rating.
+- **Heather:** signs any Not confirmed result that is kept outside the mandatory set.
+- **Outputs:** fact-check log, legal gate checklist, rating-change rows.
+
+### R8 · Package and hand-off
+
+- **Enters when:** R7 has passed.
+- **Steps:**
+  1. File the package: Fact Ledger, scorecard, Must NOT list, rulings, sources doc by section, access list, fact-check log and research log.
+  2. Write the cover sheet with counts: checked, unchecked, UNREAD, blocked sites, AI tools used and for what.
+  3. Build the magazine pack: the What We Can Prove / What We Can't box and the other side.
+  4. Write video-ready notes: quotes with their quote levels, documents, places and visuals a script will need.
+  5. Write the handoff note in the research log.
+- **Passes when:** every item above is filed in 04 Package and the Research Register row is updated.
+- **Heather:** accepts the package and sets it APPROVED.
+- **Outputs:** the approved package, magazine pack, video-ready notes.
+
+### R9 · YouTube extension
+
+- **Enters when:** R8 has passed and a video is going ahead.
+- **Steps:**
+  1. Fill Template A from the same Fact Ledger.
+  2. List what the video needs that the magazine did not: on-screen quote cards (Q1 or Q2 only), footage and image sources, the cold open, the withheld object. Each one goes in as a change request on the same ledger and is checked independently.
+  3. Heather approves the video thesis.
+  4. Run a light fact pass at outline stage, before the script is near final.
+  5. Write the title and thumbnail after the script (DEC-2026-018). Rate them on the six-level scale and check them like the body.
+- **Passes when:** every air-bound fact, the title and the thumbnail have a check result.
+- **Heather:** approves the video thesis, then the title and thumbnail.
+- **Outputs:** Template A dossier, change requests with check results, video fact-check log.
+
+## Change requests
+
+Any new fact found during scripting, art, layout or R9 goes through a change request before anyone uses it.
+
+Fields:
+
+- CR ID, date, raised by
+- Product and where the fact would run (page, timecode, title, thumbnail, Short, description)
+- The new fact or change, with its source chain
+- Proposed level
+- Fact ID of the new or changed ledger row
+- Checker result and date
+- Status: Open, Checked, Rejected
+
+A change request that changes a rating, a claim or the thesis is a major change (page 09). Heather rules on any that touch the thesis or a title word.
+
+## Waivers
+
+A gate or step may be skipped only with a waiver line in the research log:
+
+- gate and step skipped
+- reason
+- guardrail put in place (hedge, hold, cut)
+- who approved it, and the date
+
+R7 is never waived for a print-bound or air-bound fact.
+
+## Agent operations
+
+Every agent and vendor should know these limits.
+
+- **The lead launches every agent.** Agents cannot launch agents. The Research Lead starts each desk, red-team, myth-buster and checker agent directly, in parallel where possible.
+- **Search caps.** The allowance is shared and runs out. 30 searches per desk agent. 15 for red team and quick checks. About 200 for all of Phase 1. The checker reserve set at R1 is never spent on other work.
+- **Prefer known pages.** Fetch known pages and full texts before running new searches.
+- **Return length.** Full report to file. Summary of 200 to 450 words (350 for red team).
+- **Quote pieces.** The fetch tool can return quotes in pieces of 125 characters or fewer. Quote only the exact piece, mark every cut, and recheck any quote rebuilt from pieces as one whole quote before it is used.
+- **Fix loops.** At most two fix loops after a failed check. A third goes to Heather with both reports.
+- **Blocked sites.** Never get past a block. Log it in the Source Access Registry and ask for Heather's browser through the Lead (page 11).
+- **Scope.** Work only in the folders your brief names.
+- **Session end.** Close every session with a handoff note in the research log.
+
+## Package folder skeleton
+
+Every package uses the same folders in Drive:
+
+| Folder | Holds |
+|---|---|
+| 00 Brief and Log | Common brief, research log (with waivers, rating changes, access needed, handoff notes), question file, change requests |
+| 01 Desk Reports | Desk, gap-team and reader reports |
+| 02 Claims and Red Team | Claims and proof standards, red-team reports, myth-buster report, scorecard, Must NOT list |
+| 03 Checks | Fact-check logs, legal gate checklist, re-checks |
+| 04 Package | Approved package, sources doc, magazine pack, video-ready notes, Template A dossier |
+| 05 Data | Fact Ledger, conflict register, timeline, codex, network files |
+| 06 Source Files | PDFs, scans and text extracts, with the licence in each description |
+| _Superseded | Retired versions, renamed "SUPERSEDED (use vX.Y)" the same day |
+
+File names follow: RP-### Topic – Doc type – vX.Y – STATUS – YYYY-MM-DD.
+
+## One-page gate checklist
+
+**R0 Intake**
+- [ ] Testable question with names, places and years, marked "untested"
+- [ ] Magazine named first; likely video noted
+- [ ] Tier, owner, budget and living-person risk tier set
+- [ ] Research log opened; package ID given
+- [ ] Heather approved the question
+
+**R1 Inventory and brief**
+- [ ] Existing research, corrections, Decision Register, Killed Claims and Access Registry read and logged
+- [ ] Common brief filed and frozen
+- [ ] Checker reserve written in the log
+
+**R2 Gather**
+- [ ] Every desk report in standard format with links table and access list
+- [ ] Phase 1 summary filed in Drive
+
+**R3 Gaps and books**
+- [ ] Gap corrections logged (or "R3 not needed" logged)
+- [ ] Every access item marked Got, Ordered or Waived
+- [ ] Browser requests logged in the Source Access Registry
+
+**R4 Ledger and readiness**
+- [ ] Fact Ledger with IDs, levels and chains
+- [ ] Conflict register; lower rating held where unruled
+- [ ] Readiness check passed
+
+**R5 Claims and attack**
+- [ ] Proof standards fixed before attack
+- [ ] One red team per claim; myth-buster report
+- [ ] Scorecard and Must NOT list filed; Killed Claims list updated
+
+**R6 Thesis and drill**
+- [ ] "Everybody thinks X. The record shows Y." with 4 to 5 rated points
+- [ ] Drill run or waived in the log
+- [ ] Rulings file current
+- [ ] Heather approved the thesis (title and cover come after)
+
+**R7 Independent check**
+- [ ] Checker is independent and in a fresh session
+- [ ] Every item has a result; mandatory set has zero Wrong and zero Not confirmed
+- [ ] Open items zero or signed; unchecked facts hedged, cut or held
+- [ ] Legal gate checklist run by someone who did not write the piece
+
+**R8 Package and hand-off**
+- [ ] Package filed in 04 Package with cover sheet counts
+- [ ] Magazine pack and video-ready notes filed
+- [ ] Handoff note written; Research Register updated
+- [ ] Heather accepted the package
+
+**R9 YouTube extension**
+- [ ] Template A filled from the same ledger
+- [ ] Video-only needs raised as change requests and checked
+- [ ] Heather approved the video thesis
+- [ ] Title and thumbnail written after the script, rated and checked
+- [ ] Every air-bound fact, title and thumbnail has a check result
+
+# 02 · How Sure Are We? The Rating Scale
+*v0.1 · DRAFT · 2026-11-24 · Owner: Research Librarian · Approved by: not yet approved*
+
+This page holds the one rating scale for every SIDE EYE fact, claim, title and thumbnail, and the rules for how each level may be said on video, in print and in packaging. If any older doc, template or skill uses another label, convert it with the mapping table below (decision DEC-2026-002).
+
+## The six levels
+
+Rate every fact and every claim on these six levels. Score a claim on its central assertion, never on the true facts around it.
+
+| Level | Meaning | Minimum source |
+|---|---|---|
+| Proven | A primary document seen, or two or more independent chains agree | Tier 1 or 2, checked |
+| Strongly supported | One sound scholarly chain citing a primary we have not seen, or a small gap | Tier 3 |
+| Likely | One good source or a strong inference, with nothing against it | Tier 3 or 4 |
+| Contested | Sources disagree, or the claim rests on a self-interested, late or single source | Any |
+| Unsupported | Claimed somewhere; no evidence found | None |
+| Refuted | Documents contradict it | Tier 1 to 3 |
+
+Source tiers (1 primary, 2 published edition, 3 scholarly secondary, 4 press and popular history, 5 wikis, 6 AI and our own work) are set out in page 03 (Sources and Quotes). Tier 5 and 6 never support a level alone. Count independent chains. Ten writers quoting one historian are one chain.
+
+## Two flags
+
+UNREAD and CHECK are flags. They sit beside a level and never replace it.
+
+| Flag | Means | What to do |
+|---|---|---|
+| UNREAD | The source is cited but blocked or unreachable | Keep the last rating. Add a guardrail in copy (a hedge or an A/B line). Log the source in the Source Access Registry (page 11). |
+| CHECK | An open item | Close it or have it signed off before lock. Open CHECKs must be zero, or each signed by name, before a deliverable counts as verified (page 04). |
+
+## Rules that apply to every rating
+
+**Split rule.** When a source reports a speech or a view, rate the attribution and the content on separate lines. "The biography quotes the speaker saying X" and "The speaker said X" are two facts with two levels.
+
+**Lower grade wins.** When two files give one fact different levels, use the lower one until a ruling is logged in the rulings file and the Rulings Index. Never settle it by picking the file you like.
+
+**Never raise a rating without evidence.** A rating goes up only with a new source, logged as a rating-change row (fact ID, old level, new level, date, reason, evidence, who). Intensifiers that push a Likely toward Proven ("definitely", "clearly", "it is a fact that") count as raising it.
+
+**Packaging is rated.** Titles, thumbnails, covers, cover lines, headlines, teasers, descriptions, pinned comments and Shorts go through the same scale and the same independent check as the body.
+
+**Check results are separate.** Confirmed, Confirmed with correction, Not confirmed, Wrong and Unchecked are check results. MUST, SHOULD and NOTE are fix severities. FACT, DRIFT and EAR are route codes. None of these is a level.
+
+## How each level is said
+
+| Level | Spoken on video or podcast | Magazine body | Title, thumbnail, cover, teaser |
+|---|---|---|---|
+| Proven | Said flat | Said flat | Allowed |
+| Strongly supported | Said flat, with the source named | Same | Allowed, with the source named in the body (proposed default, not yet approved) |
+| Likely | Hedged in the same sentence ("by one count") | Same | Never |
+| Contested | "Historians disagree," then both sides | Same, and it goes in the What We Can't box | Never |
+| Unsupported | Only as Heather's theory, answered by Edwin, or as a question | Only as a labeled rumor | Never |
+| Refuted | Only to knock it down | Myth sidebar | Only as the myth being broken |
+
+Floors:
+
+- A sentence that states a fact as fact in the magazine body needs Likely or above. Contested, Unsupported and Refuted material appears only in the forms the table allows.
+- The cold open, the craziest part and the withheld object need Proven, or Strongly supported (proposed default, not yet approved).
+- A hedge belongs in the same sentence as the fact. A hedge two sentences later does not count, because clips and pull quotes drop it.
+- Living people have extra limits. An Unsupported claim about a living person is never aired as a theory. See page 05 (Never-Break Rules and Legal).
+
+## On screen and on the page
+
+**No stamps or badges on screen.** Proof levels never appear on screen as stamps, badges or labels (DEC-2026-017, DEC-2026-002). The words carry the level.
+
+**The opinion corner tag.** Opinion lines are said strongly. The screen shows "opinion" in the corner while the line plays. Scripts and outlines carry no opinion tags. Each piece keeps a separate Opinion Register (line, speaker, the facts it rests on, living person or not), described in page 05.
+
+**What We Can Prove / What We Can't.** Every magazine feature ends with this box.
+
+- What We Can Prove: the Proven and Strongly supported points behind the thesis.
+- What We Can't: every Contested point, open UNREAD items that matter to the story, and popular claims we found Unsupported.
+
+The back-of-issue sources section matches the fact-check log one to one. Each feature's sources doc shows the full six-level rating for every claim.
+
+## Mapping old labels to the six levels
+
+Older docs, scripts and skills use at least five other scales. Convert every old label before you use the row. When a mapping says "re-rate," go back to the sources and apply the definitions above. Never convert a whole file at once by find-and-replace.
+
+| Old label | Where it was used | New level |
+|---|---|---|
+| Documented (primary seen, or several chains) | MASTER per-fact scale, sources docs | Proven |
+| Documented (secondary, one chain) | MASTER, sources docs, dossiers | Strongly supported |
+| DOCUMENTED* | Older Shorts check files | Strongly supported |
+| Strongly supported (old usage) | MASTER per-claim scale, Story Templates, Vol. 1 sources doc | Strongly supported only if it meets the new definition (one sound scholarly chain). Otherwise re-rate. |
+| Likely | MASTER, Story Templates | Likely (confirm nothing stands against it) |
+| Plausible | MASTER per-claim scale | Likely |
+| REPORTED, Reported | Older Shorts check files, desk notes | Likely. If the report is about a living person, apply the split rule: "the outlet reported X" is rated on one line, X on its own line. |
+| Contested, Disputed | MASTER, dossiers | Contested |
+| Weak (with some evidence) | MASTER per-claim scale | Contested |
+| Weak (no evidence) | MASTER per-claim scale | Unsupported |
+| Unsupported, Attributed | MASTER, dossiers | Unsupported |
+| Refuted | MASTER | Refuted |
+| Not proven | Vol. 1 sources doc, print proof boxes | Contested, Unsupported or Refuted. Split it row by row. |
+| PROVEN (Pipeline 09) | Episode Pipeline v2 | Proven or Strongly supported. Re-rate each row. |
+| LIKELY, CONTESTED, UNSUPPORTED (Pipeline 09) | Episode Pipeline v2 | Likely, Contested, Unsupported (confirm each against the definitions) |
+| PROVEN / LIKELY / NOT PROVEN stamps | Story Templates badge column, older scripts | Retired. Re-rate from the row underneath. Never show on screen. |
+| On-screen badges of any kind | Story Templates, older scripts | Retired. No replacement on screen. |
+| "[D, allegation]" | Older living-person check files | Split rule: "a filing alleges X" is rated on one line; X is rated on its own line. Use court and filing language (page 05). |
+
+If you meet a label that is not in this table, rate the row from its sources and tell the Research Librarian so the label can be added.
+
+## Worked examples of safe wording
+
+These examples use an invented case: a 1921 city council, a mayor, and a story that the mayor took a bribe to sell the waterworks. They show wording only.
+
+| Level | The fact | Video wording | Magazine wording | Packaging |
+|---|---|---|---|---|
+| Proven | The council minutes record the vote as 7 to 2 (minutes seen) | "The council voted 7 to 2." | "The council voted 7 to 2 to sell the waterworks." | "The 7-to-2 Vote" is allowed |
+| Strongly supported | A university history cites a letter, not seen by us, in which the mayor asked for the sale | "According to the city's official history, the mayor asked for the sale himself." | "The mayor asked for the sale himself, according to the city's 1988 official history." | Allowed, with the source named in the body (proposed default, not yet approved) |
+| Likely | One newspaper says 400 people protested | "One paper counted about 400 protesters." | "About 400 people protested, by one paper's count." | Never. Write the title from a Proven or Strongly supported fact. |
+| Contested | Two historians disagree on who wrote the sale terms | "Historians disagree. One says the mayor wrote the terms. Another says the buyer's lawyer did." | Same, plus a line in the What We Can't box | Never |
+| Unsupported | The popular story that the mayor took a bribe; no evidence found | Heather: "My theory? Somebody got paid." Edwin answers with what the record shows. Or as a question: "So did anyone get paid? Nothing in the record says so." | "A rumor, repeated for a century, says the mayor was paid. We found no record of it." | Never |
+| Refuted | The story that the sale happened in secret; the minutes show a public meeting | "The famous version says it happened in secret. The minutes say it was a public meeting with a reporter in the room." | Myth sidebar: "Myth: the sale was secret. Record: a public meeting." | Only as the myth being broken: "The Secret Sale That Wasn't" |
+
+Split rule example, same case:
+
+| Line | Level |
+|---|---|
+| The 1950 memoir quotes the mayor saying, "The city can't afford water." | Proven (we read the memoir) |
+| The mayor said, "The city can't afford water." | Likely (one late chain, nothing against it) |
+
+Video wording: "In a memoir written 30 years later, an aide remembers the mayor saying the city couldn't afford water." The attribution is said flat. The quote is hedged in the same sentence.
+
+UNREAD example: the city's 1921 newspaper archive is blocked. The vote count stays at its last level, the line runs as "The council voted, by the minutes' count, 7 to 2," and the archive goes on the Source Access Registry with the exact search that would settle it.
+
+## Quick self-check before you hand in
+
+- [ ] Every row has one of the six levels, spelled exactly.
+- [ ] Every attribution and its content are rated on separate lines.
+- [ ] No old label is left in the row.
+- [ ] Where two files disagree, the lower level is used, or a ruling is cited.
+- [ ] Every Likely line is hedged in the same sentence.
+- [ ] No title, thumbnail, cover or teaser rests on Likely, Contested or Unsupported.
+- [ ] No proof stamp or badge appears in any on-screen note.
+- [ ] UNREAD items keep their last level and carry a guardrail.
+
+# 03 · Sources and Quotes
+*v0.1 · DRAFT · 2026-11-24 · Owner: Research Librarian · Approved by: not yet approved*
+
+This page says what counts as a source, how to count independent evidence, how to check and print a quote, and how to write a citation in the sources doc. Use it every time you add a row to a Fact Ledger, a sources doc or a fact-check log.
+
+## The short version
+
+- Every fact traces to a tier 1 to 4 source. Tier 5 points the way. Tier 6 is never a source.
+- Count chains, not citations. Write the chain in the source column.
+- Every quote carries a quote level (Q0 to Q3). Only Q1 and Q2 run as plain quotes.
+- "First", "only", "never" and "nobody" need a logged search scope.
+- Anything you read through a summarizing tool is checked by eye before print.
+- Every source row records how you reached it.
+
+## Source tiers
+
+| Tier | Source type | Examples | Use rule |
+|---|---|---|---|
+| 1 | Primary: the document itself | Archive image, Hansard, court docket, patent, diary, will, a period newspaper page | Any use. Can support Proven. |
+| 2 | Published edition or transcription of a primary | A library's typed transcript, a foundation's published text of a will | Any use. Note the edition. Crowd transcriptions are provisional: check the page image before print. |
+| 3 | Scholarly secondary | Peer-reviewed article, academic press book, national biography dictionary, official history | Any use. Record the author's own sources. |
+| 4 | Press, reference and popular history | Magazines, museum sites, encyclopedias, popular books and videos | Supporting only. Never the top of a Proven or Strongly supported claim. |
+| 5 | Wikis and aggregators | Wikipedia, fan sites, list sites, search snippets | Pointers only. Follow the footnote and cite what it cites. Never the sole support for a claim. |
+| 6 | AI output and our own work | Any AI answer or AI search summary, our agents' reports, our scripts, our magazine, memory | Never a source. Leads only. |
+
+### Tier rules to remember
+
+- A period newspaper is tier 1 for what it printed. It is a secondary report of what happened. Rate those two things on separate lines (see page 02, How Sure Are We?, for the split rule).
+- Our own research docs are not sources. Cite the source they cite, after you open it.
+- "Wikipedia citing X" is X, once you have read X. If you could not read X, the fact is UNREAD at best.
+- Watch for wiki-born myths. If the earliest appearance of a "fact" is a recent wiki edit, rate it Unsupported until a tier 1 to 4 source turns up.
+- An AI tool can suggest where to look. Before the fact enters the ledger, trace it to tiers 1 to 4 and read that source yourself.
+
+## Count chains, not citations
+
+A chain is the line of sources that all lead back to one original. Ten writers who all quote the same historian are one chain. Name each chain by its earliest source.
+
+How to write a chain in the source column:
+
+1. Start with the earliest source you can identify, with its year.
+2. Add "via" and each later source you actually read, in order.
+3. Mark anything you did not read yourself as "cited in", not "via".
+
+Examples:
+
+- `Serle 1982 via Coulthart 2014` (one chain: Coulthart repeats Serle).
+- `Home Office file [ref] cited in Smith 1998` (one chain, and the file itself is unread).
+- `Wikipedia citing Lloyd George papers` becomes `Lloyd George papers [ref]` once you read the papers. If you could not, write `Lloyd George papers, cited in Wikipedia, UNREAD`.
+
+Rules:
+
+- Two chains are independent only if neither one draws on the other and they do not share an earlier source.
+- Three readers of one transcript confirm the reading of that transcript. They do not confirm the event. That is one chain.
+- When a scholar's own source is a memoir by an interested party, record that. It can drop the rating to Contested (see page 02).
+- Proven needs a primary seen or two independent chains that agree. Count chains before you rate.
+
+## Quote levels
+
+| Level | Checked against | Allowed use |
+|---|---|---|
+| Q1 | The primary image or the original-language text | Any use, including hero quotes, on-screen quote cards and the withheld object |
+| Q2 | A reliable published transcription or edition | Any use. Note the edition in the citation. |
+| Q3 | A secondary that quotes it | Only with the go-between named: "as Serle quotes him" |
+| Q0 | Not checked | Paraphrase only. No quote marks. |
+
+A quote bank marked "verified" must say which level. "Checked via a biographer" is Q3, however good the biographer is.
+
+### Exact-quote rules
+
+- Copy the quote character for character, including original spelling and punctuation ("havent" stays "havent").
+- Mark every cut with an ellipsis. Never crop a sentence in the middle so it says more than the speaker said.
+- Keep a qualifier with its claim. If the speaker hedged ("what you might call"), the hedge stays in.
+- Use the fuller form when the lead-in changes the meaning.
+- Credit the speaker. If a diarist recorded what someone else said, the speaker is the one who said it, and the diarist is the source.
+- On-screen quote cards match the spoken words exactly.
+- Fetch tools can return text in pieces of 125 characters or fewer. A quote rebuilt from pieces is flagged "assembled" and rechecked against the source as one piece before it is used.
+- Quote only what the source shows. If you can see only a fragment, quote only the fragment.
+
+## Translations
+
+- Say whose English: "our translation", or the translator's or publisher's name.
+- Print the original next to the English in the sources doc and, where space allows, in print. On-screen cards say TRANSLATED.
+- A second reader checks every translation we make ourselves. Log who.
+- When a line survives only in translation, say so and credit the translator.
+- Note loaded words and their plain meaning (for example, a French word that can mean "hired killer" as well as "assassin").
+- A quote seen only through a translated citation of a book we have not read is Q3.
+
+## Scan page versus printed page
+
+Scanned books often number pages differently from the printed book.
+
+- Cite "scan p." and printed "p." as separate fields. Never mix them.
+- Convert to the printed page before print. If you cannot, cite the scan page and the stable ID so a reader can find it.
+- Give stable IDs where they exist: newspaper article numbers, archive item IDs, catalogue references.
+- Note any OCR fix you made to the text you quote.
+- Check the traps: does the weekday match the date? Did the person hold that job title on that date?
+
+## Superlatives and absences need a logged search scope
+
+Words like "first", "only", "earliest", "never", "nobody at the time" are claims about everything that exists. You can only make them about what you searched.
+
+Log the scope in the ledger row and the fact-check log:
+
+| Field | Example |
+|---|---|
+| Database or archive | A national newspaper database |
+| Date range | 1 Oct 1932 to 31 Dec 1932 |
+| Search terms | "emu" AND ("war" OR "machine gun") |
+| Who ran it, and when | Desk 3, 2026-10-16 |
+| What it found | Earliest hit and its ID |
+
+Then match the wording to the scope:
+
+- Regional search only: "the earliest report we found in [region]'s papers". Never "first".
+- National search done: "the earliest report in [database]". Use "first" only when the scope covers every record that could hold an earlier case, and say what was searched in the sources doc.
+- No search logged: no superlative. Rewrite or cut.
+
+A regional search can make a paper look first when a national search finds an earlier one. Run the wider search before the word goes in.
+
+## Anything read through a summarizing tool is checked by eye
+
+Some tools hand back a summary of a page or a list instead of the text. Counts, names and quotes drift in summaries.
+
+- Mark the ledger row "read via tool" when your only reading came through a summarizer, an AI search answer or a fetch tool that returns a digest.
+- Before print or air, open the full text and check the fact by eye. Change the check status to "read by eye" and log who and when.
+- If you cannot open the full text, the fact is UNREAD and keeps a guardrail in copy.
+
+Example: a summary says a club had "about 400 members"; the full list, counted by eye, gives a different number. Only the by-eye count may print.
+
+## Record how every source was reached
+
+Every source row says how you got to it. This is how a later reader can repeat your step, and how we show we never went around a block.
+
+| How reached | What to record |
+|---|---|
+| Direct | URL or catalogue reference, date accessed |
+| Alternate legitimate route | Which route (publisher full-text search, library catalogue, in-book search, a second legitimate host of the same public-domain text), URL, date |
+| Heather's browser (DEC-2026-003) | Who asked, who opened it, date and time, exactly what was read; matching row in the Source Access Registry |
+| Book or copy obtained lawfully | Edition, how obtained (bought, library), who holds it |
+| Not reached | Mark UNREAD; add to the Access needed list and the Source Access Registry |
+
+Rules:
+
+- A tool or proxy limit is logged as a tool limit. It is not permission to go around a site.
+- A site that refuses you is never bypassed. See page 05 (Never-Break Rules and Legal) for allowed and banned routes and how to ask Heather to open a site.
+- If the route is not recorded, the source is treated as not read.
+
+## Citation format for the sources doc
+
+Each claim in a feature's sources doc gets one block, in article or script order. The sources doc rows match the fact-check log one to one.
+
+Fields, in this order:
+
+1. Fact ID (from the Fact Ledger)
+2. Claim as printed or spoken
+3. Level (one of the six levels; two lines if the split rule applies)
+4. Chain (written as above)
+5. Citation: author or body, year, title, edition, printed p., scan p., stable ID or URL
+6. Tier (1 to 6)
+7. Quote level, if the line quotes anyone (Q0 to Q3), and translation note
+8. How reached, with date
+9. Search scope, if the claim is a superlative or an absence
+10. Flags: UNREAD, CHECK, or none
+
+Worked example (shape only; the details are placeholders):
+
+> **F-031** · "The order came from the minister's office."
+> Level: Likely
+> Chain: Cabinet minutes [ref] cited in Smith 1998 (one chain)
+> Citation: Smith, J. (1998). *Title of Book*. 2nd ed. Publisher. p. 112 (scan p. 130). Catalogue ID [ref].
+> Tier: 3 (minutes unread)
+> Quote level: n/a
+> How reached: library e-book, 2026-11-20
+> Search scope: n/a
+> Flags: UNREAD (minutes); guardrail "according to Smith"
+
+Split-rule example:
+
+> **F-044a** · Attribution: the biographer quotes him saying it. Level: Proven (Q2, edition noted).
+> **F-044b** · Content: what he said happened. Level: Likely (one chain).
+
+## Self-check before you hand in
+
+- [ ] Every fact has a tier 1 to 4 source, and no tier 5 or 6 source stands alone.
+- [ ] Every chain is written out, and Proven rows show a primary seen or two independent chains.
+- [ ] Every quote has a level; Q3 quotes name the go-between; Q0 lines carry no quote marks.
+- [ ] Every cut has an ellipsis; no qualifier was dropped; assembled quotes were rechecked as one piece.
+- [ ] Every translation says whose English and has a second reader logged.
+- [ ] Scan pages and printed pages are separate fields.
+- [ ] Every superlative or absence has a logged search scope that matches its wording.
+- [ ] Every "read via tool" fact headed for print has been read by eye.
+- [ ] Every source row says how it was reached.
+
+# 04 · Checking and Corrections
+*v0.1 · DRAFT · 2026-11-24 · Owner: Research Librarian · Approved by: not yet approved*
+
+This page sets out how every fact is checked before it reaches print or air, what "done" means for a deliverable, and how errors are corrected before and after publication. Checkers, research leads and anyone who finds an error use it.
+
+## Independent checker rules
+
+The independent check is gate R7 for the magazine package and part of gate R9 for the YouTube extension (see page 01, The Research Process).
+
+- The checker did no research on the topic and wrote nothing in the piece.
+- The lead never closes their own gaps. If the lead checks a fact, that check does not count as independent.
+- Writers, art and layout never grade their own work.
+- The checker works in a fresh session (for an agent) or from a clean brief (for a person). They read the sources. They do not read the reports' reasoning.
+- Outside AI tools (Track B) may help with bounded checks, but never as the last check on anything. Their output goes through a Track H or Track A checker.
+- Proposed default, not yet approved: a fresh AI agent in a new session runs all checks; a human checker runs covers and Red-tier items once there is budget (DEC-2026-007).
+
+### What the checker gets
+
+1. A numbered list of the exact lines to check, as they will run.
+2. The Fact Ledger and the sources doc.
+3. The topic's Must NOT list and Rulings Index entries.
+4. Host input (any lines the hosts will say in their own words), filled in before the check starts.
+5. The search scope log for any superlative or absence.
+
+If any input is missing, the checker stops and reports it. The check does not start on a guess.
+
+### What the checker returns
+
+One result for every line, in the fact-check log below. "Unchecked" is a correct answer when budget or access ran out. A guess is a failure.
+
+## Budget is reserved first
+
+The checker runs last, so the checker's searches are set aside before anyone else spends.
+
+1. Before R2, count the print-bound facts you expect. Reserve one search per print-bound fact, plus 10, for the checker.
+2. Run the check in a fresh session with that reserve.
+3. Spend the reserve on the mandatory set first.
+4. When the video is confirmed at R9, reserve checking budget the same way for every new air-bound fact, the title and the thumbnail.
+5. Any fact still unchecked blocks lock. It is hedged, cut or held. It is never printed or aired at its old rating.
+
+### The mandatory set (funded first)
+
+- [ ] Cover
+- [ ] Title
+- [ ] Thumbnail
+- [ ] Headline
+- [ ] Teaser
+- [ ] Cold open
+- [ ] Craziest part
+- [ ] Withheld object
+- [ ] Biggest number
+- [ ] Twist
+- [ ] Other-side quote
+- [ ] Every direct quote
+- [ ] Every number
+- [ ] Every claim about a living person
+
+## Light fact pass at outline stage
+
+Errors caught at outline cost a line. Errors caught in a near-final script cost a rewrite.
+
+When a story outline or spine is ready, someone who did not write it runs a light pass:
+
+1. Give every factual line in the outline a fact ID from the ledger.
+2. Mark any line whose wording is stronger than its level (see page 02, How Sure Are We?).
+3. Mark any line with no ledger row. It becomes a change request before it can stay.
+4. Check the outline against the Must NOT list and the Killed Claims list.
+5. Log the result in the research log.
+
+This pass does not replace R7. It catches problems early so R7 has fewer.
+
+## The fact-check log
+
+One log template for every product: magazine, script, Shorts, description, packaging.
+
+### Header
+
+- Product and version
+- Checker name (or agent model and version)
+- Date
+- Scope (which lines, which gate)
+- Search budget reserved and used
+- Blocked sites met
+- Access needed list
+
+### Columns
+
+| Field | What goes in it |
+|---|---|
+| Fact ID | From the Fact Ledger |
+| Exact wording | The line as it runs, character for character |
+| Where it runs | Page, timecode, title, thumbnail, Short, description, pinned comment |
+| Level | One of the six levels |
+| Safe wording | The wording the level allows |
+| Source chain | Tier, citation, printed p. or scan p., ID or URL (see page 03, Sources and Quotes) |
+| Quote level | Q0 to Q3, if the line quotes anyone |
+| Search scope | Database, dates, terms (for "first", "only", "never") |
+| Result | One result code (below) |
+| Fix | The new wording, or "none" |
+| Severity | MUST FIX, SHOULD FIX or NOTE |
+| Route code | FACT, DRIFT or EAR (optional) |
+| Sign-off | Who closed the row, and the date |
+
+### Result codes
+
+| Code | Meaning |
+|---|---|
+| Confirmed | The source says what the line says, at the stated level |
+| Confirmed with correction | True once the fix is made |
+| Not confirmed | The checker could not find support |
+| Wrong | The source contradicts the line |
+| Unchecked | Not reached (budget or access). Never left blank. |
+
+### Severities
+
+| Severity | Meaning |
+|---|---|
+| MUST FIX | Blocks lock until fixed |
+| SHOULD FIX | Fix before lock, or the lead logs why not |
+| NOTE | No change needed; recorded for the file |
+
+### Route codes (optional)
+
+| Code | Meaning |
+|---|---|
+| FACT | The fact is wrong or unsupported |
+| DRIFT | The wording is stronger than the level (an intensifier, a dropped hedge, a cropped quote) |
+| EAR | The line reads right but will mislead when heard aloud |
+
+## Definition of Done
+
+A deliverable is verified when all of these hold. The criteria are from plan section 7.4, word for word.
+
+- [ ] every factual sentence has a fact ID with a level and a tier 1 to 4 chain
+- [ ] every quote is Q1 or Q2, or attributed as Q3
+- [ ] the mandatory set is checked independently with zero Wrong and zero Not confirmed
+- [ ] open CHECKs are zero or signed off
+- [ ] the Must NOT list is checked line by line
+- [ ] a cover sheet discloses counts (checked, unchecked, unread, blocked sites, AI tools used)
+- [ ] the researcher and checker both sign
+
+A Not confirmed result that the team wants to keep needs Heather's signature in the Decision Register (gate R7).
+
+## Cover sheet disclosure
+
+Every checked deliverable ships with a cover sheet on top of the log.
+
+| Field | Example |
+|---|---|
+| Deliverable and version | RP-012 Topic – Feature – v0.4 – IN REVIEW |
+| Facts checked | 41 |
+| Unchecked | 0 (or list IDs and what was done: hedged, cut, held) |
+| UNREAD | 2 (IDs, guardrail wording) |
+| Blocked sites met | Names, and Source Access Registry rows |
+| AI tools used | Tool, model and version, and what each was used for |
+| Open CHECKs | 0, or each with its sign-off |
+| Researcher sign-off | Name, date |
+| Checker sign-off | Name, date |
+
+## Fix loops
+
+1. The checker returns the log.
+2. The writer or lead fixes every MUST FIX and SHOULD FIX row, or logs why a SHOULD FIX stays.
+3. The checker re-checks the changed lines only, plus any line the fix touched.
+4. At most two fix loops after a failed check. A third failure goes to Heather with both reports, on one decision page.
+
+The lead may rule on wording-level conflicts where the lower rating wins. Anything that changes the thesis, a title word or a locked doc goes to Heather.
+
+## Corrections before publication
+
+- Every correction on the scorecard is applied before lock.
+- Each one is logged as applied in the fact-check log, with the fact ID and the new wording.
+- A change request found during scripting, art or layout gets a ledger row, a level and a check before anyone uses it.
+
+## Corrections after publication
+
+Each product has one dated public corrections page. Each entry says what changed, when, and why.
+
+### Entry format
+
+Use the E-number format.
+
+| Field | What goes in it |
+|---|---|
+| E-number | E-001, E-002 and so on, per product |
+| Date posted | YYYY-MM-DD |
+| Where | Page, or timecode |
+| Printed or said | The original wording |
+| Change to | The corrected wording |
+| Why | One plain sentence |
+| Source | The citation that settles it |
+| Type | Correction, Qualifier, Proof-box label, or Clarification |
+| Confidence | High or Medium |
+
+### Per format
+
+| Format | What to do |
+|---|---|
+| Print magazine | Run the correction in the next issue, in the same type size as the error. Post it on the corrections page. |
+| KDP book | Publish a corrected edition with an edition note saying what changed. Post it on the corrections page. |
+| YouTube video | Pin a comment and add a line to the description. For a material error, add an on-screen fix. Post it on the corrections page. |
+| Shorts and clips | Checked and corrected like the parent video. |
+| Sources doc | Updated in the same release, with a dated note. |
+
+### DEC-2026-004: known errors are posted publicly
+
+Heather decided on Nov 24, 2026 that known errors are posted publicly.
+
+- Future confirmed errors are posted within 14 days of confirmation (proposed default, not yet approved: Heather has still to confirm the 14-day figure).
+- The clock starts on the date the checker logs the error as confirmed.
+- The Vol. 1 corrections page is drafted. It is not published. Heather approves it before it goes live.
+- Nobody but Heather marks a corrections page published (see page 05, Never-Break Rules and Legal, rule 10).
+
+## Propagation checklist
+
+A correction is not finished until every place that used the fact is fixed. The Fact Ledger is the master. When magazine and video disagree, neither wins: the ledger is fixed, and this checklist fixes both (proposed default, not yet approved, DEC-2026-016).
+
+Run this for every correction, before or after publication:
+
+- [ ] Fact Ledger row updated (statement, level, check status, last changed)
+- [ ] Rating-change row written, with the reason
+- [ ] Rulings Index updated if the fact was disputed
+- [ ] Killed Claims list updated if the claim is now Refuted or banned
+- [ ] Sources doc updated, with a dated note
+- [ ] Magazine (current file, and the corrections page if published)
+- [ ] Every script version still in use
+- [ ] Shorts and clips
+- [ ] Title, thumbnail, description, pinned comment, community posts
+- [ ] Any template, skill, role card or locked doc example that teaches the error
+- [ ] Old versions moved to _Superseded with the SUPERSEDED prefix
+- [ ] Corrections page entry drafted, if the product is public
+- [ ] Incident Log row (what, root cause, cost, control)
+
+The "used in" column of the Fact Ledger tells you where to look. If it is blank, search every product in the Research Register for the fact ID and the wording.
+
+## Reader reports
+
+Every report from a reader gets an ID, a checker and an answer.
+
+| Field | What goes in it |
+|---|---|
+| ID | RR-001, RR-002 and so on |
+| Date received | YYYY-MM-DD |
+| Product and location | Issue and page, or video and timecode |
+| What the reader says | Their claim, quoted |
+| Their evidence | What they sent, if anything |
+| Checker | Someone who did not write the piece |
+| Result | One result code |
+| Action | None, or the E-number of the correction |
+| Answer drafted | Date |
+| Answer sent | Date, and who sent it |
+
+Steps:
+
+1. Log the report the day it arrives.
+2. Assign a checker.
+3. Check it like any other fact, against sources.
+4. If the reader is right, the confirmation date starts the 14-day clock. Run the propagation checklist.
+5. Draft a short, plain answer. Only Heather, or someone she names, sends it. Vendors and agents never contact readers directly.
+
+## Incident Log
+
+Every miss gets a row in the Incident Log: what happened, root cause, cost, and the control that stops it next time. The log is reviewed after each issue ships.
+
+# 05 · Never-Break Rules and Legal
+*v0.1 · DRAFT · 2026-11-24 · Owner: Research Librarian · Approved by: not yet approved*
+
+This page holds the ten rules every vendor signs and every agent loads, plus the house standards for living people, opinion, images, AI visuals, access to sources, privacy and hate tropes. SIDE EYE has no lawyer, so the legal gate on this page is how we keep risky lines out of print and off air.
+
+## The Never-Break Rules
+
+Every vendor signs these on intake. Every agent loads them in its short system prompt. Some breaks are critical errors that end probation at once: an invented source, a workaround past a block, a hate trope (see page 08, Onboarding).
+
+1. Never invent a quote, fact, source or detail.
+2. Never state or imply that a living person committed a crime, fraud, cover-up, sexual misconduct or corrupt deal unless a court, regulator or their own words establish it. Use the exact legal outcome.
+3. Never present association as participation (a shared document, club, board or neighbor).
+4. Never use antisemitic, Illuminati or similar tropes as evidence or explanation.
+5. Never get past a site that refuses access, and never use pirated copies.
+6. Never use an image whose licence you did not read yourself.
+7. Never generate footage of a real person acting, or anything that passes for a real document.
+8. Never name or show a private person who is not central to the story.
+9. Never contact a subject, source, archive or lawyer on SIDE EYE's behalf without Heather's yes.
+10. Never mark work Approved or Published.
+
+### Signature block
+
+| Field | Entry |
+|---|---|
+| Name (or agent model and version) | |
+| Track (H, A or B) | |
+| Role | |
+| Portal version read | v0.1 |
+| Date | |
+| Signature | |
+
+## Living people: risk tiers
+
+The research lead sets a risk tier for every person in the piece at R0 (intake). The tier can go up at any gate. It never goes down without a logged reason.
+
+| Tier | Who | What is allowed |
+|---|---|---|
+| Green | Dead or historical people | The normal rating rules (page 02, How Sure Are We?) |
+| Amber | A living public figure | Documented facts only, with the source named |
+| Red | A living person plus any of: crime, fraud, sex, health, coordination, money-for-favors. Or any private person. | Court and filing language only. Every Red item gets a Must NOT line and a safe-wording line in the Living Person Register. |
+
+The audience is global. UK and Australian defamation law favors the person suing more than US law does. Write every line as if it will be read there.
+
+### The Living Person Register
+
+One register per research package, opened at R0 and checked at R7 and R9.
+
+| Field | What goes in it |
+|---|---|
+| Person | Name, or "private person" with a role |
+| Public or private | Public figure, or private person |
+| Tier | Green, Amber or Red |
+| What the piece says | The exact line or lines |
+| Fact IDs | From the Fact Ledger |
+| Legal outcome | The exact outcome, with court or regulator and date, or "none" |
+| Safe wording | The wording allowed |
+| Must NOT line | The wording banned, with the reason |
+| Their response | Any public denial or answer. If one exists, the piece says so. |
+| Photo status | Free photo with licence read, or name card |
+| Checked by | Name and date |
+
+## Court and filing vocabulary
+
+Use these words, exactly, when a living person is in a wrongdoing frame. Every statement of guilt tracks the outcome count by count.
+
+| Term | Use it when | Generic example |
+|---|---|---|
+| charged | A prosecutor filed charges; no verdict yet | "Person X was charged with two counts of..." |
+| convicted on counts | A court convicted on some or all counts | "convicted on four counts and acquitted on three" |
+| acquitted on counts | A court acquitted on some or all counts | Always say which counts, next to any conviction |
+| settled without admission | A case settled and the terms say no liability was admitted | "The company settled without admitting wrongdoing." |
+| ruled false | A court ruled a statement false | Say exactly what the court decided, and what it did not decide (for example, falsity decided, liability not decided) |
+| alleged in a filing | A claim appears in a court filing and has not been decided | "A 2019 lawsuit alleged that..." |
+| reported by an outlet | Only the press has said it | "The [outlet] reported that..." |
+
+Words that need a court outcome before they run about a living person: "fraud", "lied", "cover-up", "bribe", "found liable", "crook", "criminal". A label the person gave themselves, or a claim from a single interested source, carries "he says", "she says" or "they say" every time.
+
+## Proof standards for wrongdoing claims
+
+These apply to the dead as well as the living. Fix them before the red team attacks a claim (gate R5).
+
+- Coordination needs a document that shows agreement.
+- Bribery needs money paid before or during the event.
+- Being named in a document proves contact, and nothing more.
+- Ordinary business (loans, fees, patents, board seats) is legal unless a document says otherwise.
+- A network overlap must beat the base rate: how many people in that circle would overlap by chance?
+- A suspicious date is a lead. It is not evidence.
+- A circular citation counts once (page 03, Sources and Quotes).
+
+## DEC-2026-005: no lawyer, so we soften or cut
+
+Heather decided on Nov 24, 2026: there is no lawyer and no legal review. The "legal gate" is a checklist run by someone who did not write the piece.
+
+- Any line that puts a living person in a wrongdoing frame is always softened to court and filing language, or cut.
+- A Red-tier line that fails any item on the checklist is softened or cut. There is no third option and no outside read.
+- The gate runs at R7 for the magazine, at R9 for the video, and again before any Short, clip or packaging change that touches a living person.
+
+### Who runs the legal gate
+
+- Someone who did not write the piece and did not research the living-person lines.
+- An agent counts if it runs in a fresh session with no part in the writing.
+- They sign and date the checklist. The signed checklist is filed with the fact-check log.
+
+### The legal gate checklist
+
+Run every item. Mark each Pass or Fix. A Fix is softened or cut, and the line is checked again.
+
+**Living people**
+
+- [ ] The Living Person Register lists every living person named or shown, with a tier.
+- [ ] Every Red item has a Must NOT line and a safe-wording line.
+- [ ] Every line about a living person matches its register row word for word.
+- [ ] No line states or implies a crime, fraud, cover-up, sexual misconduct or corrupt deal without a court outcome, a regulator's finding or the person's own words.
+- [ ] Every legal outcome uses the court and filing vocabulary and tracks the counts.
+- [ ] No line presents association as participation.
+- [ ] Any public denial or answer from the person is included.
+- [ ] No private person is named or shown unless central and named in the public record.
+
+**Must NOT and Killed Claims**
+
+- [ ] The topic's Must NOT list was checked line by line against the text, the script, the Shorts and the packaging.
+- [ ] No line from the Killed Claims list appears, in any wording.
+
+**Opinion**
+
+- [ ] Every opinion line is in the Opinion Register.
+- [ ] Every opinion line has the facts it rests on said in the same segment.
+- [ ] No opinion about a living person implies a hidden fact or a crime.
+- [ ] No Short, clip or packaging is drawn from an opinion segment about a living person.
+
+**Packaging**
+
+- [ ] No living person's face sits next to a crime word in a title, thumbnail, cover or Short.
+- [ ] No opinion about a living person appears in a title, thumbnail, Short, pinned comment or community post.
+- [ ] Packaging uses only levels allowed for packaging (page 02, How Sure Are We?).
+
+**Images and AI**
+
+- [ ] Every image has a CREDITS row with its licence read, and it is on the allowed list.
+- [ ] Every agency photo posted under CC by someone else has a second check logged.
+- [ ] Living people with no free photo are shown with name cards.
+- [ ] No edit plays up a living person's looks or expression.
+- [ ] No generated visual passes the pause test as a real photo, film or document.
+
+**Access and privacy**
+
+- [ ] Every source records how it was reached. None came through a bypass, mirror, shadow library or borrowed login.
+- [ ] Officers and staff named in filings are blurred, and relatives in filings are left out unless they are the story.
+- [ ] No suicide method is described.
+
+**Hate tropes**
+
+- [ ] No trope is used as evidence or explanation.
+- [ ] Any trope material was flagged to the lead, and any debunk on the page has Heather's sign-off.
+
+**Escalation triggers** (any Yes means every line it touches is softened or cut, and the lead tells Heather)
+
+- [ ] Does any Red-tier line survive editing?
+- [ ] Does the piece name a living person's crime or sexual conduct that is not a court outcome?
+- [ ] Is any subject known to sue publishers?
+- [ ] Is any Short or clip drawn from an opinion segment?
+- [ ] Does any design look like real currency or an official document?
+
+| Sign-off | Entry |
+|---|---|
+| Run by | |
+| Did not write or research the piece | Yes |
+| Date | |
+| Lines softened | Fact IDs |
+| Lines cut | Fact IDs |
+
+## Packaging rules
+
+Titles, thumbnails, covers, teasers, descriptions, pinned comments, community posts and Shorts are rated and checked like the body (page 02 and page 04).
+
+- No living person's face next to a crime word.
+- No opinion about a living person in titles, thumbnails, Shorts, pinned comments or community posts.
+- No proof stamps or rating badges on screen (DEC-2026-002, DEC-2026-017).
+- Title and thumbnail are written after the script (DEC-2026-018).
+- A hate trope never appears in packaging, even as a debunk.
+
+## Opinion and the Opinion Register
+
+Heather's rule stays. Opinion is stated strongly. Scripts and outlines carry no opinion tags. The screen shows the corner "opinion" tag.
+
+For legal visibility, each piece keeps a separate Opinion Register in its legal file. Writers do not mark opinions in the script. The register is filled from the final script, and the legal gate checks it.
+
+| Field | What goes in it |
+|---|---|
+| Line | The exact opinion line |
+| Speaker | Heather or Edwin |
+| Facts it rests on | Fact IDs, and where they are said in the same segment |
+| Living person? | Yes or No, and tier |
+| Where it runs | Timecode, page |
+| Clip risk | Could this line be cut into a Short or clip without its facts? |
+
+Rules:
+
+- An opinion about a living person may not imply hidden facts or a crime.
+- The format where a host floats a theory and the other host answers it is for the long dead. A clip drops the answer, so never use it for a living person in a wrongdoing frame.
+
+## Must NOT lists travel
+
+One MUST_NOT file per topic, built at R5 from the scorecard and the red team.
+
+- It is a required input to every downstream brief: spine, script, packaging, art and Shorts.
+- Script lint checks every draft against it.
+- Every line also goes on the cross-topic Killed Claims list, so a refuted line cannot return in a later product.
+
+Each line has four parts:
+
+| # | Banned line | Reason | Safe wording |
+|---|---|---|---|
+| 1 | "Six men in a Melbourne office, one of them Keith Murdoch." | Every scholarly list of the Group of Six leaves him out. | Name only the men the scholarly lists name. Describe his documented role on its own line, at its own level. |
+| 2 | "Person X ran the scheme." (generic) | No document shows X took part; X sat on the board. | "X sat on the board that approved it." |
+
+## Images
+
+Read the licence yourself, on the licence page, before the image goes in a CREDITS row.
+
+| Allowed | Not allowed |
+|---|---|
+| Public domain | Non-commercial licences (NC) |
+| CC0 | No-derivatives licences (ND) |
+| CC BY | "Built, not opened" (a URL made up and never opened) |
+| CC BY-SA | A blank source line |
+| US government works | Paid licences, unless Heather says yes |
+
+Rules:
+
+- A photo credited to an agency but posted under CC by someone else gets a second check: did the poster have the right to license it? Log who checked and when.
+- Living people with no free photo get name cards. Never a generated face.
+- Never edit a living person's photo to play up their looks or expression.
+- Copyrighted text is limited to headline crops and short typeset quotes.
+
+### CREDITS fields
+
+File · what it shows · creator · licence · licence page opened (URL) · checked by · date · commercial use OK · edits allowed · share-alike note · credit line · living person Y/N · second check (if needed).
+
+## AI visuals
+
+- Generated art never shows a specific real event, record or document in a documentary style.
+- Never generate footage of a real person acting (rule 7).
+- AI video illustrates an idea (a newspaper being read, a letter being written). It must never pass for real footage of a real person.
+- The pause test: if a viewer paused here, could they take this for a real photo, film or document? If yes, change it or cut it.
+- Never imitate a period document, a bank record, a wire slip, a hidden-camera shot or any other thing that could be read as evidence.
+
+## Access to sources
+
+| Allowed | Not allowed |
+|---|---|
+| Open-access routes | Getting past a bot challenge or refusal yourself |
+| Publisher full-text search | Mirrors or caches of a page that refused you |
+| Library catalogues | Shadow libraries and pirated copies |
+| A second legitimate host of the same public-domain text | Borrowed logins |
+| Books obtained lawfully | Paywall workarounds |
+| Heather opening a site in her own browser (DEC-2026-003) | |
+
+A tool or proxy limit is logged as a tool limit. It is never permission to go around the site.
+
+### DEC-2026-003: asking Heather to open a blocked site
+
+Heather decided on Nov 24, 2026: when a site blocks research, agents may ask Heather to open it in her own browser. Agents never get past a block themselves.
+
+1. Log the block in the Source Access Registry: source, block type (bot page, robots.txt, 403, rate limit, timeout), date seen, what you need from it.
+2. Check the registry first. The site may already have an approved route.
+3. Meanwhile, keep the fact at its last rating, flag it UNREAD, and add a guardrail in copy. Write down the exact search that would settle it.
+4. Add the request to the research log. If the work can wait, the request waits for the next gate, so Heather gets one batch.
+5. The lead puts the batch on the decision page for that gate.
+
+What is logged when Heather opens it:
+
+| Field | Entry |
+|---|---|
+| Who asked | Agent or vendor, and package |
+| Who opened it | Heather |
+| When | Date and time |
+| What was read | Exact pages, records or searches |
+| What it settled | Fact IDs and new levels |
+
+The source row then records "Heather's browser" as how it was reached (page 03, Sources and Quotes).
+
+## Privacy
+
+- Name a private person only when they are central to the story and named in the public record.
+- Blur officers and staff who appear in filings.
+- Leave relatives named in filings out unless they are the story.
+- Never describe a suicide method.
+- Vendors get folder-level access only. Search only inside the folders you were given. If a search shows you anything outside your project, close it, do not copy it, and tell the lead.
+
+## Hate tropes
+
+- No antisemitic, Illuminati or similar trope is used as evidence or as an explanation (rule 4).
+- A historical person's documented bigotry may be quoted as evidence about the person who wrote it, with context and any recorded regret (the Monash precedent).
+- Flag any Rothschild, "Jewish bankers" or Barruel material to the lead at once.
+- Debunking a trope on the page needs Heather's sign-off for each item, and never appears in packaging (proposed default, not yet approved, DEC-2026-015).
+- Using a trope as evidence is a critical error. It ends probation.
+
+## Escalation
+
+| What you see | What you do |
+|---|---|
+| A Red-tier line, or a line you think might be one | Add it to the Living Person Register and tell the lead the same day |
+| Trope material | Flag it to the lead at once |
+| A blocked site | Log it in the Source Access Registry; follow DEC-2026-003 |
+| An image whose licence you cannot read | Leave it out |
+| A rule on this page that conflicts with another doc | This page wins over older docs; Heather's rulings win over this page. Log the conflict for the Research Librarian. |
+| Anything that needs Heather | Add it to the question file with a proposed answer; the lead batches it for the next gate. Vendors never message Heather directly about research. |
+
+## AI use disclosure
+
+Proposed default, not yet approved (DEC-2026-014):
+
+- One public line in the magazine colophon, the channel About page and each video description saying that AI tools help with research and art.
+- Before each release, check YouTube's current label rules for realistic synthetic media and KDP's current AI-content question, and answer them truthfully.
+
+Inside the research, always:
+
+- Every research file states who or what made it: person or agent, tool, model and version, date.
+- The cover sheet lists every AI tool used and what it was used for (page 04, Checking and Corrections).
+- AI output is never a source (page 03, Sources and Quotes).
+
+# 06 · Templates and Checklists
+*v0.1 · DRAFT · 2026-11-24 · Owner: Research Librarian · Approved by: not yet approved*
+
+This page holds every fill-in document, sheet and prompt a research package uses, from intake (R0) to the YouTube extension (R9) and corrections after publication. Each template says when it is used, who fills it, and gives a skeleton you can copy straight into a Google Doc or Sheet.
+
+## How to use this page
+
+1. Find the template for your gate in the index below.
+2. Copy the skeleton from its code block into a new Google Doc or Sheet in the package folder named in the template.
+3. Name the file with the naming standard below. Put the same line at the top of the doc.
+4. Fill every field. Write "none", "n/a" or "Unchecked" when that is the answer. Never leave a field blank.
+5. File it in Drive before you report the work as done. Nothing counts as delivered until it is in Drive.
+
+The master of every template is a Google Doc or Sheet. Markdown and CSV copies for agents are built from the master and never hand-edited.
+
+## Naming standard
+
+Every research file uses one name pattern:
+
+```
+RP-### Topic – Doc type – vX.Y – STATUS – YYYY-MM-DD
+```
+
+Example: `RP-004 Keith Murdoch – Sources – v2.0 – APPROVED – 2026-10-16`
+
+| Part | Rule |
+|---|---|
+| RP-### | The package ID from the Research Register. It never changes, even when a volume is renumbered. |
+| Topic | Short and plain. The same words in every file of the package. |
+| Doc type | The name given in each template below (Brief, Desk Report, Fact Ledger and so on). |
+| vX.Y | v0.x before approval, v1.0 at first approval. A minor step (v1.1) is wording or a source fix with no rating change. A major step (v2.0) changes a rating, adds or kills a claim, or changes the thesis. Numbers never restart. |
+| STATUS | DRAFT, IN REVIEW, APPROVED, LOCKED (standards only) or SUPERSEDED. Only Heather sets APPROVED or LOCKED. |
+| Date | ISO format in the file name (2026-11-24). Written out in body text (Nov 24, 2026). |
+
+The first line inside every doc repeats the name, and the second line gives the approver:
+
+```
+RP-### Topic – Doc type – vX.Y – STATUS – YYYY-MM-DD
+Package: RP-### · Owner: [role, human or agent] · Approved by: [Heather, or "not yet approved"]
+```
+
+Retired files are renamed `SUPERSEDED (use vX.Y) – [old name]` and moved to the package's `_Superseded` folder the same day. Never the trash. Never left beside the live file. Folders never carry "CURRENT".
+
+## Template index
+
+| # | Template | Gate | Who fills it | Doc type in file name | Folder |
+|---|---|---|---|---|---|
+| T01 | Common brief | R1 | Research lead | Brief | 00 Brief and Log |
+| T02 | Desk report with links table | R2 | Desk researcher, book reader | Desk Report | 01 Desk Reports |
+| T03 | Access list | R2, R3 | Every researcher adds; research lead owns | Access List | 00 Brief and Log |
+| T04 | Fact Ledger (sheet) | R4 onward | Research lead builds; checker writes check columns | Fact Ledger | 05 Data |
+| T05 | Conflict register | R4 | Research lead | Conflict Register | 02 Claims and Red Team |
+| T06 | Claims and proof standards | R5 | Research lead, before any attack | Claims | 02 Claims and Red Team |
+| T07 | Red-team prompt | R5 | Research lead launches; red team returns | Red Team Report | 02 Claims and Red Team |
+| T08 | Myth-buster prompt | R5 | Research lead launches; myth-buster returns | Myth-Buster Report | 02 Claims and Red Team |
+| T09 | Independent checker prompt | R7, R9 | Research lead launches; checker returns | Fact-Check Log | 03 Checks |
+| T10 | Scorecard with Must NOT list | R5 | Research lead | Scorecard; Must NOT | 02 Claims and Red Team |
+| T11 | Template A dossier | R9 (video) | Research lead and assigned researchers | Template A Dossier | 04 Package |
+| T12 | Fact-check log with cover sheet | R7, R9 | Independent checker | Fact-Check Log | 03 Checks |
+| T13 | Living Person Register | R0, checked at R7 | Research lead | Living Person Register | 00 Brief and Log |
+| T14 | Opinion Register | R6, checked at R7 | Research lead, with writers | Opinion Register | 04 Package |
+| T15 | CREDITS (images and footage) | Before any image is used; checked at R7 | Whoever sources the image | CREDITS | 06 Source Files |
+| T16 | Legal gate checklist | R7 | Someone who did not write the piece | Legal Gate | 03 Checks |
+| T17 | Decision-needed page | Any gate | Research lead | Decision Needed | 00 Brief and Log |
+| T18 | Rulings file | Any gate | Research lead records; Heather rules | Rulings | 00 Brief and Log |
+| T19 | Research log, with waivers and handoff note | All gates | Research lead | Research Log | 00 Brief and Log |
+| T20 | Research change request | After R8, and all R9 additions | Anyone downstream raises; lead logs; checker checks | Change Request | 00 Brief and Log |
+| T21 | Hand-off checklist (magazine R8, video R9) | R8, R9 | Research lead | Hand-off | 04 Package |
+| T22 | Corrections entry | After publication | Independent checker, with the librarian | Corrections | 04 Package |
+| T23 | Decision Register row | Any time Heather decides | Research librarian | (one sheet in 02 Logs) | 02 Logs |
+| T24 | Source Access Registry row | Any block, any gate | Whoever meets the block; librarian keeps | (one sheet in 02 Logs) | 02 Logs |
+
+## Shared vocabularies
+
+Use these words exactly in every template.
+
+| Field | Allowed values |
+|---|---|
+| Level | Proven, Strongly supported, Likely, Contested, Unsupported, Refuted |
+| Flags (not levels) | UNREAD (cited but blocked; keep the last level and add a guardrail), CHECK (open item) |
+| Source tier | 1 Primary, 2 Published edition or transcription, 3 Scholarly secondary, 4 Press and popular history, 5 Wikis and aggregators (pointers only), 6 AI output and our own work (never a source) |
+| Quote level | Q1 (primary image or original-language text), Q2 (reliable published transcription), Q3 (only as quoted by a secondary), Q0 (unchecked, paraphrase only) |
+| Seen type | PRIMARY, SECONDARY, CITED-IN |
+| Check result | Confirmed, Confirmed with correction, Not confirmed, Wrong, Unchecked |
+| Severity | MUST, SHOULD, NOTE |
+| Route code | FACT, DRIFT, EAR |
+| Living person risk tier | Green (dead or historical), Amber (living public figure, documented facts only), Red (living person plus crime, fraud, sex, health, coordination or money-for-favors, or any private person) |
+| Research tier | A (every gate), B (R1, R4, R7 against an existing ledger), C (R7 on any fact stated) |
+| Row status | Researched, SEED, Refuted |
+| File status | DRAFT, IN REVIEW, APPROVED, LOCKED, SUPERSEDED |
+
+Full rules for levels live on page 02 (How Sure Are We?). Source and quote rules live on page 03 (Sources and Quotes).
+
+## T01 · Common brief
+
+**Used at:** R1. Written once the question is approved at R0. Locked before R2 starts. Changes after that are listed at the bottom, never typed over.
+**Filled by:** Research lead.
+**Read by:** Every desk researcher, book reader, red team, myth-buster and surprise hunter, before they start.
+
+```
+RP-### Topic – Brief – v0.1 – DRAFT – YYYY-MM-DD
+Package: RP-### · Owner: Research lead · Approved by: not yet approved
+
+1. THE QUESTION
+   Testable question (names, places, years):
+   Pitch status: untested
+   Formats: Magazine first. Likely video: yes / no / unknown
+   Research tier: A / B / C
+   Living person risk tier: Green / Amber / Red (see Living Person Register)
+
+2. WHAT ALREADY EXISTS (R1 inventory)
+   Files read, with link and what each holds:
+   Current corrected sources doc for this topic:
+   Past corrections that touch this topic:
+   Decision Register IDs that apply (DEC-YYYY-NNN):
+   Killed Claims that apply (MN IDs and reason):
+   Rulings that apply:
+
+3. ESTABLISHED FACTS (each with level and fact ID if one exists)
+   - [fact] · [level] · [chain]
+
+4. RULES FOR THIS JOB
+   - Never-Break Rules (page 05) apply in full.
+   - Use the six levels only. Rate attribution and content on separate lines.
+   - Our own reports, scripts, magazine and any AI output are never a source.
+   - Quote character-exact, with the qualifier, an ellipsis for every cut.
+   - A blocked site goes on the Access List. Never get past it.
+   - Unchecked is a correct answer. A guess is a failure.
+
+5. BUDGET
+   Phase 1 total searches: ~200
+   Per desk agent: 30 · Red team and quick checks: 15
+   Checker reserve (set aside now): [print-bound facts] + 10 = [N]
+
+6. KNOWN BLOCKED SITES (from the Source Access Registry)
+   - [source] · [block type] · [approved route or "none yet"] · [what to do meanwhile]
+
+7. DESKS AND ROLES
+   | Desk or role | Who (human/agent, model) | Questions | Search cap | Output file |
+
+8. RETURN FORMAT
+   Full report to the named Drive file. Summary of 200 to 450 words
+   (350 for red team). Use the Desk Report template (T02).
+
+9. CHANGES TO THIS BRIEF AFTER LOCK
+   | Date | Change | Why | Who |
+```
+
+## T02 · Desk report with links table
+
+**Used at:** R2 (and R3 gap teams and book readers).
+**Filled by:** Desk researcher or book reader. One report per desk or chunk.
+**Passes when:** the report is in Drive, every finding has a level and a link ID, and the access list rows are added to T03.
+
+```
+RP-### Topic – Desk Report – [desk name] – v0.1 – DRAFT – YYYY-MM-DD
+Package: RP-### · Desk: [name] · Researcher: [name or agent + model] · Date:
+
+SUMMARY (200 to 450 words)
+
+RATED FINDINGS
+| # | Finding (one sentence) | Level | Attribution or content? | Source tier | Link IDs | Quote level | Notes |
+|---|---|---|---|---|---|---|---|
+
+LINKS TABLE
+| Link ID | Full citation | Tier | Stable ID or URL | How reached | Date read | Page or scan p. | Used for finding # |
+|---|---|---|---|---|---|---|---|
+How reached = direct / second legitimate host / allowed search route
+(in-book search, full-text search, snippets) / opened by Heather in her
+browser on [date].
+
+LEADS NOT FOLLOWED
+| Lead | Why it matters | Suggested search |
+
+ACCESS NEEDED (also add each row to the Access List, T03)
+| Item | Full citation | Why | Block type |
+
+COULD NOT REACH OR CONFIRM
+- [what, and why]
+
+SEARCHES USED: [n] of [cap]
+AI TOOLS USED AND FOR WHAT:
+```
+
+## T03 · Access list
+
+**Used at:** R2 (rows added) and R3 (each row closed).
+**Filled by:** Every researcher adds rows. The research lead owns the list and closes it.
+**Passes R3 when:** every row is marked Got, Ordered or Waived.
+
+Heather may open a blocked site in her own browser (DEC-2026-003). The research lead batches those requests and sends them at the next gate when the work can wait. No agent or vendor ever gets past a block themselves. Every row also goes to the Source Access Registry (T24).
+
+```
+RP-### Topic – Access List – vX.Y – STATUS – YYYY-MM-DD
+
+| Row | Item (full citation) | Holds what we need for (fact IDs) | Block type | Routes tried | Ask Heather to open it? (Y/N, gate) | Owner | Due | Status (Got / Ordered / Waived) | Opened by, date, what was read | Meanwhile (guardrail in copy) |
+|---|---|---|---|---|---|---|---|---|---|---|
+```
+
+Block types: bot challenge, robots.txt, 403 refused, 429 rate limit, timeout, paywall, tool or proxy limit, physical only. A tool or proxy limit is logged as a tool limit. It is never permission to go around the site.
+
+## T04 · Fact Ledger (sheet)
+
+**Used at:** built at R4, used by every later gate and every format. The magazine, the script, the Shorts and the description all read from this one sheet.
+**Filled by:** the research lead builds it. The independent checker fills the check columns. The research librarian never edits it.
+**Passes R4 when:** every fact has an ID, a level and a chain, the conflict register (T05) is filled, and the readiness check below passes.
+
+| Column | What goes in it |
+|---|---|
+| Fact ID | F001, F002 and so on. Never reused. Cross-package form: RP-###/F001 |
+| Statement | One sentence, with any hedge it needs |
+| Safe wording | The exact words a writer may use |
+| Split | Attribution or Content (split rule: two rows when a source reports a speech or view) |
+| Level | One of the six levels |
+| Flags | UNREAD, CHECK or none |
+| Source chain | Earliest source first: "Author Year via Author Year" |
+| Independent chains | A number. Ten writers quoting one source is one chain |
+| Best tier | 1 to 4 |
+| Seen type | PRIMARY, SECONDARY, CITED-IN |
+| Quote level | Q1, Q2, Q3, Q0 or n/a |
+| Number and method | For any number: what was counted and how |
+| Search scope | For "first", "only", "never": database, dates, terms |
+| Read by eye | Y/N. Y is required for anything read through a summarizing tool |
+| Living person tier | Green, Amber, Red |
+| Print- or air-bound | Y/N |
+| Mandatory set | Y/N (see T09) |
+| Row status | Researched, SEED, Refuted |
+| Check status | Unchecked, Checked, Corrected, Read by eye |
+| Check result | From T12 |
+| Ruling ID | If a ruling set this row |
+| Must NOT ID | If a Must NOT line covers it |
+| Used in | Every product and place (magazine p., script line, Short, title, description) |
+| Last changed | Date |
+| Changed by | Name or agent |
+
+```
+Fact ID,Statement,Safe wording,Split,Level,Flags,Source chain,Independent chains,Best tier,Seen type,Quote level,Number and method,Search scope,Read by eye,Living person tier,Print- or air-bound,Mandatory set,Row status,Check status,Check result,Ruling ID,Must NOT ID,Used in,Last changed,Changed by
+```
+
+Add a second tab, **Rating changes**, filled by the independent checker whenever a level moves:
+
+```
+Fact ID,Old level,New level,Date,Reason,Evidence (link ID),Ruling ID,Changed by
+```
+
+SEED rows (unsourced leads) stay in their own tab until they are researched. They never sit beside approved rows.
+
+**Readiness check (R4).** All four must be true before R5 starts:
+
+- [ ] A sourced belief: the popular version is documented, with a source.
+- [ ] At least one clock: a dated sequence the story can run on.
+- [ ] At least one readable document: a primary a reader or viewer can see.
+- [ ] At least ten surprises rated Proven.
+
+## T05 · Conflict register
+
+**Used at:** R4, and again whenever two files disagree.
+**Filled by:** Research lead.
+**Rule:** the lower level wins until a ruling is logged. The lead may rule alone on wording-level conflicts where the lower level wins. Anything that changes the thesis, a title word or a locked doc goes to Heather on a decision-needed page (T17).
+
+```
+RP-### Topic – Conflict Register – vX.Y – STATUS – YYYY-MM-DD
+
+| Conflict ID | Fact ID | File A says (link, level) | File B says (link, level) | Lower level (used meanwhile) | Who may rule (Lead / Heather) | Why | Ruling ID | Status (Open / Closed) | Date closed |
+|---|---|---|---|---|---|---|---|---|---|
+```
+
+A disputed flag stays Open until a ruling closes it. Titles and thumbnails may not use an Open row.
+
+## T06 · Claims and proof standards
+
+**Used at:** R5. The proof standard for each claim is written and filed before any red team starts. Nobody changes it after the attack begins.
+**Filled by:** Research lead.
+
+```
+RP-### Topic – Claims – vX.Y – STATUS – YYYY-MM-DD
+
+| Claim ID | Claim as pitched (pitch status: untested) | Central assertion (one sentence) | Proof standard (what evidence would prove it) | What would refute it | Red team assigned | Date standard fixed |
+|---|---|---|---|---|---|---|
+```
+
+**House proof standards.** Copy the ones that apply into the "Proof standard" column.
+
+| Claim type | Evidence needed |
+|---|---|
+| Coordination | A document showing agreement |
+| Bribery or money-for-favors | Money moving before or during the event |
+| Grooming or placement | Selection beyond a routine program |
+| Network overlap | Overlap beyond the base rate for that group |
+| Named in a document | Proves contact only |
+| Timing | Interesting timing is not evidence on its own |
+| Ordinary business (loans, fees, patents) | Legal unless a document says otherwise |
+| Repeated citations | Count independent chains; circular citation counts once |
+| Tropes | Antisemitic, Illuminati and similar tropes are excluded as evidence or explanation |
+
+## T07 · Red-team prompt
+
+**Used at:** R5. One red team per claim.
+**Filled by:** the research lead pastes it, with the claim and its proof standard. The red team returns a report of about 350 words plus the full report in Drive.
+
+```
+You are the red team for one claim in SIDE EYE research package RP-###.
+Your job is to break the claim. You did not write it and you do not
+want it to be true.
+
+Claim ID: [C#]
+Central assertion: [one sentence]
+Proof standard (fixed before you started): [text from T06]
+Read first: the common brief, the Fact Ledger, the Must NOT list,
+the rulings file.
+
+Do this:
+1. Score the central assertion only. True facts around it do not
+   raise its level.
+2. Test it against the proof standard. Say which evidence is missing.
+3. Name every chain and count independent chains. Our own work and AI
+   output are never sources.
+4. Rate attribution and content on separate lines.
+5. List lines that must never run (Must NOT), each with its reason and
+   the safe wording that may run instead.
+6. List corrections the draft must carry, and before-print checks
+   ranked by value.
+7. Put every blocked source on Access needed. Never get past a block.
+
+Search cap: 15. Return: a summary of about 350 words, then the full
+report to [Drive path] using these headings:
+VERDICT (one of the six levels) / WHY / CHAINS / WHAT SURVIVES
+(safe wording) / MUST NOT / CORRECTIONS / BEFORE-PRINT CHECKS /
+ACCESS NEEDED / SEARCHES USED
+```
+
+## T08 · Myth-buster prompt
+
+**Used at:** R5 (and in the R6 drill if the lead runs one).
+**Filled by:** the research lead pastes it. The myth-buster returns a report that feeds the "other side" in print and the other-side quote on video.
+
+```
+You are the myth-buster for SIDE EYE research package RP-###.
+Your job is to make the strongest honest case AGAINST our thesis
+and FOR the version most people believe.
+
+Working thesis: Everybody thinks [X]. The record shows [Y].
+Supporting points: [list with fact IDs and levels]
+Read first: the common brief, the Fact Ledger, the scorecard.
+
+Do this:
+1. Find the best sources for the popular version. Rate them honestly
+   on the six levels.
+2. Find the best evidence against each supporting point.
+3. Give the single best other-side quote, with quote level (Q1 to Q3)
+   and the exact source.
+4. Say where our thesis is weakest and what wording would survive.
+5. Do not soften the case. Do not build a weak version to knock down.
+6. Rating our own framing is not your job. Our framing is never
+   a source.
+
+Search cap: 15 (30 if the lead sets this as a drill run).
+Return: summary of 200 to 450 words, full report to [Drive path]:
+THE CASE FOR THE MYTH / AGAINST EACH POINT / BEST OTHER-SIDE QUOTE /
+WEAKEST POINT / SAFE WORDING / ACCESS NEEDED / SEARCHES USED
+```
+
+## T09 · Independent checker prompt
+
+**Used at:** R7 for the package, R9 for every air-bound fact, title and thumbnail, and for every change request (T20).
+**Filled by:** the research lead makes the numbered list and pastes it. The checker runs in a fresh session and fills the fact-check log (T12).
+**Who may check:** someone who did no research on the topic and wrote nothing in the piece. Working default: a fresh AI agent in a new session for all checks, and a human checker for covers and Red-tier items once there is budget (proposed default, not yet approved).
+
+The **mandatory set** is funded first: cover, title, thumbnail, headline, teaser, cold open, craziest part, withheld object, biggest number, twist, other-side quote, every direct quote, every number, every claim about a living person.
+
+```
+You are the independent checker for SIDE EYE package RP-###.
+You did no research on this topic and wrote nothing in this piece.
+
+Inputs: a numbered list of the exact lines as they will run, the Fact
+Ledger and the sources doc. Check against the sources. Do not rely on
+the research reports' reasoning.
+
+For every numbered line:
+1. Open the cited source and check the exact wording.
+2. Quotes: character-exact, qualifier kept, an ellipsis for every cut.
+   Rebuild any quote that came back in pieces and check it as one piece.
+3. "First", "only", "never": check the logged search scope.
+4. Anything read through a summarizing tool: check it by eye.
+5. Return one result: Confirmed, Confirmed with correction,
+   Not confirmed, Wrong, or Unchecked.
+6. Unchecked is a correct answer when you could not check. A guess is
+   a failure. Never mark a fact Confirmed from our own drafts.
+7. Never get past a blocked site. List it under Access needed.
+8. Write a Rating changes row for any level that moves.
+
+Work the mandatory set first. Search budget: [N] (one per fact + 10).
+Return: the fact-check log (T12) to [Drive path], with its cover sheet.
+```
+
+At most two fix loops follow a failed check. A third failure goes to Heather with both reports.
+
+## T10 · Scorecard with Must NOT list
+
+**Used at:** R5, after every red team and the myth-buster have reported.
+**Filled by:** Research lead.
+**After R5:** the Must NOT list is a required input to every downstream brief (spine, script, packaging, art, Shorts). Script lint checks against it. Each Must NOT line is also copied to the Killed Claims list in 02 Logs.
+
+```
+RP-### Topic – Scorecard – vX.Y – STATUS – YYYY-MM-DD
+
+PART 1. CLAIMS
+| Claim ID | Claim as pitched | Level (central assertion) | What survives (safe wording) | Red team report link |
+|---|---|---|---|---|
+
+PART 2. CORRECTIONS TO CARRY INTO THE DRAFT
+| # | Was | Now | Fact ID | Applied? (date, by) |
+|---|---|---|---|---|
+
+PART 3. BEFORE-PRINT CHECKS, RANKED BY VALUE
+| Rank | Fact ID | What to check | Why it matters |
+|---|---|---|---|
+```
+
+```
+RP-### Topic – Must NOT – vX.Y – STATUS – YYYY-MM-DD
+
+| MN ID | Line that must never run | Reason (what the source actually says) | Fact ID | Safe wording instead | Living person? (Y/N) | Copied to Killed Claims (date) |
+|---|---|---|---|---|---|---|
+```
+
+A good Must NOT line names the exact words to avoid and gives the reason in one short sentence, for example "the source's own word is X." Public examples use historical subjects only. Lines about living people stay in the Drive copy.
+
+## T11 · Template A dossier
+
+**Used at:** R9, the YouTube extension (DEC-2026-001). Template A is filled from the same Fact Ledger the magazine used. There is no fresh research round for facts the package already holds.
+**Filled by:** the research lead assigns sections to researchers. Every entry cites fact IDs from the ledger.
+**Changes from the old Story Templates version:** the on-screen badge column is gone (no stamps or badges on screen). The six levels replace all older labels. Section titles A1 to A22 follow Story Templates (02).
+
+Anything the video needs that the magazine did not use goes in as a change request (T20) first: on-screen quote cards at Q1 or Q2, footage and image sources, the cold open, the withheld object.
+
+```
+RP-### Topic – Template A Dossier – vX.Y – STATUS – YYYY-MM-DD
+Package: RP-### · Fact Ledger version used: vX.Y · Must NOT version: vX.Y
+
+TEAM
+| Section(s) | Role | Who (human/agent, model) |
+
+HOUSEKEEPING (each contributor, once)
+- How quotes were taken (tool, fragments rebuilt and rechecked?):
+- Files read:
+- What could not be reached (Access List rows):
+
+FOR EACH SECTION A1 TO A22
+Section: A##  · Owner:
+| Entry | Fact IDs | Level | Quote level | Safe wording for script | Notes |
+|---|---|---|---|---|---|
+New material needed? (Y/N) If Y: Change Request ID:
+
+VIDEO ADDITIONS (all via change requests, all checked)
+| Item | Change Request ID | Quote level or licence | Check result |
+| On-screen quote cards (Q1 or Q2 only) | | | |
+| Footage and image sources (CREDITS rows) | | | |
+| Cold open facts | | | |
+| Withheld object | | | |
+
+OPEN CONFLICTS FOR HEATHER (link to the decision-needed page)
+```
+
+## T12 · Fact-check log with cover sheet
+
+**Used at:** R7 for the package and R9 for the video. One log per product version (magazine feature, script, Short, description).
+**Filled by:** Independent checker.
+**Passes when:** every numbered line has a result, there are zero Wrong and zero Not confirmed in the mandatory set, every correction is applied, and open CHECK items are zero or each is signed in the rulings file.
+
+```
+RP-### Topic – Fact-Check Log – [product] – vX.Y – STATUS – YYYY-MM-DD
+
+HEADER
+Product and version checked:
+Checker (name or agent + model, fresh session Y/N):
+Did no research on this topic, wrote nothing in it: Y
+Date: · Scope (line numbers):
+Search budget reserved / used:
+Blocked sites met:
+Access needed:
+```
+
+| Column | What goes in it |
+|---|---|
+| # | Line number from the lead's list |
+| Fact ID | From the ledger |
+| Exact wording as it runs | Copied character for character |
+| Where it runs | Page, timecode, title, thumbnail, Short, description |
+| Level | From the ledger |
+| Safe wording | From the ledger |
+| Source chain | Tier, citation, page or scan p., stable ID or URL |
+| Quote level | Q1, Q2, Q3, Q0 |
+| Search scope | For "first", "only", "never" |
+| Result | Confirmed, Confirmed with correction, Not confirmed, Wrong, Unchecked |
+| Fix | The exact new words |
+| Severity | MUST, SHOULD, NOTE |
+| Route code | FACT (wrong or unsupported), DRIFT (wording outruns the level), EAR (hard to hear or misheard aloud) |
+| Sign-off | Who closed it, date |
+
+```
+#,Fact ID,Exact wording as it runs,Where it runs,Level,Safe wording,Source chain,Quote level,Search scope,Result,Fix,Severity,Route code,Sign-off
+```
+
+**Cover sheet.** Put this at the top of the log. It is the Definition of Done for the deliverable.
+
+```
+COVER SHEET
+Lines checked: · Confirmed: · Confirmed with correction: ·
+Not confirmed: · Wrong: · Unchecked: · UNREAD: · Open CHECK:
+Blocked sites: · AI tools used and for what:
+
+- [ ] Every factual sentence has a fact ID with a level and a tier 1 to 4 chain
+- [ ] No tier 5 or 6 source stands alone
+- [ ] Every quote is Q1 or Q2, or attributed as Q3 ("as [author] quotes them")
+- [ ] Mandatory set checked independently: zero Wrong, zero Not confirmed
+- [ ] Every scorecard correction applied and logged
+- [ ] Open CHECK items: zero, or each signed in the rulings file
+- [ ] Must NOT list checked line by line
+- [ ] Anything still unchecked is hedged, cut or held (never run at its old level)
+Researcher sign-off: · Checker sign-off:
+```
+
+## T13 · Living Person Register
+
+**Used at:** R0 (risk tier set for every living person named), updated at each gate, checked at R7 by the legal gate (T16).
+**Filled by:** Research lead.
+
+There is no lawyer and no legal review (DEC-2026-005). Any line that puts a living person in a wrongdoing frame is softened to court and filing language or cut. Allowed wording: charged, convicted on counts, acquitted on counts, settled without admission, ruled false, alleged in a filing, reported by [outlet].
+
+```
+RP-### Topic – Living Person Register – vX.Y – STATUS – YYYY-MM-DD
+
+| Person (or "Person X" in public copies) | Public figure or private | Risk tier (Green/Amber/Red) | Why this tier | Every claim about them (fact IDs) | Exact legal outcome, if any (court, date, counts) | Have they denied or answered publicly? (source) | Must NOT ID | Safe wording | Decision: keep in court language / soften / cut | Free photo? (or name card) |
+|---|---|---|---|---|---|---|---|---|---|---|
+```
+
+Red items always get a Must NOT line and a safe-wording line. Private people are named only when central to the story and named in the public record.
+
+## T14 · Opinion Register
+
+**Used at:** R6 (when the thesis and segments are shaped), checked at R7.
+**Filled by:** Research lead, with the writers.
+
+Scripts carry no opinion tags. The screen shows the corner "opinion" tag. This register is kept separately so the legal gate can see every opinion line.
+
+```
+RP-### Topic – Opinion Register – vX.Y – STATUS – YYYY-MM-DD
+
+| # | Opinion line (exact) | Speaker (Heather/Edwin) | Product and place | Facts it rests on, stated in the same segment (fact IDs) | Living person involved? (Y/N) | Implies a hidden fact or a crime? (must be N if living) | Usable in packaging? (always N for a living person) |
+|---|---|---|---|---|---|---|---|
+```
+
+No opinion about a living person goes in titles, thumbnails, Shorts, pinned comments or community posts. A Short drawn from an opinion segment goes to the legal gate.
+
+## T15 · CREDITS (images and footage)
+
+**Used at:** whenever an image or clip is chosen; every row checked at R7 (magazine) or R9 (video).
+**Filled by:** whoever sources the image.
+
+Allowed licences: public domain, CC0, CC BY, CC BY-SA, US government works. Not allowed: non-commercial (NC), no-derivatives (ND) for anything edited, paid licences, "built, not opened", blank source lines. A photo credited to an agency but posted under CC by someone else gets a second check.
+
+```
+RP-### Topic – CREDITS – vX.Y – STATUS – YYYY-MM-DD
+
+| File | What it shows | Creator | Source page (opened, not built) | Licence | Licence page opened by, date | Commercial use OK (Y/N) | Edits allowed (Y/N) | Share-alike note | Credit line as printed | Living person shown (Y/N) | Second check (agency photo under CC) | Checked by, date |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+```
+
+Living people with no free photo get a name card. Generated art never shows a specific real event, record or document in a documentary style, and never shows a real person acting.
+
+## T16 · Legal gate checklist
+
+**Used at:** R7, and again for any Short, thumbnail or title cut later.
+**Filled by:** someone who did not write the piece. There is no lawyer (DEC-2026-005).
+**Sent to the gate:** any Red-tier line that survives editing, any subject known to sue, any Short drawn from an opinion segment, and any design that looks like currency.
+
+```
+RP-### Topic – Legal Gate – [product] – vX.Y – STATUS – YYYY-MM-DD
+Run by: · Did not write this piece: Y · Date:
+
+- [ ] Living Person Register complete; every living person has a tier
+- [ ] Every Red-tier line is in court or filing language, softened, or cut
+- [ ] No living person is said or implied to have committed a crime,
+      fraud, cover-up, sexual misconduct or corrupt deal unless a court,
+      regulator or their own words establish it; exact outcome used
+- [ ] No association presented as participation (shared document,
+      club, board, neighbor)
+- [ ] Where a subject has denied or answered publicly, we say so
+- [ ] Must NOT list checked line by line against this product
+- [ ] Killed Claims list checked for this topic
+- [ ] Opinion Register checked: no opinion about a living person
+      implies a hidden fact or a crime
+- [ ] Packaging: no living person's face next to a crime word; no
+      opinion about a living person in titles, thumbnails, Shorts,
+      pinned comments or community posts
+- [ ] CREDITS: every image licence opened and allowed
+- [ ] AI visuals: nothing passes for a real document, record or event;
+      no real person shown acting
+- [ ] Access: every source records how it was reached; nothing reached
+      past a block
+- [ ] Privacy: private people named only when central and in the public
+      record; officers and staff in filings blurred
+- [ ] Tropes: none used as evidence or explanation; any Rothschild or
+      "Jewish bankers" material flagged to the lead
+
+RESULT
+| Line | Problem | Action (court language / soften / cut) | New wording | Done by, date |
+
+Sign-off: [name or agent + model], [date]
+```
+
+## T17 · Decision-needed page
+
+**Used at:** any gate, when something needs Heather. The research lead batches open questions into one page per gate.
+**Filled by:** Research lead. Search the Decision Register, the rulings file and the Must NOT list first. If the answer is there, cite its ID and do not ask.
+
+```
+RP-### Topic – Decision Needed – [gate] – v0.1 – DRAFT – YYYY-MM-DD
+
+ONE QUESTION
+[One sentence Heather can answer.]
+
+WHERE WE LOOKED FIRST
+Decision Register IDs checked: · Rulings checked: · FAQ checked:
+
+CONTEXT (5 lines at most)
+
+OPTIONS
+| Option | What it changes (thesis, title word, locked doc, rating) | Risk | Cost (searches, time) |
+|---|---|---|---|
+| A | | | |
+| B | | | |
+
+RECOMMENDATION
+[Option and one-line reason.]
+
+MEANWHILE
+Work continues using the lower level for any disputed fact.
+
+ANSWER (filled after Heather decides)
+Decision: · Date: · Logged as: DEC-YYYY-NNN or ruling ID
+```
+
+## T18 · Rulings file
+
+**Used at:** any gate. A ruling closes a disputed count, quote, date or name for one topic.
+**Filled by:** the research lead records it the same day. Heather rules on anything that changes the thesis, a title word or a locked doc. The lead may record wording-level rulings where the lower level wins. Rulings are never edited inside other files.
+
+```
+RP-### Topic – Rulings – vX.Y – STATUS – YYYY-MM-DD
+
+| Ruling ID | Date | What was disputed | Fact IDs | Conflict ID | Ruling | Level now | Safe wording | Ruled by | Where it was made (link) | Supersedes | Files updated (ledger, role cards, templates) |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+```
+
+Each ruling also goes in the portal's Rulings Index on page 09 (Decisions and Rulings).
+
+## T19 · Research log, with waivers and handoff note
+
+**Used at:** every gate, from R0 to R9 and after publication.
+**Filled by:** Research lead. Every session ends with a handoff note.
+
+```
+RP-### Topic – Research Log – vX.Y – STATUS – YYYY-MM-DD
+
+1. HEADER
+Package: · Question: · Lead: · Products served: · Tier: · Status: · Version:
+Opened: · Last updated:
+
+2. BRIEF
+Link to locked brief: · Changes since lock: (see brief part 9)
+
+3. ROSTER
+| Role | Human or agent | Vendor or model and version | Track (H/A/B) | Dates |
+
+4. RUN LOG
+| Date | Gate | Who | What was done | Files written (links) | Searches used |
+
+5. GATE RECORD
+| Gate | Date passed | Exit criteria met (Y/N) | Heather's approval (DEC ID, if needed) |
+
+6. WAIVERS (a gate may be skipped only with a row here)
+| Gate or step skipped | Reason | Approved by | Date |
+
+7. RATING CHANGES: see the Fact Ledger "Rating changes" tab.
+
+8. ACCESS NEEDED: see the Access List (T03).
+
+9. OPEN QUESTIONS AND SEED ITEMS (never mixed into approved data)
+| # | Question or SEED item | Where we looked | Proposed answer | Status |
+
+10. CORRECTIONS AFTER PUBLICATION
+| E-number | Link | Date |
+
+11. HANDOFF NOTE (one per session, newest on top)
+Date: · Session by:
+Done this session:
+Files written (links):
+Open items:
+Blocked or waiting on:
+Next step:
+Searches used / left:
+```
+
+## T20 · Research change request
+
+**Used at:** after R8, whenever scripting, art, layout or packaging finds or needs a fact the package does not hold. All R9 video additions use this form.
+**Filled by:** anyone downstream raises it. The research lead logs a ledger row. The independent checker checks it. Nobody uses the fact until the request is closed.
+
+```
+RP-### Topic – Change Request – CR-### – vX.Y – STATUS – YYYY-MM-DD
+
+CR ID: · Raised by: · Product and draft version: · Date:
+Type: new fact / changed fact / quote card / image or footage / cold open / withheld object
+What is needed (exact wording as it would run):
+Why the product needs it:
+Where it was found (full citation, how reached):
+
+LEAD
+New or changed ledger row: F### · Proposed level: · Source chain:
+Quote level: · Search scope (if "first", "only", "never"):
+Must NOT and Killed Claims checked: Y/N · Living person tier:
+
+CHECKER
+Result: Confirmed / Confirmed with correction / Not confirmed / Wrong / Unchecked
+Checked by: · Date:
+
+CLOSE
+Approved to use (Y/N): · Safe wording to use:
+Propagation: ledger [ ] · sources doc [ ] · magazine [ ] · script [ ] ·
+Shorts [ ] · description [ ]
+```
+
+## T21 · Hand-off checklists
+
+### Magazine pack (R8)
+
+**Filled by:** Research lead. Heather accepts the package.
+
+```
+RP-### Topic – Hand-off – Magazine – vX.Y – STATUS – YYYY-MM-DD
+
+FILED IN 04 PACKAGE (links)
+- [ ] Fact Ledger (version) with Rating changes tab
+- [ ] Scorecard and Must NOT list (Must NOT lines copied to Killed Claims)
+- [ ] Rulings file
+- [ ] Sources doc by section, matching the fact-check log one to one
+- [ ] Access List, every row Got, Ordered or Waived
+- [ ] Research Log with waivers and latest handoff note
+- [ ] Fact-check log with cover sheet (R7 passed)
+- [ ] Living Person Register, Opinion Register, CREDITS, legal gate sign-off
+
+PRINT PACK
+- [ ] Approved thesis: "Everybody thinks X. The record shows Y." (DEC ID)
+- [ ] 4 to 5 supporting points with levels
+- [ ] What We Can Prove / What We Can't box drafted from the ledger
+- [ ] The other side, from the myth-buster report
+- [ ] Every print-bound fact Likely or above, with safe wording
+
+VIDEO-READY NOTES (for R9)
+- [ ] Quotes a script will need, with quote level
+- [ ] Documents a viewer could see
+- [ ] Places
+- [ ] Visuals and their likely sources
+
+Lead sign-off: · Heather accepts: (DEC ID, date)
+```
+
+### YouTube extension (R9)
+
+**Filled by:** Research lead. Passes when every air-bound fact, title and thumbnail has a check result.
+
+```
+RP-### Topic – Hand-off – Video – vX.Y – STATUS – YYYY-MM-DD
+
+- [ ] Template A filled from the same Fact Ledger (version)
+- [ ] No fresh research round for facts the package already holds
+- [ ] Every new need raised as a change request (CR IDs listed)
+- [ ] On-screen quote cards are Q1 or Q2 only, and match the spoken words
+- [ ] Footage and image sources in CREDITS, licences opened
+- [ ] Cold open and withheld object checked independently
+- [ ] Must NOT list loaded into the spine, script, packaging, art and
+      Shorts briefs
+- [ ] Heather approved the video thesis (DEC ID)
+- [ ] Title and thumbnail written after the script, then approved (DEC ID)
+- [ ] Title, thumbnail and description rated on the six levels: only
+      Proven (and Strongly supported, proposed default, not yet approved)
+      may run flat; Refuted only as the myth being broken
+- [ ] Shorts: horizontal, longer than 60 seconds; each checked like the body
+- [ ] Fact-check log for the script, title, thumbnail, description and
+      Shorts: every row has a result
+- [ ] Legal gate run on the script and every piece of packaging
+- [ ] No proof stamps or badges on screen
+
+Lead sign-off: · R9 passed: (date)
+```
+
+## T22 · Corrections entry
+
+**Used at:** after publication, when an error is confirmed or a reader reports one.
+**Filled by:** the independent checker confirms it. The research librarian logs it and runs propagation.
+
+Known errors are posted publicly (DEC-2026-004). A confirmed error is posted within 14 days of being confirmed (proposed default, not yet approved). Heather approves the corrections page before it goes live.
+
+```
+RP-### Topic – Corrections – vX.Y – STATUS – YYYY-MM-DD
+
+| E-number | Reader report ID (if any) | Product and edition | Page, timecode or place | As printed or said | Change to | Why | Source (chain, link) | Type (Correction / Qualifier / Proof-box label / Clarification) | Confidence (High / Medium) | Date confirmed | Post by (confirmed + 14 days) | Date posted | Fact ID |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+```
+
+Where each correction appears:
+
+| Format | Where the correction goes |
+|---|---|
+| Print | The next issue, at the same type size as the error |
+| KDP | A corrected edition with an edition note |
+| YouTube | A pinned comment and a description line; an on-screen fix or re-upload for a material error |
+| Shorts and clips | Checked and fixed like the main video |
+| Web | The dated public corrections page for that product |
+
+**Propagation checklist.** Tick every box for every correction.
+
+```
+- [ ] Fact Ledger row updated (Rating changes row written)
+- [ ] Sources doc updated (old version to _Superseded)
+- [ ] Magazine (next issue) / KDP edition note
+- [ ] Every script that used the fact
+- [ ] Every Short and clip
+- [ ] YouTube description and pinned comment
+- [ ] Any template, skill, role card or locked doc that teaches the error
+- [ ] Killed Claims list, if the fact is now Refuted
+- [ ] Incident Log row (what, root cause, cost, control)
+- [ ] Public corrections page (after Heather approves)
+```
+
+## T23 · Decision Register row
+
+**Used at:** any time Heather decides something about a standard, a package or an output.
+**Filled by:** Research librarian, the day the decision is made, with a link to where she made it. Everyone searches the register before asking Heather anything. To change a decision, cite its ID.
+
+| Column | What goes in it |
+|---|---|
+| ID | DEC-YYYY-NNN, never reused |
+| Date | ISO date the decision was made |
+| Scope | Process, Standard, RP-### or Output |
+| Question | One sentence |
+| Options | What was on the table |
+| Decision | The decision in her words, or as close as possible |
+| Decided by | Heather |
+| Why | One line |
+| Where it was made | Link to the thread, doc or page |
+| Supersedes | Earlier DEC ID, if any |
+| Status | Open, Open (default proposed), Decided, Reversed |
+| Notes | Anything else, including "back-filled; confirm wording" |
+
+```
+ID,Date,Scope,Question,Options,Decision,Decided by,Why,Where it was made,Supersedes,Status,Notes
+```
+
+Example row:
+
+```
+DEC-2026-018,2026-11-10,Output,When are the title and thumbnail set for an episode?,,After the script,Heather,,EP02 Napoleon decisions (Nov 10),,Decided,Back-filled; confirm wording against the source before relying on it
+```
+
+## T24 · Source Access Registry row
+
+**Used at:** any gate, the first time a source blocks anyone, and every time it is reached later.
+**Filled by:** whoever meets the block adds the row. The research librarian keeps the registry and closes rows.
+
+Agents may ask Heather to open a blocked site in her own browser (DEC-2026-003). The request, who opened it, when, and what was read are logged here. Requests wait for the next gate when the work can wait. Agents never get past a block themselves.
+
+| Column | What goes in it |
+|---|---|
+| Source | Site or archive name |
+| What it holds | One line |
+| Block type seen | Bot challenge, robots.txt, 403, 429 rate limit, timeout, paywall, tool or proxy limit |
+| First seen | ISO date |
+| Seen in | Package IDs or products |
+| What happened | What was and was not read |
+| Approved route | Allowed route (in-book search, full-text search, snippets, second legitimate host), Heather's browser, a library card, a lawful book purchase, or "pending" |
+| Owner | Who is responsible for getting access |
+| Status | Open, Partial, Resolved |
+| Meanwhile | What to do in copy until it is reached (keep the last level, add a guardrail, name the exact search that would settle it) |
+| Browser request | Requested by, gate, date requested |
+| Opened by, date | Who opened it and when |
+| What was read | Exact pages or records, with stable IDs |
+
+```
+Source,What it holds,Block type seen,First seen,Seen in,What happened,Approved route,Owner,Status,Meanwhile,Browser request (by; gate; date),Opened by and date,What was read
+```
+
+Example row:
+
+```
+Trove (National Library of Australia),Australian newspapers 1803 to 1954,Bot challenge page; API barred by robots.txt,2026-09-26,RP-### (example),Not read in that session,Heather's browser on request (DEC-2026-003),Research lead,Open,Keep the claim at its last level with a guardrail; list the exact search that would settle it,,,
+```
+
+The full registry and how to ask for access are on page 11 (Access and Blocked Sources).
+
+# 07 · Role Cards
+*v0.1 · DRAFT · 2026-11-24 · Owner: Research Librarian · Approved by: not yet approved*
+
+This page gives one card for each research role: what the role is for, what it owns, what to read, what to return and what it must never do. Read your own card on day one, keep it open while you work, and run its self-check before you hand anything off.
+
+## Before you read your card
+
+Every role, human or agent, follows these rules:
+
+- The Never-Break Rules on page 05 (Never-Break Rules and Legal) apply in full. You sign or load them before any work.
+- Use the six levels only: Proven, Strongly supported, Likely, Contested, Unsupported, Refuted. UNREAD and CHECK are flags, not levels.
+- Rate attribution and content on separate lines when a source reports a speech or a view.
+- Our own reports, scripts, magazine and any AI output are never a source. They can point to a source.
+- A blocked site goes on the Access List (page 06, template T03). Never get past it.
+- Unchecked is a correct answer. A guess is a failure.
+- Nothing counts as delivered until it is filed in Drive under the naming standard on page 06.
+- Never mark anything APPROVED, LOCKED or Published. Only Heather does that.
+- Agents can't launch agents. The research lead launches every agent directly.
+
+**Asking a question.** Look in the topic's rulings file and Must NOT list, then the Decision Register, then the FAQ on page 12. Still open? Add a row to the open-questions section of the research log with your proposed answer, use the lower level meanwhile, and keep working. The research lead batches questions for Heather at the next gate. Vendors never message Heather directly about research.
+
+## Roles at a glance
+
+| Role | Main gates | Owns | Track fit | Search cap |
+|---|---|---|---|---|
+| Desk researcher | R2 | One desk's people, years and questions | H, A | 30 |
+| Book reader | R3 | One chunk of one book | H, A, B (reading only) | 15 |
+| Red team | R5 | One claim | H (senior), A | 15 |
+| Myth-buster | R5, R6 | The case against the thesis | H (senior), A | 15 (30 in a drill) |
+| Surprise hunter | R6 | One sharp question | H, A | about 30 |
+| Independent checker | R7, R9, change requests | A numbered list of print- and air-bound lines | H (fact-checker), A, B (never the last check) | 1 per fact + 10, reserved before R2 |
+| Network keeper | R2 to R8 | The nodes and edges sheets | H, A | 15 |
+| Research lead | R0 to R9 | The package, the log, the ledger, the questions | H (editor), A | Holds the package budget |
+| Research librarian | Standing | The registers, releases and audits | H, A | No topic research |
+
+Tracks: H is a human vendor, A is a connected agent working inside named folders, B is an outside AI working from a pasted pack. Track B never writes to Drive and is never the last check on anything. Its output always goes through a Track A or H checker. Working default: certified Track H and A may research; Track B only reads and checks (proposed default, not yet approved).
+
+Report length for every agent role: full report to the named Drive file, plus a summary of 200 to 450 words (350 for red team).
+
+## Desk researcher
+
+**Purpose.** Gather what the record says about one slice of the topic, rate every finding, and show exactly where it came from.
+
+**Owns.** One desk at R2 (or one gap team at R3): a set of people, years and questions named in the brief.
+
+**Reads first.**
+- The common brief (T01), including established facts, blocked sites and Killed Claims for this topic.
+- The current corrected sources doc for the topic.
+- The rating scale card on page 02 and the source tiers on page 03.
+- This card.
+
+**Returns.** A desk report (T02) with rated findings, a links table, leads not followed and access needed. New access rows also go on the Access List (T03).
+
+**Search cap.** 30. Prefer fetching known pages and full texts over open searches.
+
+**Must never.**
+- Rate a historian's claim as if it were the document's. Split attribution from content.
+- Count ten writers who quote one source as ten chains.
+- Use a wiki or AI answer as the source. Follow the footnote and cite what it cites.
+- Leave the report outside Drive.
+
+**Hand-off.** File the report in `01 Desk Reports` with the naming standard. Tell the research lead the file name, searches used and any access rows added.
+
+**Self-check.**
+- [ ] Every finding has one of the six levels and at least one link ID.
+- [ ] Attribution and content are on separate lines where a source reports a view.
+- [ ] Every chain is named by its earliest source ("Author 1982 via Author 2014").
+- [ ] Every link row says how the source was reached.
+- [ ] "First", "only" and "never" claims carry a search scope (database, dates, terms).
+- [ ] Quotes are character-exact, with the qualifier and an ellipsis for each cut.
+- [ ] Blocked sources are on the Access List, not worked around.
+- [ ] The report is filed in Drive and named correctly.
+
+**Approved example (illustration).**
+
+| # | Finding | Level | Split | Tier | Links |
+|---|---|---|---|---|---|
+| 4 | Biographer B writes that the banker lent money to the general's family in 1799. | Proven | Attribution | 3 | L-07 |
+| 5 | The banker lent money to the general's family in 1799. | Likely | Content | 3 | L-07 (Biographer B cites a letter we have not seen) |
+
+Why it passes: the saying and the event are rated on separate lines, and row 5 is not raised above one unseen chain.
+
+**Rejected example (illustration).** "The banker financed the coup. Proven. Source: online encyclopedia." Why it fails: a tier 5 source stands alone, the content is rated as if it were a document, and "financed the coup" goes beyond a loan.
+
+## Book reader
+
+**Purpose.** Read one chunk of one book and report what it says, with page and line for every finding, so nobody has to read it again.
+
+**Owns.** One chunk of a book that Heather has obtained at R3, as set in the reader brief.
+
+**Reads first.**
+- The common brief (T01) and the reader brief (chunk, pages, questions).
+- The Fact Ledger rows the chunk is meant to test.
+- The quote rules on page 03 (Sources and Quotes).
+
+**Returns.** A desk report (T02) for the chunk: page-cited findings, the author's own sources for each, quotes with quote level, and anything that contradicts the ledger.
+
+**Search cap.** 15, mostly to locate the edition or the cited primary. The reading itself needs no searches.
+
+**Must never.**
+- Summarize without page and line.
+- Mix scan pages with printed pages. Cite "scan p." and printed "p." separately.
+- Treat the author's quotation of a primary as a check of the primary. That is Q3.
+- Copy more of a copyrighted text than a short quote.
+
+**Hand-off.** File the report in `01 Desk Reports`, named for the book and chunk. Flag any finding that changes a ledger level to the research lead.
+
+**Self-check.**
+- [ ] Every finding has a printed page and line (and scan page if different).
+- [ ] The author's own source is recorded for each finding.
+- [ ] Every quote has a quote level; quotes seen only through the author are marked Q3.
+- [ ] Translations say whose English, and the original is kept beside them.
+- [ ] Dates checked against weekdays where the source gives both.
+- [ ] Contradictions with the ledger are listed by fact ID.
+
+**Approved example (illustration).** "p. 134, lines 12 to 15 (scan p. 211): the author states the dispatch reached the capital in 40 days, citing a named archive file. Level: Strongly supported (one scholarly chain, primary unseen). Quote level for the dispatch wording: Q3, 'as the author quotes it'."
+
+**Rejected example (illustration).** "Chapter 6 makes clear the bankers were involved throughout." Why it fails: no page, no line, no source, and "involved throughout" is the reader's summary dressed as the book's finding.
+
+## Red team
+
+**Purpose.** Try to break one claim before anyone builds on it.
+
+**Owns.** One claim at R5, with its proof standard fixed before the attack started (T06).
+
+**Reads first.**
+- The claim and its proof standard (T06).
+- The Fact Ledger, the rulings file and the Must NOT list so far.
+- The house proof standards on page 06 (T06).
+- The red-team prompt (T07).
+
+**Returns.** A red-team report (T07 headings): a verdict on the six levels, chains, what survives as safe wording, Must NOT lines with reasons, corrections and ranked before-print checks. Summary of about 350 words.
+
+**Search cap.** 15.
+
+**Must never.**
+- Score the true facts around a claim instead of its central assertion.
+- Change the proof standard after the attack begins.
+- Treat association (a shared club, board, document or neighbor) as participation.
+- Use a trope as evidence or explanation.
+
+**Hand-off.** File the report in `02 Claims and Red Team`. The research lead folds it into the scorecard and Must NOT list (T10).
+
+**Self-check.**
+- [ ] The verdict rates the central assertion only.
+- [ ] The proof standard used is the one filed before the attack.
+- [ ] Independent chains are counted, and circular citations count once.
+- [ ] Every Must NOT line has a reason and a safe wording.
+- [ ] Corrections and before-print checks are listed and ranked.
+- [ ] Blocked sources are on Access needed.
+
+**Approved example (illustration).** Claim: "The three financiers planned the coup together." Proof standard: a document showing agreement. Finding: the three men sat on one board and met in the same month (both Proven), but no letter, minute or account shows agreement. Verdict: Unsupported. Safe wording: "Three of the coup's backers sat on the same board." Must NOT: "They planned it together" (reason: no document shows agreement).
+
+**Rejected example (illustration).** "Five of the six supporting facts are Proven, so the claim is Strongly supported." Why it fails: the surrounding facts were scored instead of the central assertion, and the proof standard (agreement) was never tested.
+
+## Myth-buster
+
+**Purpose.** Make the strongest honest case for the version most people believe, so the thesis has to answer it.
+
+**Owns.** The case against the thesis at R5, and the other-side quote used in print and on video.
+
+**Reads first.**
+- The working thesis and supporting points with their levels.
+- The Fact Ledger and the scorecard.
+- The myth-buster prompt (T08).
+
+**Returns.** A myth-buster report (T08 headings): the case for the myth, the evidence against each point, the best other-side quote with quote level, the thesis's weakest point and safe wording.
+
+**Search cap.** 15, or 30 when the lead runs it as an R6 drill.
+
+**Must never.**
+- Soften the counterargument or build a weak version to knock down.
+- Rate our own framing. Our framing is never a source.
+- Drop a source because it hurts the thesis.
+
+**Hand-off.** File in `02 Claims and Red Team`. The lead uses it for the "other side" in print, the What We Can't box and the video's other-side quote, which the checker then checks.
+
+**Self-check.**
+- [ ] The popular version is stated in its strongest sourced form.
+- [ ] Every point of the thesis has its best counter-evidence listed.
+- [ ] The other-side quote is Q1 or Q2, or marked Q3.
+- [ ] The weakest point of the thesis is named plainly.
+- [ ] No rating rests on our own work.
+
+**Approved example (illustration).** "The taught version (the general surrendered because the enemy fleet cut off his escape) is supported by the general's own dispatch written after the surrender (tier 1, Q2 via a published edition). Our thesis must explain why that dispatch is wrong or incomplete. Weakest point: our claim about the timing of supplies rests on one chain."
+
+**Rejected example (illustration).** "Some people might still believe the old story, but the evidence is clear." Why it fails: no source, no rating, no other-side quote, and the case for the myth was never made.
+
+## Surprise hunter
+
+**Purpose.** Run down one sharp question in the R6 drill and come back with a clean yes, no or not reached.
+
+**Owns.** One surprise lead from the scorecard or desk reports, with about 30 searches.
+
+**Reads first.**
+- The lead it was given, with the fact IDs it would change.
+- The Source Access Registry entries for the databases it will need.
+- The search-scope rule on page 03.
+
+**Returns.** A short report: the question, the answer (yes, no or not reached), the level, the search scope logged in full, and any new ledger rows proposed. Summary of 200 to 450 words.
+
+**Search cap.** About 30.
+
+**Must never.**
+- Turn a "no" into a maybe.
+- Claim "first", "only" or "never" from a regional or partial search.
+- Get past a blocked database. Log it and say what search would settle it.
+
+**Hand-off.** File in `02 Claims and Red Team` (or `03 Checks` if the lead asks). The lead adds any new rows to the ledger. Anything found after R8 goes in as a change request (T20).
+
+**Self-check.**
+- [ ] The answer is yes, no or not reached, in one line.
+- [ ] Search scope logged: database, dates, terms.
+- [ ] Any "first", "only" or "never" covers the full scope it claims.
+- [ ] Blocked databases are on the Access List with the exact search to run.
+- [ ] Proposed ledger rows have a level and a chain.
+
+**Approved example (illustration).** "Question: did any paper print the story before the city daily did? Searched: national newspaper database, 1 Oct to 30 Nov of that year, terms [list]. Answer: yes. A regional paper ran it one day earlier. Level: Proven (page image seen, Q1). Effect: the city daily becomes 'the paper that carried it east', and 'first' is removed."
+
+**Rejected example (illustration).** "Couldn't find anything earlier, so it's Likely the city daily was first." Why it fails: an absence turned into a positive claim with no logged scope, and the search did not cover the whole country.
+
+## Independent checker
+
+**Purpose.** Check every line that will be printed or aired against its sources, independently of the people who researched and wrote it.
+
+**Owns.** The numbered list of print- and air-bound lines at R7, the video lines, title and thumbnail at R9, and every change request (T20). Writes the Rating changes rows in the Fact Ledger.
+
+**Reads first.**
+- The numbered list, the Fact Ledger and the sources doc.
+- The rulings file and the Must NOT list.
+- The checker prompt (T09) and the fact-check log (T12).
+- Page 04 (Checking and Corrections).
+
+**Returns.** A fact-check log (T12) with a cover sheet, one result per line: Confirmed, Confirmed with correction, Not confirmed, Wrong or Unchecked. Each fix with severity and route code.
+
+**Search cap.** One search per print-bound fact plus 10, set aside before R2 and run in a fresh session. The mandatory set is funded first. Working default: a fresh AI agent in a new session for all checks, and a human for covers and Red-tier items once there is budget (proposed default, not yet approved).
+
+**Must never.**
+- Check anything they researched or wrote.
+- Mark a fact Confirmed from our own drafts, reports or the research reasoning.
+- Leave a result blank. Unchecked is the answer when budget or access runs out.
+- Let a mandatory-set fact run unchecked at its old level. It is hedged, cut or held.
+
+**Hand-off.** File the log in `03 Checks`. Send the lead the cover sheet counts. At most two fix loops follow a failed check; a third failure goes to Heather with both reports. During vendor probation the checker reviews 100% of a new vendor's rows on job 1, 25% on job 2 and 10% after, and every print-bound fact every time.
+
+**Self-check.**
+- [ ] I did no research on this topic and wrote nothing in this piece.
+- [ ] The mandatory set was checked first.
+- [ ] Every quote was checked character for character, as one piece, with its qualifier.
+- [ ] Every "first", "only", "never" has a search scope I could confirm.
+- [ ] Anything read through a summarizing tool was checked by eye.
+- [ ] Every line has a result; none is blank.
+- [ ] Every level that moved has a Rating changes row.
+- [ ] The cover sheet counts are filled in.
+
+**Approved example (illustration).** "Line 14, quote card. Checked against the page image (Q1). The draft dropped the speaker's opening qualifier, which changes the meaning. Result: Confirmed with correction. Fix: restore the full sentence with the qualifier; ellipsis for the cut at the end. Severity: MUST. Route: FACT."
+
+**Rejected example (illustration).** "Lines 22 to 30: budget ran out, but these match the sources doc, so Confirmed." Why it fails: the sources doc is our own work, the lines were never checked, and the honest result is Unchecked.
+
+## Network keeper
+
+**Purpose.** Keep the people-and-links data for a topic sourced, rated and reusable across packages.
+
+**Owns.** The topic's nodes and edges sheets in `05 Data`, and its rows in the master Network Database in `03 Reference Library`.
+
+**Reads first.**
+- The Fact Ledger and the desk reports.
+- The column rules for data sheets: every row carries the RP-ID, a level, a source ID and a row status (Researched, SEED, Refuted).
+- The proof standard for network overlap (T06): overlap must beat the base rate.
+
+**Returns.** Updated nodes and edges sheets, filed in Drive, with a short note of rows added, changed or refuted.
+
+**Search cap.** 15.
+
+**Must never.**
+- Add a link without a level and a source.
+- Label a shared club, board or document as a conspiracy, plot or participation.
+- Mix SEED rows with researched rows. SEED rows live on their own tab.
+- Keep the only copy outside Drive.
+
+**Hand-off.** File in `05 Data`, append to the master sheets keyed by RP-ID, and tell the research lead what changed. CSV copies for agents are built from the sheets, never the other way round.
+
+**Self-check.**
+- [ ] Every edge has a relation type, dates, a level and a source ID.
+- [ ] Relation types describe what the source shows (co-director, lender, correspondent).
+- [ ] SEED rows are on their own tab.
+- [ ] Living people's rows carry their risk tier.
+- [ ] The sheets are in Drive and the master sheets are updated.
+
+**Approved example (illustration).** `RP-### · Person A → Person B · relation: co-director, Company C · 1921 to 1925 · level: Proven · source S-044 · status: Researched`
+
+**Rejected example (illustration).** `Person A → Person B · "conspired" · source: forum thread`. Why it fails: no level, a tier 5 source, and a relation type that claims more than any document shows.
+
+## Research lead
+
+**Purpose.** Run one research package from intake to hand-off, keep its record, and bring Heather only the questions only she can answer.
+
+**Owns.** One package from R0 to R8 (and R9 for video): the common brief, the research log, the Fact Ledger, the conflict register, the scorecard and Must NOT list, the rulings file, the decision-needed pages and the hand-off. Launches every agent directly. Holds the package budget, including the checker reserve.
+
+**Reads first.**
+- The Decision Register, the Killed Claims list and the Source Access Registry.
+- Existing Drive research and sources docs on the topic (R1 inventory).
+- Pages 01 (The Research Process) to 05, and every role card.
+
+**Returns.** The package, gate by gate: the files listed in the magazine hand-off checklist (T21) at R8, and the video checklist at R9.
+
+**Search cap.** Holds the budget: about 200 searches for Phase 1, 30 per desk agent, 15 for red team and quick checks, and the checker reserve set aside before R2. Uses few searches of its own.
+
+**Must never.**
+- Close their own gaps or check their own work.
+- Rule on a conflict that changes the thesis, a title word or a locked doc. Those go to Heather on a decision-needed page.
+- Skip a gate without a waiver row in the research log.
+- Ask Heather something the Decision Register already answers.
+- Let a script, title or layout start before the package passes its gate.
+
+**Hand-off.** At R8, the magazine hand-off checklist (T21) with Heather's acceptance logged. At R9, the video checklist. At the end of every session, a handoff note in the research log.
+
+**Self-check.**
+- [ ] The question is testable, with names, places and years, and Heather approved it.
+- [ ] Tier, risk tier, budget and checker reserve were set at R0.
+- [ ] Every agent and vendor has a role card and a scoped brief.
+- [ ] Every conflict is logged; the lower level is used until a ruling closes it.
+- [ ] Only wording-level conflicts were ruled alone; the rest went to Heather.
+- [ ] Every skipped step has a waiver row.
+- [ ] Questions for Heather are batched on one decision-needed page per gate.
+- [ ] The research log has a handoff note for this session.
+
+**Approved example (illustration).** Two files give different counts for a list of members. The lead logs a conflict row, uses the lower count in all drafts with "by one count", and records a wording-level ruling. A second conflict would change a thesis point, so it goes on the gate's decision-needed page with two options side by side and a recommendation.
+
+**Rejected example (illustration).** The lead finds three checker items left Unchecked, checks them alone, marks them Confirmed and passes R7. Why it fails: the lead researched the topic, so the check is not independent; the items should be hedged, cut or held, or sent to a fresh checker.
+
+## Research librarian
+
+**Purpose.** Keep the shared records clean and findable, release portal versions, and catch strays before they cause a miss.
+
+**Owns.** The Decision Register, the Research Register, the Killed Claims list, the Rulings Index, the Source Access Registry, the Incident Log and the Change Log, all in `02 Logs`. Portal releases. The monthly audit. This is a standing role, filled by a Claude thread or a vendor.
+
+**Reads first.**
+- Page 06 (naming standard and every template).
+- The current Decision Register and Research Register.
+- The release steps on page 13 (Change Log).
+
+**Returns.**
+- Register rows logged the day a decision, ruling, block or correction happens.
+- Each portal release: Heather's approval recorded, version bumped, Change Log entry, web page and AI files rebuilt, old version moved to `_Superseded`.
+- A monthly audit note listing strays, duplicates and wrong statuses, with fixes.
+- An Incident Log review after each issue ships.
+
+**Search cap.** No topic research. Drive searches stay inside the Research folder.
+
+**Must never.**
+- Set APPROVED or LOCKED, or release a page Heather has not approved.
+- Trash a file, or leave a superseded file beside the live one.
+- Hand-edit a generated Markdown or CSV copy. Edit the master and rebuild.
+- Edit a package's Fact Ledger or ratings.
+- Move existing research into package folders without Heather's yes. Working default: index it where it is from the Research Register (proposed default, not yet approved).
+
+**Hand-off.** Each release ends with matching "vX.Y · date" lines on the Drive doc, the web page and the AI files. Each audit ends with a note in `02 Logs`.
+
+**Self-check.**
+- [ ] Every new decision has a DEC ID, a link to where it was made, and a status.
+- [ ] Every package in the Research Register has one live file per deliverable.
+- [ ] No folder carries "CURRENT"; no superseded file sits beside a live one.
+- [ ] Title and first line match on every file checked.
+- [ ] Versions match across Drive, web and AI files.
+- [ ] Vendor sharing is at project-folder level only, with "editors can share" off.
+- [ ] Offboarded vendors had sharing removed within one working day.
+
+**Approved example (illustration).** A sources doc moves from v1.1 to v2.0 after a rating change. The librarian renames the old file `SUPERSEDED (use v2.0) – RP-### Topic – Sources – v1.1 – APPROVED – [date]`, moves it to `_Superseded` the same day, and updates the Research Register row.
+
+**Rejected example (illustration).** A folder named "Sources (CURRENT)" holds "Sources v2 corrected" beside "Sources v1", and an older draft numbered v5 sits next to a newer v1. Why it fails: no reader can tell which file is live, and version numbers restarted.
+
+# 08 · Onboarding Vendors and Agents
+*v0.1 · DRAFT · 2026-11-24 · Owner: Research Librarian · Approved by: not yet approved*
+
+This page is how a new human vendor or AI agent gets ready to research for SIDE EYE: which track you are on, what to read, the test you pass, the access you get, and how you leave. Nobody works on a live topic until they have passed certification.
+
+## The three tracks
+
+Everyone learns the same core: the one rule ("Test the conspiracy. Don't assume it."), the six-level scale and the Never-Break Rules. What you may do depends on your track.
+
+| Track | Who | Can do | Can't do |
+|---|---|---|---|
+| H: Human vendor | Freelance researcher, fact-checker, editor | The roles you are certified for | Rule on conflicts; mark anything APPROVED or LOCKED |
+| A: Connected agent | Claude with Drive tools, scoped to named folders | Any role, launched directly by a research lead | Search or read outside its named folders |
+| B: Outside AI | Other AI tools working from a pasted pack | Bounded tasks: read one text, check a numbered list | Write to Drive; be the last check on anything |
+
+Rules for all tracks:
+
+- Track B output always goes through an independent checker on Track H or Track A before anyone uses it.
+- Certified Track H and Track A may do original research. Track B only reads and checks. (Proposed default DEC-2026-008, not yet approved.)
+- Agents can't launch agents. The research lead launches every agent directly.
+- Nobody on any track marks work APPROVED, LOCKED or Published. Only Heather does.
+
+## Day-one reading list (about 3 hours)
+
+Read in this order. Tick each item in your onboarding log.
+
+- [ ] Page 00 (Start Here): the one rule, who decides what, where to go by role (10 min)
+- [ ] Page 02 (How Sure Are We?): the six-level scale card and the map from old labels (10 min)
+- [ ] Page 01 (The Research Process): gates R0 to R9, plus the MASTER Deep Research Process Steps 1 to 9 and its traps table (40 min)
+- [ ] Template A, sections A1 to A22, from page 06 (Templates) (40 min)
+- [ ] Your role card from page 07 (Role Cards) (10 min)
+- [ ] The Rulings Index on page 09 (Decisions and Rulings) and two worked Must NOT lists from the starter kit (30 min)
+- [ ] One finished fact-check log as a model (the Perot EP03 log, section 1) (20 min)
+- [ ] Page 05 (Never-Break Rules and Legal), then sign it (10 min)
+- [ ] "How to ask a question" at the end of this page (5 min)
+
+AI agents get page 00, the scale card, their role card and the Never-Break Rules inside the short system prompt. The rest comes as reference files.
+
+## Starter kit
+
+The starter kit lives in Research > Standards and Processes > 05 Onboarding. Copy each blank; never edit the master.
+
+- Common brief (blank)
+- Fact Ledger sheet (blank)
+- Template A dossier (copyable doc)
+- Desk report format, with links table
+- Rulings file and decision-needed page templates
+- Access log (feeds page 11, Access and Blocked Sources)
+- Glossary (page 12)
+- Role cards (page 07)
+- The file-naming rule (page 10, Research Register)
+
+## Certification (about 2.5 hours)
+
+The test is the same for people and agents. It uses real cases from past SIDE EYE work. You take it once before your first job, with one retake after feedback.
+
+### Module 1: Must NOT spotter
+
+You get twelve draft lines from a past feature. Mark each one OK or FIX. For every FIX, name the rule it breaks and write safe wording. Some lines are already sound. Changing a sound line costs a point.
+
+Pass: at least 10 of 12 correct.
+
+### Module 2: Independent re-check
+
+You get ten print-bound facts and the sources file for that feature. Report each fact as Confirmed, Confirmed with correction, Not confirmed or Wrong, with the exact wording that runs. Some facts contain seeded errors.
+
+Pass: every seeded error caught, and no wrong fact marked Confirmed. Marking a wrong fact Confirmed is an automatic fail.
+
+### Module 3: Divergence rows and a ruling
+
+You fill Template A divergence rows for four "taught version" lines from a past episode, then write a ruling note on two conflicts between sources. Watch for date traps, such as a weekday that doesn't match the date.
+
+Pass: ratings within one step of the key on at least 80% of rows, and no rating raised above its evidence.
+
+### Rules for the whole test
+
+- Any invented quote or source fails the whole test.
+- "Unchecked" is a correct answer when you could not check something. A guess is a failure.
+- Answer keys stay in a folder only Heather and the research lead can see.
+- Case sets rotate between past topics, because a public AI may remember a key it has seen.
+- Heather signs certifications during the pilot, then a named research lead. (Proposed default DEC-2026-009, not yet approved.)
+
+## Role assignment
+
+The research lead assigns roles after certification. A role is one of the cards on page 07: desk researcher, book reader, red team, myth-buster, surprise hunter, independent checker, network keeper, research lead, research librarian.
+
+- You work only in roles you are certified for.
+- The independent checker did no research on the topic and wrote nothing in the piece.
+- The research log roster records your role, whether you are human or agent, the vendor or model and version, and your dates.
+
+## Access rules
+
+- Use your own Google account. No shared passwords, because a shared password can't be removed for one person. (Proposed default DEC-2026-010, not yet approved.)
+- You are shared at the project folder only: Research > the issue or product folder > your package. Never the Side Eye root, a parent folder or My Drive.
+- "Editors can share" is turned off on every shared research folder.
+- Standards and Processes: view only for certified vendors. Training cases: view only. Answer keys: Heather and the research lead only.
+- You get one drop folder for drafts.
+- Connected agents run with a brief that names their folder. Every search is limited to that folder, and the agent reads only the files its brief names.
+- Out of reach for everyone: personal files, mail, calendar, and any host's last name, phone, email or location.
+
+## Probation and sampling
+
+Probation is your first three jobs or 30 days, whichever is longer.
+
+| Job | Rows the checker samples |
+|---|---|
+| Job 1 | 100% |
+| Job 2 | 25% |
+| Job 3 and after | 10% |
+
+Every print-bound or air-bound fact is checked every time, whatever the sample rate.
+
+| Error class | Examples | Limit |
+|---|---|---|
+| Critical | Invented quote or source, a raised rating, a workaround past a blocked site, a hate trope | One ends probation |
+| Major | Wrong date, name or title; a dropped hedge; one source chain counted twice | 2 per 50 rows |
+| Minor | Format | Fix and move on |
+
+AI agents are certified per model and version. When the model or version changes, the agent re-runs Module 2 before live work.
+
+## Offboarding (within one working day)
+
+- [ ] Remove all sharing for the vendor or agent
+- [ ] Move ownership of every file they created to the project
+- [ ] Collect open leads and access-needed items into a handover note in the research log
+- [ ] Close their drop folder
+- [ ] Delete any custom GPT, Gem or project that holds the research guide
+- [ ] Change any shared password that was used
+- [ ] Log the exit date in the research log roster
+
+## How to ask a question
+
+Search before you ask. Most questions are already answered.
+
+1. Look in the topic's rulings file and Must NOT list.
+2. Look in the Rulings Index and the Decision Register on page 09 (Decisions and Rulings).
+3. Look in the FAQ on page 12 (Glossary and FAQ).
+4. Still open? Add a row to the topic's question file with: the question, where you looked, your proposed answer, the options, and what each option changes.
+5. Use the lower rating meanwhile and keep working.
+6. The research lead batches open rows into one decision page at Heather's next gate. Each answer goes into the rulings file and the Rulings Index the same day. If it changes a role card or agent file, that file is updated too.
+
+Vendors never message Heather directly about research.
+
+# 09 · Decisions and Rulings
+*v0.1 · DRAFT · 2026-11-24 · Owner: Research Librarian · Approved by: not yet approved*
+
+This page explains the three shared records that stop SIDE EYE from deciding, finding or correcting the same thing twice: the Decision Register, the Rulings Index and the Killed Claims list. It also lists every decision on file today.
+
+## The Decision Register
+
+The Decision Register is one Google Sheet in Research > 02 Logs. It holds every call Heather has made about research standards, process and outputs. A decision made in a chat, a thread or a working doc counts only once it has a row here.
+
+### Fields
+
+| Field | What goes in it |
+|---|---|
+| ID | DEC-YYYY-NNN, for example DEC-2026-003. IDs are never reused. |
+| Date | The day the decision was made (ISO date). |
+| Scope | Standard, Process, Output, or a package ID (RP-###). |
+| Question | The question, in one sentence. |
+| Options | The options that were on the table. |
+| Decision | What was decided, in one or two sentences. |
+| Decided by | Heather, or "proposed default" while it is still open. |
+| Why | The reason, if one was given. |
+| Where it was made | A link to the thread, doc or file where the call was made. |
+| Supersedes | The ID this decision replaces, if any. |
+| Status | Open, Open (default proposed), Decided, or Reversed. |
+| Notes | Anything a reader needs, such as "confirm wording against the source". |
+
+### When to search it
+
+Search the register before you ask Heather anything. Search by keyword and by scope. If a row answers your question, follow it and cite its ID. If a row is Open (default proposed), work to the default and say so in your report.
+
+### How a decision gets logged
+
+1. Whoever is in the room when Heather decides (the research lead, an agent or the librarian) adds the row the same day.
+2. The row links to where she made the call.
+3. Working docs link to the decision ID. They never hold the decision text alone.
+4. If the decision changes a template, role card, skill or locked doc, the librarian lists that file for update in the next release (page 13, Change Log).
+
+### Superseding a decision
+
+A decision is never edited to say something new. To change one:
+
+1. Add a new row with a new ID.
+2. Put the old ID in its Supersedes field.
+3. Set the old row's status to Reversed and write "Superseded by DEC-YYYY-NNN" in its Notes. Leave the rest of its text as it was.
+
+## The Rulings Index
+
+A ruling settles one disputed item inside a topic: a count, a quote, a date, a name, or a wording the show may use. The Rulings Index is one list of every ruling across all topics, in Research > 02 Logs, with a link to each topic's rulings file.
+
+### Fields
+
+| Field | What goes in it |
+|---|---|
+| Ruling ID | RUL-RP###-NN, for example RUL-RP004-03 |
+| Package | RP-### |
+| Date | The day of the ruling |
+| What was disputed | Count, quote, date, name or wording, in one line, with each source and its chain |
+| Fact IDs | Every Fact Ledger row the ruling touches |
+| Conflict ID | The row in the package's conflict register |
+| Ruling | The decision |
+| Level now | The level the fact is left at |
+| Safe wording | The exact words allowed from now on |
+| Ruled by | Heather, or the research lead for wording-level calls where the lower rating wins |
+| Where it was made | Link |
+| Supersedes | An earlier ruling ID, if any |
+| Files updated | Ledger, role cards, templates, agent files changed because of it |
+| Flag | Open or Closed |
+
+Each topic keeps its own rulings file (template T18 on page 06, Templates). The Index carries every row from every topic's file.
+
+### The disputed flag
+
+When two files disagree, the item gets a disputed flag in the Fact Ledger. The lower rating wins until a ruling is logged. The flag stays open until a ruling closes it. Nobody closes a flag by editing a rating.
+
+Heather rules on anything that changes a thesis, a title word or a locked doc. The research lead may rule alone on wording-level conflicts where the lower rating wins.
+
+### Rating-change rows
+
+Every time a fact's level changes, the independent checker (or the lead, with a ruling ID) adds a row to the "Rating changes" tab of the package's Fact Ledger:
+
+| Fact ID | Old level | New level | Date | Reason | Evidence | Ruling ID | Changed by |
+|---|---|---|---|---|---|---|---|
+| F-031 | Likely | Contested | 2026-11-20 | A second source gives a different count | Chain and page for each source | RUL-RP001-02 | Checker |
+
+Packaging claims (titles, thumbnails, covers, teasers) get rating-change rows too. A reader of Drive should be able to tell why any level moved without opening a chat.
+
+## Decided items
+
+These decisions are in force. They override plan v0.1 wherever the two differ.
+
+| ID | Date | Decision | Where it was made | Status |
+|---|---|---|---|---|
+| DEC-2026-001 | 2026-11-24 | Research starts with the magazine and is built to serve a likely video. R0 to R8 produce the magazine package; R8 also hands off video-ready notes (quotes, documents, places, visuals). New gate R9 "YouTube extension": Template A is filled from the same Fact Ledger; anything new the video needs (Q1 or Q2 quote cards, footage and image sources, cold open, withheld object) goes in as change requests and is checked independently; Heather approves the video thesis, then title and thumbnail; R9 passes when every air-bound fact, title and thumbnail has a check result. No fresh research round for facts the package already holds. | Heather's decisions, Nov 24 | Decided |
+| DEC-2026-002 | 2026-11-24 | The six-level scale (Proven, Strongly supported, Likely, Contested, Unsupported, Refuted) is used everywhere. "Documented", "Not proven", the PROVEN/LIKELY/NOT PROVEN stamps and on-screen badges are retired as rating labels. No proof stamps or badges on screen. | Heather's decisions, Nov 24 | Decided |
+| DEC-2026-003 | 2026-11-24 | When a site blocks research, agents may ask Heather to open it in her own browser. The request, who opened it, when and what was read are logged in the Source Access Registry. Requests wait for the next gate when the work can wait. Agents never get past a block themselves. See page 11. | Heather's decisions, Nov 24 | Decided |
+| DEC-2026-004 | 2026-11-24 | Known errors are posted publicly on a corrections page, which Heather approves before it goes live. Future confirmed errors are posted within 14 days of being confirmed (the 14-day figure is proposed, awaiting her confirmation). | Heather's decisions, Nov 24 | Decided (deadline proposed) |
+| DEC-2026-005 | 2026-11-24 | No lawyer. The legal gate is a checklist run by someone who did not write the piece. Any line that puts a living person in a wrongdoing frame is softened to court and filing language (charged, convicted on counts, acquitted on counts, settled without admission, ruled false, alleged in a filing, reported by an outlet) or cut. | Heather's decisions, Nov 24 | Decided |
+| DEC-2026-017 | 2026-10-26 | Proof levels never appear on screen as stamps or badges. | Brand Standards v1.0 decision log | Decided (back-filled) |
+| DEC-2026-018 | 2026-11-10 | Title and thumbnail are set after the script. | EP02 Napoleon decisions, Nov 10 | Decided (back-filled) |
+| DEC-2026-019 | 2026-11-24 | Shorts are regular horizontal videos, longer than 60 seconds. | Episode production thread | Decided (back-filled) |
+| DEC-2026-020 | 2026-11-24 | The research guidelines are captured in the standards docs in Drive and also published as an unlisted web portal for writers and writing agents on heatherchappell.com, built from the Drive masters. | Heather's message, Nov 24 | Decided |
+
+Back-filled rows (017 to 019) were copied from the Nov 24 plan reviews. Confirm the wording against the source before relying on them.
+
+## Open items with a proposed default
+
+These are the plan's section 13 calls. Each is a working default until Heather confirms or changes it. Work to the default and mark it "(proposed default, not yet approved)" wherever you rely on it.
+
+| ID | Question | Proposed default | Status |
+|---|---|---|---|
+| DEC-2026-006 | May Strongly supported be said flat and used on titles and thumbnails? | Yes, with the source named in the body | Open (default proposed) |
+| DEC-2026-007 | Must the independent checker be human for print and live episodes? | A fresh AI agent in a new session for all checks; a human checker for covers and Red-tier items once there is budget | Open (default proposed) |
+| DEC-2026-008 | Will outside vendors do original research or only checking? | Certified Track H and Track A may research; Track B only reads and checks | Open (default proposed) |
+| DEC-2026-009 | Who signs certifications and runs the question queue? | Heather during the pilot, then a named research lead | Open (default proposed) |
+| DEC-2026-010 | Vendor access: own Google accounts or the shared hub password? | Own accounts, folder-level sharing | Open (default proposed) |
+| DEC-2026-011 | Is Side Eye > Research the single home, with Production "02 Research" folders as shortcuts? | Yes | Open (default proposed) |
+| DEC-2026-012 | Move existing research into package folders, or index it where it is? | Index it where it is from the Research Register; only new work uses the new folders; move old work later, with shortcuts, only on Heather's yes | Open (default proposed) |
+| DEC-2026-013 | Standards master as Google Doc, or Markdown with a build script? | Google Doc, so Heather can comment and edit in place | Open (default proposed) |
+| DEC-2026-014 | Publish a one-line AI disclosure? | Yes: one line in the colophon, channel About and each description, plus a check of the YouTube and KDP AI questions before each release | Open (default proposed) |
+| DEC-2026-015 | May the magazine debunk a hate trope on the page? | Only with Heather's sign-off per item; never in packaging | Open (default proposed) |
+| DEC-2026-016 | When magazine and video disagree, which wins? | Neither: the Fact Ledger is the master, and the propagation checklist fixes both | Open (default proposed) |
+| DEC-2026-021 | Which features get the full standard? | Tier A as defined on page 01 (The Research Process); which current features count is a separate decision | Open (default proposed) |
+
+## The Killed Claims list
+
+The Killed Claims list holds every claim SIDE EYE has ruled out, across all topics. It lives in Research > 02 Logs. Its job is to stop a refuted or banned line from coming back in a later script, Short, title, thumbnail, description or issue.
+
+### What goes on it
+
+- Every Must NOT line from every topic's scorecard and red team
+- Every claim rated Refuted that a writer might still reach for
+- Every line cut under DEC-2026-005 (living person in a wrongdoing frame)
+
+### Fields
+
+| Field | What goes in it |
+|---|---|
+| Kill ID | KC-NNN |
+| Package, MN ID and fact ID | RP-###, the line's ID in the topic's Must NOT list, and the Fact Ledger row |
+| The line | The exact words as they were written, plus known variants |
+| Why it is killed | One line, with the source that kills it |
+| Level | Usually Refuted or Unsupported; or "living-person risk" |
+| Safe wording | What may be said instead, if anything |
+| Killed at | Gate or document (scorecard, red team, ruling ID) and date |
+
+### How it is used
+
+- Every downstream brief (spine, script, packaging, art, Shorts) loads the topic's Must NOT file and the Killed Claims list.
+- Lint checks every draft, title and thumbnail against it.
+- A killed line that comes back is a Major error, or Critical if it states a living person did wrong.
+
+An invented example of the pattern: a popular website says an 18th-century admiral "ordered the fleet burned." His written orders and two ships' logbooks show the fleet sailed home. The line is killed (Refuted), and the safe wording is "The fleet sailed home under his orders."
+
+# 10 · Research Register
+*v0.1 · DRAFT · 2026-11-24 · Owner: Research Librarian · Approved by: not yet approved*
+
+This page explains the Research Register (one row for every research package), how a package folder is laid out, and how files are named, versioned and retired. Follow it and anyone can tell which file is live without asking.
+
+## What the Research Register is
+
+The Research Register is one Google Sheet in Research > 02 Logs. It has one row per research package. A package is all the research for one topic, shared by every product that uses it (magazine, Journal, YouTube). If a package is not in the Register, it does not exist as far as the system is concerned.
+
+### Fields
+
+| Field | What goes in it |
+|---|---|
+| Package ID | RP-### (see below) |
+| Topic | Short topic name, as used in file names |
+| Products | Every product the package serves: magazine issue and feature, Journal piece, YouTube episode, Shorts |
+| Tier | A, B or C (page 01, The Research Process) |
+| Lead | The research lead, human or agent |
+| Gate | The last gate passed, R0 to R9 |
+| Status | DRAFT, IN REVIEW, APPROVED, SUPERSEDED |
+| Version | The package's current version, such as v1.2 |
+| Last update | ISO date |
+| Location | "Package folder" or "Indexed in place" |
+| Link | Link to the package folder or, for indexed work, to each file |
+| Notes | Open flags, waivers, access problems |
+
+### Package IDs
+
+- Every package gets an ID when it passes R0: RP- plus three digits, issued in order (RP-001, RP-002).
+- The ID never changes. It stays the same when a volume or issue is renumbered, when a product is renamed, or when the topic grows.
+- Every output names its package in its header ("Research: RP-001").
+
+### Statuses
+
+| Status | Meaning | Who sets it |
+|---|---|---|
+| DRAFT | Work in progress | Anyone working on it |
+| IN REVIEW | Waiting for a check or for Heather | Research lead |
+| APPROVED | Heather has accepted it | Heather only |
+| LOCKED | A standard that only changes through a release (standards only, never packages) | Heather only |
+| SUPERSEDED | Replaced by a newer version | Research librarian |
+
+## The package folder skeleton
+
+Every new package gets the same folder, inside Research > the issue folder (or "Journal and YouTube Only" for work with no issue).
+
+| Folder | What goes in it |
+|---|---|
+| 00 Brief and Log | Common brief, research log (roster, run log, waivers, rating changes, access needed, open questions, corrections, handoff note) |
+| 01 Desk Reports | Every desk report in the standard format, with its links table |
+| 02 Claims and Red Team | Proof standards, red-team reports, myth-buster report, scorecard, Must NOT list |
+| 03 Checks | Independent checker output, fact-check logs, re-checks |
+| 04 Package | The APPROVED package: ledger snapshot, scorecard, rulings, sources doc, format packs |
+| 05 Data | Fact Ledger, timeline, codex, nodes and edges, source list for this topic |
+| 06 Source Files | Scans, PDFs, text extracts, with the licence in each file's description |
+| _Superseded | Every retired version |
+
+Rules for data in 05 Data:
+
+- Every row carries the package ID, a rating, a source ID and a status (Researched, SEED or Refuted).
+- SEED rows (unverified placeholders) stay out of approved data. Keep them in the Fact Ledger's separate SEED tab, or the research log's open questions, until they are researched.
+
+## File naming
+
+Every file name follows one pattern:
+
+**RP-### Topic – Doc type – vX.Y – STATUS – YYYY-MM-DD**
+
+The parts are separated by a spaced en dash. The date is the date of this version, in ISO form. Body text writes dates out ("Nov 24, 2026").
+
+Examples (the package numbers are for illustration):
+
+- RP-004 Keith Murdoch – Sources – v2.0 – APPROVED – 2026-10-16
+- RP-004 Keith Murdoch – Scorecard – v1.1 – APPROVED – 2026-10-02
+- RP-001 Napoleon Money Trail – Fact Ledger – v0.4 – DRAFT – 2026-11-24
+- RP-001 Napoleon Money Trail – Desk Report Chronology – v1.0 – APPROVED – 2026-11-08
+- RP-007 Emu War – Fact-Check Log – v0.2 – IN REVIEW – 2026-11-20
+- RP-007 Emu War – Research Log – v0.9 – DRAFT – 2026-11-22
+
+Rules:
+
+- The doc title and the first line of the doc always match. The first line repeats the version, status, date and approver.
+- Folders never carry "CURRENT", a version or a date.
+- No sort-key prefixes ("A ·", "00b") in research file names. The package folder sorts the files.
+
+## Versioning
+
+| Version | When |
+|---|---|
+| v0.1, v0.2 … | Before first approval |
+| v1.0 | First time Heather approves it |
+| Minor step (v1.0 to v1.1) | Wording or a source fix, with no rating change |
+| Major step (v1.1 to v2.0) | A rating changes, a claim is added or killed, or the thesis changes |
+
+- Numbers never restart. A rewrite of v5 is v6, even if it starts from a blank page.
+- One version sequence per deliverable. Two live files for one deliverable is a filing error.
+- Only Heather moves a file to APPROVED. Bumping the number does not approve anything.
+
+## Retiring a file
+
+When a new version goes live, retire the old one the same day:
+
+1. Rename it with the prefix "SUPERSEDED (use v2.0) " in front of the full old name.
+2. Move it to the package's _Superseded folder.
+3. Update the Register row (version, date, link).
+
+Example: "SUPERSEDED (use v2.0) RP-004 Keith Murdoch – Sources – v1.0 – APPROVED – 2026-09-27".
+
+Never use the trash. Never leave a retired file beside the live one.
+
+## One master format
+
+- Anything people read is a Google Doc or Google Sheet. That is the master.
+- Markdown and CSV copies for agents are generated from the master and never edited by hand. They live in AI Files or the package's 05 Data folder.
+- No format twins (the same doc as .md and .docx side by side). No .docx unless a vendor asks for one.
+
+## Nothing counts as delivered until it is in Drive
+
+A desk report, ledger, network map or check that lives only in an agent's workspace, a chat or a local file is lost when that session ends. A gate can't pass on work that isn't filed.
+
+- File every output in the package folder before the gate closes.
+- Agents write their full report to Drive and return only a summary to the lead.
+- The lead checks the folder against the run log at every gate.
+
+## Research and Production
+
+Side Eye > Research is the single home for research. The Production "02 Research" folders hold Drive shortcuts to the package only. Never copy research files into Production. (Proposed default DEC-2026-011, not yet approved.)
+
+A writer or designer who needs a fact opens the shortcut and reads the live file. A new fact found during production goes back through a change request (page 01), never into a Production copy.
+
+## Existing research
+
+Research made before this standard stays where it is. The Research Register indexes it in place: one row per topic, with Location set to "Indexed in place" and a link to each file. Only new work uses the new package folders. Old work moves later, with shortcuts left behind, only on Heather's yes. (Proposed default DEC-2026-012, not yet approved.)
+
+When you index old work:
+
+- [ ] Give it an RP-### ID and a Register row
+- [ ] Link every file that holds research (sources docs, dossiers, desk reports, decision files)
+- [ ] Note duplicates and which copy is the master
+- [ ] Note any superseded file sitting beside a live one, for the monthly audit
+- [ ] Change nothing in the old files themselves
+
+## The monthly audit
+
+The research librarian runs an audit once a month and logs the result in the Incident Log.
+
+- [ ] Every package folder has a Register row, and every row has a folder or index links
+- [ ] No retired file sits beside a live one
+- [ ] No two live versions of one deliverable
+- [ ] Every status in a file name matches the Register
+- [ ] No APPROVED or LOCKED status set by anyone other than Heather
+- [ ] No format twins and no hand-edited agent copies
+
+# 11 · Access and Blocked Sources
+*v0.1 · DRAFT · 2026-11-24 · Owner: Research Librarian · Approved by: not yet approved*
+
+This page tells you what to do when a source refuses you: what counts as a block, which other routes are allowed, how to ask Heather to open a site in her own browser (DEC-2026-003), and what gets logged. The short version: never get past a block yourself, log it, keep working, and ask through the registry.
+
+## What counts as a block
+
+A block is any time a source refuses to show you its content. Log every one, even if you found the text another way.
+
+| Block type | What you see |
+|---|---|
+| Bot challenge | A "checking your browser" page, a puzzle, a box to tick, or a wall that says you look automated |
+| Paywall | The page asks you to subscribe or pay to read |
+| Login | The page asks you to sign in or use a library card |
+| Geo-block | The page says it isn't available in your country or region |
+| Rate limit | An error such as 429, "too many requests", or the site works and then stops |
+| Robots refusal | The site's robots rules or its API terms bar automated tools |
+| Refused or error | A 403, a timeout or an empty page, with no reason given |
+| Tool limit | Your own research tool or its proxy refuses the site, while the site itself may be open |
+
+A tool limit is logged as a tool limit. It is never permission to go around the site.
+
+## Allowed and not-allowed routes
+
+Every source in the Fact Ledger records how it was reached: direct, another allowed route (name it), or Heather's browser (with who opened it and when).
+
+### Allowed
+
+- Open-access routes the site itself offers
+- A publisher's own full-text or in-book search, and snippet search where it loads (cite the page)
+- Library catalogues
+- A second legitimate host of the same public-domain text (another national library, a university repository, an official edition)
+- Books obtained lawfully (bought, borrowed, or from a library)
+- An author's own copy or an open thesis, rated as what it is
+- Heather opening the site in her own browser, logged as below
+
+### Not allowed
+
+- Solving or getting past a bot challenge yourself
+- Mirrors, caches or archive copies of a page that refused you
+- Shadow libraries or pirated copies
+- Borrowed or shared logins
+- Paywall workarounds of any kind
+- Any trick that makes your tool look like a person
+
+Using any not-allowed route is a Critical error (page 08, Onboarding Vendors and Agents). It ends probation.
+
+## Common blocks to expect
+
+Some kinds of source block automated tools often. Plan for them at R1 and put them in the common brief's blocked-site list.
+
+- National newspaper archives often block automated tools with bot challenges, and many bar their APIs.
+- National library scan sites and scholarly journal platforms often refuse automated reads.
+- Scanned-book sites and full-text libraries rate-limit, or are refused by research tool proxies.
+- Video watch pages often refuse transcript reads.
+- Government archive and records sites often refuse or time out.
+- Nonprofit filing lookups and web archives are sometimes refused.
+
+The full list of sources seen blocked so far, with their routes, is in the Source Access Registry in Research > 02 Logs. Check it before you start a desk.
+
+## Asking Heather to open a site (DEC-2026-003)
+
+Agents may ask Heather to open a blocked site in her own browser. Agents never get past a block themselves.
+
+### Step by step
+
+1. **Check the registry.** If the source already has an approved route other than Heather's browser, use that route.
+2. **Try the allowed routes.** Try at least one other allowed route from the list above. Log what you tried.
+3. **Add or update the registry row.** Fill in source, what it holds, block type, date seen, the package, and what you will do meanwhile.
+4. **Write the request.** Give the exact item: full citation, the search terms or page you need, and the fact IDs it would settle. Say what changes if it is found and if it isn't.
+5. **Wait for the gate.** If the work can wait, the request waits for the next Heather gate. The research lead batches all requests for that gate into one list. Ask between gates only when a gate can't pass without the source.
+6. **Heather opens it.** She opens the site in her own browser and reads the items the request names, or shares them with the lead.
+7. **Log the result.** The lead fills in who opened it, when, and exactly what was read.
+8. **Update the ledger.** New findings get Fact Ledger rows and are checked independently like any other fact. Clear the UNREAD flag only for the items actually read.
+
+### What gets logged
+
+The Source Access Registry has one row per source, with one entry per request.
+
+| Field | What goes in it |
+|---|---|
+| Source | Site or archive name |
+| What it holds | Collection and date range |
+| Block type seen | From the table above |
+| First seen | First date blocked |
+| Seen in | Package IDs |
+| What happened | What was and was not read |
+| Approved route | The route to use next time |
+| Owner | Who is responsible for getting access |
+| Status | Open, Partial or Resolved |
+| Meanwhile | The guardrail and the exact search that would settle it |
+| Browser request | Who asked, at which gate, on what date |
+| Opened by, date | Who opened it and when |
+| What was read | Exact items with stable IDs (article IDs, page numbers, searches run), and the fact IDs updated or "nothing found" with the search scope |
+
+The row format is template T24 on page 06 (Templates).
+
+## While a source is blocked
+
+### The UNREAD flag
+
+A fact whose source is cited but blocked gets the UNREAD flag in the Fact Ledger. UNREAD is a flag, never a level.
+
+- Keep the fact at its last rating. Never raise it, and never use the block as a reason to drop it to Unsupported.
+- Add a guardrail to any copy that uses it.
+- Write down the exact search that would settle it (archive, dates, terms).
+- An UNREAD fact in the mandatory set (title, thumbnail, cold open, withheld object and the rest of the list on page 04, Checking and Corrections) is hedged, cut or held at R7.
+
+### Guardrail wording
+
+A guardrail tells the reader what we could and couldn't read. Write it plainly, in the same sentence or the next.
+
+- "A 1982 biography says the story ran in dozens of papers. We couldn't read the papers themselves."
+- "By one historian's count, the order went out on Nov 2. The original order wasn't reachable."
+- "Reports at the time are said to name him. We haven't seen those reports."
+
+Never write a guardrail that hints the answer is hidden or suppressed. A blocked site is a blocked site.
+
+### Keep working
+
+A block stops one fact. The rest of the package keeps moving.
+
+- [ ] Log the block and file the request
+- [ ] Flag the fact UNREAD with its last rating
+- [ ] Add the guardrail to every draft that uses it
+- [ ] Move on to the next fact or desk
+- [ ] List the item in your report's access-needed section with a full citation
+
+The checker treats UNREAD facts as unchecked. At R7 each one is hedged, cut or held. It is never printed or aired at a rating it has not earned.
+
+# 12 · Glossary and FAQ
+*v0.1 · DRAFT · 2026-11-24 · Owner: Research Librarian · Approved by: not yet approved*
+
+This page defines the words SIDE EYE research uses and answers the questions new vendors and agents ask most. If a term here disagrees with an older doc or skill, this page wins (page 13, Change Log, explains precedence).
+
+## Glossary
+
+| Term | Meaning |
+|---|---|
+| Desk | One research lane at R2 (Gather), covering one set of people, years and questions. A desk is run by a desk researcher, human or agent. |
+| Desk report | The standard report a desk returns: summary, rated findings, links table, leads, and an access-needed list. It is filed in the package's 01 Desk Reports folder before the gate closes. |
+| Red team | At R5, one agent per claim whose job is to attack that claim. It scores the central claim, never the true facts around it. |
+| Myth-buster | At R5, the person or agent who builds the strongest case against the thesis. They never soften the counterargument. |
+| Surprise hunter | At R6, a specialist given one sharp question and about 30 searches to chase a surprise lead. They never turn a "no" into a "maybe". |
+| Drill | The R6 surprise drill: surprise hunters chase the best leads before the thesis is final. It is run, or waived with a line in the research log. |
+| Must NOT list | A numbered list, per topic, of lines that must never be said, each with its reason. Every downstream brief loads it, and lint checks drafts against it. |
+| Safe wording | The exact words allowed for a fact at its current level. Writers copy it; they don't improve it. |
+| Scorecard | The R5 record of each claim: its level, the evidence for and against, the Must NOT list, corrections, and before-print checks. |
+| Fact Ledger | One sheet per package holding every fact: fact ID, statement with its hedge, level, source chain, check status, last changed, and where it is used. Every format reads from it. It is the master when products disagree. |
+| Fact ID | The stable ID of one Fact Ledger row, such as F-012. Every factual sentence in a deliverable carries one. |
+| Chain | A source chain, named by its earliest source: "Serle 1982 via Coulthart 2014". Count chains when you weigh evidence. Ten writers quoting one source are one chain. |
+| Q-levels | How a quote was checked. Q1: against the primary or original-language text. Q2: against a reliable published transcription. Q3: only as quoted by a secondary ("as Serle quotes him"). Q0: unchecked, so paraphrase only. |
+| UNREAD | A flag (never a level) on a fact whose source is cited but blocked. Keep the last rating and add a guardrail. See page 11. |
+| CHECK | A flag (never a level) marking an open item. Open CHECKs must be zero, or each signed off, before a gate passes. |
+| Tier A, B, C | Research tiers. Tier A (lead features, Case Files, covers) runs every gate. Tier B (sidebars, Shorts cut from approved work) runs R1, R4 and R7 against an existing ledger. Tier C (opinion pieces, host banter) runs R7 on any fact it states. Source tiers are numbered 1 to 6 and are a different thing (page 03). |
+| Gate | A checkpoint, R0 to R9, with entry and exit criteria. Work moves on only when the gate passes or is waived. R0 to R8 build the magazine package; R9 is the YouTube extension. |
+| Waiver | A line in the research log that lets a gate be skipped: the gate, the reason, and who approved it. |
+| Change request | How a new fact enters after R8 (or during R9): it gets a ledger row, a rating and an independent check before anyone uses it. |
+| Template A | The video research dossier, sections A1 to A22. At R9 it is filled from the same Fact Ledger as the magazine package. |
+| SEED | A placeholder row that has not been researched ("SEED, verify"). SEED rows stay out of approved data and are never used in copy. |
+| Cold open | The opening scene of a video, before the title. Its facts are in the mandatory set and are checked first. |
+| Withheld object | The document or object a video holds back and reveals late. It is in the mandatory set, and any quote on it must be Q1 or Q2. |
+| Rulings Index | One list of every ruling across all topics: a disputed count, quote, date or name, and what was decided. See page 09. |
+| Decision Register | The sheet of every decision Heather has made about research, with IDs (DEC-YYYY-NNN). Search it before asking her anything. See page 09. |
+| Killed Claims | The list of every claim ruled out across all topics, with the reason and safe wording. Lint checks drafts against it. See page 09. |
+| Legal gate | A checklist run by someone who did not write the piece. There is no lawyer (DEC-2026-005). Any line that puts a living person in a wrongdoing frame is softened to court and filing language or cut. |
+| Red / Amber / Green | The living-person risk tier, set at R0. Green: dead or historical. Amber: a living public figure, documented facts only. Red: a living person plus crime, fraud, sex, health, coordination or money-for-favors, or any private person. |
+| Propagation | What happens after any correction: the Fact Ledger, the sources doc, every product that used the fact (magazine, script, Shorts, description) and any template or skill example that teaches the error are all updated. |
+
+## FAQ
+
+### Which version is current?
+
+Look up the package in the Research Register (page 10). Its row gives the live version and a link. In the folder, the live file is the one without a SUPERSEDED prefix, and its name and first line show the same version. Retired versions sit in _Superseded. If you find two live files for one deliverable, use neither until the librarian fixes it, and log it.
+
+### A site blocked me. What do I do?
+
+Never get past it yourself. Log it in the Source Access Registry, try an allowed route, flag the fact UNREAD at its last rating, add a guardrail, and keep working. If no allowed route works, file a request for Heather to open it in her own browser; it waits for the next gate unless the gate can't pass without it. Full steps are on page 11 (Access and Blocked Sources).
+
+### Two files disagree. Which do I use?
+
+The lower rating wins until a ruling is logged. Flag the item as disputed in the Fact Ledger, check the Rulings Index for an existing ruling, and if there is none, add it to the question file. Don't "fix" either file to match the other.
+
+### I found a new fact after R8. Can I use it?
+
+Not yet. Raise a change request: the fact gets a ledger row, a rating and an independent check. It may be used only after the check returns a result. This applies to writers, art and layout too.
+
+### Can I say Strongly supported flat?
+
+Yes, with the source named. On video, say it flat and name the source. In print, the same. On titles and thumbnails it is allowed, with the source named in the body. (Proposed default DEC-2026-006, not yet approved.) Likely must always be hedged in the same sentence, and it never goes in a title or thumbnail.
+
+### Can an AI be the checker?
+
+Yes, if it is a fresh agent in a new session that did no research on the topic and wrote nothing in the piece. A human checker is added for covers and Red-tier items once there is budget. (Proposed default DEC-2026-007, not yet approved.) An outside AI (Track B) is never the last check on anything.
+
+### Who do I ask?
+
+Nobody, until you have searched: the topic's rulings and Must NOT list, then the Rulings Index and Decision Register (page 09), then this FAQ. Still open? Add a row to the question file with your proposed answer and keep working at the lower rating. The research lead batches questions for Heather's next gate. Vendors never message Heather directly about research.
+
+### Can I use this image?
+
+Only if you opened and read its licence yourself. Allowed: public domain, CC0, CC BY, CC BY-SA, US government works. Not allowed: non-commercial, no-derivatives, any licence you didn't open, or a blank source line. A photo credited to an agency but posted under CC by someone else needs a second check. A living person with no free photo gets a name card. Record every image in the credits file. Full rules are on page 05 (Never-Break Rules and Legal).
+
+### The magazine and the video disagree. Which one is right?
+
+Neither one wins by default. The Fact Ledger is the master. Find the fact's ledger row, settle it there (with a ruling if it is disputed), then run the propagation checklist so both products match. (Proposed default DEC-2026-016, not yet approved.)
+
+# 13 · Change Log
+*v0.1 · DRAFT · 2026-11-24 · Owner: Research Librarian · Approved by: not yet approved*
+
+This page records every release of the SIDE EYE research standards and explains how a release is made. If the version on a web page, an AI file and its Drive doc don't match, check here first.
+
+## Where the standards live
+
+- The masters are the numbered Google Docs in Research > Standards and Processes. They are the source of truth.
+- The unlisted web page and the AI files (SIDE-EYE-RESEARCH-SYSTEM-PROMPT.txt and SIDE-EYE-RESEARCH-GUIDE.txt) are built from the masters. Nobody edits them by hand.
+- Every page carries the same line: version, status, date, owner, approver. A page whose line doesn't match its Drive doc means the last build failed. Report it to the research librarian.
+- Agents read Drive. Vendors read the web page.
+
+## How a release works
+
+The research librarian runs every release. Only Heather approves one.
+
+1. **Edit the master.** Make the change in the Drive master doc.
+2. **Heather approves.** No change goes live without her yes. Her approval is recorded on the page's version line and in the log below.
+3. **Bump the version.** Use the versioning rules on page 10 (Research Register): v0.x before first approval, v1.0 at first approval, a minor step for wording, a major step when a rule changes.
+4. **Write the Change Log entry.** Add a row below: version, date, what changed, who approved.
+5. **Rebuild.** Rebuild the web page and the AI files from the masters. Check that every page shows the new version line.
+6. **Retire the old version.** Rename it with the SUPERSEDED prefix and move it to _Superseded the same day.
+
+### Release checklist
+
+- [ ] Master edited and approved by Heather
+- [ ] Version bumped on every changed page
+- [ ] Change Log row added
+- [ ] Every template, role card, skill and locked doc that teaches the old rule updated in the same release
+- [ ] Web page and AI files rebuilt
+- [ ] Version lines match across Drive, web and AI files
+- [ ] Old version moved to _Superseded
+- [ ] Decision Register rows that drove the change linked in the entry
+
+## Precedence
+
+When two documents disagree, follow this order:
+
+1. Heather's rulings and decisions (Decision Register and Rulings Index, page 09)
+2. This portal
+3. Older docs and skills
+
+A locked doc or skill that still teaches a retired rule does not override the portal. Follow the portal and report the file to the librarian.
+
+## When a standard changes
+
+A rule change is not finished until every place that teaches the old rule is fixed. In the same release, update:
+
+- [ ] Every template on page 06 (Templates) that uses the old rule
+- [ ] Every role card on page 07 (Role Cards)
+- [ ] The AI files, especially the short system prompt
+- [ ] Every skill and agent prompt that teaches or shows an example of the old rule
+- [ ] Every locked doc that teaches the old rule (flag it for Heather if it sits outside Research)
+- [ ] The certification modules and keys, if the rule is tested
+
+The Change Log dates every rule change. Lint runs on every draft against the current rules.
+
+## Log
+
+| Version | Date | What changed | Approved by |
+|---|---|---|---|
+| v0.1 | 2026-11-24 | First draft of pages 00 to 13, the web portal and the AI files, built from the proposed plan v0.2 and Heather's five decisions of Nov 24 | Not yet approved |
