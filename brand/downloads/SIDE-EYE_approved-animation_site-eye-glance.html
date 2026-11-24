@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SIDE EYE approved animation: the glancing eye</title>
+<style>
+body{margin:0;min-height:100vh;display:grid;place-items:center;background:#141414;font:14px/1.4 ui-monospace,monospace;color:#F3ECDF}
+.eyebox{width:min(80vw,560px);aspect-ratio:1/0.62}
+.eyebox svg{width:100%;height:100%;overflow:visible}
+#pupil{transition:transform .5s cubic-bezier(.6,-0.3,.3,1.3)}
+#lid{transition:transform .35s ease}
+p{opacity:.7;text-align:center;max-width:60ch;padding:0 16px}
+</style></head><body>
+<div><div class="eyebox" aria-hidden="true">
+<svg viewBox="0 0 400 250">
+    <defs><clipPath id="almond"><path d="M10 125Q200-40 390 125Q200 290 10 125Z"/></clipPath>
+     <pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="1.6" fill="#D41A6E"/></pattern></defs>
+    <path d="M22 141Q212-24 402 141Q212 306 22 141Z" fill="#FF2E88"/>
+    <path d="M10 125Q200-40 390 125Q200 290 10 125Z" fill="#F3ECDF" stroke="#F3ECDF" stroke-width="6"/>
+    <g clip-path="url(#almond)">
+     <g id="pupil"><circle cx="200" cy="125" r="62" fill="#FF2E88"/><circle cx="200" cy="125" r="62" fill="url(#dots)"/><circle cx="200" cy="125" r="26" fill="#141414"/><circle cx="214" cy="110" r="9" fill="#fff"/></g>
+     <g id="lid"><path d="M-10 -60H410V40Q200 -10 -10 40Z" fill="#141414"/></g>
+    </g>
+    <path d="M10 125Q200-40 390 125" fill="none" stroke="#141414" stroke-width="14" stroke-linecap="round"/>
+    <path id="brow" d="M60 30Q210 -30 350 22" fill="none" stroke="#F3ECDF" stroke-width="12" stroke-linecap="round" style="transition:transform .35s"/>
+   </svg>
+</div>
+<p>SIDE EYE approved base animation, copied from the heatherchappell.com home page on 2026-11-24. Six looks, one every 1.7 seconds, then it repeats. With reduced motion turned on, the eye holds still in its side glance.</p></div>
+<script>
+const $ = s => document.querySelector(s);
+/* hero eye: glances sideways, occasionally adds the eyebrow */
+const pupil = $('#pupil'), lid = $('#lid'), brow = $('#brow');
+const looks = [[0,0,0],[118,8,1],[-118,8,1],[118,30,1],[0,0,0],[-90,30,0]];
+let li = 0;
+const glance = () => { const [x, l, b] = looks[li++ % looks.length];
+  pupil.style.transform = `translateX(${x}px)`; lid.style.transform = `translateY(${l}px)`;
+  brow.style.transform = b ? 'translate(0,-10px) rotate(-3deg)' : 'none'; };
+if (!matchMedia('(prefers-reduced-motion: reduce)').matches) { glance(); setInterval(glance, 1700); }
+else { pupil.style.transform = 'translateX(118px)'; lid.style.transform = 'translateY(30px)'; }
+</script>
+</body></html>
