@@ -111,7 +111,7 @@ Heather made these five calls on Nov 24, 2026. They override any older doc.
 | DEC-2026-001 | Research starts with the magazine and usually continues into a video. One foundation package serves both. | R0 to R8 build the magazine package plus video-ready notes. R9 extends it to video from the same Fact Ledger, with no fresh research round for facts the package already holds. |
 | DEC-2026-002 | The six-level scale is used everywhere. | Use Proven, Strongly supported, Likely, Contested, Unsupported, Refuted. "Documented", "Not proven", PROVEN/LIKELY/NOT PROVEN stamps and on-screen badges are retired. No proof stamps or badges on screen. |
 | DEC-2026-003 | Agents may ask Heather to open a blocked site in her own browser. | Log the request, who opened it, when and what was read in the Source Access Registry. Hold requests for the next gate when the work can wait. Never get past a block yourself. |
-| DEC-2026-004 | Known errors go in the sources doc. | Vol. 1's 64 corrections are at the end of the Vol. 1 sources and notes doc on Drive. A confirmed error is added there, with the date, as soon as we have confirmed it. No corrections page on heatherchappell.com. |
+| DEC-2026-004 | Known errors go in the sources doc. | Vol. 1's 64 corrections are at the end of the Vol. 1 sources and notes doc on Drive, and anyone with the link can view that doc (DEC-2026-022). A confirmed error is added there, with the date, as soon as we have confirmed it. No corrections page on heatherchappell.com. |
 | DEC-2026-005 | No lawyer. | The legal gate is a checklist run by someone who did not write the piece. Any line that puts a living person in a wrongdoing frame is softened to court and filing language or cut. See page 05. |
 
 Other working defaults in this portal (for example, whether Strongly supported may appear in a title) are proposed and not yet approved. Each one is marked "(proposed default, not yet approved)" where it appears.
@@ -920,11 +920,11 @@ Use the E-number format.
 
 Heather decided on Nov 24, 2026 that known errors are posted, and then that Vol. 1's corrections go at the end of the Vol. 1 sources and notes doc on Drive.
 
-- The 64 Vol. 1 corrections were added on Nov 24, 2026, under the heading "Corrections to the First Printing" at the end of a new copy of that doc. The original was left as it was.
+- The 64 Vol. 1 corrections were added on Nov 24, 2026, under the heading "Corrections to the First Printing" at the end of that doc.
 - No corrections page and no corrections link go on heatherchappell.com.
 - A confirmed error is added to the same section, with the date, as soon as we have confirmed it. There is no fixed number of days (Heather, Nov 24: "No number").
 - The date on each entry is the day it was added.
-- Who can open the sources doc is not settled (DEC-2026-022, open). Until Heather decides, nobody changes its sharing or calls the corrections public.
+- Anyone with the link can view the Vol. 1 sources and notes doc, viewer only (DEC-2026-022, decided Nov 24; Heather: "Yes, make it public").
 - Nobody but Heather changes who can see a sources doc or marks corrections published (see page 05, Never-Break Rules and Legal, rule 10).
 
 ## Propagation checklist
@@ -2843,6 +2843,7 @@ These decisions are in force. They override plan v0.1 wherever the two differ.
 | DEC-2026-018 | 2026-11-10 | Title and thumbnail are set after the script. | EP02 Napoleon decisions, Nov 10 | Decided (back-filled) |
 | DEC-2026-019 | 2026-11-24 | Shorts are regular horizontal videos, longer than 60 seconds. | Episode production thread | Decided (back-filled) |
 | DEC-2026-020 | 2026-11-24 | The research guidelines are captured in the standards docs in Drive and also published as an unlisted web portal for writers and writing agents on heatherchappell.com, built from the Drive masters. | Heather's message, Nov 24 | Decided |
+| DEC-2026-022 | 2026-11-24 | Readers can open the Vol. 1 sources and notes doc. The 64 corrections were added to the end of the original doc, and anyone with the link can view it (viewer only). A copy made earlier that day stays private. | Heather's answer, Nov 24 ("Yes, make it public") | Decided |
 
 Back-filled rows (017 to 019) were copied from the Nov 24 plan reviews. Confirm the wording against the source before relying on them.
 
@@ -2864,7 +2865,6 @@ These are the plan's section 13 calls. Each is a working default until Heather c
 | DEC-2026-015 | May the magazine debunk a hate trope on the page? | Only with Heather's sign-off per item; never in packaging | Open (default proposed) |
 | DEC-2026-016 | When magazine and video disagree, which wins? | Neither: the Fact Ledger is the master, and the propagation checklist fixes both | Open (default proposed) |
 | DEC-2026-021 | Which features get the full standard? | Tier A as defined on page 01 (The Research Process); which current features count is a separate decision | Open (default proposed) |
-| DEC-2026-022 | The Vol. 1 sources and notes doc is private. Do the corrections count as posted while readers can't open it? | None: going to Heather | Open |
 
 ## The Killed Claims list
 
@@ -3321,3 +3321,4 @@ The Change Log dates every rule change. Lint runs on every draft against the cur
 | v0.1 | 2026-11-24 | Added the decision route: questions reach Heather only through her decisions channel, with 2 to 4 options, a pick, examples, a deadline and a priority (pages 00, 06, 07, 09 and the AI files) | Not yet approved |
 | v0.1 | 2026-11-24 | Corrections now live in a dated Corrections section at the end of each sources and notes doc on Drive, not on a web page; Vol. 1's 64 were added there; DEC-2026-022 opened on who can read it (pages 00, 04, 06, 09) | Heather (where corrections live); rest not yet approved |
 | v0.1 | 2026-11-24 | The 14-day rule is gone: a confirmed error is added to the Corrections section, with the date, as soon as we have confirmed it; T22 drops its "Post by" column (pages 00, 04, 06, 09) | Heather ("No number") |
+| v0.1 | 2026-11-24 | DEC-2026-022 decided: the original Vol. 1 sources and notes doc now holds the 64 corrections and anyone with the link can view it; the earlier copy stays private (pages 00, 04, 06, 09) | Heather ("Yes, make it public") |
