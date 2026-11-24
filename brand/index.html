@@ -434,6 +434,7 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 </tr>
 </tbody>
 </table></div>
+<p>Rich black is C50 M40 Y40 K100 (230%). The rich black in Design System v3 (C60 M50 Y50 K100, 260%) breaks the 240% cap and is replaced (Heather, Nov 24).</p>
 <p>KDP prints CMYK only, so there is no true fluorescent. Every neon is a bright build. Keep total ink under 240%.</p>
 <h4>Color rules</h4>
 <ul>
@@ -556,7 +557,7 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <li><strong>Pop-ups:</strong> short (12 words or fewer), on screen long enough to read.</li>
 <li><strong>Host banner:</strong> a pink strip under each host's name with a new line every episode.</li>
 <li><strong>Thumbnails:</strong> always include Heather and Edwin, three elements at most, text that adds to the title rather than repeating it.</li>
-<li><strong>End screens:</strong> the flat eye logo, using one of the six end-screen templates.</li>
+<li><strong>End screens:</strong> the flat eye logo on the Magazine-forward end-screen template by default. The other templates are only for cases Heather names.</li>
 <li><strong>Masters:</strong> 1440p.</li>
 </ul>
 <h3 id="visual-identity--ai-generated-video">AI-generated video</h3>
@@ -634,7 +635,7 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <h3 id="voice-and-writing--headlines-and-titles">Headlines and titles</h3>
 <ul>
 <li><strong>Magazine headlines:</strong> all caps, two or three beats, a bold arguable claim ("THE COUP WAS A JOB. NAPOLEON WAS THE HIRE.").</li>
-<li><strong>YouTube titles:</strong> 5 to 9 words, 45 characters or fewer, Title Case, one stakes word. Avoid questions and years.</li>
+<li><strong>YouTube titles:</strong> 5 to 9 words, 45 characters or fewer, Title Case, one stakes word. A written title is never a question (the spoken title question in the cold open stays). Avoid years.</li>
 <li><strong>Teasers</strong> need a specific true "wow" fact, not a general idea.</li>
 <li><strong>The thesis comes first.</strong> Titles and thumbnails are written after the thesis is locked.</li>
 </ul>
@@ -796,6 +797,8 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 </tr>
 </tbody>
 </table></div>
+<h3 id="youtube--default-episode-structure">Default episode structure</h3>
+<p>New episodes use the <strong>Reckless Ben shape</strong> (<code>rb-episode-shape</code> and <code>rb-research-loop</code>) with the <strong>01b cold-open formula</strong>: no planted clue in the intro, then 8 to 12 discovery loops (hit a wall, do a surprising thing, got 'em, they don't want us to know, wall again). The older 01 template (25 minutes, 49 beats, a withheld object in the cold open) is replaced (Heather, Nov 24). Case Files built from a magazine feature still use <code>side-eye-case-file-script</code>.</p>
 <h3 id="youtube--how-every-long-form-episode-opens">How every long-form episode opens</h3>
 <ol>
 <li><strong>Heather</strong> sets up what we all think we know, in one long chunk: a thing in a place with a date, then the common belief.</li>
@@ -813,7 +816,7 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <p>No branding, greeting or disclaimer before the cold open. No answer, twist or verdict in it. Model: the Napoleon cold open (EP02).</p>
 <p><strong>The disclaimer</strong> comes after the open, once:</p>
 <blockquote>
-<p>We're not journalists. We're curious amateurs with library cards. When it's our opinion, we'll say so, and the sources are in the description so you can check our homework.</p>
+<p>We're not journalists. We're curious amateurs with library cards. When it's our opinion, we'll say so, and the sources are in the description so you can check them yourself.</p>
 </blockquote>
 <h3 id="youtube--hosts-on-screen">Hosts on screen</h3>
 <ul>
@@ -834,11 +837,11 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 </ul>
 <h3 id="youtube--packaging">Packaging</h3>
 <ul>
-<li><strong>Titles:</strong> 5 to 9 words, 45 characters or fewer, Title Case, one stakes word.</li>
-<li><strong>Thumbnails:</strong> Heather and Edwin always, three elements at most, words that add to the title. Make two versions to test.</li>
+<li><strong>Titles:</strong> 5 to 9 words, 45 characters or fewer, Title Case, one stakes word. Never a question in writing; the spoken title question in the cold open stays.</li>
+<li><strong>Thumbnails:</strong> Heather and Edwin always, three elements at most, words that add to the title. Make six to choose from, then test the best two.</li>
 <li><strong>Description:</strong> magazine link, sources link (short link to the sources doc), funny chapter titles.</li>
 <li><strong>Captions</strong> ship as a separate .srt file.</li>
-<li><strong>End screen:</strong> flat eye logo, one of six templates.</li>
+<li><strong>End screen:</strong> flat eye logo on the Magazine-forward template by default. The other templates are only for cases Heather names.</li>
 <li><strong>Upload master:</strong> 1440p.</li>
 </ul>
 <h3 id="youtube--music">Music</h3>
@@ -1008,7 +1011,7 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <li class="chk"><span class="box" aria-hidden="true"></span>"Opinion" tag in the corner when it's opinion.</li>
 <li class="chk"><span class="box" aria-hidden="true"></span>Pop-ups 12 words or fewer. Something changes every 8 to 10 seconds.</li>
 <li class="chk"><span class="box" aria-hidden="true"></span>Host grades applied (Dim Room for Heather, Clean Creator for Edwin). Best take wins. No effects on Heather.</li>
-<li class="chk"><span class="box" aria-hidden="true"></span>Music is the SIDE EYE theme, or stock music that is free for commercial use and has no claim on the YouTube upload. 1440p master. End screen with the flat eye logo.</li>
+<li class="chk"><span class="box" aria-hidden="true"></span>Music is the SIDE EYE theme, or stock music that is free for commercial use and has no claim on the YouTube upload. 1440p master. Magazine-forward end screen with the flat eye logo, unless Heather named another template.</li>
 </ul>
 <h4>Designers and art directors</h4>
 <ul>
@@ -1023,7 +1026,7 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <li class="chk"><span class="box" aria-hidden="true"></span>Heather and Edwin in the thumbnail, three elements at most.</li>
 <li class="chk"><span class="box" aria-hidden="true"></span>Title 5 to 9 words, 45 characters or fewer.</li>
 <li class="chk"><span class="box" aria-hidden="true"></span>Description links the magazine and the sources doc.</li>
-<li class="chk"><span class="box" aria-hidden="true"></span>Two thumbnail versions for testing.</li>
+<li class="chk"><span class="box" aria-hidden="true"></span>Six thumbnail options to choose from, then the best two tested.</li>
 </ul>
 <h4>Internal tool builders</h4>
 <ul>
@@ -1079,7 +1082,7 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 - <strong>Don't use it for:</strong> Writing the story, script or article. It only ranks and checks facts.
 - <strong>Area:</strong> Both</p>
 <h3 id="skills--story-chain-cause-and-effect-story">Story chain (<code>cause-and-effect-story</code>)</h3>
-<p><strong>In one line:</strong> Tells the topic as one chain where each event causes the next, at a 6th-grade level.
+<p><strong>In one line:</strong> Tells the topic as one chain where each event causes the next, at an 8th-grade level.
 - <strong>Use it when:</strong> You are planning or pitching an episode and want the whole spine on one page, before or beside the script.
 - <strong>You give it:</strong> The episode title and current cold open, every shape or outline written for the topic (including options that weren't picked), the fact base with proof levels, and the main threads you want running through the whole story.
 - <strong>You get back:</strong> In chat: the story (an opening, then sections headed "Because [cause], [effect].", then an ending), a side-by-side timeline table, and a short checks note on facts to verify before air.
@@ -1281,6 +1284,9 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <li><strong>No chapter breaks or title cards mid-episode.</strong> <code>side-eye-case-file-script</code> builds the video from bracketed chapter titles and named segments ([For the Record], [The Other Side], [The File Drawer]) and places a "[Title: ...] card after the cold open". <code>side-eye-rb-two-host-script</code> also places a "[TITLE CARD: ...]" after the cold open. Worth checking that none of these show on screen as cards. <code>side-eye-case-file-script</code> also says chapter titles "should read as claims or dated beats", while description chapter titles are now meant to be funny.</li>
 <li><strong>Generated likenesses of historical figures (now allowed).</strong> <code>side-eye-art-direction</code> still says "No faces or likenesses of real people, living or dead" and its checklist says "No generated faces of real people".</li>
 <li><strong>AI-generated video (Nov 24).</strong> Generated images and footage are now allowed in videos as illustration, never as footage of a real person acting on screen. No skill covers generated footage yet, so any prompt for video art should follow the pause test in Visual identity.</li>
+<li><strong>Disclaimer (Nov 24).</strong> <code>side-eye-edwin-voice</code> keeps the fixed disclaimer "...the sources are in the description, so you can check our homework." Heather's new ending: "so you can check them yourself." Use the new line until the skill is updated.</li>
+<li><strong>Written titles are never questions (Nov 24).</strong> <code>side-eye-case-file-script</code> says weaker claims get a question title, with the example "[Did a Grudge Put Him on the Ballot?]". Written titles are never questions now; the spoken title question in the cold open stays. The example needs fixing when the skill is updated.</li>
+<li><strong>Default episode structure (Nov 24).</strong> New episodes use the Reckless Ben shape plus 01b. Any skill or doc that starts from the older 01 template should use the new default.</li>
 <li><strong>Stock music (Nov 24).</strong> <code>side-eye-final-output</code> says "Never use stock-library tracks (Pixabay and the like)." Heather's rule now: "Stock music is fine if it is free for commercial use and isn't claimed when uploaded to YouTube." Use her rule until the skill is updated.</li>
 <li><strong>Pink can be used freely.</strong> <code>side-eye-art-direction</code> still says "pink marks the one thing to see first" and its checklist says "pink marks one thing".</li>
 <li><strong>Hosts never announce what they read or found.</strong></li>
@@ -1348,6 +1354,51 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <td style="text-align: left;">"Library music only if it's cleared for Content ID" in this hub, and the final-output skill's ban on all stock-library tracks</td>
 </tr>
 <tr>
+<td style="text-align: left;">2026-11-24</td>
+<td style="text-align: left;">Rich black is C50 M40 Y40 K100 (230%), under the print spec's 240% cap</td>
+<td style="text-align: left;">The Design System v3 rich black (C60 M50 Y50 K100, 260%)</td>
+</tr>
+<tr>
+<td style="text-align: left;">2026-11-24</td>
+<td style="text-align: left;">Reading level stays at about 8th grade. The story-chain skill now says the same</td>
+<td style="text-align: left;">The story-chain skill's 6th grade</td>
+</tr>
+<tr>
+<td style="text-align: left;">2026-11-24</td>
+<td style="text-align: left;">Written YouTube titles are never questions. The spoken title question in the cold open stays</td>
+<td style="text-align: left;">Question titles for weaker claims in the Case File skill (its example still needs fixing, see Skills)</td>
+</tr>
+<tr>
+<td style="text-align: left;">2026-11-24</td>
+<td style="text-align: left;">Thumbnails: make six to choose from, then test the best two</td>
+<td style="text-align: left;">"Make two versions to test" in this hub, and six with no test in the final-output skill</td>
+</tr>
+<tr>
+<td style="text-align: left;">2026-11-24</td>
+<td style="text-align: left;">End screen: the Magazine-forward template by default; the other templates only for cases Heather names</td>
+<td style="text-align: left;">"One of six templates" in this hub</td>
+</tr>
+<tr>
+<td style="text-align: left;">2026-11-24</td>
+<td style="text-align: left;">The disclaimer ends "so you can check them yourself"</td>
+<td style="text-align: left;">"so you can check our homework" in this hub and in the Edwin voice skill's fixed line (still to fix, see Skills)</td>
+</tr>
+<tr>
+<td style="text-align: left;">2026-11-24</td>
+<td style="text-align: left;">New episodes use the Reckless Ben shape plus the 01b cold-open formula</td>
+<td style="text-align: left;">The 01 template (25 min, 49 beats), now marked replaced</td>
+</tr>
+<tr>
+<td style="text-align: left;">2026-11-24</td>
+<td style="text-align: left;">The full logo pack zip stays on the brand web page only; the Drive Logo folder points to it</td>
+<td style="text-align: left;">Asking for the full zip in Drive</td>
+</tr>
+<tr>
+<td style="text-align: left;">2026-11-24</td>
+<td style="text-align: left;">Logo eye points stay sharp, as in the pack. No files change (Heather's answer "1" in her decisions channel)</td>
+<td style="text-align: left;">The tiny flat tips on the original banner</td>
+</tr>
+<tr>
 <td style="text-align: left;">Undated</td>
 <td style="text-align: left;">Edwin never claims a profession on screen</td>
 <td style="text-align: left;">The "I'm an economist" example in the Edwin tone doc</td>
@@ -1387,10 +1438,9 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <h3 id="decision-log--open-questions-for-heather">Open questions for Heather</h3>
 <ol>
 <li><strong>"The Receipts" section name.</strong> The back-of-issue sources section is still called "The Receipts" in Brand Identity, the Issue Hub and the 01 template, but the receipts metaphor is banned. Rename it, or keep it as a proper name?</li>
-<li><strong>Default episode structure.</strong> The 01 template (25 min, 49 beats, withheld object in the cold open, planted clues) or the newer Reckless Ben shape plus the 01b cold-open formula (no planted clue in the intro)?</li>
 <li><strong>Em-dashes in magazine design copy.</strong> The classifieds and money pages use them. Does the no em-dash rule cover print design copy, or only Heather's writing?</li>
 <li><strong>Updating the skills.</strong> Fourteen installed skills carry rules that are now out of date (see Skills). Should they be updated to match this guide?</li>
-<li><strong>Loving photo license.</strong> The Issue Hub notes a license conflict on this photo. Who resolves it, and is it cleared?</li>
+<li><strong>Loving photo license.</strong> The Issue Hub notes a license conflict on this photo. Who resolves it, and is it cleared? Still missing: which issue it runs in, what the conflict is, who holds the rights, and that issue's file date.</li>
 <li><strong>Serious chapter titles.</strong> The final-output skill gives serious chapters plain titles with no joke. Keep that exception to the funny-chapter-titles rule?</li>
 </ol>
 <h3 id="decision-log--conflicts-a-vendor-will-hit-follow-the-hub-until-heather-decides">Conflicts a vendor will hit (follow the hub until Heather decides)</h3>
@@ -1406,37 +1456,12 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <tr>
 <td style="text-align: left;">Speaking pace</td>
 <td style="text-align: left;">130 to 145 words a minute</td>
-<td style="text-align: left;">Two-host script skill writes at 190 to 200</td>
-</tr>
-<tr>
-<td style="text-align: left;">Reading level</td>
-<td style="text-align: left;">About 8th grade</td>
-<td style="text-align: left;">Story-chain skill says 6th grade</td>
-</tr>
-<tr>
-<td style="text-align: left;">Titles</td>
-<td style="text-align: left;">YouTube titles avoid questions</td>
-<td style="text-align: left;">The cold open lands a spoken "title question" (it's spoken, so both can stand)</td>
-</tr>
-<tr>
-<td style="text-align: left;">Thumbnails</td>
-<td style="text-align: left;">Make two versions to test</td>
-<td style="text-align: left;">Final-output skill makes six</td>
-</tr>
-<tr>
-<td style="text-align: left;">End screen</td>
-<td style="text-align: left;">One of six templates</td>
-<td style="text-align: left;">Final-output skill uses only "Magazine-forward"</td>
+<td style="text-align: left;">Two-host script skill writes at 190 to 200. Still missing: the measured pace of a recent episode</td>
 </tr>
 <tr>
 <td style="text-align: left;">Resolution</td>
 <td style="text-align: left;">1440p upload master</td>
-<td style="text-align: left;">Grading skills render 1080p at 24 fps</td>
-</tr>
-<tr>
-<td style="text-align: left;">Rich black</td>
-<td style="text-align: left;">Total ink under 240%. Use C50 M40 Y40 K100 (230%)</td>
-<td style="text-align: left;">The v3 rich black build (C60 M50 Y50 K100) adds up to 260%</td>
+<td style="text-align: left;">Grading skills render 1080p at 24 fps. Still missing: what resolution the cameras record</td>
 </tr>
 <tr>
 <td style="text-align: left;">Hate tropes</td>
@@ -1447,11 +1472,6 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <td style="text-align: left;">Humor</td>
 <td style="text-align: left;">No sexual material</td>
 <td style="text-align: left;">Vol. 2 is The Mating Issue (likely means nothing explicit)</td>
-</tr>
-<tr>
-<td style="text-align: left;">Disclaimer</td>
-<td style="text-align: left;">"check our homework"</td>
-<td style="text-align: left;">A skill says sources appear as proof, never as homework</td>
 </tr>
 </tbody>
 </table></div>
@@ -1479,7 +1499,7 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <h3 id="logo--downloads">Downloads</h3>
 <p class="dlver">Version 1.0 · November 24, 2026</p><div class="dlgrid"><a class="dlcard main" href="downloads/SIDE-EYE_logo-pack_v1.1_2026-11-24.zip" download><span class="dlname">Everything</span><span class="dlnote">Every version, for screens and print, with icons, README and license.</span><span class="dlmeta">ZIP · 3.4 MB</span></a><a class="dlcard" href="downloads/SIDE-EYE_logo-screens_v1.1.zip" download><span class="dlname">Logos for screens</span><span class="dlnote">SVG and PNG, every layout and color.</span><span class="dlmeta">ZIP · 2.9 MB</span></a><a class="dlcard" href="downloads/SIDE-EYE_logo-print_v1.1.zip" download><span class="dlname">Logos for print</span><span class="dlnote">CMYK PDFs (black is K100) and RGB PDFs.</span><span class="dlmeta">ZIP · 162 KB</span></a><a class="dlcard" href="downloads/SIDE-EYE_logo-icons-avatars_v1.1.zip" download><span class="dlname">Icons and avatars</span><span class="dlnote">App icons, social avatars, YouTube watermark, link preview, favicon set.</span><span class="dlmeta">ZIP · 125 KB</span></a><a class="dlcard" href="downloads/SIDE-EYE_logo-on-photo_v1.1.zip" download><span class="dlname">Logo on photos</span><span class="dlnote">The logo on a solid black plate for photos and video.</span><span class="dlmeta">ZIP · 181 KB</span></a><a class="dlcard" href="downloads/SIDE-EYE_horizontal-tagline_reverse.svg" download><span class="dlname">Primary logo for dark grounds (SVG)</span><span class="dlnote">Cream and pink.</span><span class="dlmeta">SVG · 14 KB</span></a><a class="dlcard" href="downloads/SIDE-EYE_horizontal-tagline_positive.svg" download><span class="dlname">Primary logo for light grounds (SVG)</span><span class="dlnote">Black and pink.</span><span class="dlmeta">SVG · 14 KB</span></a></div>
 
-<p>This is version 1.1, which adds the stacked layouts. Version 1.0 is archived in the Archive folder inside the Logo folder in Drive. Every zip holds a README and a license note. Check this page for a newer version before each new project. Never screenshot, trace or crop the logo from the banner.</p>
+<p>This is version 1.1, which adds the stacked layouts. Version 1.0 is archived in the Archive folder inside the Logo folder in Drive. Every zip holds a README and a license note. The full logo pack zip lives on this page only; the Drive Logo folder points here. Check this page for a newer version before each new project. Never screenshot, trace or crop the logo from the banner.</p>
 <h3 id="logo--versions">Versions</h3>
 <div class="lggrid"><figure class="lgcard"><div class="lgtile dark"><svg class="lgo" viewBox="0 0 1184.94 279.74" role="img" aria-label="SIDE EYE Primary: horizontal with tagline" style="--e:#F2EBDD;--i:#FF48B0;--w:#F2EBDD;--t:#FF48B0"><g><use href="#lg-horizontal-tagline" x="0" y="0" width="1184.94" height="279.74"/></g></svg></div><div class="lgtile light"><svg class="lgo" viewBox="0 0 1184.94 279.74" role="img" aria-label="SIDE EYE Primary: horizontal with tagline, black version" style="--e:#1A1A1A;--i:#FF48B0;--w:#1A1A1A;--t:#FF48B0"><g><use href="#lg-horizontal-tagline" x="0" y="0" width="1184.94" height="279.74"/></g></svg></div><figcaption><b>Primary: horizontal with tagline</b><span>SIDE-EYE_horizontal-tagline_*.svg</span></figcaption></figure><figure class="lgcard"><div class="lgtile dark"><svg class="lgo" viewBox="0 0 1184.94 204.93" role="img" aria-label="SIDE EYE Horizontal" style="--e:#F2EBDD;--i:#FF48B0;--w:#F2EBDD;--t:#FF48B0"><g><use href="#lg-horizontal" x="0" y="0" width="1184.94" height="204.93"/></g></svg></div><div class="lgtile light"><svg class="lgo" viewBox="0 0 1184.94 204.93" role="img" aria-label="SIDE EYE Horizontal, black version" style="--e:#1A1A1A;--i:#FF48B0;--w:#1A1A1A;--t:#FF48B0"><g><use href="#lg-horizontal" x="0" y="0" width="1184.94" height="204.93"/></g></svg></div><figcaption><b>Horizontal</b><span>SIDE-EYE_horizontal_*.svg</span></figcaption></figure><figure class="lgcard"><div class="lgtile dark"><svg class="lgo" viewBox="0 0 763.51 463.85" role="img" aria-label="SIDE EYE Stacked with tagline" style="--e:#F2EBDD;--i:#FF48B0;--w:#F2EBDD;--t:#FF48B0"><g><use href="#lg-stacked-tagline" x="0" y="0" width="763.51" height="463.85"/></g></svg></div><div class="lgtile light"><svg class="lgo" viewBox="0 0 763.51 463.85" role="img" aria-label="SIDE EYE Stacked with tagline, black version" style="--e:#1A1A1A;--i:#FF48B0;--w:#1A1A1A;--t:#FF48B0"><g><use href="#lg-stacked-tagline" x="0" y="0" width="763.51" height="463.85"/></g></svg></div><figcaption><b>Stacked with tagline</b><span>SIDE-EYE_stacked-tagline_*.svg</span></figcaption></figure><figure class="lgcard"><div class="lgtile dark"><svg class="lgo" viewBox="0 0 763.51 389.04" role="img" aria-label="SIDE EYE Stacked" style="--e:#F2EBDD;--i:#FF48B0;--w:#F2EBDD;--t:#FF48B0"><g><use href="#lg-stacked" x="0" y="0" width="763.51" height="389.04"/></g></svg></div><div class="lgtile light"><svg class="lgo" viewBox="0 0 763.51 389.04" role="img" aria-label="SIDE EYE Stacked, black version" style="--e:#1A1A1A;--i:#FF48B0;--w:#1A1A1A;--t:#FF48B0"><g><use href="#lg-stacked" x="0" y="0" width="763.51" height="389.04"/></g></svg></div><figcaption><b>Stacked</b><span>SIDE-EYE_stacked_*.svg</span></figcaption></figure><figure class="lgcard"><div class="lgtile dark"><svg class="lgo" viewBox="0 0 360.08 124.6" role="img" aria-label="SIDE EYE Eye mark" style="--e:#F2EBDD;--i:#FF48B0;--w:#F2EBDD;--t:#FF48B0"><g><use href="#lg-mark" x="0" y="0" width="360.08" height="124.6"/></g></svg></div><div class="lgtile light"><svg class="lgo" viewBox="0 0 360.08 124.6" role="img" aria-label="SIDE EYE Eye mark, black version" style="--e:#1A1A1A;--i:#FF48B0;--w:#1A1A1A;--t:#FF48B0"><g><use href="#lg-mark" x="0" y="0" width="360.08" height="124.6"/></g></svg></div><figcaption><b>Eye mark</b><span>SIDE-EYE_mark_*.svg</span></figcaption></figure><figure class="lgcard"><div class="lgtile dark"><svg class="lgo" viewBox="0 0 763.51 204.93" role="img" aria-label="SIDE EYE Wordmark" style="--e:#F2EBDD;--i:#FF48B0;--w:#F2EBDD;--t:#FF48B0"><g><use href="#lg-wordmark" x="0" y="0" width="763.51" height="204.93"/></g></svg></div><div class="lgtile light"><svg class="lgo" viewBox="0 0 763.51 204.93" role="img" aria-label="SIDE EYE Wordmark, black version" style="--e:#1A1A1A;--i:#FF48B0;--w:#1A1A1A;--t:#FF48B0"><g><use href="#lg-wordmark" x="0" y="0" width="763.51" height="204.93"/></g></svg></div><figcaption><b>Wordmark</b><span>SIDE-EYE_wordmark_*.svg</span></figcaption></figure></div>
 
@@ -2012,7 +2032,7 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <li><strong>Approve the stacked layouts.</strong> Approved by Heather on 2026-11-24. They are in the pack from version 1.1.</li>
 <li><strong>Darker pink tagline on light grounds (<span class="sw" style="--c:#C8167A" aria-hidden="true"></span><code>#C8167A</code>).</strong> Lifts it from 2.6 to 4.6 to 1 on cream, so it reads at small sizes. Costs a second pink, and it stops matching the iris.</li>
 <li><strong>A small-size eye for 24 px and under.</strong> About a 30-unit outline instead of 18. Fixes the soft 16 px favicon. Costs a second master.</li>
-<li><strong>Sharp or flat eye points.</strong> The banner's points end in tiny flat tips about 6.5 units tall. The redraw uses clean sharp points. The specialists lean sharp.</li>
+<li><strong>Sharp or flat eye points.</strong> Decided by Heather on 2026-11-24: sharp points, as in the pack. No files change.</li>
 <li><strong>Fluorescent pink ink (PANTONE 806 C) for screen prints.</strong> True neon on shirts and posters. Costs more and fades in sun.</li>
 <li><strong>A filled-eye version</strong> with a solid black inside, for stickers, pins and mugs on non-black surfaces. One more version to police.</li>
 <li><strong>A heavier tagline</strong> (Plex Mono Bold) for small print and embroidery. A second tagline master.</li>
@@ -2021,7 +2041,7 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 </ol></section><section id="ai-files" class="sec"><p class="eyebrow">For Claude, ChatGPT and Gemini</p><h2>AI files</h2>
 <p>Paste the short prompt into the instructions box of a Claude Project, a custom GPT or a Gemini Gem. Upload the full guide as a knowledge file in the same place. Claude users can add the skills guide too.</p>
 <div class="aigrid">
-<div class="aicard"><h3>Short system prompt</h3><p class="meta">SIDE-EYE-SYSTEM-PROMPT.md · about 744 words</p>
+<div class="aicard"><h3>Short system prompt</h3><p class="meta">SIDE-EYE-SYSTEM-PROMPT.md · about 828 words</p>
 <p>Goes in the instructions box.</p><button type="button" class="copy" data-src="t-prompt">Copy prompt</button><span class="done" role="status"></span>
 <details><summary>Show the text</summary><pre>You are working on SIDE EYE, a history brand with the tagline &quot;History, allegedly.&quot; It has a print magazine (one theme per issue, sold on Amazon) and a YouTube show, Side Eye Magazine (@SideEyeMag), hosted by Heather and Edwin. The full rules are in SIDE-EYE-BRAND.md. Read it before you start. When sources disagree, the newest dated decision wins, and the brand file wins over any older doc or skill.
 
@@ -2047,18 +2067,20 @@ HOSTS
 - Long alternating chunks, never ping-pong. Who goes first alternates by episode. Four or five gentle ribbing moments.
 
 YOUTUBE
+- New episodes use the Reckless Ben shape (rb-episode-shape, rb-research-loop) with the 01b cold-open formula, not the old 01 template.
 - Cold open: Heather sets up the belief, Edwin asks 3 or 4 &quot;Why would…?&quot; questions, Heather asks the title question. No answer in the open.
 - Then the standing intro, word for word:
   HEATHER: I&#x27;m Heather. / EDWIN: I&#x27;m Edwin. We make SIDE EYE, a magazine about history. / HEATHER: Allegedly. / EDWIN: We ask the questions everyone&#x27;s thinking. / HEATHER: But no one will give you the straight answer.
+- Disclaimer ends: &quot;...the sources are in the description so you can check them yourself.&quot; Never &quot;check our homework&quot;, even where a skill&#x27;s fixed line still says it.
 - No mid-episode title cards. No proof stamps on screen. End on a true twist.
 - AI-generated video illustrates an idea: scenes, objects, hands, settings, stylized art. Never show a real person, living or historical, acting in generated footage a viewer could take for real film of them. If a paused frame could pass for real archival or news footage of that person, restyle it or cut it.
 - Music: the SIDE EYE theme, or stock music that is free for commercial use and isn&#x27;t claimed when uploaded to YouTube. This overrides the final-output skill&#x27;s ban on stock tracks.
-- Titles 5 to 9 words, 45 characters or fewer. Thumbnails always show Heather and Edwin, three elements at most. Descriptions link the magazine and the sources doc.
+- Titles 5 to 9 words, 45 characters or fewer, never a question in writing. Thumbnails always show Heather and Edwin, three elements at most; make six to choose from, then test the best two. End screen: the Magazine-forward template unless Heather names another. Descriptions link the magazine and the sources doc.
 
 VISUALS
 - Design System v3, Neon Zine Print: silkscreen print look, scrapbook collage, toner black plus neon inks on cream, kraft and newsprint.
 - Core colors: Toner Black #1A1A1A, Pink #FF48B0, Warm Cream #F2EBDD. Accents: Pale Cyan #7FD6E8, Neon Orange #FF7A1A, Acid Yellow #F2E81E, Tab Red #E5484D, Tab Blue #0078BF, Deep Navy #1C2B5A.
-- Print: black plus two inks, one pink focus per page, ink under 240%. Video: pink can be used freely.
+- Print: black plus two inks, one pink focus per page, ink under 240%; rich black is C50 M40 Y40 K100, not the 260% v3 build. Video: pink can be used freely.
 - Type: Anton or Druk for headlines, wood type for posters, Source Serif for body, IBM Plex Mono for labels. No AI-generated lettering.
 - Logo: the eye with a pink iris glancing right, plus SIDE EYE, cream on black. Never redraw, recolor or stretch it.
 
@@ -2069,7 +2091,7 @@ NEVER
 
 When unsure, say so and ask.
 </pre></details></div>
-<div class="aicard"><h3>Full brand guide</h3><p class="meta">SIDE-EYE-BRAND.md · about 9,715 words</p>
+<div class="aicard"><h3>Full brand guide</h3><p class="meta">SIDE-EYE-BRAND.md · about 10,060 words</p>
 <p>Upload as a knowledge file, or paste it into a long chat.</p><button type="button" class="copy" data-src="t-brand">Copy full guide</button><span class="done" role="status"></span>
 <details><summary>Show the text</summary><pre># SIDE EYE Brand Standards (complete)
 
@@ -2234,6 +2256,8 @@ Source of truth for print art: **Design System v3, Neon Zine Print** (Sep 29, 20
 | Manila | C7 M14 Y38 K0 |
 | Newsprint Gray | C4 M3 Y7 K8 |
 
+Rich black is C50 M40 Y40 K100 (230%). The rich black in Design System v3 (C60 M50 Y50 K100, 260%) breaks the 240% cap and is replaced (Heather, Nov 24).
+
 KDP prints CMYK only, so there is no true fluorescent. Every neon is a bright build. Keep total ink under 240%.
 
 #### Color rules
@@ -2288,7 +2312,7 @@ Pick **one** per image.
 - **Pop-ups:** short (12 words or fewer), on screen long enough to read.
 - **Host banner:** a pink strip under each host&#x27;s name with a new line every episode.
 - **Thumbnails:** always include Heather and Edwin, three elements at most, text that adds to the title rather than repeating it.
-- **End screens:** the flat eye logo, using one of the six end-screen templates.
+- **End screens:** the flat eye logo on the Magazine-forward end-screen template by default. The other templates are only for cases Heather names.
 - **Masters:** 1440p.
 
 ### AI-generated video
@@ -2346,7 +2370,7 @@ Scripts shorten this to **PROVEN, LIKELY, NOT PROVEN**. These are writing tools 
 ### Headlines and titles
 
 - **Magazine headlines:** all caps, two or three beats, a bold arguable claim (&quot;THE COUP WAS A JOB. NAPOLEON WAS THE HIRE.&quot;).
-- **YouTube titles:** 5 to 9 words, 45 characters or fewer, Title Case, one stakes word. Avoid questions and years.
+- **YouTube titles:** 5 to 9 words, 45 characters or fewer, Title Case, one stakes word. A written title is never a question (the spoken title question in the cold open stays). Avoid years.
 - **Teasers** need a specific true &quot;wow&quot; fact, not a general idea.
 - **The thesis comes first.** Titles and thumbnails are written after the thesis is locked.
 
@@ -2443,6 +2467,10 @@ Channel: **Side Eye Magazine** (@SideEyeMag). Two hosts, Heather and Edwin. The 
 | Case File | 18 to 22 min | Conspiracy investigation built from a magazine feature |
 | Shorts | 45 to 60 s | Fun and visual: cutouts and paper dolls, light soap-opera tone, not document-heavy |
 
+### Default episode structure
+
+New episodes use the **Reckless Ben shape** (`rb-episode-shape` and `rb-research-loop`) with the **01b cold-open formula**: no planted clue in the intro, then 8 to 12 discovery loops (hit a wall, do a surprising thing, got &#x27;em, they don&#x27;t want us to know, wall again). The older 01 template (25 minutes, 49 beats, a withheld object in the cold open) is replaced (Heather, Nov 24). Case Files built from a magazine feature still use `side-eye-case-file-script`.
+
 ### How every long-form episode opens
 
 1. **Heather** sets up what we all think we know, in one long chunk: a thing in a place with a date, then the common belief.
@@ -2459,7 +2487,7 @@ Channel: **Side Eye Magazine** (@SideEyeMag). Two hosts, Heather and Edwin. The 
 No branding, greeting or disclaimer before the cold open. No answer, twist or verdict in it. Model: the Napoleon cold open (EP02).
 
 **The disclaimer** comes after the open, once:
-&gt; We&#x27;re not journalists. We&#x27;re curious amateurs with library cards. When it&#x27;s our opinion, we&#x27;ll say so, and the sources are in the description so you can check our homework.
+&gt; We&#x27;re not journalists. We&#x27;re curious amateurs with library cards. When it&#x27;s our opinion, we&#x27;ll say so, and the sources are in the description so you can check them yourself.
 
 ### Hosts on screen
 
@@ -2480,11 +2508,11 @@ No branding, greeting or disclaimer before the cold open. No answer, twist or ve
 
 ### Packaging
 
-- **Titles:** 5 to 9 words, 45 characters or fewer, Title Case, one stakes word.
-- **Thumbnails:** Heather and Edwin always, three elements at most, words that add to the title. Make two versions to test.
+- **Titles:** 5 to 9 words, 45 characters or fewer, Title Case, one stakes word. Never a question in writing; the spoken title question in the cold open stays.
+- **Thumbnails:** Heather and Edwin always, three elements at most, words that add to the title. Make six to choose from, then test the best two.
 - **Description:** magazine link, sources link (short link to the sources doc), funny chapter titles.
 - **Captions** ship as a separate .srt file.
-- **End screen:** flat eye logo, one of six templates.
+- **End screen:** flat eye logo on the Magazine-forward template by default. The other templates are only for cases Heather names.
 - **Upload master:** 1440p.
 
 ### Music
@@ -2603,7 +2631,7 @@ AI agents never mark work Approved or Published, and never send, post or buy any
 - [ ] &quot;Opinion&quot; tag in the corner when it&#x27;s opinion.
 - [ ] Pop-ups 12 words or fewer. Something changes every 8 to 10 seconds.
 - [ ] Host grades applied (Dim Room for Heather, Clean Creator for Edwin). Best take wins. No effects on Heather.
-- [ ] Music is the SIDE EYE theme, or stock music that is free for commercial use and has no claim on the YouTube upload. 1440p master. End screen with the flat eye logo.
+- [ ] Music is the SIDE EYE theme, or stock music that is free for commercial use and has no claim on the YouTube upload. 1440p master. Magazine-forward end screen with the flat eye logo, unless Heather named another template.
 
 #### Designers and art directors
 - [ ] Correct process chosen per page (RELIEF, COLLAGE, WOOD TYPE, HYBRID, NEWSPRINT).
@@ -2616,7 +2644,7 @@ AI agents never mark work Approved or Published, and never send, post or buy any
 - [ ] Heather and Edwin in the thumbnail, three elements at most.
 - [ ] Title 5 to 9 words, 45 characters or fewer.
 - [ ] Description links the magazine and the sources doc.
-- [ ] Two thumbnail versions for testing.
+- [ ] Six thumbnail options to choose from, then the best two tested.
 
 #### Internal tool builders
 - [ ] Logo in the corner, brand tokens, Anton and IBM Plex.
@@ -2646,6 +2674,15 @@ When two documents disagree, this log says which rule wins. Newest decision by H
 | 2026-11-24 | AI-generated video illustrates an idea (scenes, objects, hands, settings, stylized art) and never shows a real person, living or historical, acting in footage a viewer could take for real film. The pause test decides | The 2026-10-29 ban on Midjourney images inside videos |
 | 2026-11-24 | Stacked layouts approved and added to the logo pack (version 1.1). Version 1.0 is archived | Stacked layouts as drafts awaiting approval |
 | 2026-11-24 | Music: Heather&#x27;s words, &quot;Stock music is fine if it is free for commercial use and isn&#x27;t claimed when uploaded to YouTube&quot; | &quot;Library music only if it&#x27;s cleared for Content ID&quot; in this hub, and the final-output skill&#x27;s ban on all stock-library tracks |
+| 2026-11-24 | Rich black is C50 M40 Y40 K100 (230%), under the print spec&#x27;s 240% cap | The Design System v3 rich black (C60 M50 Y50 K100, 260%) |
+| 2026-11-24 | Reading level stays at about 8th grade. The story-chain skill now says the same | The story-chain skill&#x27;s 6th grade |
+| 2026-11-24 | Written YouTube titles are never questions. The spoken title question in the cold open stays | Question titles for weaker claims in the Case File skill (its example still needs fixing, see Skills) |
+| 2026-11-24 | Thumbnails: make six to choose from, then test the best two | &quot;Make two versions to test&quot; in this hub, and six with no test in the final-output skill |
+| 2026-11-24 | End screen: the Magazine-forward template by default; the other templates only for cases Heather names | &quot;One of six templates&quot; in this hub |
+| 2026-11-24 | The disclaimer ends &quot;so you can check them yourself&quot; | &quot;so you can check our homework&quot; in this hub and in the Edwin voice skill&#x27;s fixed line (still to fix, see Skills) |
+| 2026-11-24 | New episodes use the Reckless Ben shape plus the 01b cold-open formula | The 01 template (25 min, 49 beats), now marked replaced |
+| 2026-11-24 | The full logo pack zip stays on the brand web page only; the Drive Logo folder points to it | Asking for the full zip in Drive |
+| 2026-11-24 | Logo eye points stay sharp, as in the pack. No files change (Heather&#x27;s answer &quot;1&quot; in her decisions channel) | The tiny flat tips on the original banner |
 | Undated | Edwin never claims a profession on screen | The &quot;I&#x27;m an economist&quot; example in the Edwin tone doc |
 | Undated | Generated likenesses of historical figures are allowed. Living people: sourced facts only | &quot;No faces of real people&quot; in the art direction skill |
 | Undated | Pink can be used freely in video. Print keeps one pink focus per page | One-pink-focus rule everywhere |
@@ -2657,26 +2694,19 @@ When two documents disagree, this log says which rule wins. Newest decision by H
 ### Open questions for Heather
 
 1. **&quot;The Receipts&quot; section name.** The back-of-issue sources section is still called &quot;The Receipts&quot; in Brand Identity, the Issue Hub and the 01 template, but the receipts metaphor is banned. Rename it, or keep it as a proper name?
-2. **Default episode structure.** The 01 template (25 min, 49 beats, withheld object in the cold open, planted clues) or the newer Reckless Ben shape plus the 01b cold-open formula (no planted clue in the intro)?
-3. **Em-dashes in magazine design copy.** The classifieds and money pages use them. Does the no em-dash rule cover print design copy, or only Heather&#x27;s writing?
-4. **Updating the skills.** Fourteen installed skills carry rules that are now out of date (see Skills). Should they be updated to match this guide?
-5. **Loving photo license.** The Issue Hub notes a license conflict on this photo. Who resolves it, and is it cleared?
-6. **Serious chapter titles.** The final-output skill gives serious chapters plain titles with no joke. Keep that exception to the funny-chapter-titles rule?
+2. **Em-dashes in magazine design copy.** The classifieds and money pages use them. Does the no em-dash rule cover print design copy, or only Heather&#x27;s writing?
+3. **Updating the skills.** Fourteen installed skills carry rules that are now out of date (see Skills). Should they be updated to match this guide?
+4. **Loving photo license.** The Issue Hub notes a license conflict on this photo. Who resolves it, and is it cleared? Still missing: which issue it runs in, what the conflict is, who holds the rights, and that issue&#x27;s file date.
+5. **Serious chapter titles.** The final-output skill gives serious chapters plain titles with no joke. Keep that exception to the funny-chapter-titles rule?
 
 ### Conflicts a vendor will hit (follow the hub until Heather decides)
 
 | Topic | The hub says | Elsewhere |
 | :- | :- | :- |
-| Speaking pace | 130 to 145 words a minute | Two-host script skill writes at 190 to 200 |
-| Reading level | About 8th grade | Story-chain skill says 6th grade |
-| Titles | YouTube titles avoid questions | The cold open lands a spoken &quot;title question&quot; (it&#x27;s spoken, so both can stand) |
-| Thumbnails | Make two versions to test | Final-output skill makes six |
-| End screen | One of six templates | Final-output skill uses only &quot;Magazine-forward&quot; |
-| Resolution | 1440p upload master | Grading skills render 1080p at 24 fps |
-| Rich black | Total ink under 240%. Use C50 M40 Y40 K100 (230%) | The v3 rich black build (C60 M50 Y50 K100) adds up to 260% |
+| Speaking pace | 130 to 145 words a minute | Two-host script skill writes at 190 to 200. Still missing: the measured pace of a recent episode |
+| Resolution | 1440p upload master | Grading skills render 1080p at 24 fps. Still missing: what resolution the cameras record |
 | Hate tropes | Never use them, even to debunk, without care | Case File skill bans debunking them at all |
 | Humor | No sexual material | Vol. 2 is The Mating Issue (likely means nothing explicit) |
-| Disclaimer | &quot;check our homework&quot; | A skill says sources appear as proof, never as homework |
 
 ### Gaps to fill
 
@@ -2707,7 +2737,7 @@ The SIDE EYE logo is a sideways eye with a pink iris glancing right, next to the
 
 ### Downloads
 
-This is version 1.1, which adds the stacked layouts. Version 1.0 is archived in the Archive folder inside the Logo folder in Drive. Every zip holds a README and a license note. Check this page for a newer version before each new project. Never screenshot, trace or crop the logo from the banner.
+This is version 1.1, which adds the stacked layouts. Version 1.0 is archived in the Archive folder inside the Logo folder in Drive. Every zip holds a README and a license note. The full logo pack zip lives on this page only; the Drive Logo folder points here. Check this page for a newer version before each new project. Never screenshot, trace or crop the logo from the banner.
 
 ### Versions
 
@@ -2914,7 +2944,7 @@ These change the mark or the system, so they wait for Heather. Only the items ma
 1. **Approve the stacked layouts.** Approved by Heather on 2026-11-24. They are in the pack from version 1.1.
 2. **Darker pink tagline on light grounds (#C8167A).** Lifts it from 2.6 to 4.6 to 1 on cream, so it reads at small sizes. Costs a second pink, and it stops matching the iris.
 3. **A small-size eye for 24 px and under.** About a 30-unit outline instead of 18. Fixes the soft 16 px favicon. Costs a second master.
-4. **Sharp or flat eye points.** The banner&#x27;s points end in tiny flat tips about 6.5 units tall. The redraw uses clean sharp points. The specialists lean sharp.
+4. **Sharp or flat eye points.** Decided by Heather on 2026-11-24: sharp points, as in the pack. No files change.
 5. **Fluorescent pink ink (PANTONE 806 C) for screen prints.** True neon on shirts and posters. Costs more and fades in sun.
 6. **A filled-eye version** with a solid black inside, for stickers, pins and mugs on non-black surfaces. One more version to police.
 7. **A heavier tagline** (Plex Mono Bold) for small print and embroidery. A second tagline master.
@@ -2922,7 +2952,7 @@ These change the mark or the system, so they wait for Heather. Only the items ma
 9. **Approve the co-brand numbers** above (the 9-unit rule, 1.5X gaps, half-size sponsor).
 
 </pre></details></div>
-<div class="aicard"><h3>Skills guide</h3><p class="meta">SIDE-EYE-SKILLS.md · about 4,578 words</p>
+<div class="aicard"><h3>Skills guide</h3><p class="meta">SIDE-EYE-SKILLS.md · about 4,699 words</p>
 <p>For Claude only. ChatGPT and Gemini can't run skills.</p><button type="button" class="copy" data-src="t-skills">Copy skills guide</button><span class="done" role="status"></span>
 <details><summary>Show the text</summary><pre># SIDE EYE skills (for Claude users)
 
@@ -2980,7 +3010,7 @@ The sections below follow this order: research first, then print, then the video
 - **Area:** Both
 
 ### Story chain (`cause-and-effect-story`)
-**In one line:** Tells the topic as one chain where each event causes the next, at a 6th-grade level.
+**In one line:** Tells the topic as one chain where each event causes the next, at an 8th-grade level.
 - **Use it when:** You are planning or pitching an episode and want the whole spine on one page, before or beside the script.
 - **You give it:** The episode title and current cold open, every shape or outline written for the topic (including options that weren&#x27;t picked), the fact base with proof levels, and the main threads you want running through the whole story.
 - **You get back:** In chat: the story (an opening, then sections headed &quot;Because [cause], [effect].&quot;, then an ending), a side-by-side timeline table, and a short checks note on facts to verify before air.
@@ -3196,6 +3226,9 @@ These rules inside installed skills clash with Heather&#x27;s newest decisions. 
 - **No chapter breaks or title cards mid-episode.** `side-eye-case-file-script` builds the video from bracketed chapter titles and named segments ([For the Record], [The Other Side], [The File Drawer]) and places a &quot;[Title: ...] card after the cold open&quot;. `side-eye-rb-two-host-script` also places a &quot;[TITLE CARD: ...]&quot; after the cold open. Worth checking that none of these show on screen as cards. `side-eye-case-file-script` also says chapter titles &quot;should read as claims or dated beats&quot;, while description chapter titles are now meant to be funny.
 - **Generated likenesses of historical figures (now allowed).** `side-eye-art-direction` still says &quot;No faces or likenesses of real people, living or dead&quot; and its checklist says &quot;No generated faces of real people&quot;.
 - **AI-generated video (Nov 24).** Generated images and footage are now allowed in videos as illustration, never as footage of a real person acting on screen. No skill covers generated footage yet, so any prompt for video art should follow the pause test in Visual identity.
+- **Disclaimer (Nov 24).** `side-eye-edwin-voice` keeps the fixed disclaimer &quot;...the sources are in the description, so you can check our homework.&quot; Heather&#x27;s new ending: &quot;so you can check them yourself.&quot; Use the new line until the skill is updated.
+- **Written titles are never questions (Nov 24).** `side-eye-case-file-script` says weaker claims get a question title, with the example &quot;[Did a Grudge Put Him on the Ballot?]&quot;. Written titles are never questions now; the spoken title question in the cold open stays. The example needs fixing when the skill is updated.
+- **Default episode structure (Nov 24).** New episodes use the Reckless Ben shape plus 01b. Any skill or doc that starts from the older 01 template should use the new default.
 - **Stock music (Nov 24).** `side-eye-final-output` says &quot;Never use stock-library tracks (Pixabay and the like).&quot; Heather&#x27;s rule now: &quot;Stock music is fine if it is free for commercial use and isn&#x27;t claimed when uploaded to YouTube.&quot; Use her rule until the skill is updated.
 - **Pink can be used freely.** `side-eye-art-direction` still says &quot;pink marks the one thing to see first&quot; and its checklist says &quot;pink marks one thing&quot;.
 - **Hosts never announce what they read or found.**
@@ -3263,7 +3296,7 @@ The sections below follow this order: research first, then print, then the video
 - **Area:** Both
 
 ### Story chain (`cause-and-effect-story`)
-**In one line:** Tells the topic as one chain where each event causes the next, at a 6th-grade level.
+**In one line:** Tells the topic as one chain where each event causes the next, at an 8th-grade level.
 - **Use it when:** You are planning or pitching an episode and want the whole spine on one page, before or beside the script.
 - **You give it:** The episode title and current cold open, every shape or outline written for the topic (including options that weren&#x27;t picked), the fact base with proof levels, and the main threads you want running through the whole story.
 - **You get back:** In chat: the story (an opening, then sections headed &quot;Because [cause], [effect].&quot;, then an ending), a side-by-side timeline table, and a short checks note on facts to verify before air.
@@ -3479,6 +3512,9 @@ These rules inside installed skills clash with Heather&#x27;s newest decisions. 
 - **No chapter breaks or title cards mid-episode.** `side-eye-case-file-script` builds the video from bracketed chapter titles and named segments ([For the Record], [The Other Side], [The File Drawer]) and places a &quot;[Title: ...] card after the cold open&quot;. `side-eye-rb-two-host-script` also places a &quot;[TITLE CARD: ...]&quot; after the cold open. Worth checking that none of these show on screen as cards. `side-eye-case-file-script` also says chapter titles &quot;should read as claims or dated beats&quot;, while description chapter titles are now meant to be funny.
 - **Generated likenesses of historical figures (now allowed).** `side-eye-art-direction` still says &quot;No faces or likenesses of real people, living or dead&quot; and its checklist says &quot;No generated faces of real people&quot;.
 - **AI-generated video (Nov 24).** Generated images and footage are now allowed in videos as illustration, never as footage of a real person acting on screen. No skill covers generated footage yet, so any prompt for video art should follow the pause test in Visual identity.
+- **Disclaimer (Nov 24).** `side-eye-edwin-voice` keeps the fixed disclaimer &quot;...the sources are in the description, so you can check our homework.&quot; Heather&#x27;s new ending: &quot;so you can check them yourself.&quot; Use the new line until the skill is updated.
+- **Written titles are never questions (Nov 24).** `side-eye-case-file-script` says weaker claims get a question title, with the example &quot;[Did a Grudge Put Him on the Ballot?]&quot;. Written titles are never questions now; the spoken title question in the cold open stays. The example needs fixing when the skill is updated.
+- **Default episode structure (Nov 24).** New episodes use the Reckless Ben shape plus 01b. Any skill or doc that starts from the older 01 template should use the new default.
 - **Stock music (Nov 24).** `side-eye-final-output` says &quot;Never use stock-library tracks (Pixabay and the like).&quot; Heather&#x27;s rule now: &quot;Stock music is fine if it is free for commercial use and isn&#x27;t claimed when uploaded to YouTube.&quot; Use her rule until the skill is updated.
 - **Pink can be used freely.** `side-eye-art-direction` still says &quot;pink marks the one thing to see first&quot; and its checklist says &quot;pink marks one thing&quot;.
 - **Hosts never announce what they read or found.**
@@ -3513,18 +3549,20 @@ HOSTS
 - Long alternating chunks, never ping-pong. Who goes first alternates by episode. Four or five gentle ribbing moments.
 
 YOUTUBE
+- New episodes use the Reckless Ben shape (rb-episode-shape, rb-research-loop) with the 01b cold-open formula, not the old 01 template.
 - Cold open: Heather sets up the belief, Edwin asks 3 or 4 &quot;Why would…?&quot; questions, Heather asks the title question. No answer in the open.
 - Then the standing intro, word for word:
   HEATHER: I&#x27;m Heather. / EDWIN: I&#x27;m Edwin. We make SIDE EYE, a magazine about history. / HEATHER: Allegedly. / EDWIN: We ask the questions everyone&#x27;s thinking. / HEATHER: But no one will give you the straight answer.
+- Disclaimer ends: &quot;...the sources are in the description so you can check them yourself.&quot; Never &quot;check our homework&quot;, even where a skill&#x27;s fixed line still says it.
 - No mid-episode title cards. No proof stamps on screen. End on a true twist.
 - AI-generated video illustrates an idea: scenes, objects, hands, settings, stylized art. Never show a real person, living or historical, acting in generated footage a viewer could take for real film of them. If a paused frame could pass for real archival or news footage of that person, restyle it or cut it.
 - Music: the SIDE EYE theme, or stock music that is free for commercial use and isn&#x27;t claimed when uploaded to YouTube. This overrides the final-output skill&#x27;s ban on stock tracks.
-- Titles 5 to 9 words, 45 characters or fewer. Thumbnails always show Heather and Edwin, three elements at most. Descriptions link the magazine and the sources doc.
+- Titles 5 to 9 words, 45 characters or fewer, never a question in writing. Thumbnails always show Heather and Edwin, three elements at most; make six to choose from, then test the best two. End screen: the Magazine-forward template unless Heather names another. Descriptions link the magazine and the sources doc.
 
 VISUALS
 - Design System v3, Neon Zine Print: silkscreen print look, scrapbook collage, toner black plus neon inks on cream, kraft and newsprint.
 - Core colors: Toner Black #1A1A1A, Pink #FF48B0, Warm Cream #F2EBDD. Accents: Pale Cyan #7FD6E8, Neon Orange #FF7A1A, Acid Yellow #F2E81E, Tab Red #E5484D, Tab Blue #0078BF, Deep Navy #1C2B5A.
-- Print: black plus two inks, one pink focus per page, ink under 240%. Video: pink can be used freely.
+- Print: black plus two inks, one pink focus per page, ink under 240%; rich black is C50 M40 Y40 K100, not the 260% v3 build. Video: pink can be used freely.
 - Type: Anton or Druk for headlines, wood type for posters, Source Serif for body, IBM Plex Mono for labels. No AI-generated lettering.
 - Logo: the eye with a pink iris glancing right, plus SIDE EYE, cream on black. Never redraw, recolor or stretch it.
 
@@ -3698,6 +3736,8 @@ Source of truth for print art: **Design System v3, Neon Zine Print** (Sep 29, 20
 | Manila | C7 M14 Y38 K0 |
 | Newsprint Gray | C4 M3 Y7 K8 |
 
+Rich black is C50 M40 Y40 K100 (230%). The rich black in Design System v3 (C60 M50 Y50 K100, 260%) breaks the 240% cap and is replaced (Heather, Nov 24).
+
 KDP prints CMYK only, so there is no true fluorescent. Every neon is a bright build. Keep total ink under 240%.
 
 #### Color rules
@@ -3752,7 +3792,7 @@ Pick **one** per image.
 - **Pop-ups:** short (12 words or fewer), on screen long enough to read.
 - **Host banner:** a pink strip under each host&#x27;s name with a new line every episode.
 - **Thumbnails:** always include Heather and Edwin, three elements at most, text that adds to the title rather than repeating it.
-- **End screens:** the flat eye logo, using one of the six end-screen templates.
+- **End screens:** the flat eye logo on the Magazine-forward end-screen template by default. The other templates are only for cases Heather names.
 - **Masters:** 1440p.
 
 ### AI-generated video
@@ -3810,7 +3850,7 @@ Scripts shorten this to **PROVEN, LIKELY, NOT PROVEN**. These are writing tools 
 ### Headlines and titles
 
 - **Magazine headlines:** all caps, two or three beats, a bold arguable claim (&quot;THE COUP WAS A JOB. NAPOLEON WAS THE HIRE.&quot;).
-- **YouTube titles:** 5 to 9 words, 45 characters or fewer, Title Case, one stakes word. Avoid questions and years.
+- **YouTube titles:** 5 to 9 words, 45 characters or fewer, Title Case, one stakes word. A written title is never a question (the spoken title question in the cold open stays). Avoid years.
 - **Teasers** need a specific true &quot;wow&quot; fact, not a general idea.
 - **The thesis comes first.** Titles and thumbnails are written after the thesis is locked.
 
@@ -3907,6 +3947,10 @@ Channel: **Side Eye Magazine** (@SideEyeMag). Two hosts, Heather and Edwin. The 
 | Case File | 18 to 22 min | Conspiracy investigation built from a magazine feature |
 | Shorts | 45 to 60 s | Fun and visual: cutouts and paper dolls, light soap-opera tone, not document-heavy |
 
+### Default episode structure
+
+New episodes use the **Reckless Ben shape** (`rb-episode-shape` and `rb-research-loop`) with the **01b cold-open formula**: no planted clue in the intro, then 8 to 12 discovery loops (hit a wall, do a surprising thing, got &#x27;em, they don&#x27;t want us to know, wall again). The older 01 template (25 minutes, 49 beats, a withheld object in the cold open) is replaced (Heather, Nov 24). Case Files built from a magazine feature still use `side-eye-case-file-script`.
+
 ### How every long-form episode opens
 
 1. **Heather** sets up what we all think we know, in one long chunk: a thing in a place with a date, then the common belief.
@@ -3923,7 +3967,7 @@ Channel: **Side Eye Magazine** (@SideEyeMag). Two hosts, Heather and Edwin. The 
 No branding, greeting or disclaimer before the cold open. No answer, twist or verdict in it. Model: the Napoleon cold open (EP02).
 
 **The disclaimer** comes after the open, once:
-&gt; We&#x27;re not journalists. We&#x27;re curious amateurs with library cards. When it&#x27;s our opinion, we&#x27;ll say so, and the sources are in the description so you can check our homework.
+&gt; We&#x27;re not journalists. We&#x27;re curious amateurs with library cards. When it&#x27;s our opinion, we&#x27;ll say so, and the sources are in the description so you can check them yourself.
 
 ### Hosts on screen
 
@@ -3944,11 +3988,11 @@ No branding, greeting or disclaimer before the cold open. No answer, twist or ve
 
 ### Packaging
 
-- **Titles:** 5 to 9 words, 45 characters or fewer, Title Case, one stakes word.
-- **Thumbnails:** Heather and Edwin always, three elements at most, words that add to the title. Make two versions to test.
+- **Titles:** 5 to 9 words, 45 characters or fewer, Title Case, one stakes word. Never a question in writing; the spoken title question in the cold open stays.
+- **Thumbnails:** Heather and Edwin always, three elements at most, words that add to the title. Make six to choose from, then test the best two.
 - **Description:** magazine link, sources link (short link to the sources doc), funny chapter titles.
 - **Captions** ship as a separate .srt file.
-- **End screen:** flat eye logo, one of six templates.
+- **End screen:** flat eye logo on the Magazine-forward template by default. The other templates are only for cases Heather names.
 - **Upload master:** 1440p.
 
 ### Music
@@ -4067,7 +4111,7 @@ AI agents never mark work Approved or Published, and never send, post or buy any
 - [ ] &quot;Opinion&quot; tag in the corner when it&#x27;s opinion.
 - [ ] Pop-ups 12 words or fewer. Something changes every 8 to 10 seconds.
 - [ ] Host grades applied (Dim Room for Heather, Clean Creator for Edwin). Best take wins. No effects on Heather.
-- [ ] Music is the SIDE EYE theme, or stock music that is free for commercial use and has no claim on the YouTube upload. 1440p master. End screen with the flat eye logo.
+- [ ] Music is the SIDE EYE theme, or stock music that is free for commercial use and has no claim on the YouTube upload. 1440p master. Magazine-forward end screen with the flat eye logo, unless Heather named another template.
 
 #### Designers and art directors
 - [ ] Correct process chosen per page (RELIEF, COLLAGE, WOOD TYPE, HYBRID, NEWSPRINT).
@@ -4080,7 +4124,7 @@ AI agents never mark work Approved or Published, and never send, post or buy any
 - [ ] Heather and Edwin in the thumbnail, three elements at most.
 - [ ] Title 5 to 9 words, 45 characters or fewer.
 - [ ] Description links the magazine and the sources doc.
-- [ ] Two thumbnail versions for testing.
+- [ ] Six thumbnail options to choose from, then the best two tested.
 
 #### Internal tool builders
 - [ ] Logo in the corner, brand tokens, Anton and IBM Plex.
@@ -4110,6 +4154,15 @@ When two documents disagree, this log says which rule wins. Newest decision by H
 | 2026-11-24 | AI-generated video illustrates an idea (scenes, objects, hands, settings, stylized art) and never shows a real person, living or historical, acting in footage a viewer could take for real film. The pause test decides | The 2026-10-29 ban on Midjourney images inside videos |
 | 2026-11-24 | Stacked layouts approved and added to the logo pack (version 1.1). Version 1.0 is archived | Stacked layouts as drafts awaiting approval |
 | 2026-11-24 | Music: Heather&#x27;s words, &quot;Stock music is fine if it is free for commercial use and isn&#x27;t claimed when uploaded to YouTube&quot; | &quot;Library music only if it&#x27;s cleared for Content ID&quot; in this hub, and the final-output skill&#x27;s ban on all stock-library tracks |
+| 2026-11-24 | Rich black is C50 M40 Y40 K100 (230%), under the print spec&#x27;s 240% cap | The Design System v3 rich black (C60 M50 Y50 K100, 260%) |
+| 2026-11-24 | Reading level stays at about 8th grade. The story-chain skill now says the same | The story-chain skill&#x27;s 6th grade |
+| 2026-11-24 | Written YouTube titles are never questions. The spoken title question in the cold open stays | Question titles for weaker claims in the Case File skill (its example still needs fixing, see Skills) |
+| 2026-11-24 | Thumbnails: make six to choose from, then test the best two | &quot;Make two versions to test&quot; in this hub, and six with no test in the final-output skill |
+| 2026-11-24 | End screen: the Magazine-forward template by default; the other templates only for cases Heather names | &quot;One of six templates&quot; in this hub |
+| 2026-11-24 | The disclaimer ends &quot;so you can check them yourself&quot; | &quot;so you can check our homework&quot; in this hub and in the Edwin voice skill&#x27;s fixed line (still to fix, see Skills) |
+| 2026-11-24 | New episodes use the Reckless Ben shape plus the 01b cold-open formula | The 01 template (25 min, 49 beats), now marked replaced |
+| 2026-11-24 | The full logo pack zip stays on the brand web page only; the Drive Logo folder points to it | Asking for the full zip in Drive |
+| 2026-11-24 | Logo eye points stay sharp, as in the pack. No files change (Heather&#x27;s answer &quot;1&quot; in her decisions channel) | The tiny flat tips on the original banner |
 | Undated | Edwin never claims a profession on screen | The &quot;I&#x27;m an economist&quot; example in the Edwin tone doc |
 | Undated | Generated likenesses of historical figures are allowed. Living people: sourced facts only | &quot;No faces of real people&quot; in the art direction skill |
 | Undated | Pink can be used freely in video. Print keeps one pink focus per page | One-pink-focus rule everywhere |
@@ -4121,26 +4174,19 @@ When two documents disagree, this log says which rule wins. Newest decision by H
 ### Open questions for Heather
 
 1. **&quot;The Receipts&quot; section name.** The back-of-issue sources section is still called &quot;The Receipts&quot; in Brand Identity, the Issue Hub and the 01 template, but the receipts metaphor is banned. Rename it, or keep it as a proper name?
-2. **Default episode structure.** The 01 template (25 min, 49 beats, withheld object in the cold open, planted clues) or the newer Reckless Ben shape plus the 01b cold-open formula (no planted clue in the intro)?
-3. **Em-dashes in magazine design copy.** The classifieds and money pages use them. Does the no em-dash rule cover print design copy, or only Heather&#x27;s writing?
-4. **Updating the skills.** Fourteen installed skills carry rules that are now out of date (see Skills). Should they be updated to match this guide?
-5. **Loving photo license.** The Issue Hub notes a license conflict on this photo. Who resolves it, and is it cleared?
-6. **Serious chapter titles.** The final-output skill gives serious chapters plain titles with no joke. Keep that exception to the funny-chapter-titles rule?
+2. **Em-dashes in magazine design copy.** The classifieds and money pages use them. Does the no em-dash rule cover print design copy, or only Heather&#x27;s writing?
+3. **Updating the skills.** Fourteen installed skills carry rules that are now out of date (see Skills). Should they be updated to match this guide?
+4. **Loving photo license.** The Issue Hub notes a license conflict on this photo. Who resolves it, and is it cleared? Still missing: which issue it runs in, what the conflict is, who holds the rights, and that issue&#x27;s file date.
+5. **Serious chapter titles.** The final-output skill gives serious chapters plain titles with no joke. Keep that exception to the funny-chapter-titles rule?
 
 ### Conflicts a vendor will hit (follow the hub until Heather decides)
 
 | Topic | The hub says | Elsewhere |
 | :- | :- | :- |
-| Speaking pace | 130 to 145 words a minute | Two-host script skill writes at 190 to 200 |
-| Reading level | About 8th grade | Story-chain skill says 6th grade |
-| Titles | YouTube titles avoid questions | The cold open lands a spoken &quot;title question&quot; (it&#x27;s spoken, so both can stand) |
-| Thumbnails | Make two versions to test | Final-output skill makes six |
-| End screen | One of six templates | Final-output skill uses only &quot;Magazine-forward&quot; |
-| Resolution | 1440p upload master | Grading skills render 1080p at 24 fps |
-| Rich black | Total ink under 240%. Use C50 M40 Y40 K100 (230%) | The v3 rich black build (C60 M50 Y50 K100) adds up to 260% |
+| Speaking pace | 130 to 145 words a minute | Two-host script skill writes at 190 to 200. Still missing: the measured pace of a recent episode |
+| Resolution | 1440p upload master | Grading skills render 1080p at 24 fps. Still missing: what resolution the cameras record |
 | Hate tropes | Never use them, even to debunk, without care | Case File skill bans debunking them at all |
 | Humor | No sexual material | Vol. 2 is The Mating Issue (likely means nothing explicit) |
-| Disclaimer | &quot;check our homework&quot; | A skill says sources appear as proof, never as homework |
 
 ### Gaps to fill
 
@@ -4171,7 +4217,7 @@ The SIDE EYE logo is a sideways eye with a pink iris glancing right, next to the
 
 ### Downloads
 
-This is version 1.1, which adds the stacked layouts. Version 1.0 is archived in the Archive folder inside the Logo folder in Drive. Every zip holds a README and a license note. Check this page for a newer version before each new project. Never screenshot, trace or crop the logo from the banner.
+This is version 1.1, which adds the stacked layouts. Version 1.0 is archived in the Archive folder inside the Logo folder in Drive. Every zip holds a README and a license note. The full logo pack zip lives on this page only; the Drive Logo folder points here. Check this page for a newer version before each new project. Never screenshot, trace or crop the logo from the banner.
 
 ### Versions
 
@@ -4378,7 +4424,7 @@ These change the mark or the system, so they wait for Heather. Only the items ma
 1. **Approve the stacked layouts.** Approved by Heather on 2026-11-24. They are in the pack from version 1.1.
 2. **Darker pink tagline on light grounds (#C8167A).** Lifts it from 2.6 to 4.6 to 1 on cream, so it reads at small sizes. Costs a second pink, and it stops matching the iris.
 3. **A small-size eye for 24 px and under.** About a 30-unit outline instead of 18. Fixes the soft 16 px favicon. Costs a second master.
-4. **Sharp or flat eye points.** The banner&#x27;s points end in tiny flat tips about 6.5 units tall. The redraw uses clean sharp points. The specialists lean sharp.
+4. **Sharp or flat eye points.** Decided by Heather on 2026-11-24: sharp points, as in the pack. No files change.
 5. **Fluorescent pink ink (PANTONE 806 C) for screen prints.** True neon on shirts and posters. Costs more and fades in sun.
 6. **A filled-eye version** with a solid black inside, for stickers, pins and mugs on non-black surfaces. One more version to police.
 7. **A heavier tagline** (Plex Mono Bold) for small print and embroidery. A second tagline master.
