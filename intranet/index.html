@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SIDE EYE Intranet — The Back Office</title>
+<meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+<meta name="referrer" content="no-referrer">
+<meta name="description" content="SIDE EYE internal portal. Unlisted.">
+<link rel="icon" href="/brand/downloads/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: black masthead with the logo and pink rule (same as /brand/), a search line, then
+   one section per kind of link, each a grid of index cards. Brand palette from SIDE EYE Brand Standards. */
+:root{
+  --bg:#F2EBDD; --surface:#FFFDF8; --sunk:#F7F2E8; --ink:#1A1A1A; --muted:#5E584F; --line:#D9D6CF;
+  --pink:#FF48B0; --accent:#C8167A; --teal:#006AA8; --bar:#1A1A1A; --bar-ink:#F2EBDD; --kraft:#C9A27A;
+  --f-display:"Anton","Oswald","Impact",sans-serif;
+  --f-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#121212; --surface:#1F1E1C; --sunk:#181716; --ink:#F2EBDD; --muted:#B3AC9F; --line:#34322E;
+  --accent:#FF48B0; --teal:#4DB2EE; --kraft:#8A6E52; color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0; background:var(--bg); color:var(--ink); font:16px/1.55 var(--f-body); -webkit-text-size-adjust:100%}
+body::before{content:""; position:fixed; inset:0 0 auto; height:env(safe-area-inset-top,0px); z-index:20; background:var(--bar)}
+a{color:var(--accent); text-underline-offset:2px}
+a:focus-visible,input:focus-visible{outline:3px solid var(--pink); outline-offset:2px; border-radius:2px}
+.pad{padding-left:max(16px,env(safe-area-inset-left,0px)); padding-right:max(16px,env(safe-area-inset-right,0px))}
+.in{max-width:1200px; margin:0 auto}
+.bar{position:sticky; top:env(safe-area-inset-top,0px); z-index:10; background:var(--bar); color:var(--bar-ink); border-bottom:4px solid var(--pink)}
+.barin{display:flex; align-items:center; gap:14px; flex-wrap:wrap; padding-block:12px}
+.bar img{height:34px; width:auto; display:block}
+.bartitle{font:400 18px/1 var(--f-display); letter-spacing:.06em; text-transform:uppercase; padding-left:14px; border-left:1px solid #5E584F}
+.ver{margin-left:auto; font:500 11px/1.2 var(--f-mono); letter-spacing:.08em; text-transform:uppercase; color:#B3AC9F}
+.hero{padding-block:40px 8px}
+.eyebrow{font:500 11px/1 var(--f-mono); letter-spacing:.12em; text-transform:uppercase; color:var(--muted); margin:0 0 8px}
+h1{font:400 clamp(44px,9vw,96px)/.92 var(--f-display); text-transform:uppercase; margin:0; letter-spacing:.01em}
+h1 em{font-style:normal; color:var(--pink)}
+.lede{max-width:62ch; font-size:18px; margin:16px 0 0}
+.note{font:500 12px/1.5 var(--f-mono); color:var(--muted); margin:14px 0 0; max-width:80ch}
+.find{margin:28px 0 0; display:flex; gap:12px; align-items:center; flex-wrap:wrap}
+.find input{font:500 16px var(--f-body); padding:12px 14px; min-height:44px; width:min(420px,100%); background:var(--surface); color:var(--ink); border:2px solid var(--ink); border-radius:3px}
+.find .count{font:500 12px var(--f-mono); color:var(--muted)}
+.jump{display:flex; gap:8px; flex-wrap:wrap; margin:16px 0 0}
+.jump a{font:500 12px/1 var(--f-mono); letter-spacing:.06em; text-transform:uppercase; text-decoration:none; color:var(--ink); border:1px solid var(--line); background:var(--surface); padding:9px 11px; border-radius:20px}
+.jump a:hover{border-color:var(--pink)}
+section{padding-block:36px 8px}
+h2{font:400 clamp(30px,5vw,44px)/1 var(--f-display); text-transform:uppercase; margin:0 0 6px; padding-top:14px; border-top:2px solid var(--ink)}
+.sub{color:var(--muted); margin:0 0 18px; max-width:70ch}
+.grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(270px,1fr)); gap:16px}
+.card{position:relative; display:flex; flex-direction:column; gap:6px; background:var(--surface); border:1px solid var(--line); border-top:5px solid var(--c,var(--pink)); padding:16px 18px 14px; min-width:0; text-decoration:none; color:var(--ink); transition:transform .12s ease, box-shadow .12s ease}
+.card:hover{transform:translateY(-2px) rotate(-.3deg); box-shadow:4px 4px 0 var(--ink)}
+.card h3{font:600 18px/1.25 var(--f-body); margin:0}
+.card p{margin:0; font-size:14px; color:var(--muted); flex:1}
+.tag{align-self:flex-start; font:500 10.5px/1 var(--f-mono); letter-spacing:.1em; text-transform:uppercase; background:var(--sunk); border:1px solid var(--line); padding:5px 7px; border-radius:2px; color:var(--muted)}
+.go{font:500 12px var(--f-mono); color:var(--accent)}
+.card[data-k="site"]{--c:var(--pink)} .card[data-k="claude"]{--c:var(--ink)}
+.card[data-k="drive"]{--c:var(--teal)} .card[data-k="pub"]{--c:var(--kraft)}
+.hide{display:none!important}
+footer{margin-top:48px; background:var(--bar); color:#B3AC9F; border-top:4px solid var(--pink); font:500 12px/1.6 var(--f-mono)}
+footer .in{padding-block:22px}
+footer b{color:var(--bar-ink)}
+@media (prefers-reduced-motion: reduce){.card{transition:none}.card:hover{transform:none}}
+</style>
+</head>
+<body>
+<header class="bar"><div class="in pad barin">
+  <a href="/intranet/" aria-label="SIDE EYE intranet home"><img src="/brand/downloads/SIDE-EYE_horizontal-tagline_reverse.svg" alt="SIDE EYE — History, allegedly"></a>
+  <span class="bartitle">Intranet</span>
+  <span class="ver">Unlisted · staff, vendors &amp; agents</span>
+</div></header>
+
+<main class="in pad">
+  <div class="hero">
+    <p class="eyebrow">The back office · est. 2026</p>
+    <h1>Every tool.<br>One <em>side eye.</em></h1>
+    <p class="lede">The front door to everything that makes SIDE EYE: production apps, standards portals, Drive folders and the places it gets published. Bookmark this page, not the forty tabs.</p>
+    <p class="note">Website portals open for anyone with the link. Claude apps open for Heather, and for anyone she shares them with. Drive folders follow Drive sharing. This page is not in search results or the site menu; please don't post the link publicly.</p>
+    <div class="find">
+      <input id="q" type="search" placeholder="Find a tool (try “voiceover” or “brand”)" aria-label="Filter links" autocomplete="off">
+      <span class="count" id="count" aria-live="polite"></span>
+    </div>
+    <nav class="jump" aria-label="Sections">
+      <a href="#portals">Standards portals</a><a href="#apps">Production apps</a><a href="#docs">Reference docs</a><a href="#drive">Drive</a><a href="#publish">Out in the world</a>
+    </nav>
+  </div>
+
+  <section id="portals">
+    <h2>Standards portals</h2>
+    <p class="sub">Rulebooks on heatherchappell.com. Share these with new vendors, editors and agents first.</p>
+    <div class="grid">
+      <a class="card" data-k="site" href="/brand/"><span class="tag">Website · unlisted</span><h3>Brand Standards</h3><p>Logo, color, type, voice and content rules for public products and internal tools, plus AI-loadable brand files and the logo pack.</p><span class="go">/brand/ →</span></a>
+      <a class="card" data-k="site" href="/art-direction/"><span class="tag">Website · unlisted</span><h3>Art Direction Standards</h3><p>Issue design process, covers, spreads, grid and type, imagery rights, prepress, checklists, handoff and templates.</p><span class="go">/art-direction/ →</span></a>
+      <a class="card" data-k="site" href="/research/"><span class="tag">Website · unlisted</span><h3>Research Guidelines</h3><p>How SIDE EYE research is done and rated: onboarding for writers, vendors and research agents.</p><span class="go">/research/ →</span></a>
+    </div>
+  </section>
+
+  <section id="apps">
+    <h2>Production apps</h2>
+    <p class="sub">The working tools, built in Claude.</p>
+    <div class="grid">
+      <a class="card" data-k="claude" href="https://claude.ai/artifact/DHjgk2ueR6bhAsnbzNcJs3" target="_blank" rel="noopener"><span class="tag">Claude app</span><h3>Production Desk</h3><p>Daily standup, decisions, issue lineups, hard dates, to-dos and lessons for Heather, Edwin and the agents.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="claude" href="https://claude.ai/artifact/2aQ5iKRjf5b3EdL3eyGSCS" target="_blank" rel="noopener"><span class="tag">Claude app</span><h3>YouTube Production</h3><p>The control-room rundown for every episode and Short: status, parts and video detail.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="claude" href="https://claude.ai/artifact/QreMgiEtLSwAVSGmdF52PC" target="_blank" rel="noopener"><span class="tag">Claude app</span><h3>Brand Standards (working copy)</h3><p>The editable source of the brand hub, where changes get made before they go to /brand/.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="claude" href="https://claude.ai/artifact/8cfnXfrJMmD9ycAhxXmhNH" target="_blank" rel="noopener"><span class="tag">Claude design system</span><h3>Show Graphics</h3><p>The YouTube show's on-screen graphics system: name plates, banners, pop-ups and end screens.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="claude" href="https://claude.ai/artifact/7yPrznTHcGufgosXb2jkk6" target="_blank" rel="noopener"><span class="tag">Claude doc</span><h3>Editorial Team</h3><p>The SIDE EYE editor agents: who they are and what each one owns.</p><span class="go">Open →</span></a>
+    </div>
+  </section>
+
+  <section id="docs">
+    <h2>Reference docs</h2>
+    <p class="sub">The long reads behind the rules.</p>
+    <div class="grid">
+      <a class="card" data-k="claude" href="https://claude.ai/artifact/RpL4drHywhNcVJ4tSZwiYo" target="_blank" rel="noopener"><span class="tag">Claude page</span><h3>Editorial Bible &amp; Year-One Plan</h3><p>The original mission, voice and twelve-issue plan.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="claude" href="https://claude.ai/artifact/Nz2v4gCU28YBTh9sqraL57" target="_blank" rel="noopener"><span class="tag">Claude doc</span><h3>Content Calendar, Vols. 2–12</h3><p>Issue themes and features in the queue.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="claude" href="https://claude.ai/artifact/S4kgAMdNv8CetjcDbj2uy8" target="_blank" rel="noopener"><span class="tag">Claude doc</span><h3>Design System v3 — Neon Zine Print</h3><p>The current print look: processes, palette and page rules.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="claude" href="https://claude.ai/artifact/5symQnu8G4kDRsZCwSbeg7" target="_blank" rel="noopener"><span class="tag">Claude doc</span><h3>Vol. 1 Fact-Check Errata</h3><p>Known corrections for the next printing of The Losers Issue.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="claude" href="https://claude.ai/artifact/W5KpSPwGwugcJNU8R3Kgop" target="_blank" rel="noopener"><span class="tag">Claude doc</span><h3>How STRANGE ÆONS Tells a Story</h3><p>The study behind the YouTube storytelling process.</p><span class="go">Open →</span></a>
+    </div>
+  </section>
+
+  <section id="drive">
+    <h2>Google Drive</h2>
+    <p class="sub">Where the files live. Final versions only, please.</p>
+    <div class="grid">
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/1H9kgVQRuO2L-Jyl_hrBe3JYno5oxtCtY" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Side Eye (root)</h3><p>Top of the tree. Everything below lives in here.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/1mRs8ImL3ZOG-LUyUwrGSWJn3SiIyTaK8" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Side Eye Production</h3><p>Production tooling, split into Magazine and YouTube.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/1fWyE-DsuCBj1uGqCcuR41ldi5X3Ye9n-" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Production › Magazine</h3><p>Magazine production files and tooling.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/12EWe7cNPceRBWWluwRSW2FCsciIwnUXY" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Production › YouTube</h3><p>YouTube production files and tooling.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/1OXOe92_OqjWDC5RcsNxSe_UF_79oKpWN" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Branding</h3><p>Source files for the brand hub and AI-loadable brand docs.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/18BFrgYZDIcMNzhcisCZe4eEWgXOOZmZd" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Side Eye Art Direction</h3><p>Source files for the art direction standards.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/1sx9giDnaRbKyk7CsV9bl5MWATciv75LR" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Research</h3><p>Research guidelines documentation and onboarding.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/1RVkQQglGb4JY4HKi4tSMFfaSloxkqbto" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Issue 1 — The Losers Issue</h3><p>Final articles, images and print files for Vol. 1.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/1P4rd6dtBU4UE-I7_S7t4A1aZ9uHF6qj0" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Issue 2 — The Money Is Fake</h3><p>Vol. 2, on sale Dec 22, 2026.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/1NymH6UZIc8qT5idfPtNzxJIOM087CDS9" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Issue 3 — The Mating Issue</h3><p>Vol. 3, releasing Feb/Mar.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/1BMniPWaOK8zI1W28iLMt4cSZ4_lo_mO_" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Side Eye YouTube</h3><p>Episodes, assets, Style Bible and the music library.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/1Knf2afhaZy3tyE-HeSzloQFg410HSN2j" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Style Bible — Long-Form Episodes</h3><p>The locked opening format, beat outline and host tone directions.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/1LPNtgkEHEPLUqlH5dwfdfJrPhHxQbOeu" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Voiceover</h3><p>Every recording, cataloged, for building each episode's VO.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/1kbIxP8IXvgFxl9-JZw2kEbgNkMLl_Qy5" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Storyboards</h3><p>Per-episode keyframe storyboards.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/1c3wjx7_lO-ldVOVLoiEnSljkmpiarPl5" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Music Library</h3><p>Cleared tracks only. Anything that drew a claim has been pulled.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="drive" href="https://drive.google.com/drive/folders/1KPALOq-zTHY0OxGhp4JnoInvlPiQnfkn" target="_blank" rel="noopener"><span class="tag">Drive folder</span><h3>Midjourney Prompt Workbook</h3><p>v2 prompts, hardened for Midjourney v8.2.</p><span class="go">Open →</span></a>
+    </div>
+  </section>
+
+  <section id="publish">
+    <h2>Out in the world</h2>
+    <p class="sub">Where SIDE EYE ships, and the dashboards behind it.</p>
+    <div class="grid">
+      <a class="card" data-k="pub" href="https://www.youtube.com/@SideEyeMag" target="_blank" rel="noopener"><span class="tag">YouTube</span><h3>Side Eye Magazine channel</h3><p>@SideEyeMag, the public channel.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="pub" href="https://studio.youtube.com/" target="_blank" rel="noopener"><span class="tag">YouTube · sign-in</span><h3>YouTube Studio</h3><p>Uploads, end screens, claims and analytics. Switch to the Side Eye Magazine channel after sign-in.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="pub" href="https://a.co/d/02FwgFhM" target="_blank" rel="noopener"><span class="tag">Amazon</span><h3>Vol. 1 on Amazon</h3><p>SIDE EYE: The Loser's Issue, the store listing.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="pub" href="https://kdp.amazon.com/en_US/bookshelf" target="_blank" rel="noopener"><span class="tag">Amazon · sign-in</span><h3>KDP Bookshelf</h3><p>Print-on-demand setup, proofs and royalties.</p><span class="go">Open →</span></a>
+      <a class="card" data-k="pub" href="/side-eye/"><span class="tag">Website · public</span><h3>SIDE EYE online</h3><p>The public magazine section on heatherchappell.com.</p><span class="go">/side-eye/ →</span></a>
+      <a class="card" data-k="pub" href="/episodes/"><span class="tag">Website · public</span><h3>Episode pages</h3><p>Every YouTube episode, picked up from the channel automatically.</p><span class="go">/episodes/ →</span></a>
+    </div>
+  </section>
+</main>
+
+<footer><div class="in pad">
+  <b>SIDE EYE</b> · History, allegedly. · Internal and unlisted: not indexed, not in the sitemap or the site menu.<br>
+  New tool? Add a card to <b>intranet/index.html</b> in the site repo.
+</div></footer>
+
+<script>
+(function(){
+  var q=document.getElementById('q'), cards=[].slice.call(document.querySelectorAll('.card')),
+      secs=[].slice.call(document.querySelectorAll('main section')), count=document.getElementById('count');
+  function run(){
+    var t=q.value.trim().toLowerCase(), n=0;
+    cards.forEach(function(c){var hit=!t||c.textContent.toLowerCase().indexOf(t)>-1; c.classList.toggle('hide',!hit); if(hit)n++;});
+    secs.forEach(function(s){s.classList.toggle('hide',!s.querySelector('.card:not(.hide)'));});
+    count.textContent=t?(n+' of '+cards.length+' links'):(cards.length+' links');
+  }
+  q.addEventListener('input',run); run();
+})();
+</script>
+</body></html>
