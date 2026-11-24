@@ -111,7 +111,7 @@ Heather made these five calls on Nov 24, 2026. They override any older doc.
 | DEC-2026-001 | Research starts with the magazine and usually continues into a video. One foundation package serves both. | R0 to R8 build the magazine package plus video-ready notes. R9 extends it to video from the same Fact Ledger, with no fresh research round for facts the package already holds. |
 | DEC-2026-002 | The six-level scale is used everywhere. | Use Proven, Strongly supported, Likely, Contested, Unsupported, Refuted. "Documented", "Not proven", PROVEN/LIKELY/NOT PROVEN stamps and on-screen badges are retired. No proof stamps or badges on screen. |
 | DEC-2026-003 | Agents may ask Heather to open a blocked site in her own browser. | Log the request, who opened it, when and what was read in the Source Access Registry. Hold requests for the next gate when the work can wait. Never get past a block yourself. |
-| DEC-2026-004 | Known errors are posted publicly. | Known Vol. 1 errata go on a public corrections page once Heather approves it. Future confirmed errors are posted within 14 days of confirmation (proposed default, not yet approved). |
+| DEC-2026-004 | Known errors go in the sources doc. | Vol. 1's 64 corrections are at the end of the Vol. 1 sources and notes doc on Drive. Future confirmed errors are added there, with the date, within 14 days of confirmation (proposed default, not yet approved). No corrections page on heatherchappell.com. |
 | DEC-2026-005 | No lawyer. | The legal gate is a checklist run by someone who did not write the piece. Any line that puts a living person in a wrongdoing frame is softened to court and filing language or cut. See page 05. |
 
 Other working defaults in this portal (for example, whether Strongly supported may appear in a title) are proposed and not yet approved. Each one is marked "(proposed default, not yet approved)" where it appears.
@@ -888,7 +888,7 @@ The lead may rule on wording-level conflicts where the lower rating wins. Anythi
 
 ## Corrections after publication
 
-Each product has one dated public corrections page. Each entry says what changed, when, and why.
+Each product's corrections live in one dated Corrections section at the end of its sources and notes doc on Drive (DEC-2026-004). There is no corrections page on heatherchappell.com. Each entry says what changed, when, and why.
 
 ### Entry format
 
@@ -910,20 +910,22 @@ Use the E-number format.
 
 | Format | What to do |
 |---|---|
-| Print magazine | Run the correction in the next issue, in the same type size as the error. Post it on the corrections page. |
-| KDP book | Publish a corrected edition with an edition note saying what changed. Post it on the corrections page. |
-| YouTube video | Pin a comment and add a line to the description. For a material error, add an on-screen fix. Post it on the corrections page. |
+| Print magazine | Run the correction in the next issue, in the same type size as the error. Add it to the Corrections section of the sources doc. |
+| KDP book | Publish a corrected edition with an edition note saying what changed. Add it to the Corrections section of the sources doc. |
+| YouTube video | Pin a comment and add a line to the description. For a material error, add an on-screen fix. Add it to the Corrections section of the sources doc. |
 | Shorts and clips | Checked and corrected like the parent video. |
-| Sources doc | Updated in the same release, with a dated note. |
+| Sources doc | The Corrections section at the end is the record. Each correction is added there with the date. |
 
-### DEC-2026-004: known errors are posted publicly
+### DEC-2026-004: known errors go in the sources doc
 
-Heather decided on Nov 24, 2026 that known errors are posted publicly.
+Heather decided on Nov 24, 2026 that known errors are posted, and then that Vol. 1's corrections go at the end of the Vol. 1 sources and notes doc on Drive.
 
-- Future confirmed errors are posted within 14 days of confirmation (proposed default, not yet approved: Heather has still to confirm the 14-day figure).
+- The 64 Vol. 1 corrections were added on Nov 24, 2026, under the heading "Corrections to the First Printing" at the end of a new copy of that doc. The original was left as it was.
+- No corrections page and no corrections link go on heatherchappell.com.
+- Future confirmed errors are added to the same section, with the date, within 14 days of confirmation (proposed default, not yet approved: Heather has still to confirm the 14-day figure).
 - The clock starts on the date the checker logs the error as confirmed.
-- The Vol. 1 corrections page is drafted. It is not published. Heather approves it before it goes live.
-- Nobody but Heather marks a corrections page published (see page 05, Never-Break Rules and Legal, rule 10).
+- Who can open the sources doc is not settled (DEC-2026-022, open). Until Heather decides, nobody changes its sharing or calls the corrections public.
+- Nobody but Heather changes who can see a sources doc or marks corrections published (see page 05, Never-Break Rules and Legal, rule 10).
 
 ## Propagation checklist
 
@@ -936,13 +938,13 @@ Run this for every correction, before or after publication:
 - [ ] Rulings Index updated if the fact was disputed
 - [ ] Killed Claims list updated if the claim is now Refuted or banned
 - [ ] Sources doc updated, with a dated note
-- [ ] Magazine (current file, and the corrections page if published)
+- [ ] Magazine (current file)
 - [ ] Every script version still in use
 - [ ] Shorts and clips
 - [ ] Title, thumbnail, description, pinned comment, community posts
 - [ ] Any template, skill, role card or locked doc example that teaches the error
 - [ ] Old versions moved to _Superseded with the SUPERSEDED prefix
-- [ ] Corrections page entry drafted, if the product is public
+- [ ] Entry added to the Corrections section of the sources doc, with the date
 - [ ] Incident Log row (what, root cause, cost, control)
 
 The "used in" column of the Fact Ledger tells you where to look. If it is blank, search every product in the Research Register for the fact ID and the wording.
@@ -2107,7 +2109,7 @@ Lead sign-off: · R9 passed: (date)
 **Used at:** after publication, when an error is confirmed or a reader reports one.
 **Filled by:** the independent checker confirms it. The research librarian logs it and runs propagation.
 
-Known errors are posted publicly (DEC-2026-004). A confirmed error is posted within 14 days of being confirmed (proposed default, not yet approved). Heather approves the corrections page before it goes live.
+Known errors are listed in the dated Corrections section at the end of the product's sources and notes doc on Drive (DEC-2026-004), each with the date it was added. A confirmed error is added within 14 days of being confirmed (proposed default, not yet approved). No corrections page goes on heatherchappell.com.
 
 ```
 RP-### Topic – Corrections – vX.Y – STATUS – YYYY-MM-DD
@@ -2124,7 +2126,7 @@ Where each correction appears:
 | KDP | A corrected edition with an edition note |
 | YouTube | A pinned comment and a description line; an on-screen fix or re-upload for a material error |
 | Shorts and clips | Checked and fixed like the main video |
-| Web | The dated public corrections page for that product |
+| Sources doc | The dated Corrections section at the end of the product's sources and notes doc on Drive |
 
 **Propagation checklist.** Tick every box for every correction.
 
@@ -2138,7 +2140,7 @@ Where each correction appears:
 - [ ] Any template, skill, role card or locked doc that teaches the error
 - [ ] Killed Claims list, if the fact is now Refuted
 - [ ] Incident Log row (what, root cause, cost, control)
-- [ ] Public corrections page (after Heather approves)
+- [ ] Entry added to the Corrections section of the sources doc, with the date
 ```
 
 ## T23 · Decision Register row
@@ -2835,7 +2837,7 @@ These decisions are in force. They override plan v0.1 wherever the two differ.
 | DEC-2026-001 | 2026-11-24 | Research starts with the magazine and is built to serve a likely video. R0 to R8 produce the magazine package; R8 also hands off video-ready notes (quotes, documents, places, visuals). New gate R9 "YouTube extension": Template A is filled from the same Fact Ledger; anything new the video needs (Q1 or Q2 quote cards, footage and image sources, cold open, withheld object) goes in as change requests and is checked independently; Heather approves the video thesis, then title and thumbnail; R9 passes when every air-bound fact, title and thumbnail has a check result. No fresh research round for facts the package already holds. | Heather's decisions, Nov 24 | Decided |
 | DEC-2026-002 | 2026-11-24 | The six-level scale (Proven, Strongly supported, Likely, Contested, Unsupported, Refuted) is used everywhere. "Documented", "Not proven", the PROVEN/LIKELY/NOT PROVEN stamps and on-screen badges are retired as rating labels. No proof stamps or badges on screen. | Heather's decisions, Nov 24 | Decided |
 | DEC-2026-003 | 2026-11-24 | When a site blocks research, agents may ask Heather to open it in her own browser. The request, who opened it, when and what was read are logged in the Source Access Registry. Requests wait for the next gate when the work can wait. Agents never get past a block themselves. See page 11. | Heather's decisions, Nov 24 | Decided |
-| DEC-2026-004 | 2026-11-24 | Known errors are posted publicly on a corrections page, which Heather approves before it goes live. Future confirmed errors are posted within 14 days of being confirmed (the 14-day figure is proposed, awaiting her confirmation). | Heather's decisions, Nov 24 | Decided (deadline proposed) |
+| DEC-2026-004 | 2026-11-24 | Known errors are listed in a dated Corrections section at the end of the product's sources and notes doc on Drive, not on a web page. Vol. 1's 64 corrections were added there on Nov 24, 2026. Future confirmed errors are added within 14 days of being confirmed (the 14-day figure is proposed, awaiting her confirmation). | Heather's decisions, Nov 24; where corrections live: her decisions channel, Nov 24 | Decided (deadline proposed) |
 | DEC-2026-005 | 2026-11-24 | No lawyer. The legal gate is a checklist run by someone who did not write the piece. Any line that puts a living person in a wrongdoing frame is softened to court and filing language (charged, convicted on counts, acquitted on counts, settled without admission, ruled false, alleged in a filing, reported by an outlet) or cut. | Heather's decisions, Nov 24 | Decided |
 | DEC-2026-017 | 2026-10-26 | Proof levels never appear on screen as stamps or badges. | Brand Standards v1.0 decision log | Decided (back-filled) |
 | DEC-2026-018 | 2026-11-10 | Title and thumbnail are set after the script. | EP02 Napoleon decisions, Nov 10 | Decided (back-filled) |
@@ -2862,6 +2864,7 @@ These are the plan's section 13 calls. Each is a working default until Heather c
 | DEC-2026-015 | May the magazine debunk a hate trope on the page? | Only with Heather's sign-off per item; never in packaging | Open (default proposed) |
 | DEC-2026-016 | When magazine and video disagree, which wins? | Neither: the Fact Ledger is the master, and the propagation checklist fixes both | Open (default proposed) |
 | DEC-2026-021 | Which features get the full standard? | Tier A as defined on page 01 (The Research Process); which current features count is a separate decision | Open (default proposed) |
+| DEC-2026-022 | The Vol. 1 sources and notes doc is private. Do the corrections count as posted while readers can't open it? | None: going to Heather | Open |
 
 ## The Killed Claims list
 
@@ -3316,3 +3319,4 @@ The Change Log dates every rule change. Lint runs on every draft against the cur
 |---|---|---|---|
 | v0.1 | 2026-11-24 | First draft of pages 00 to 13, the web portal and the AI files, built from the proposed plan v0.2 and Heather's five decisions of Nov 24 | Not yet approved |
 | v0.1 | 2026-11-24 | Added the decision route: questions reach Heather only through her decisions channel, with 2 to 4 options, a pick, examples, a deadline and a priority (pages 00, 06, 07, 09 and the AI files) | Not yet approved |
+| v0.1 | 2026-11-24 | Corrections now live in a dated Corrections section at the end of each sources and notes doc on Drive, not on a web page; Vol. 1's 64 were added there; DEC-2026-022 opened on who can read it (pages 00, 04, 06, 09) | Heather (where corrections live); rest not yet approved |
