@@ -1,0 +1,222 @@
+{
+ "slug": "trump-doj-speech",
+ "date": "2026-11-23",
+ "title": "Trump's DOJ Speech Tests Prosecutorial Independence and Public Trust",
+ "words": 3318,
+ "from": "TRUMP TO ADDRESS JUSTICE DEPARTMENT AFTER PURSUIT OF POLITICAL ADVERSARIES",
+ "bottomLine": "The November 23, 2026 Justice Department speech is less a policy announcement than a visible test of whether the department operates as the president's instrument against political opponents. Courts, grand juries and public opinion have already rejected many such cases, and the midterm result gives Congress new tools to examine them. For U.S. interests the central question is whether the department's credibility, which depends on independence from the White House, can be restored once the norm is weakened.",
+ "summary": [
+  {
+   "title": "Presidential control of DOJ is contested law",
+   "points": [
+    "Trump v. United States (2024) described 'exclusive authority' over DOJ prosecutorial functions, but the immunity holding was narrower than critics' reading.",
+    "No statute or constitutional provision expressly guarantees prosecutorial independence; the norm rests on executive policy and professional practice.",
+    "The 1973 Saturday Night Massacre and the 1978 Ethics in Government Act are the reference points for norm-based safeguards.",
+    "Scholars split: Goldsmith says full legal independence is impossible; Green & Roiphe and Protect Democracy argue for a stronger claim."
+   ],
+   "plain": "Nobody has a clear written rule saying the President can't tell the prosecutors who to go after. Some people say the rule is only custom, and the Supreme Court has not settled how far the President's power goes."
+  },
+  {
+   "title": "Politicized cases are failing in court",
+   "points": [
+    "Comey and James indictments were dismissed November 24, 2025 because Lindsey Halligan was unlawfully appointed; the Fourth Circuit heard argument September 15, 2026, with no ruling reported.",
+    "Grand juries refused to indict Letitia James twice in December 2025 and six Democratic lawmakers in February 2026.",
+    "ProPublica counted more than 40 cases where judges cited the presumption of regularity; Minnesota subpoenas against state leaders were quashed June 17, 2026.",
+    "Bolton's guilty plea is the main successful outlier; the Floris/Benavides complaint was dismissed November 2, 2026 for lack of probable cause."
+   ],
+   "plain": "When the government brings a case against a political opponent, judges and juries have often said no. It is like a referee who keeps making calls that get overturned on replay."
+  },
+  {
+   "title": "Public trust in DOJ is at a low",
+   "points": [
+    "Marquette Law School (June 2026) found DOJ net confidence at -21, with independents at -27 and Democrats at -42.",
+    "Pew (August 2026) found fewer than 4 in 10 Americans view the department favorably, versus 51% of Republicans.",
+    "States United/YouGov (May 2026) found 60% disagree that the President should direct charges against opponents; Republican agreement fell to 30%.",
+    "Bright Line Watch found nine in ten legal experts say DOJ has targeted enemies, with conservative experts less certain."
+   ],
+   "plain": "Most Americans, including many Republicans, don't trust the Justice Department to treat people fairly, and that trust has fallen sharply over the past year."
+  },
+  {
+   "title": "Newsom clemency fight and the speech's real purpose",
+   "points": [
+    "Newsom commuted 548 death sentences to life without parole; Trump called it 'one of the most shocking acts of injustice.'",
+    "The White House billed the event as 'protecting American families'; AP said it was unclear whether it would urge specific prosecutions.",
+    "DOJ has not confirmed a probe of Newsom and his wife; MS NOW cited two sources; CNN reported tax-matter interest.",
+    "Newsom replied 'The Justice Department is not Donald Trump's law firm'; the California Supreme Court must approve most commutations."
+   ],
+   "plain": "The speech was about a governor's decision to spare prisoners from execution, but the President used the department's stage to attack him. Critics see that as using the government's power against a rival."
+  },
+  {
+   "title": "Implications for U.S. interests and realistic options",
+   "points": [
+    "Democrats' new House majority can subpoena DOJ records and examine firings; Senate confirmation of U.S. attorneys remains a lever.",
+    "Blanche's confirmation passed 50–49; his pledge to shelve the Anti-Weaponization Fund is conditional and not permanently settled.",
+    "Pending items to track: Fourth Circuit Halligan ruling, Comey's vindictive-prosecution motion, and any new subpoena fights after January 2027.",
+    "Options range from congressional oversight and court challenges to strengthening written contacts policies and appointment rules."
+   ],
+   "plain": "If the government's cases keep falling apart, it wastes time and money and makes people less willing to trust its judgment. The practical fixes are checks by Congress, judges, and clearer written rules."
+  }
+ ],
+ "context": [
+  {
+   "label": "Right now",
+   "text": "Trump addressed DOJ headquarters on November 23, 2026, his second such speech, with Attorney General Todd Blanche and FBI Director Kash Patel present. The occasion centered on Gov. Gavin Newsom's clemency for 548 death-row inmates, though coverage differs on how far the speech went toward naming new targets."
+  },
+  {
+   "label": "How we got here",
+   "text": "DOJ was centralized in 1870 with independence resting on professional norms rather than statute. The Saturday Night Massacre of 1973 and the Ethics in Government Act of 1978 shaped a norm that every administration since Ford has largely followed, but it has been tested repeatedly since 2025."
+  },
+  {
+   "label": "The politics",
+   "text": "Democrats gained control of Congress in the November 3 midterms, setting up possible investigations into firings of agents and prosecutors and into rejected cases. Republicans and the White House describe DOJ as serving the president's agenda, while Democrats and legal scholars describe a weaponized department."
+  },
+  {
+   "label": "The people",
+   "text": "Trump wants DOJ to pursue his adversaries and defend his priorities; Blanche, a former personal lawyer, aims to keep his post and frames prosecutions as legitimate; Patel and Stephen Miller shape policy; Newsom and Democratic lawmakers want the department's independence restored; senators such as Collins, Murkowski and Tillis have leverage over DOJ nominees."
+  },
+  {
+   "label": "Why now, and what's next",
+   "text": "The speech follows Democrats' midterm win and Trump's November 8 directive to investigate lawmakers' statements. Key dates include a pending Fourth Circuit ruling on Halligan, any Comey vindictive-prosecution decision, the start of the new Congress in January 2027, and the California Supreme Court's action on the Newsom commutations."
+  },
+  {
+   "label": "The culture and the public",
+   "text": "The speech frames death-penalty reform as a law-and-order issue, a divisive question that resonates with some voters and alarms others. Public opinion on DOJ politicization splits sharply by party, and advocacy trackers on both sides shape how the record is read."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Presidential control of DOJ is contested law",
+   "paragraphs": [
+    "The question of whether the president controls the Justice Department has no clean legal answer, and the November 23 speech arrives in the middle of that unsettled ground. No statute or constitutional provision expressly guarantees prosecutorial independence. The Constitution charges the president with enforcing the laws, and Congress created the department in 1870 without writing in any firewall. Green and Roiphe argue that Congress relied on professional norms rather than law as the main safeguard against partisan use, and that early federal prosecutors were largely insulated from the White House, though presidents occasionally directed cases, mostly where foreign-affairs powers were involved. That reading is a scholarly argument, not settled history.",
+    "The norms that did emerge were tested hard in 1973. On October 20, Nixon ordered Attorney General Elliot Richardson to fire special prosecutor Archibald Cox. Richardson and Deputy Attorney General William Ruckelshaus resigned rather than comply, and Solicitor General Robert Bork carried out the firing. Judge Gesell later ruled the dismissal illegal. The Ethics in Government Act of 1978 then created the independent counsel statute, which expired in 1999 and was replaced by Justice Department regulations. The \"contacts policy\" limiting White House discussion of pending cases has been followed by every administration since Ford. But it rests on executive policy, and Goldsmith of Harvard argues the Constitution means DOJ \"can never be fully legally independent.\" The debate is over how much independence is achievable, not whether it is guaranteed.",
+    "The 2024 Supreme Court ruling in Trump v. United States sharpened that dispute. The majority described the president's power over the department's investigative and prosecutorial functions in broad terms, calling it \"exclusive authority.\" Critics such as Protect Democracy call that language dictum and in tension with precedent. Mother Jones, citing Goldsmith, reads it as giving the president plenary control, a partisan-leaning reading. The holding itself concerned presidential immunity for official acts, and the scope of the \"exclusive\" language has not been tested in a case squarely presenting it. Whether a court will read it narrowly or broadly remains open.",
+    "The second-term record shows why the norm question matters now. Trump said in his first term that he has an \"absolute right to do what I want to do with the Justice Department,\" and an early Bondi memo described the client as the president. Protect Democracy's tracker says cases against opponents have \"often, but not always\" followed direct presidential statements, a claim its advocacy framing makes contestable. Courts and grand juries have pushed back, and the Fourth Circuit's pending review of the Halligan appointment will test one of the procedural defenses."
+   ],
+   "why": "if independence rests on norms rather than law, its strength depends on whether officials and courts are willing to refuse, and that willingness is now being tested in public."
+  },
+  {
+   "title": "Politicized cases are failing in court",
+   "paragraphs": [
+    "Politicized cases have run into a consistent wall in court, though the wall is built from several different materials. The clearest is the Comey and James indictments. Judge Cameron Currie dismissed both on November 24, 2025, finding that Lindsey Halligan had \"no lawful authority to present the indictment.\" The dismissals were without prejudice, so the Justice Department could in principle revive them. The Fourth Circuit heard argument on September 15, 2026, and Law360 reported the panel appeared split, with two judges seeming to agree the appointment defect was fatal. No ruling had been reported as of November 23. That is a case-specific defect, an unlawful appointment, not a finding that the underlying charges were baseless.",
+    "Grand juries have supplied a different kind of resistance. Prosecutors asked two grand juries in December 2025 to indict Letitia James on the same charges, and both declined. In February 2026 a grand jury refused to indict Senator Elissa Slotkin and five other Democratic lawmakers over a video urging service members to refuse unlawful orders. Those refusals are closer to evidence of a broader pattern, since they involve different panels and different facts. ProPublica counted more than 40 cases in which judges explicitly invoked the presumption of regularity, a sign that judges have grown skeptical of government representations. In Minnesota, a federal judge quashed the Justice Department's subpoenas against state leaders on June 17, 2026. Separately, the November 2, 2026 dismissal by Judge Faruqui of the Floris/Benavides complaint for lack of probable cause fits the same pattern.",
+    "The aggregate counts need careful handling. Protect Democracy's tracker says most cases against opponents have failed, and its own wording is that such cases have \"often, but not always\" followed direct presidential statements. Protect Democracy is an advocacy group, and its tracker is not a neutral census. Just Security's count of 983 active cases as of October 20, 2026 is likewise unverified against dockets. No official government tally exists. The honest reading is that the individual defeats are documented in court records, while the claim of a systematic pure pattern rests on advocacy-compiled totals.",
+    "The timing matters. Bolton is the one clear success: he pleaded guilty to retaining classified information, the outlier in an otherwise weak docket. Democrats now control Congress after the November 3 midterms, which opens the door to examining why these cases were brought and who approved them, though the timing and scope of any probes are not yet set. The people involved, including Pam Bondi, who was fired in April 2026 partly over her failure to deliver prosecutions of rivals, and Todd Blanche, who was confirmed 50–49, shape how these failures will be read."
+   ],
+   "why": "each dismissal or refusal is a visible record that the department's cases against opponents do not hold up under neutral review, which erodes the credibility it needs to win any case."
+  },
+  {
+   "title": "Public trust in DOJ is at a low",
+   "paragraphs": [
+    "Public trust in the Justice Department is at a low, and the polling is consistent enough to matter. Marquette Law School's June 9–15, 2026 survey (n=1,514) found net confidence in DOJ at -21: 20 percent had a great deal or quite a lot of confidence, and 41 percent had very little or none. The split by party is the story. Republicans register +2, independents -27 and Democrats -42. A department that loses a majority of one party's trust and most of the independents is not operating from a neutral baseline.",
+    "Other measures point the same way. Pew's August 2026 survey found fewer than 4 in 10 Americans view the department favorably, against 51 percent of Republicans; Pew had earlier shown Democratic favorability falling from 56 percent to 28 percent. A States United/YouGov poll (May 19–29, 2026, n=1,537) found 60 percent disagreeing that the president should direct charges against his opponents, with Republican agreement at 30 percent, down 6 points from a year earlier. States United is advocacy-affiliated, so treat its question wording and sponsorship as a caveat. Bright Line Watch's February–March 2026 expert survey is more pointed: nine in ten legal experts say the administration has used DOJ against enemies and to reward allies, though conservative experts are less certain, and the survey's own authors say the public perceives less erosion than experts do.",
+    "Trust matters to the department's work in concrete ways. Prosecutors depend on juries, grand juries and judges extending a presumption of regularity to their representations. ProPublica counted more than 40 cases in which judges explicitly invoked that presumption, and several judges have said they no longer credit government assertions at face value, a skepticism former judge John E. Jones described in blunt terms. When a grand jury refuses to indict, as it did for Letitia James twice in December 2025, the cost is not limited to one case. Witnesses, victims and local officials who doubt the department's motives are slower to cooperate, and that cooperation is what most investigations run on.",
+    "Timing sharpens the problem. Democrats won both chambers in the November 3 midterms, and the White House's own framing, that Democratic rhetoric amounts to extortion, has set up a fight over oversight of the firings and rejected cases. Partisans will read any department action through their existing view of it, so a prosecution of a Democrat will be taken as proof of weaponization by one side and any dismissal as proof of rot by the other. Lower trust leaves the department with less benefit of the doubt on every front."
+   ],
+   "why": "a department that half the country and most independents distrust cannot easily win the cooperation and credibility on which its cases depend, whatever the merits of any single prosecution."
+  },
+  {
+   "title": "Newsom clemency fight and the speech's real purpose",
+   "paragraphs": [
+    "The White House billed the Monday speech as a message about \"protecting American families.\" Most of what Trump said, however, concerned Gov. Gavin Newsom. Newsom had commuted 548 death sentences to life without parole, and Trump called the move \"one of the most shocking acts of injustice our country has ever seen.\" He added that officials \"are working as hard as they can to get this travesty overturned in some form,\" and Attorney General Todd Blanche told law enforcement that \"President Trump has your back.\" CNN called the use of the Justice Department's platform for this purpose \"a striking use.\" AP reported that it was unclear whether the speech would also urge prosecutions of opponents, and that the remarks stayed on topic, unlike Trump's March 2025 address. The gap between the stated theme and the target is the story.",
+    "Whether a federal probe of Newsom exists is not confirmed. MS NOW reported that the department was looking into Newsom and his wife, citing two sources, and CNN reported a source saying investigators were examining tax matters. The Justice Department has not confirmed either account. Newsom has said the department should not be \"Donald Trump's law firm,\" and his office has argued that every commuted inmate \"will die in prison.\" Until a charging document or an official statement appears, the probe should be treated as reported, not established.",
+    "On whether DOJ can undo the commutations, the answer is probably no, at least not directly. Commutations of state sentences are governed by California law, and AP reports that the state Supreme Court would have to approve most of them. A federal prosecutor cannot reverse a state clemency decision by announcement. Any federal case against Newsom personally would be a separate legal matter with its own, much higher, bar, and would face the vindictive-prosecution and investigative-stage limits that courts have so far applied to these cases.",
+    "The timing matters. The speech came after the Nov. 3 midterms gave Democrats control of Congress and after a series of politically charged cases were dismissed or rejected by grand juries. Trump's own remarks cast the clemency as a federal crime to be redressed, which pushes a state-level policy dispute into the department's remit. Historically, the norm against presidential direction of cases was built to prevent exactly this kind of public signal, and the 1973 Saturday Night Massacre showed how fragile it is when a president demands action from his own Justice Department."
+   ],
+   "why": "a speech about a state's clemency decision, delivered from the department's headquarters, tests whether DOJ can still distinguish law enforcement from presidential grievance."
+  },
+  {
+   "title": "Implications for U.S. interests and realistic options",
+   "paragraphs": [
+    "Continued politicization carries a practical cost for law enforcement. Prosecutors depend on grand juries, judges and public cooperation, and each dismissal or refusal to indict weakens the department's standing with all three. Pew found fewer than 4 in 10 Americans view the department favorably, and Marquette Law School put its net confidence at -21, with Democrats at -42 and independents at -27. A department that cannot count on trust across party lines will find it harder to win cases that have nothing to do with the president's enemies, from fraud to national security. The Bolton guilty plea is the exception that shows the department can still win, but it is a single persistent outlier against a record of setbacks.",
+    "Allied and investor confidence is harder to measure. The research found no primary market study tying politicized DOJ action to asset prices, and the one market claim comes from a low-reliability aggregator. The more concrete channels are regulatory and legal. Prediction-market insider-trading questions being examined by Manhattan prosecutors show that DOJ enforcement priorities still carry market stakes, and a department seen as subordinate to the White House raises questions about whether such enforcement is evenhanded. Reporting on a multi-agency plan against liberal nonprofits, including Open Society and ActBlue, points to exposure in the donor sector. Foreign allies' reactions were not sourced in this review, so any claim about them would be speculation.",
+    "The institutional fixes split by branch. Congress holds the most immediate lever: with Democrats now controlling the House, subpoenas for DOJ records and testimony on firings and rejected cases become possible after January 2027, though the timing and scope are not yet reported. The Senate's confirmation power over U.S. attorneys is another check, as the 50–49 vote on Blanche showed, when Collins, Murkowski and Cassidy's conditional support decided the outcome. Courts can continue to test vindictive prosecution and appointment defects, though those doctrines usually apply after charges are filed. The executive has the most room to act and the least obligation to: a written contacts policy and clearer appointment rules could reinforce the norm, but the research did not confirm whether the 2024 policy has been rescinded.",
+    "The realistic near-term question is which pending items resolve. The Fourth Circuit's ruling on the Halligan appointment, Comey's vindictive-prosecution motion, and any subpoena fights after the new Congress convenes will show whether the courts and Congress can impose limits that the norm no longer enforces by itself. Blanche's pledge to shelve the Anti-Weaponization Fund remains conditional, which means the institutional position is still open. Congressional oversight, court challenges and a more durable written contacts policy each address part of the problem, but none restores trust on its own."
+   ],
+   "why": "The department's credibility rests on being seen as independent of the president, and that credibility is what makes its cases, its cooperation and its legitimacy with allies and markets possible."
+  }
+ ],
+ "watch": [
+  "Fourth Circuit ruling on the Halligan appointment and the Comey/James dismissals, timing unknown",
+  "Comey's vindictive-prosecution motion in the E.D.N.C. case, pending",
+  "Congressional subpoenas and oversight hearings after the new Congress convenes in January 2027",
+  "Whether DOJ confirms or opens a formal probe of Newsom, and any California Supreme Court action on commutations",
+  "Text and implementation of the reported death-penalty directive for child murderers, rapists and traffickers"
+ ],
+ "sources": [
+  "WATCH: Trump delivers address on Newsom's move to grant clemency for California's death row",
+  "Trump goes after Newsom, a longtime foil and potential 2028 candidate, over death penalty commutations",
+  "When the Justice Department Targets the President’s Political Opponents - Legal Aggregate - Stanford Law School",
+  "DOJ Alaska Senate race investigation shifts focus toward Peltola campaign and Democratic operatives",
+  "Legal fight over 20,000 California ballots ends as appeals court approves DOJ dismissal",
+  "Justice Department seeks dismissal of its lawsuit in the Alaska Senate race",
+  "Live updates: Trump defends Jensen Huang’s return to Nvidia, postpones Iowa Army detonation",
+  "Prosecution of James Comey",
+  "CAN THE PRESIDENT CONTROL THE DEPARTMENT OF JUSTICE? Bruce A. Green & Rebecca",
+  "\"Can the President Control the Department of Justice?\" by Bruce Green and Rebecca Roiphe",
+  "How independent is the Justice Department now? — Harvard Gazette",
+  "Trump will address a Justice Department transformed by his pursuit of political adversaries - The Washington Post",
+  "Trump’s showdown with Congress is catching fire, weeks before Democrats take power",
+  "Saturday Night Massacre",
+  "Watergate scandal",
+  "A Brief History Of Nixon's 'Saturday Night Massacre' : NPR",
+  "Watergate-era reforms 50 years later - Harvard Law School",
+  "Trump administration continues push to prosecute prominent critics : NPR",
+  "Trump v. United States",
+  "Judge criticizes Trump's Justice Department as he says he has no choice but to dismiss Jan. 6 seditious conspiracy case",
+  "United States House Judiciary Select Subcommittee on the Weaponization of the Federal Government",
+  "HEARING ON THE WEAPONIZATION OF THE FEDERAL ...",
+  "Hearing on the Weaponization of the Federal Government",
+  "Entering the Golden Age: Ending the Weaponization of the Justice Department",
+  "House committee on ‘weaponization’ of government kicks off with airing of grievances",
+  "At Hearing on Weaponization of the Justice Department, Judiciary Republicans Remain Silent As Trump's DOJ Promotes Lawlessness and Corruption",
+  "DOJ again defends Lindsey Halligan's appointment in appeal of James Comey and Letitia James case dismissals",
+  "Targeting of political opponents and civil society under the second Trump administration",
+  "Office of the Attorney General",
+  "Pam Bondi",
+  "Trump fires Bondi as attorney general",
+  "PN11-2 - Nomination of Pamela Bondi for Department of Justice, 119th Congress (2025-2026)",
+  "Todd Blanche",
+  "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
+  "Todd Blanche confirmed as attorney general in narrow Senate vote after tough fight - The Washington Post",
+  "How each senator voted on Todd Blanche’s attorney general confirmation"
+ ],
+ "links": [
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGxaOWZ5OU45Qk5pWkpJYzRKeFQ2SzRRQkxMcnNFMlZQR3JwLTF5RV9WR2IxT2JyVzdnd0daQWdma1JCTjRuTWZDZUtieWgxazB6eGN2WjlmTHNNaW5VMnFwZkh1MjVvaGh4OE92ZmQ0cUtJOGNzVUszMHZRY3NhVkVEaXJqTml5UFVxaHN6aE5NMGhPVjIwa0RFMHF1UEZFM3A1MVZpYw?oc=5",
+  "https://www.pbs.org/newshour/politics/watch-live-trump-delivers-address-on-newsoms-move-to-grant-clemency-for-californias-death-row",
+  "https://cnn.com/2026/11/23/politics/trump-newsom-death-penalty-commutations-2028",
+  "https://law.stanford.edu/2026/11/03/when-the-justice-department-targets-the-presidents-political-opponents/",
+  "https://www.cnn.com/2026/11/20/politics/doj-alaska-investigation-dems-peltola",
+  "https://nbcnews.com/politics/2026-election/appeals-court-approves-doj-dismissal-lawsuit-california-voters-rcna611015",
+  "https://www.nbcnews.com/politics/2026-election/doj-seeks-dismissal-lawsuit-alaska-senate-dan-sullivan-mary-peltola-rcna610343",
+  "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-justice-department-white-house-tree-congress-2026-live-updates-rcna610817",
+  "https://en.wikipedia.org/wiki/Prosecution_of_James_Comey",
+  "https://law.ua.edu/wp-content/uploads/2018/12/1-Green-Roiphe-1-75.pdf",
+  "https://digitalcommons.nyls.edu/fac_articles_chapters/1218/",
+  "https://news.harvard.edu/gazette/story/2025/10/how-independent-is-the-justice-department-now/",
+  "https://www.washingtonpost.com/politics/2026/11/23/trump-justice-department-speech-blanche/65e4e25c-e74b-11f1-8db0-6f1e3c389e7c_story.html",
+  "https://cnn.com/2026/11/23/politics/trump-democrats-investigations-congress",
+  "https://en.wikipedia.org/wiki/Saturday_Night_Massacre",
+  "https://en.wikipedia.org/wiki/Watergate_scandal",
+  "https://www.npr.org/2018/10/21/659279158/a-brief-history-of-nixons-saturday-night-massacre",
+  "https://hls.harvard.edu/today/watergate-era-reforms-50-years-later/",
+  "https://www.npr.org/2025/11/28/nx-s1-5620661/trump-administration-continues-push-to-prosecute-prominent-critics",
+  "https://en.wikipedia.org/wiki/Trump_v._United_States",
+  "https://www.pbs.org/newshour/politics/judge-criticizes-trumps-justice-department-as-he-says-he-has-no-choice-but-to-dismiss-jan-6-seditious-conspiracy-case",
+  "https://en.wikipedia.org/wiki/United_States_House_Judiciary_Select_Subcommittee_on_the_Weaponization_of_the_Federal_Government",
+  "https://www.congress.gov/118/chrg/CHRG-118hhrg52419/CHRG-118hhrg52419.pdf",
+  "https://www.congress.gov/event/118th-congress/house-event/117688/text",
+  "https://judiciary.house.gov/committee-activity/hearings/entering-golden-age-ending-weaponization-justice-department-0",
+  "https://www.nbcnews.com/politics/congress/new-house-committee-weaponization-government-hold-first-hearing-rcna69789",
+  "https://democrats-judiciary.house.gov/media-center/press-releases/at-hearing-on-weaponization-of-the-justice-department-judiciary-republicans-remain-silent-as-trump-s-doj-promotes-lawlessness-and-corruption",
+  "https://www.nbcnews.com/politics/justice-department/doj-defends-lindsey-halligans-appointment-appeal-james-comey-letitia-j-rcna258316",
+  "https://en.wikipedia.org/wiki/Targeting_of_political_opponents_and_civil_society_under_the_second_Trump_administration",
+  "https://www.justice.gov/ag/bio/attorney-general-pamela-bondi",
+  "https://en.wikipedia.org/wiki/Pam_Bondi",
+  "https://www.pbs.org/newshour/politics/trump-fires-bondi-as-attorney-general",
+  "https://www.congress.gov/nomination/119th-congress/11/2",
+  "https://en.wikipedia.org/wiki/Todd_Blanche",
+  "https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457",
+  "https://www.washingtonpost.com/national-security/2026/08/08/senate-narrowly-approves-todd-blanche-ag-capping-tough-confirmation-fight/",
+  "https://www.cnn.com/2026/08/08/politics/senate-vote-blanche-confirmation-vis"
+ ]
+}
