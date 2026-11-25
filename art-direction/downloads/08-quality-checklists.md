@@ -1,6 +1,7 @@
 # 08 Quality Checklists
-Version 1.0 draft · November 24, 2026 · Owner: Gus Pressley, Art Director, Production and Prepress
+Version 1.1 draft · November 25, 2026 · Owner: Gus Pressley, Art Director, Production and Prepress
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 
 **Who this is for:** Every designer, art director, editor, vendor and AI agent working on a SIDE EYE issue, and anyone who signs off a stage.
 
@@ -96,9 +97,11 @@ The art-direction doc follows the model in 05 Art and Illustration Direction (wi
 | 2.5 | HYBRID is used only for openers about a real historical person | AD | [ ] |
 | 2.6 | Each image uses black plus two inks at most (covers and the tabloid poster may use more) | AD | [ ] |
 | 2.7 | QUIET pages plan no neon, no collage, no jokes and no pink | AD, Fact-check / Research | [ ] |
-| 2.8 | Every generated image has two prompts, A (safer) and B (bolder), copy-ready | AD | [ ] |
-| 2.9 | Every prompt ends `--style raw --v 8.2` plus its template settings, with `--hd` on full-page and spread art | AD | [ ] |
-| 2.10 | Style references are only SIDE EYE's own approved images, at the weights in 05 | AD | [ ] |
+| 2.8 | Every generated image has three prompts, A (safe read), B (bold joke) and C (a different take), each complete and copy-ready in its own code block, with no placeholders | AD | [ ] |
+| 2.9 | Every prompt uses `--raw` (never `--style raw`) and `--v 8.2`, with `--hd` on full-page, spread and cover art. Stylize: photos `--s 50` to `100`, prints and illustration `--s 100` to `250`, never above 300. Chaos 0 for finals. Personalization, `--weird`, `--exp`, `--q`, `--sv`, `--oref`, `--ow`, `--cref` and `::` weights are off | AD | [ ] |
+| 2.9a | Every prompt has a `--no` list with at least text, letters, words, numbers, logo, watermark (prints add glow, gradient, chrome) | AD | [ ] |
+| 2.9b | No prompt uses gloss words (photorealistic, cinematic, 8k, masterpiece, ultra realistic, glowing, epic). Photo prompts name the real camera, film, light and two or three imperfections; photographic stills carry no neon or pink | AD | [ ] |
+| 2.10 | Style references are only SIDE EYE's own approved images, at the weights in 05; never `--sw` without `--sref`; no moodboards; source image URLs go in the prompt (Drive links don't work) | AD | [ ] |
 | 2.11 | No prompt names an artist, studio, shop or magazine | AD (second reviewer) | [ ] |
 | 2.12 | No prompt asks for text; paper, ledgers, letters and signs are described as "completely blank" | AD | [ ] |
 | 2.13 | Every historical image is listed with artist, title, date, holding institution, license or public-domain line and source | Rights Checker | [ ] |
@@ -123,8 +126,8 @@ Run this on every finished image before it goes into layout. It expands the chec
 | 3A.2 | Black plus two inks at most (covers and the tabloid poster may use more) | AD | [ ] |
 | 3A.3 | Pink marks one thing in the image. If two things are pink, one is wrong | AD | [ ] |
 | 3A.4 | The joke is true on the evidence: the art implies no crime, deal or motive that the article's Scorecard rates below its top proof level | Fact-check / Research | [ ] |
-| 3A.5 | Living people are shown only doing what sourced public facts support | Fact-check / Research | [ ] |
-| 3A.6 | Historical figures, if shown, appear as caricature, real period art or a generated likeness; all three are allowed | AD | [ ] |
+| 3A.5 | Living people appear only as caricature or print, never photoreal, and only doing what sourced public facts support | Fact-check / Research | [ ] |
+| 3A.6 | Historical figures, if shown, appear as caricature, real period art or a generated likeness (photo-real period stills included); all are allowed | AD | [ ] |
 | 3A.7 | Letters to the AI Dead figures are skulls wearing one defining prop, never a portrait | AD | [ ] |
 | 3A.8 | The image contains no generated lettering, letters or fake writing anywhere, including on signs, papers and labels | AD | [ ] |
 | 3A.9 | Period art is not recolored pink or neon; peach is used only on cut-out skin | AD | [ ] |
@@ -153,6 +156,7 @@ Run per image, then once for the whole issue. See 06 Imagery Sourcing, Rights an
 | 3B.2 | Every historical image has a confirmed public-domain or free-license line with its source recorded | Rights Checker | [ ] |
 | 3B.3 | Every historical image credit gives artist, title, date and holding institution | Rights Checker | [ ] |
 | 3B.4 | Generated art carries "Illustration generated with Midjourney and edited by SIDE EYE." | Rights Checker | [ ] |
+| 3B.4a | Photo-real period stills carry "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph.", stay out of Sources and are never captioned as archival | Rights Checker | [ ] |
 | 3B.5 | Composites carry "Figure from [source], cut out and altered by SIDE EYE; illustration generated with Midjourney and edited by SIDE EYE." | Rights Checker | [ ] |
 | 3B.6 | No one else's artwork was uploaded or used as a style reference | AD | [ ] |
 | 3B.7 | No shop's or magazine's name, logo, typefaces cut from their blocks, or recognizable layouts appear. Influences are credited only in the colophon | AD, Rights Checker | [ ] |
@@ -345,6 +349,7 @@ Who passes each gate follows 01 Issue Design Process: From Brief to Print-Ready 
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - SIDE EYE Brand Standards hub (Visual identity; The magazine; For vendors, editors and AI agents: "What always needs Heather's yes" and "Checklists by role"; Decision log)
 - SIDE EYE Design System v3: Neon Zine Print
 - SIDE EYE Design System v2 Core
@@ -353,3 +358,12 @@ Who passes each gate follows 01 Issue Design Process: From Brief to Print-Ready 
 - Napoleon Art Direction (model art-direction deliverable)
 - 00 Issue Hub: SE-V02 The Mating Issue (titled before the November 24, 2026 renumbering; The Mating Issue is now Vol. 3)
 - Amazon KDP help pages: Set Trim Size, Bleed, and Margins; Create a Paperback Cover; Paperback Submission Guidelines; Fix Paperback and Hardcover Formatting Issues
+
+## Changes in 1.1
+
+- 2.8: three prompts per image (A, B and C).
+- 2.9: `--raw`, stylize ranges, chaos 0 and switched-off settings from hub section 11.
+- New 2.9a (`--no` list) and 2.9b (no gloss words; photo prompts name real camera, film and light).
+- 2.10: no `--sw` without `--sref`, no moodboards, source URLs in the prompt.
+- 3A.5 and 3A.6: people rules from section 11, rule 10.
+- New 3B.4a: the photo-illustration credit for photo-real period stills.

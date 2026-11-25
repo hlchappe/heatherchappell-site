@@ -1,15 +1,16 @@
 # 02 Cover Standards
-Version 1.0 draft · November 24, 2026 · Owner: Marisol Quint, Art Director, Covers and Packaging
+Version 1.1 draft · November 25, 2026 · Owner: Marisol Quint, Art Director, Covers and Packaging
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 **Who this is for:** Any designer, vendor or AI agent who makes a SIDE EYE front cover, spine or back cover, or the full-wrap cover PDF that goes to Amazon KDP.
 **Use it when:** You start a cover concept, generate cover art, set cover type, build the KDP cover file, or check a cover before Heather sees it.
-**Related:** 01 Issue Design Process: From Brief to Print-Ready Files; 03 Page and Spread Standards; 04 Grid and Typography; 05 Art and Illustration Direction (with Midjourney Prompt Standards); 06 Imagery Sourcing, Rights and Credits; 07 Print Production and Prepress (Amazon KDP); 08 Quality Checklists; 09 File Naming, Folders and Handoff Specs; 12 Decision Log; 13 Open Questions for Heather. Sources: Design System v3: Neon Zine Print; the Brand Standards hub (sections The magazine, Logo, Color, Type); Design System v2 Core; v2 Addendum A, KDP Production Spec 8.5 x 11; Brand Identity: Name, Tagline and Pitch; Front and Back Matter, Vols 1-3 (The Money Pages).
+**Related:** 01 Issue Design Process: From Brief to Print-Ready Files; 03 Page and Spread Standards; 04 Grid and Typography; 05 Art and Illustration Direction (with Midjourney Prompt Standards); 06 Imagery Sourcing, Rights and Credits; 07 Print Production and Prepress (Amazon KDP); 08 Quality Checklists; 09 File Naming, Folders and Handoff Specs; 12 Decision Log; 13 Open Questions for Heather. Sources: Design System v3: Neon Zine Print; the Brand Standards hub (sections The magazine, Logo, Color, Type, Midjourney); Design System v2 Core; v2 Addendum A, KDP Production Spec 8.5 x 11; Brand Identity: Name, Tagline and Pitch; Front and Back Matter, Vols 1-3 (The Money Pages).
 
 ---
 
 ## 1. The short version
 
-A SIDE EYE cover is one surreal picture that argues the issue's thesis. It is built as a COLLAGE in six layers. A photoreal cut-out hero with oversized eyes leans in from one side and breaks the frame. The logo sits in a flat color field at the top with room around it. Four cover lines at most, set in typewriter mono on torn paper strips. The issue title runs down one edge, and the thesis line sits with it.
+A SIDE EYE cover is one surreal picture that argues the issue's thesis. It is built as a COLLAGE in six layers. A photographic cut-out hero with oversized eyes leans in from one side and breaks the frame. The logo sits in a flat color field at the top with room around it. Four cover lines at most, set in typewriter mono on torn paper strips. The issue title runs down one edge, and the thesis line sits with it.
 
 If you remember five rules:
 
@@ -32,7 +33,7 @@ The cover is made late on purpose. The thesis and the cover lines must be locked
 | Thesis locked | The issue thesis is final in the Issue Hub | Heather |
 | Cover lines picked | The headline pass is done and Heather picked four lines or fewer | Heather |
 | Concept | One-sentence idea, hero, hero side and joke written down | Heather picks A or B |
-| Art | A and B prompts generated, best result cut out and composited | Art director |
+| Art | A, B and C prompts generated for each image (section 13), best result cut out and composited | Art director |
 | Type and logo | Masthead file placed, type set, nothing generated | Art director |
 | Wrap | Interior page count final, KDP template downloaded | Production (see 07) |
 | Preflight | KDP previewer clean, cover checklist passed | Production, then Heather |
@@ -53,7 +54,7 @@ The full order of work is in 01 Issue Design Process: From Brief to Print-Ready 
 
 **Rule 3.5. Write two concepts.** Concept A is the safer read. Concept B is the bolder joke. Heather picks one, or asks for another round.
 
-**Rule 3.6. Who the hero can be.** The hero is an animal or an object with oversized eyes (the emu, the peacock). A historical figure may be the hero as a clear caricature, because generated likenesses of historical figures are allowed. Do not make a living person the cover hero. Living people follow the sourced-public-facts-only rule, and the house rule is never to joke about anyone's looks. (See 13 Open Questions for Heather if a future issue needs a living person on the cover.)
+**Rule 3.6. Who the hero can be.** The hero is an animal or an object with oversized eyes (the emu, the peacock). A historical figure may be the hero as a clear caricature, because generated likenesses of historical figures are allowed. Do not make a living person the cover hero. Anywhere else, living people appear only as caricature or print, never as a photo-real picture that could pass for a real photo, and only with sourced public facts (Brand Standards hub, section 11). The house rule is never to joke about anyone's looks. Any real person on a cover: ask Heather. (See 13 Open Questions for Heather if a future issue needs a living person on the cover.)
 
 ---
 
@@ -64,10 +65,10 @@ Every cover is a COLLAGE (Design System v3: Neon Zine Print). Build it in these 
 | Layer | What goes in it | How it is made | Vol. 1 example |
 | :- | :- | :- | :- |
 | 1. Ground | Cream or kraft paper, scraps of old print at the edges | Midjourney background or scanned paper | Aged paper, newsprint scraps at the bottom edge |
-| 2. Scene | One photoreal scene colored in flat silkscreen fields | Midjourney background | Outback wheat field, flat blue sky, vintage truck, second-place podium |
+| 2. Scene | One real-looking photographic scene printed in flat silkscreen color fields | Midjourney background | Outback wheat field, flat blue sky, vintage truck, second-place podium |
 | 3. Color fields | Flat neon blocks with hard edges; the top block holds the masthead | Midjourney blocks out the shape; you lay a flat vector fill in the house CMYK build over it | Flat pink block across the top third |
 | 4. Marks | A loose painted neon brush border, a thin wobbly black ink frame, scanned handwritten margin notes | Midjourney for the border and frame; real scanned handwriting for notes | Pink brush border and black ink frame round the cover; handwriting down the left edge |
-| 5. Hero | A photoreal cut-out subject with exaggerated, oversized eyes, breaking the frame from one side | Midjourney hero on a white ground, cut out in Photoshop | The emu, peeking in from the right, eyes swiveled at the reader |
+| 5. Hero | A photographic cut-out subject with exaggerated, oversized eyes, breaking the frame from one side | Midjourney hero on a white ground, cut out in Photoshop | The emu, peeking in from the right, eyes swiveled at the reader |
 | 6. Cover lines | Short lines set in type on torn paper strips | Set in layout, printed or photographed on torn paper, pasted on | "Australia vs. 20,000 Emus" on a torn strip in typewriter mono (approved emu draft) |
 
 Rules for the layers:
@@ -223,7 +224,7 @@ The back cover is one of the "money pages": everyone reads it, including people 
 
 **Rule 11.1. Concept.** Until Heather decides (open question, section 14), the back cover is the full-page parody ad planned for that volume in Front and Back Matter, Vols 1-3 (The Money Pages): Vol. 2, The First Bank of Yap; Vol. 3, The Train. Vol. 1 printed a toy-ad parody ("TIRED OF WINNING? CALL THE LOSERS SQUAD!") instead of the planned catalog ad. Design System v3's recipe for the back cover is a RELIEF colorway sheet (one motif repeated in every ink combination); use a colorway sheet only if Heather picks it.
 
-**Rule 11.2. Art on the back.** Build the ad's art in one of the five processes (most often RELIEF or WOOD TYPE), with no generated lettering. Historical figures may appear as generated caricature or toy-style likenesses (Vol. 1 did this with Napoleon, Hatshepsut and Hannibal). Living people may not appear in a way that suggests they did something the issue can't prove.
+**Rule 11.2. Art on the back.** Build the ad's art in one of the five processes (most often RELIEF or WOOD TYPE), with no generated lettering. Historical figures may appear as generated caricature or toy-style likenesses (Vol. 1 did this with Napoleon, Hatshepsut and Hannibal). Living people may not appear in a way that suggests they did something the issue can't prove. A living person who appears at all is only a caricature or print, never a photo-real picture, and needs Heather's OK first (06, section 9).
 
 **Rule 11.3. Identity line.** Set one small mono line near the bottom: SIDE EYE Vol. N · The <Title> Issue · History, allegedly. (Vol. 1 did this.) Copy the title exactly as on the front.
 
@@ -299,63 +300,84 @@ One PDF holds the back cover, spine and front cover as one spread. Full rules fo
 
 ## 13. Midjourney prompts for covers
 
-The house prompt templates, settings and fixes live in 05 Art and Illustration Direction (with Midjourney Prompt Standards). This section gives the cover pattern only.
+The house prompt templates, settings and fixes live in 05 Art and Illustration Direction (with Midjourney Prompt Standards). This section gives the cover pattern only. The Brand Standards hub, section 11 (Midjourney), sets the Midjourney rules, and it wins wherever 05 or this section differs from it.
 
 **The cover is two generations, then a composite.** Generate the background (no hero) and the hero separately. Cut the hero out in Photoshop and composite it in layout.
 
 **Standing rules for every cover prompt:**
 
-- End with `--style raw --v 8.2` and the template's settings. Add `--hd` (covers are full-page art).
-- Background: `--ar 17:22` (the trim's shape), `--s 250`, the approved emu cover as `--sref` at `--sw 30`.
-- Hero: `--ar 1:2`, no style reference, on a plain white background.
-- Never name an artist, studio, shop or magazine. Describe materials and methods.
-- Never ask for text. The background prompt keeps `--no text, letters, words, numbers, logo, watermark, animals, people`.
-- No prompt may ask for the SIDE EYE logo, the eye mark or the words SIDE EYE. If a result shows lettering or an eye logo, reject it.
-- Give two prompts per image: A is the safer read, B is the bolder joke.
+- Use `--raw` on every prompt. It replaces `--style raw`, the old spelling, which no cover prompt uses any more.
+- Every prompt carries `--v 8.2`. Put the settings in this order: `--ar W:H --raw --s #`, then `--hd`, then `--sref` and `--sw` (backgrounds only, once the address exists), then `--v 8.2`, then the `--no` list last.
+- Add `--hd` to every cover prompt, background and hero alike, because covers are full-page art.
+- Stylize: photographs take `--s 50` to `--s 100`. Prints and illustration take `--s 100` to `--s 250`. Never go above `--s 300`. The collage background is print-style, so it takes `--s 250`. The hero cut-out is a photograph, so it takes `--s 75`.
+- Background: `--ar 17:22` (the trim's shape), with the approved emu cover as `--sref` at `--sw 30`. No other cover prompt takes a style reference.
+- The approved emu cover doesn't have a Midjourney image address yet (Midjourney can't open a Google Drive file). Until the Midjourney desk has one, background prompts run complete without `--sref` and `--sw`. Once the address exists, add `--sref` with that address and `--sw 30` right before `--v 8.2`. Never put a placeholder in a prompt.
+- Hero: `--ar 1:2`, no style reference, against a plain white backdrop.
+- Never write `--sw` without `--sref`. Never use a moodboard.
+- Switched off for cover art: Personalization (`--p`, and turn it off in your Midjourney settings too), `--weird`, `--exp`, `--q`, `--sv`, `--oref`, `--ow`, `--cref` and `::` weights. Chaos stays at 0 for finals, so leave `--c` out of a final prompt.
+- Every prompt carries a `--no` list that includes text, letters, words, numbers, logo, watermark. The background is print-style, so its list also adds glow, gradient, chrome, 3d render, glossy, plus animals and people (the hero is generated separately). The hero is a photograph, so its list adds full body, HDR, airbrushed skin, bokeh.
+- No gloss words in any prompt: photorealistic, cinematic, 8k, masterpiece, ultra realistic, glowing, epic. Name the real capture method and the real light instead, and add two or three real imperfections. The collage is a hand-made paper collage photographed on a copy stand under daylight lamps, with its scene printed from a real photograph in flat silkscreen color fields. The hero is a real photograph with oversized eyes, made with a camera, film and light true to the story's era, so describe how it was photographed, not how real it looks.
+- Source or inspiration image URLs go in the prompt: image prompts go first, before the words, and a style reference goes after `--sref`. Google Drive links don't work in Midjourney. Use the address Midjourney gives the image (copy it from the Midjourney archive, or upload the file in the prompt bar and copy the address it gives). Which images may be used this way is set in 06 Imagery Sourcing, Rights and Credits (section 7).
+- Never name an artist, studio, shop or magazine. Describe materials and methods. Film stocks and camera models may be named as materials.
+- Never ask for text. Every paper scrap in the collage is "completely blank." No prompt may ask for the SIDE EYE logo, the eye mark or the words SIDE EYE. If a result shows lettering or an eye logo, reject it.
+- People: the hero is an animal, an object or a historical caricature (Rule 3.6). No living person is ever the hero. Historical figures may also appear as generated likenesses. Any real person on a cover: ask Heather before you generate anything.
+- Give three prompts per image: A is the safe read, B is the bold joke, C is a different take. Each one is complete and ready to copy and paste, one per code block, with no placeholders. These three versions are not the same as concepts A and B in Rule 3.5: once Heather picks a concept, every image in it gets an A, a B and a C prompt.
 
-**Background pattern** (Design System v3 template, with the cover add-on in brackets):
-
-```
-photorealistic mixed-media collage magazine cover background, [one surreal scene], flat saturated blue sky, a flat fluorescent pink color block across the top third for the masthead, torn newsprint and found ephemera pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, open space on the [hero side] for a figure, [empty space down the opposite edge for a vertical title] --ar 17:22 --style raw --s 250 --v 8.2 --hd --sref [approved emu cover URL] --sw 30 --no text, letters, words, numbers, logo, watermark, animals, people
-```
-
-Swap "fluorescent pink color block" for "flat red" or "flat blue" when the issue's top field is Tab Red or Tab Blue. The flat field is replaced with a vector fill in layout anyway (Rule 4.3).
-
-**Hero pattern** (Design System v3 template):
-
-```
-photorealistic [animal] head and neck leaning in from the [right/left] side of the frame as if peeking around a corner, exaggerated oversized round eyes swiveled toward the viewer, detailed feathers or fur, isolated on a plain white background --ar 1:2 --style raw --v 8.2 --hd --no text, full body
-```
-
-**Worked A/B example (Vol. 1, for practice only).** These rebuild the approved emu cover. Do not reuse them for a new issue.
-
-Background A (safer read):
+**Background pattern** (Design System v3 template, updated for section 11 of the hub, with the cover add-on in brackets; fill every bracket before you run it, and add the style reference as the rule above says once its address exists):
 
 ```
-photorealistic mixed-media collage magazine cover background, an empty golden outback wheat field with a silver second-place winners podium and a vintage open-top truck parked beside it, flat saturated blue sky, a flat fluorescent pink color block across the top third for the masthead, torn newsprint and found ephemera pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, open space on the right for a figure, empty space down the left edge for a vertical title --ar 17:22 --style raw --s 250 --v 8.2 --hd --sref [approved emu cover URL] --sw 30 --no text, letters, words, numbers, logo, watermark, animals, people
+hand-made mixed-media paper collage magazine cover background photographed flat on a copy stand under two daylight lamps, [one surreal scene], a real [decade of the story] photograph printed in flat silkscreen color fields, flat saturated blue sky, a flat block of matte fluorescent pink ink across the top third for the masthead, torn scraps of completely blank aged paper and blank gray newsprint pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, slight misregistration between the ink layers, paper edges lifting with soft shadows, open space on the [hero side] for a figure, [empty space down the opposite edge for a vertical title] --ar 17:22 --raw --s 250 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, animals, people, glow, gradient, chrome, 3d render, glossy
 ```
 
-Background B (bolder joke):
+Swap "a flat block of matte fluorescent pink ink" for "a flat block of matte red ink" or "a flat block of matte blue ink" when the issue's top field is Tab Red or Tab Blue. The flat field is replaced with a vector fill in layout anyway (Rule 4.3).
+
+**Hero pattern** (Design System v3 template, updated for section 11 of the hub; fill every bracket before you run it):
 
 ```
-photorealistic mixed-media collage magazine cover background, a silver second-place winners podium standing alone in an empty golden outback wheat field with a tiny 1930s army truck parked on the top step, flat saturated blue sky, a flat fluorescent pink color block across the top third for the masthead, torn newsprint and found ephemera pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, open space on the right for a figure, empty space down the left edge for a vertical title --ar 17:22 --style raw --s 250 --v 8.2 --hd --sref [approved emu cover URL] --sw 30 --no text, letters, words, numbers, logo, watermark, animals, people
+[decade of the story] photograph of [an animal's] head and neck leaning in from the [right/left] side of the frame as if peeking around a corner, exaggerated oversized round eyes swiveled toward the viewer, [real feather or fur detail], isolated against a plain white sheet, [the real light source and where it is], shot on [an era-true camera and film], deep focus, [two or three real imperfections, such as a few stray feathers out of place, coarse film grain, slight motion blur at one edge] --ar 1:2 --raw --s 75 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, full body, HDR, airbrushed skin, bokeh
 ```
 
-Hero A (safer read):
+**Worked A, B and C example (Vol. 1, for practice only).** These rebuild the approved emu cover. Do not reuse them for a new issue. The Emu War was in 1932, so the background scene is a 1930s photograph. The hero is a present-day color photograph, because the approved cover's emu is in full color and it is a cut-out, not a period still. Once the emu cover's Midjourney image address exists, add `--sref` with that address and `--sw 30` right before `--v 8.2` in the three background prompts.
+
+Background A (safe read):
 
 ```
-photorealistic emu head and neck leaning in from the right side of the frame as if peeking around a corner, exaggerated oversized round eyes swiveled toward the viewer, detailed shaggy feathers, isolated on a plain white background --ar 1:2 --style raw --v 8.2 --hd --no text, full body
+hand-made mixed-media paper collage magazine cover background photographed flat on a copy stand under two daylight lamps, an empty golden outback wheat field with a silver second-place winners podium and a vintage open-top truck parked beside it, a real 1930s photograph printed in flat silkscreen color fields, flat saturated blue sky, a flat block of matte fluorescent pink ink across the top third for the masthead, torn scraps of completely blank aged paper and blank gray newsprint pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, slight misregistration between the ink layers, paper edges lifting with soft shadows, open space on the right for a figure, empty space down the left edge for a vertical title --ar 17:22 --raw --s 250 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, animals, people, glow, gradient, chrome, 3d render, glossy
 ```
 
-Hero B (bolder joke):
+Background B (bold joke):
 
 ```
-photorealistic emu head and neck leaning in from the right side of the frame as if peeking around a corner, exaggerated oversized round eyes swiveled hard toward the viewer in a skeptical side-eye, one feather sticking straight up, detailed shaggy feathers, isolated on a plain white background --ar 1:2 --style raw --v 8.2 --hd --no text, full body
+hand-made mixed-media paper collage magazine cover background photographed flat on a copy stand under two daylight lamps, a silver second-place winners podium standing alone in an empty golden outback wheat field with a tiny 1930s army truck parked on the top step, a real 1930s photograph printed in flat silkscreen color fields, flat saturated blue sky, a flat block of matte fluorescent pink ink across the top third for the masthead, torn scraps of completely blank aged paper and blank gray newsprint pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, slight misregistration between the ink layers, paper edges lifting with soft shadows, open space on the right for a figure, empty space down the left edge for a vertical title --ar 17:22 --raw --s 250 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, animals, people, glow, gradient, chrome, 3d render, glossy
 ```
 
-**If a cover prompt misbehaves:** writing appears, add "completely blank" to the object (a blank newspaper, a blank sign). The collage looks digital-clean, raise `--sw` and add "paper edges lifting with soft shadows." Neon turns to glow, add "flat ink, printed on paper, no glow, no gradient." A period prop drifts, generate it alone and composite it.
+Background C (a different take):
 
-**Log every prompt.** Record the final A and B prompts, the chosen job, and the upscale used, in the issue's art-direction doc (template in 11 Templates).
+```
+hand-made mixed-media paper collage magazine cover background photographed flat on a copy stand under two daylight lamps, a silver second-place winners podium seen from ground level in an empty golden outback wheat field, its top step bare, spent brass rifle cartridge cases scattered in the stubble at its base, a 1930s army truck parked crooked in the furrows far behind, a real 1930s photograph printed in flat silkscreen color fields, flat saturated blue sky, a flat block of matte fluorescent pink ink across the top third for the masthead, torn scraps of completely blank aged paper and blank gray newsprint pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, slight misregistration between the ink layers, open space on the right for a figure, empty space down the left edge for a vertical title --ar 17:22 --raw --s 250 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, animals, people, glow, gradient, chrome, 3d render, glossy
+```
+
+Hero A (safe read):
+
+```
+close-up color wildlife photograph of an emu's head and neck leaning in from the right side of the frame as if peeking around a corner, exaggerated oversized round eyes swiveled toward the viewer, shaggy feathers, isolated against a plain white sheet, lit by soft overcast daylight from the left, shot on a mirrorless camera with a 100mm lens, deep focus, a few stray feathers out of place, fine sensor grain, slight motion blur at the tip of the beak --ar 1:2 --raw --s 75 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, full body, HDR, airbrushed skin, bokeh
+```
+
+Hero B (bold joke):
+
+```
+close-up color wildlife photograph of an emu's head and neck leaning in from the right side of the frame as if peeking around a corner, exaggerated oversized round eyes swiveled hard toward the viewer in a skeptical side-eye, one feather sticking straight up, shaggy feathers, isolated against a plain white sheet, lit by soft overcast daylight from the left, shot on a mirrorless camera with a 100mm lens, deep focus, a few stray feathers out of place, fine sensor grain, slight motion blur at the tip of the beak --ar 1:2 --raw --s 75 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, full body, HDR, airbrushed skin, bokeh
+```
+
+Hero C (a different take):
+
+```
+close-up color wildlife photograph of an emu's head and neck dipping down into the frame from the top right corner, head tilted sideways, exaggerated oversized round eyes close to the lens and fixed on the viewer, beak slightly open as if about to object, shaggy feathers, isolated against a plain white sheet, lit by soft overcast daylight from the left, shot on a mirrorless camera with a 100mm lens, deep focus, a few stray feathers out of place, fine sensor grain, slight motion blur at the far edge of the neck --ar 1:2 --raw --s 75 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, full body, HDR, airbrushed skin, bokeh
+```
+
+**If a cover prompt misbehaves:** writing appears, add "completely blank" to the object (a blank newspaper, a blank sign). The collage looks digital-clean, add "uneven ink coverage, visible paper fibers" and keep `--sw` at 30, the house weight. Neon turns to glow, add "flat ink, printed on paper" (glow, gradient and chrome are already in the `--no` list). The hero looks plastic or rendered, lower `--s` toward 50, check that no gloss word crept in, and add one more real imperfection. A period prop drifts, generate it alone and composite it.
+
+**Log every prompt.** Record the final A, B and C prompts, the chosen job, and the upscale used, in the issue's art-direction doc (template in 11 Templates).
 
 ---
 
@@ -381,7 +403,7 @@ Until Heather decides, follow the interim rule. Each is also listed in 13 Open Q
 1. **Brief.** Pull the issue title, volume number, thesis line, cover lines (four or fewer) and cover date from the Issue Hub. Confirm Heather has picked the lines.
 2. **Concept.** Write concept A and concept B: the one-sentence idea, the tie to the thesis, the hero, the hero side (by volume), the top field color and the joke. Check each against the Scorecard's "Must NOT claim" list.
 3. **Heather picks a concept.** No generating at full scale before this.
-4. **Generate.** Run A and B prompts for the background and the hero. Log them.
+4. **Generate.** Run the A, B and C prompts for the background and the hero (section 13). Log them.
 5. **Comp.** Build the front at full size: art layers, flat vector fields, placed logo file, set type, torn-strip cover lines.
 6. **Self-check.** Run the cover checklist (section 17).
 7. **Independent review.** A second reviewer (person or agent) checks the comp against this document and the Scorecard. Covers are high-stakes pieces.
@@ -410,6 +432,7 @@ Until Heather decides, follow the interim rule. Each is also listed in 13 Open Q
 | Cover line overstated the facts or announced the research | Mating first cover lines | Fact-check every line; no research announcements (Rule 8.6) |
 | Old tagline ("History, with receipts.") | Addendum A before October 7 | HISTORY, ALLEGEDLY. from the lockup file (Rule 7.1) |
 | Cover art generated at 4:5 from the v2 prompts | Design System v2 cover prompts | `--ar 17:22` for the front (section 13) |
+| Cover prompts used `--style raw`, only two versions per image and the gloss word "photorealistic" | Version 1.0 of this document | `--raw`, three versions (A, B and C), the real capture method, real light and real imperfections (section 13) |
 
 ---
 
@@ -422,6 +445,7 @@ Run it on the front alone, then on the full wrap. Every box must be ticked befor
 - [ ] The picture argues the issue's thesis
 - [ ] Nothing in the art implies a claim the Scorecard rates below Proven
 - [ ] Hero is an animal, an object or a historical caricature; no living person as hero
+- [ ] Any real person on the cover approved by Heather
 
 **Art**
 - [ ] Six COLLAGE layers, each on its own layer or group
@@ -430,6 +454,7 @@ Run it on the front alone, then on the full wrap. Every box must be ticked befor
 - [ ] Hero's eyes and face 0.25 in inside the trim and 0.375 in from the spine fold
 - [ ] Flat color fields are vector fills in house CMYK builds
 - [ ] No generated lettering or logo anywhere in the art
+- [ ] Every prompt follows section 13: A, B and C versions, `--raw`, the right `--s` band, `--v 8.2`, a `--no` list and no gloss words
 - [ ] Art is 300 dpi at placed size; front art at least 2,588 × 3,375 px
 - [ ] Total ink under 240% everywhere
 
@@ -475,6 +500,7 @@ Run it on the front alone, then on the full wrap. Every box must be ticked befor
 ## Sources this is built on
 
 - Design System v3: Neon Zine Print
+- Brand Standards hub, section 11 (Midjourney), as of November 25, 2026
 - Brand Standards hub (The magazine; Visual identity: Logo, Color, Type; Logo section; Decision log)
 - Design System v2 Core
 - Design System v2, Addendum A: KDP Production Spec 8.5 x 11
@@ -486,3 +512,20 @@ Run it on the front alone, then on the full wrap. Every box must be ticked befor
 - SIDE EYE Vol. 1 final KDP cover file (measured)
 - The side-eye-art-direction skill
 - Amazon KDP help: paperback cover requirements and barcode guidelines
+
+---
+
+## Changes in 1.1
+
+- Added the line near the top: Midjourney rules follow the Brand Standards hub, section 11, and section 11 wins where they differ.
+- Section 13: `--style raw` is now `--raw`. Every prompt carries `--v 8.2` in the standard order, with the `--no` list last. Every cover prompt keeps `--hd`.
+- Section 13: three prompt versions per image (A safe read, B bold joke, C a different take) instead of two. The worked emu background and hero examples each gained a full C version.
+- Section 13: gloss words are gone from every prompt. The collage now reads as a hand-made paper collage on a copy stand, with a real photograph printed in flat silkscreen color fields and blank paper scraps. The hero is a present-day color wildlife photograph, matching the approved cover, shot on a named camera in daylight with real imperfections.
+- Section 13: stylize bands set (background `--s 250`, hero `--s 75`, never above 300). Every `--no` list now carries text, letters, words, numbers, logo, watermark, plus the print or photo extras.
+- Section 13: the emu cover style reference runs at `--sw 30` on backgrounds only, and is left out until it has a Midjourney address. Never `--sw` without `--sref`, no moodboards, the switched-off settings are listed, and chaos stays at 0 for finals.
+- Section 13: image URLs go in the prompt (image prompts first, or after `--sref`). Drive links don't work in Midjourney.
+- Section 13: the misbehaving-prompt fix no longer raises `--sw`. It stays at 30.
+- Rule 3.6, Rule 11.2 and section 13: living people appear only as caricature or print, never photo-real. No living person is the cover hero. Historical figures may also appear as generated likenesses. Any real person on a cover goes to Heather.
+- Sections 1 and 4: the hero and the scene are described as photographic rather than "photoreal."
+- The section 2 table, step 4 of section 15 and the logging line now say A, B and C.
+- Checklist and common mistakes: added checks for the new prompt rules and for Heather's OK on any real person.

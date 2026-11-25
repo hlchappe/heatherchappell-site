@@ -1,6 +1,7 @@
 # 11 Templates
-Version 1.0 draft · November 24, 2026 · Owner: Lena Marsh, Documentation Specialist, Process and Governance
+Version 1.1 draft · November 25, 2026 · Owner: Lena Marsh, Documentation Specialist, Process and Governance
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 
 **Who this is for:** Art directors, designers, image makers, rights checkers, production staff, vendors and AI agents working on a SIDE EYE issue.
 **Use it when:** A stage in 01 Issue Design Process: From Brief to Print-Ready Files asks you to make one of these files. Copy the template, fill every field, and delete the guidance lines in *italics*.
@@ -173,27 +174,32 @@ Rhythm notes: <where illustrations lead, where evidence leads>
 Gutter notes: <anything that must stay 0.5 in clear of the gutter>
 
 ## 4. Rules for this piece
-- People: <how real people appear: period art, generated likeness of a historical figure, hands and props only, or no art (sensitive spreads)>
-- Living people: <none / sourced public facts only; what the art must never imply>
+- People: <how real people appear: period art, generated likeness of a historical figure (a photo-real period still is credited as a photo illustration), caricature or print of a living person, hands and props only, or no art (sensitive spreads)>
+- Living people: <none / caricature or print only, never photoreal; sourced public facts only; what the art must never imply>
 - Sensitive spreads: <spreads with no illustrations, no pink, no jokes; any reader needed>
 - Props that must be right: <...>
 - Color and print: <ink builds to proof; never recolor period art>
 - Type: <headline face, any vertical word, caption style, pull lines (one per spread at most)>
 
 ## 5. Prompts
-*Two per generated image: A the safer read, B the bolder joke. Copy-ready. No artist, studio, shop or magazine names. No generated lettering: blank paper is "completely blank". Settings per doc 05.*
+*Three per generated image: A the safe read, B the bold joke, C a different take. Each complete and copy-ready in its own code block, with no placeholders left in. No artist, studio, shop or magazine names. No generated lettering: blank paper is "completely blank". Every prompt carries a `--no` list and uses `--raw`. Settings per doc 05 and the hub's section 11.*
 
 ### I1 · <name> (<spread>, <placement>)
 <one line: the idea this image carries>
 
 A.
 ```
-<prompt A text> --ar <w:h> --style raw --v 8.2 <other settings from doc 05>
+<prompt A text> --ar <w:h> <other settings from doc 05> --no text, letters, words, numbers, logo, watermark --raw --v 8.2
 ```
 
 B.
 ```
-<prompt B text> --ar <w:h> --style raw --v 8.2 <other settings from doc 05>
+<prompt B text> --ar <w:h> <other settings from doc 05> --no text, letters, words, numbers, logo, watermark --raw --v 8.2
+```
+
+C.
+```
+<prompt C text> --ar <w:h> <other settings from doc 05> --no text, letters, words, numbers, logo, watermark --raw --v 8.2
 ```
 
 If a prompt misbehaves: <fix, from doc 05>
@@ -210,6 +216,7 @@ If a prompt misbehaves: <fix, from doc 05>
 
 ## 8. Credit lines
 - Generated art: "Illustration generated with Midjourney and edited by SIDE EYE."
+- Photo-real period stills: "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph." Kept out of Sources; never captioned as archival.
 - Composites: "Figure from [source], cut out and altered by SIDE EYE; illustration generated with Midjourney and edited by SIDE EYE."
 - Historical art: artist, title, date, holding institution, exactly as in the rights log.
 
@@ -252,7 +259,7 @@ Every image slot in the issue gets one row in the issue's art log, a Google Shee
 
 | Column | What goes in it |
 |---|---|
-| Prompt as run | The exact text pasted, with the reference token left as written in doc 05 (for example `[RELIEF STYLE REFERENCE URL]`), never the link itself |
+| Prompt as run | The exact text pasted. If it used a house style reference, write the reference's name (skull print or emu cover) in place of its web address, never the link itself |
 | A or B | Which prompt won, and any fix applied |
 | Generator and version | For example Midjourney v8.2 |
 | Seed | If the tool shows one; otherwise "not shown" |
@@ -465,6 +472,7 @@ Date: <date> · Prepared by: Production
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - 01 Issue Design Process: From Brief to Print-Ready Files
 - SIDE EYE Brand Standards hub (The magazine, Image rights, What always needs Heather's yes, Privacy, Approvals and versions)
 - SIDE EYE Design System v3: Neon Zine Print (page recipes, rules and rights, credit lines)
@@ -474,3 +482,8 @@ Date: <date> · Prepared by: Production
 - side-eye-art-direction skill (deliverable sections and checks)
 - SIDE EYE Research Guidelines Portal: Proposed Plan (status words, handoff note practice)
 - Issue planning records for Vol. 2 and Vol. 3 (handoff note, lineup tables)
+
+## Changes in 1.1
+
+- Art-direction doc template: three prompts (A, B and C), `--raw`, a `--no` list on each.
+- People fields and credit lines follow hub section 11 (rules 10 and 13).

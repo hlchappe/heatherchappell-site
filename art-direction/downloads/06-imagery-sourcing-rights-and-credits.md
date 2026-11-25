@@ -1,9 +1,10 @@
 # 06 Imagery Sourcing, Rights and Credits
-Version 1.0 draft · November 24, 2026 · Owner: Bea Archer, Art Director, Photo, Archival Imagery and Rights
+Version 1.1 draft · November 25, 2026 · Owner: Bea Archer, Art Director, Photo, Archival Imagery and Rights
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 **Who this is for:** Anyone who finds, makes, treats, places or credits an image in a SIDE EYE issue: art directors, image researchers, layout designers, outside vendors and AI agents.
 **Use it when:** You need an image of any kind, you are about to place one, you are filling in the rights log, you are writing credit lines or the colophon, or you are running the rights check before print.
-**Related:** 01 Issue Design Process: From Brief to Print-Ready Files; 03 Page and Spread Standards; 04 Grid and Typography; 05 Art and Illustration Direction (with Midjourney Prompt Standards); 07 Print Production and Prepress (Amazon KDP); 08 Quality Checklists; 09 File Naming, Folders and Handoff Specs; 12 Decision Log; 13 Open Questions for Heather. Source docs: the Brand Standards hub (Visual identity: People in pictures, Image rights); SIDE EYE Design System v3: Neon Zine Print (Rules and rights; HYBRID); Design System v2 Core; v2 Addendum A, KDP Production Spec 8.5 x 11.
+**Related:** 01 Issue Design Process: From Brief to Print-Ready Files; 03 Page and Spread Standards; 04 Grid and Typography; 05 Art and Illustration Direction (with Midjourney Prompt Standards); 07 Print Production and Prepress (Amazon KDP); 08 Quality Checklists; 09 File Naming, Folders and Handoff Specs; 12 Decision Log; 13 Open Questions for Heather. Source docs: the Brand Standards hub (Visual identity: People in pictures, Image rights; section 11, Midjourney); SIDE EYE Design System v3: Neon Zine Print (Rules and rights; HYBRID); Design System v2 Core; v2 Addendum A, KDP Production Spec 8.5 x 11.
 
 ---
 
@@ -17,7 +18,7 @@ Read these first. Every other section explains one of them.
 4. **If you can't confirm the rights, replace the image.** No layout may depend on one image we can't clear.
 5. **Illustrations carry the argument. Period images carry the proof.** An illustration never imitates a period document and never sits inside one.
 6. **Period art is never recolored pink or neon.** It gets grayscale and coarse halftone, or full color on openers only. In HYBRID, skin is the one peach.
-7. **People:** generated likenesses of historical figures are allowed as caricature or real period art. Living people follow the sourced-public-facts-only rule. No image, caption or pairing may imply a crime, deal or motive the Scorecard rates below Proven.
+7. **People:** real period art of historical figures is allowed, and so are generated likenesses, including photo-real period stills. A photo-real period still carries the photo-illustration credit (section 10), stays out of Sources and is never captioned as archival. Living people appear only as caricature or print, never as a photo-real picture that could pass for a real photo, and only with sourced public facts. No image, caption or pairing may imply a crime, deal or motive the Scorecard rates below Proven.
 8. **Found material shows no readable brand logos and no personal information.**
 9. **300 ppi at final placed size.** Nothing under 200 ppi is placed at any size.
 10. **Influences are credited in the colophon only.** Never name an artist, studio, shop or magazine in a prompt, caption, file name or marketing.
@@ -32,7 +33,7 @@ Pick the image type first, then the print process (see 05 Art and Illustration D
 
 | Code | Type | What it is | Allowed on | Never |
 | :- | :- | :- | :- | :- |
-| I | Generated art | Midjourney v8.2 images made by SIDE EYE in RELIEF, COLLAGE, WOOD TYPE (textures and woodcut cuts only) or NEWSPRINT | Covers, LOUD pages, openers, spot art, Out Back, AI Dead skulls | Passing as a photo or period document of a real person or event; any lettering; QUIET pages except a plain NEWSPRINT still life (see 2.2) |
+| I | Generated art | Midjourney v8.2 images made by SIDE EYE in RELIEF, COLLAGE, WOOD TYPE (textures and woodcut cuts only) or NEWSPRINT | Covers, LOUD pages, openers, spot art, Out Back, AI Dead skulls; photo-real period stills of historical figures (9.1) | Passing as a real photo, real footage or a period document (a photo-real period still is allowed only with the photo-illustration credit, 9.1); a photo-real picture of a living person; any lettering; QUIET pages except a plain NEWSPRINT still life (see 2.2) |
 | H | Archival image | Public-domain or free-license period art, prints, archival photographs, documents, maps, artifacts | Anywhere. It is the only image type allowed for proof | Recolored pink or neon; joked over on QUIET pages; uploaded to Midjourney |
 | X | Composite | A real archival figure cut out and combined with generated art (the HYBRID recipe) | Openers about a real historical person | Using a living person; using any figure that isn't public domain |
 | P | Our photo | Photos SIDE EYE shot: props, collage boards, stunts, the mailing and its replies | Anywhere | Readable logos; private people's personal information |
@@ -46,7 +47,7 @@ Maps and charts are drawn in-house in layout, not generated. Midjourney can't pl
 
 | Page type | What may appear |
 | :- | :- |
-| Cover | COLLAGE: generated scene and generated photoreal hero cut-out, cover lines set in type on torn strips and photographed. Any real person on a cover: stop and ask Heather (see 9.3). |
+| Cover | COLLAGE: generated scene and generated photographic hero cut-out, cover lines set in type on torn strips and photographed. Any real person on a cover: stop and ask Heather (see 9.3). |
 | LOUD feature and opener | Generated art, archival images with the house finish, HYBRID composites on openers about a real historical person. |
 | QUIET feature | Archival images only, printed plainly: black, gray, wide margins, plain halftone, no pink, no collage, no jokes in the art or captions. A generated NEWSPRINT still life of an object (an empty shelf, a lone book) is the only generated image allowed, and it shows no people, places or events as if real. |
 | Out Back and tabloid section | NEWSPRINT: generated or archival, halftone on the newsprint tint. |
@@ -205,7 +206,7 @@ The example column shows the format only, using a Vol. 1 image. It is not a reco
 | Pixels and effective ppi | Pixel size and ppi at the placed size | 3,000 × 3,600 px; 400 ppi at 7.5 × 9 in |
 | Notes | Anything a checker needs: reason for Pending, the open question, the replacement | |
 
-For generated art, write Source "Midjourney v8.2," Creator "SIDE EYE," and the prompt's ID from the art-direction doc in Notes.
+For generated art, write Source "Midjourney v8.2," Creator "SIDE EYE," and the prompt's ID from the art-direction doc in Notes. For a photo-real period still, also write "Photo illustration, not archival" in Notes and put the photo-illustration credit line from section 10 in the Credit line field.
 
 ### 5.2 Statuses
 
@@ -247,6 +248,8 @@ Follow the HYBRID recipe in Design System v3. The rights side:
 - Generated paper, ledgers, letters and signs are always "completely blank."
 - When a page needs a real document, use the archival scan. In comps, a placeholder is fine. Replace it before print.
 - Caption a generated reconstruction of a real place or object as an illustration or reconstruction.
+- A generated photo-real period still of a historical figure is allowed (9.1). It is an illustration, not evidence: it carries the photo-illustration credit (section 10), stays out of Sources, is never captioned as archival, and never imitates or sits inside a period document.
+- Real archival images are labeled as archival: their caption and credit name the creator, date, holding institution and basis (section 10), so a reader can always tell them from SIDE EYE's art.
 - No generated lettering anywhere. Every word is set in type or hand-lettered.
 
 ---
@@ -256,10 +259,12 @@ Follow the HYBRID recipe in Design System v3. The rights side:
 05 Art and Illustration Direction (with Midjourney Prompt Standards) owns how to make generated art. For rights:
 
 - Generate only from SIDE EYE's own approved style references. Never upload anyone else's artwork, a period image or a photo as a reference or image prompt.
+- Source or inspiration image URLs go in the prompt (image prompts first, or after `--sref`). Google Drive links don't work in Midjourney. This sets where a link goes, not which images may be used: the rule above still decides that.
 - Never name an artist, studio, shop or magazine in a prompt.
 - Check every generation at 100 percent before you log it: no letters or fake text, no logos or near-logos, no recognizable product designs, no unintended faces.
-- A generated person must read as caricature or stylized art, never as a photo of a real person.
-- Log every placed generated image (type I). Its credit is the single Midjourney credit (section 10).
+- A generated historical figure may be a caricature, a print or a photo-real period still. A photo-real period still carries the credit "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph." It stays out of Sources and is never captioned as archival.
+- A generated living person is only ever a caricature or print, never a photo-real picture that could pass for a real photo, and shows only what sourced public facts support (9.2).
+- Log every placed generated image (type I). Its credit is the single Midjourney credit (section 10). A photo-real period still also carries the photo-illustration credit.
 
 ---
 
@@ -296,7 +301,8 @@ Follow the HYBRID recipe in Design System v3. The rights side:
 
 ### 9.1 Historical people
 
-- Real period art of historical figures is allowed. So are generated likenesses, as caricature or stylized art, never photoreal.
+- Real period art of historical figures is allowed. So are generated likenesses: caricature, print or a photo-real period still.
+- A photo-real period still carries the credit "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph." It stays out of Sources and is never captioned as archival. It never imitates or sits inside a period document (6.3).
 - AI Dead figures are always skulls wearing one defining prop.
 - A person shown suffering, dead or as a victim runs plainly on a QUIET page. Never cut out, composite, recolor or joke around that image.
 
@@ -304,8 +310,10 @@ Follow the HYBRID recipe in Design System v3. The rights side:
 
 - Follow the sourced-public-facts-only rule. Show only what the sources prove they did.
 - Use only free-licensed real photos (often official US government portraits, after the checks in 4.1). Run them unaltered except crop, grayscale and halftone.
-- Never composite a living person into a scene, give them props, or show them doing anything.
-- Don't generate a likeness of a living person. Follow this until Heather decides (open question).
+- Never composite a real photo of a living person into a scene, give it props, or change it beyond crop and tone.
+- A generated likeness of a living person is allowed only as caricature or print, never as a photo-real picture that could pass for a real photo, and only with sourced public facts (Brand Standards hub, section 11). This settles open question Q-21 in 13 Open Questions for Heather.
+- A caricature or print may show a living person only doing what sourced public facts support. Never show them doing something the research can't prove, and never imply a crime, deal or motive the research can't prove (9.3).
+- A living person on a cover, back cover or any promotion still needs Heather's OK (9.3).
 
 ### 9.3 What the art may imply
 
@@ -323,7 +331,8 @@ Copy these exactly. Fill the brackets. End each line with a period.
 
 | Image type | Credit line format | Example |
 | :- | :- | :- |
-| Generated art (I) | Covered by the one Midjourney credit. No per-image credit. | (none on the page) |
+| Generated art (I) | Covered by the one Midjourney credit. No per-image credit, except photo-real period stills (next row). | (none on the page) |
+| Photo-real period still (I) | Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph. | Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph. |
 | Composite, HYBRID (X) | Figure from [artist, title, date, holding institution], cut out and altered by SIDE EYE; illustration generated with Midjourney and edited by SIDE EYE. | Figure from James Gillray, The King of Brobdingnag and Gulliver, 1803, The Metropolitan Museum of Art, cut out and altered by SIDE EYE; illustration generated with Midjourney and edited by SIDE EYE. |
 | Period art (H) | [Artist], [Title], [date]. [Holding institution]. Public domain. | Roelant Savery, Edwards's Dodo, 1626. Natural History Museum, London. Public domain. |
 | Archival photo (H) | [Subject], [place], [date]. [Photographer] / [Holding institution]. Public domain. | Company E, 4th U.S. Colored Infantry, Fort Lincoln, D.C., November 1865. William Morris Smith / Library of Congress. Public domain. |
@@ -336,17 +345,25 @@ Copy these exactly. Fill the brackets. End each line with a period.
 
 Put "Public domain" or the license on every H line. Vol. 1 left it off some lines. Don't repeat that.
 
+A photo-real period still always carries its photo-illustration line, word for word, and never an archival-style credit.
+
 ### 10.2 Where credits go
 
-- **On the page:** a short credit in the caption (GT America Mono, set per 04 Grid and Typography) for every H and X image, or a page-by-page list if the page has no captions. QUIET captions carry no jokes.
+- **On the page:** a short credit in the caption (GT America Mono, set per 04 Grid and Typography) for every H and X image and every photo-real period still, or a page-by-page list if the page has no captions. QUIET captions carry no jokes.
 - **The colophon** carries three things: the one Midjourney credit, the image credits, and the influence credit (Brand Standards hub, The magazine).
-- **The full list:** Vol. 1 ran a page-by-page "Photo credits" list at the end of the back-of-issue sources section, headed: "Illustrations are generated with Midjourney and edited by SIDE EYE. Unless credited, they are not photographs of real people or events. Historical images are credited where they appear and listed here." If the list won't fit the colophon, do the same and point to it from the colophon. Where the list lives is an open question (see notes).
+- **The full list:** Vol. 1 ran a page-by-page "Photo credits" list at the end of the back-of-issue sources section, headed: "Illustrations are generated with Midjourney and edited by SIDE EYE. Unless credited, they are not photographs of real people or events. Historical images are credited where they appear and listed here." If the list won't fit the colophon, do the same and point to it from the colophon. Where the list lives is an open question (see notes). Photo-real period stills stay out of Sources: if the full list sits in the Sources section, list them in the colophon instead.
 
 ### 10.3 The Midjourney credit
 
 One credit, at the front of the magazine, in the colophon:
 
 > Illustration generated with Midjourney and edited by SIDE EYE.
+
+Photo-real period stills also carry their own line, with the image and in the colophon:
+
+> Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph.
+
+Never caption a photo-real period still as archival, and never list it in Sources. All other generated art keeps the one Midjourney credit above.
 
 ### 10.4 The influence credit
 
@@ -447,12 +464,15 @@ Run this per image when you log it, and again on the whole issue at the rights c
 
 **Generated images (I)**
 - [ ] No letters, logos, product designs or unintended faces.
-- [ ] Nothing that passes as a real photo or period document of a real person or event.
+- [ ] Nothing that passes as a real photo, real footage or period document of a real person or event.
+- [ ] Photo-real period stills show historical figures only, carry the photo-illustration credit, stay out of Sources and are never captioned as archival.
+- [ ] No photo-real picture of a living person. Living people only as caricature or print.
 - [ ] No outside artwork used as a reference or image prompt.
 - [ ] No artist, studio, shop or magazine named in the prompt.
+- [ ] Any image link in a prompt is a Midjourney address, not a Drive link.
 
 **People**
-- [ ] Living people: real free-licensed photos only, unaltered except crop and tone, facts sourced.
+- [ ] Living people: real photos are free-licensed and unaltered except crop and tone. Generated images are caricature or print only, never photo-real, and show only what sourced public facts support.
 - [ ] No image, crop, caption or pairing implies anything the Scorecard rates below Proven or lists under Must NOT claim.
 - [ ] Victims and suffering run plainly on QUIET pages.
 - [ ] Any living person on a cover or in promotion is approved by Heather.
@@ -463,6 +483,7 @@ Run this per image when you log it, and again on the whole issue at the rights c
 
 **Issue level**
 - [ ] One Midjourney credit, at the front, in the colophon.
+- [ ] Every photo-real period still has the photo-illustration credit with the image and in the colophon, and none appears in Sources.
 - [ ] Influence credit in the colophon only. Hatch Show Print named nowhere else.
 - [ ] The credit list matches the rights log one to one.
 - [ ] Known open issues (the Loving photographs) are resolved or the image is out.
@@ -471,6 +492,7 @@ Run this per image when you log it, and again on the whole issue at the rights c
 
 ## Sources this is built on
 
+- Brand Standards hub, section 11 (Midjourney), as of November 25, 2026
 - Brand Standards hub (Visual identity: Color rules, The five ways we make pictures, People in pictures, Image rights; The magazine; Decision log; Open questions for Heather)
 - SIDE EYE Design System v3: Neon Zine Print
 - SIDE EYE Design System v2 Core
@@ -483,3 +505,18 @@ Run this per image when you log it, and again on the whole issue at the rights c
 - 00 Issue Hub for the Mating Issue
 - Superseded history: Vol. 1 Art Direction and Brand Guidelines v1 (archival sourcing and rights checklist)
 - Past working sessions, November 23–24, 2026 (Mating Issue decisions; Vol. 1 image sourcing)
+
+---
+
+## Changes in 1.1
+
+- Added the line near the top: Midjourney rules follow the Brand Standards hub, section 11, and section 11 wins where they differ.
+- Card rule 7, section 2.1, section 7 and section 9.1: generated likenesses of historical figures may now be photo-real period stills. The old "never photoreal" wording is gone.
+- Photo-real period stills carry "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph.", stay out of Sources and are never captioned as archival.
+- Section 6.3: illustration still never imitates or sits inside a period document, and real archival images are labeled as archival.
+- Section 7: image URLs go in the prompt, never as Drive links. This doesn't change which images may be used.
+- Section 9.2: living people may now be generated, but only as caricature or print, never photo-real, and only with sourced public facts. This settles open question Q-21. Real photos of living people stay free-licensed and unaltered except crop and tone. A living person on a cover, back cover or promotion still needs Heather's OK.
+- Section 10: the photo-illustration credit is its own row in 10.1 and is added to 10.2 and 10.3. Other generated art keeps "Illustration generated with Midjourney and edited by SIDE EYE."
+- Section 2.2: the cover hero cut-out is described as photographic rather than "photoreal."
+- Section 5.1: the rights log notes a photo-real period still and its credit.
+- Section 14: checklist items added for photo-real stills, living people and prompt links.

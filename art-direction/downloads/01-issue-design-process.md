@@ -1,6 +1,7 @@
 # 01 Issue Design Process: From Brief to Print-Ready Files
-Version 1.0 draft · November 24, 2026 · Owner: Lena Marsh, Documentation Specialist, Process and Governance
+Version 1.1 draft · November 25, 2026 · Owner: Lena Marsh, Documentation Specialist, Process and Governance
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 
 **Who this is for:** Anyone who designs, illustrates, lays out, checks or prints a SIDE EYE issue: art directors, designers, image makers, rights checkers, production staff, outside vendors and AI agents.
 **Use it when:** You start a new issue, pick up an issue mid-stream, need to know who approves what, or want to change a standard.
@@ -187,10 +188,10 @@ Any fact, number, date or quote that design adds (an infographic figure, a capti
 1. Write one art-direction doc per feature, and one each for the cover, Up Front and Out Back. Use the Art-Direction Doc template (doc 11), which follows the Napoleon model.
 2. State the concept in a sentence tied to the piece's thesis. Name the joke and the one thing pink marks (one pink focus per page in print).
 3. Pick one process per image. HYBRID only for real historical people. QUIET pages get no neon, no collage and no jokes.
-4. Write two prompts per generated image: A the safer read, B the bolder joke (doc 05). No artist, studio, shop or magazine names. No generated lettering: describe paper and signs as "completely blank".
+4. Write three prompts per generated image: A the safe read, B the bold joke, C a different take, each complete and copy-paste ready (doc 05; hub section 11). No artist, studio, shop or magazine names. No generated lettering: describe paper and signs as "completely blank".
 5. List each historical image the piece needs with its proposed source and rights basis. Paid licenses are not allowed (Brand Standards hub, "Image rights"). Mark each as a candidate for the Rights Checker.
 6. List everything built by hand in layout: wood-type plates, cover lines, charts, maps, timelines, ornaments.
-7. Check every image idea against the Must NOT list. Art never implies a crime, deal or motive the Scorecard can't prove. Living people follow the sourced-public-facts-only rule. Generated likenesses of historical figures are allowed.
+7. Check every image idea against the Must NOT list. Art never implies a crime, deal or motive the Scorecard can't prove. Living people appear only as caricature or print, never photoreal, and only with sourced public facts. Generated likenesses of historical figures are allowed.
 8. For the cover and for any opener about a living person, have an independent reviewer (someone who did not write the doc) check the plan against doc 05's checklist and the Scorecard.
 9. Send the set to Heather with a Handoff Note.
 
@@ -543,6 +544,7 @@ These come from how Vol. 1, The Loser's Issue, actually went. Each one is now a 
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - SIDE EYE Brand Standards hub (sections: Start here, The golden rules, How this guide changes, The magazine, How a feature gets made, Image rights, For vendors, editors and AI agents, What always needs Heather's yes, How the production app works, Approvals and versions, Decision log)
 - SIDE EYE Design System v3: Neon Zine Print
 - SIDE EYE Design System v2 Core
@@ -554,3 +556,8 @@ These come from how Vol. 1, The Loser's Issue, actually went. Each one is now a 
 - Issue planning records for Vol. 2 and Vol. 3 (Nov 24, 2026)
 - Vol. 1 production history (layout builds, print files and errata, Sept to Oct 2026)
 - KDP Help: publishing timeline; proof copies; "When will my proof or author copy arrive?"
+
+## Changes in 1.1
+
+- Step 4 of art direction: three prompts per image (A, B and C).
+- Step 7: living people only as caricature or print, never photoreal (hub section 11, rule 10).

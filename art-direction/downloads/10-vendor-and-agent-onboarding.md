@@ -1,6 +1,7 @@
 # 10 Vendor and Agent Onboarding Starter
-Version 1.0 draft · November 24, 2026 · Owner: Wren Hale, Onboarding and Handoff
+Version 1.1 draft · November 25, 2026 · Owner: Wren Hale, Onboarding and Handoff
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 **Who this is for:** New outside vendors (designers, illustrators, cover designers, prepress shops) and new AI agents working on a SIDE EYE magazine issue.
 **Use it when:** It is your first day on SIDE EYE, you are setting up an AI agent for SIDE EYE work, or you need a term explained.
 **Related:** 00 Start Here: How to Use the SIDE EYE Art Direction Standards; 01 Issue Design Process: From Brief to Print-Ready Files; 05 Art and Illustration Direction (with Midjourney Prompt Standards); 06 Imagery Sourcing, Rights and Credits; 08 Quality Checklists; 09 File Naming, Folders and Handoff Specs; 11 Templates (issue brief, flatplan, art-direction doc, handoff note); SIDE EYE Brand Standards (section For vendors, editors and AI agents; section AI files)
@@ -44,10 +45,10 @@ Other AIs can't load a skill. Paste the skill's rules into the instructions inst
 
 Installed skills lag behind Heather's decisions. Tell the agent these, in its instructions or at the start of the job. Each line comes from the hub's Skills section ("Rules inside skills that may be out of date") or its Decision log.
 
-- **People:** older skill text says no faces or likenesses of real people. The current rule: generated likenesses of historical figures are allowed. Living people follow the sourced-public-facts-only rule. AI Dead figures are always skulls wearing a prop.
+- **People:** older skill text says no faces or likenesses of real people. The current rule (hub section 11, rule 10): generated likenesses of historical figures are allowed, including photo-real period stills credited as photo illustrations. Living people appear only as caricature or print, never as a photoreal picture that could pass for a real photo, and only with sourced public facts. AI Dead figures are always skulls wearing a prop.
 - **Pink:** "pink marks one thing" is a print rule. Print keeps one pink focus per page. In video, pink can be used freely.
 - **AI video:** generated video only illustrates an idea and must pass the pause test (see the glossary). That rule is for video. Print art follows 05.
-- **Prompt endings and settings:** use the templates in 05 exactly as written. If a skill's ending differs, 05 wins until Heather decides otherwise (see 13 Open Questions for Heather).
+- **Prompt endings and settings:** older skill text says `--style raw` and two prompts per image. The current rules are in the hub's section 11 (Midjourney): `--raw`, three versions per image (A, B and C), a `--no` list on every prompt, no gloss words. Use the templates in 05, which follow section 11. Where any skill or older template differs, section 11 wins.
 
 ### Check questions
 
@@ -86,7 +87,7 @@ THE LOOK
 - No generated lettering anywhere. Never generate the logo.
 - Never name an artist, studio, shop or magazine in a prompt.
 - Never recolor period art. An illustration never imitates a period document or sits inside one.
-- Generated likenesses of historical figures are allowed. Living people: sourced public facts only, never shown doing something we can't prove.
+- Generated likenesses of historical figures are allowed. Living people: caricature or print only, never photoreal, sourced public facts only, never shown doing something we can't prove.
 
 THE FACTS
 - The feature's Scorecard binds the art. Never show anything on its Must NOT claim list, or any crime, deal or motive it can't prove.
@@ -121,8 +122,8 @@ Find your job below. It tells you what you get, what you deliver and which docs 
 
 | Engagement | You receive | You deliver | Stages you work in (see 01) | Read first |
 | :- | :- | :- | :- | :- |
-| **Cover only** | Issue brief, cover lines, the cover concept if one exists, page count for the spine | Cover art-direction doc, COLLAGE prompts (A and B), the layered cover file, the cover PDF built on KDP's cover template | 2, 3, 4, 6 | 02, 05, 06, 07 (cover section), 08, 09 |
-| **Illustrations only** | Art-direction doc or page briefs, Scorecards, the flatplan | Prompts (A and B per image), the picks, edited finals in 04 Art/09 Finals, an art log row and a rights log row per image | 2, 3 | 05, 06, 03 (your page recipes), 08, 09 |
+| **Cover only** | Issue brief, cover lines, the cover concept if one exists, page count for the spine | Cover art-direction doc, COLLAGE prompts (A, B and C), the layered cover file, the cover PDF built on KDP's cover template | 2, 3, 4, 6 | 02, 05, 06, 07 (cover section), 08, 09 |
+| **Illustrations only** | Art-direction doc or page briefs, Scorecards, the flatplan | Prompts (A, B and C per image), the picks, edited finals in 04 Art/09 Finals, an art log row and a rights log row per image | 2, 3 | 05, 06, 03 (your page recipes), 08, 09 |
 | **Archival imagery and rights** | Flatplan, Scorecards, image wish list | Archival originals, working copies, rights evidence, rights log rows, credit lines | 3 | 06, 09, 08 |
 | **Full layout** | Everything above, plus approved manuscript and final art | A layout package, an HTML build or page specs; review PDFs; a handoff note | 4, 5, 6 | 01, 04, 03, 02, 07, 08, 09 |
 | **Prepress only** | Layout package and review sign-off | Preflighted interior and cover PDFs, KDP previewer notes | 6 | 07, 08, 09 |
@@ -256,8 +257,8 @@ This is a practice Scorecard written for this test. Treat it as binding for the 
 
 1. Read 05 sections 3.1 (RELIEF), 5 (the joke rule), 8 and 9.1 (the RELIEF template).
 2. Write a one-line concept: the visual joke and what pink marks.
-3. Write **Prompt A** (safer joke) and **Prompt B** (bolder joke) from the 05 RELIEF template. Change only the words in brackets. Keep the style reference as the placeholder `[RELIEF STYLE REFERENCE URL]`.
-4. Check both prompts against the Must NOT list and the golden rules in 00.
+3. Write **Prompt A** (the safe read), **Prompt B** (the bold joke) and **Prompt C** (a different take) from the 05 RELIEF template. Change only the words in brackets. Each prompt is complete, on one line in its own code block. The house style reference has no public web address yet, so leave `--sref` and `--sw` off; 05 says where they go once the address exists.
+4. Check all three prompts against the Must NOT list and the golden rules in 00.
 5. Name the file the image will have once it is run and picked (09).
 6. Fill one art log row and one rights log row (below).
 7. Write a short handoff note (09, section 5).
@@ -271,17 +272,25 @@ Use this to check your format, not to copy. Your joke can be different.
 
 **Concept:** The royal orb, the round world in a king's hand, sits on a plate next to a flat pancake. Pink marks the orb.
 
-**Prompt A (safer):**
+**Prompt A (safe read):**
 
 ```
-flat three-ink relief print of a jeweled royal orb topped with a small cross resting on a plain plate beside a flat round pancake, the royal orb printed in fluorescent pink, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, wide empty paper margins, plain empty paper across the top third, evenly lit, flat ink printed on paper --ar 1:1 --s 150 --c 0 --sref [RELIEF STYLE REFERENCE URL] --sw 60 --no text, letters, words, numbers, logo, watermark, skull, glow, gradient --raw --v 8.2
+flat three-ink hand-carved linocut relief print of a jeweled royal orb topped with a small cross resting on a plain plate beside a flat round pancake, the royal orb printed in fluorescent pink, the plate sitting low and to the right, bold simple shapes, thick uneven black outline as if cut with a gouge, fluorescent pink and pale cyan ink, flat and matte, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on warm cream uncoated paper with visible fibers, wide bare paper margins, plain empty paper across the top third --ar 1:1 --raw --s 150 --c 0 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy, skull
 ```
 
-**Prompt B (bolder):**
+**Prompt B (bold joke):**
 
 ```
-flat three-ink relief print of a jeweled royal orb topped with a small cross sitting in a cast-iron frying pan, a gloved hand pressing down on it with a bent spatula, the orb still perfectly round, only hands and sleeves visible, the royal orb printed in fluorescent pink, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, wide empty paper margins, plain empty paper across the top third, evenly lit, flat ink printed on paper --ar 1:1 --s 150 --c 10 --sref [RELIEF STYLE REFERENCE URL] --sw 60 --no text, letters, words, numbers, logo, watermark, skull, glow, gradient, faces --raw --v 8.2
+flat three-ink hand-carved linocut relief print of a jeweled royal orb topped with a small cross sitting in a cast-iron frying pan, a gloved hand pressing down on it with a bent spatula, the orb still perfectly round, only the hand and sleeve visible, the royal orb printed in fluorescent pink, the pan cropped by the right edge, bold simple shapes, thick uneven black outline as if cut with a gouge, fluorescent pink and pale cyan ink, flat and matte, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on warm cream uncoated paper with visible fibers, wide bare paper margins, plain empty paper across the top third --ar 1:1 --raw --s 150 --c 0 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy, skull, faces
 ```
+
+**Prompt C (a different take):**
+
+```
+flat three-ink hand-carved linocut relief print of a tall stack of flat round pancakes on a plain plate with a jeweled royal orb topped with a small cross balanced on the very top like a cherry, the pancakes slightly sliding, the royal orb printed in fluorescent pink, the stack set off center to the left, bold simple shapes, thick uneven black outline as if cut with a gouge, fluorescent pink and pale cyan ink, flat and matte, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on warm cream uncoated paper with visible fibers, wide bare paper margins, plain empty paper across the top third --ar 1:1 --raw --s 150 --c 0 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy, skull
+```
+
+These run complete as written. Once the desk has a public web address for the RELIEF style reference (the powdered-wig skull print), add `--sref <that address> --sw 60` right before `--v 8.2`. Drive links don't work in Midjourney.
 
 Before you hand in, copy the ending from the current 05 template, not from this sample. 05 wins if they differ.
 
@@ -300,12 +309,12 @@ Before you hand in, copy the ending from the current 05 template, not from this 
 | Page(s) | not placed |
 | Art status | To run |
 | Brief (what the art must show) | A round royal orb beside a flat pancake. Pink on the orb. No people, no lettering, no manuscript look. |
-| Process / Midjourney prompt | RELIEF, pink + cyan. Prompt A and Prompt B as written in the handoff note. |
+| Process / Midjourney prompt | RELIEF, pink + cyan. Prompts A, B and C as written in the handoff note. |
 | Generations kept | none yet |
 | Chosen file (in Selects) | none yet |
 | File name | SE-V00_p000_flat-earth-orb_RELIEF_A1_v01.png (planned) |
 | Source and license | Generated, Midjourney v8.2 |
-| Credit line | Illustration generated with Midjourney and edited by SIDE EYE. |
+| Credit line | Illustration generated with Midjourney and edited by SIDE EYE. (A photo-real period still would instead carry "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph.") |
 | Pixel size | not yet run (needs at least 1,020 px wide for 3.4 in at 300 ppi) |
 | 300 dpi at print size? | not yet run |
 | Approved by | (blank) |
@@ -318,10 +327,11 @@ Before you hand in, copy the ending from the current 05 template, not from this 
 
 The art director passes the test when every line is true.
 
-- [ ] Both prompts use the 05 RELIEF template, with only the bracketed words changed.
+- [ ] All three prompts use the 05 RELIEF template, with only the bracketed words changed, and each ends with `--raw`, `--v 8.2` and a `--no` list.
+- [ ] No gloss words (photorealistic, cinematic, 8k, masterpiece, ultra realistic, glowing, epic).
 - [ ] No artist, studio, shop or magazine name. No lettering asked for.
 - [ ] Pink is on one object, and that object is the punchline.
-- [ ] Nothing in either prompt breaks the Must NOT list.
+- [ ] Nothing in any prompt breaks the Must NOT list.
 - [ ] No period document, map or manuscript look.
 - [ ] The file name, image ID and both log rows follow 09 and 06.
 - [ ] Approved cells are blank.
@@ -344,7 +354,7 @@ The art director passes the test when every line is true.
 
 | Term | Meaning |
 | :- | :- |
-| **A and B prompts** | Two prompts per image. A is the safer joke, B the bolder one. See 05. |
+| **A, B and C prompts** | Three prompts per image: A the safe read, B the bold joke, C a different take. Each complete and copy-ready. See 05 and the hub's section 11. |
 | **AI Dead** | The column "Letters to the AI Dead." Its portraits are always a skull wearing the figure's defining prop, never a face. |
 | **Archival image** | A public-domain or free-license period image. The only image type that can serve as proof. Type code H. |
 | **Art log** | The issue's sheet with one row per image slot: brief, prompt, file, status, rights, credit. Lives in 04 Art. |
@@ -395,6 +405,7 @@ Terms for the brand itself (the logo, colors, hosts, voice) are in the Brand Sta
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - SIDE EYE Brand Standards (the Brand Standards hub), sections For vendors, editors and AI agents, AI files, Skills, Decision log, Privacy
 - Design System v3: Neon Zine Print
 - Design System v2 Core
@@ -406,3 +417,10 @@ Terms for the brand itself (the logo, colors, hosts, voice) are in the Brand Sta
 - 06 Imagery Sourcing, Rights and Credits (draft)
 - 00 Art Log – SE-V02 The Mating Issue (column set) (titled before the November 24, 2026 renumbering; The Mating Issue is now Vol. 3)
 - SIDE EYE – Midjourney Prompt Workbook v2 (V8.2-hardened, Oct 17) (status values)
+
+## Changes in 1.1
+
+- Out-of-date rules list: people and prompt settings now point to the hub's section 11.
+- Starter test: three prompts (A, B and C), `--raw`, `--c 0`, a `--no` list, no style-reference placeholder; the sample answer is rewritten to match.
+- Glossary: A, B and C prompts.
+- Living people: caricature or print only, never photoreal.

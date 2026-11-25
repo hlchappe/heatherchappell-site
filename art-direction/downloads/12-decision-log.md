@@ -1,5 +1,5 @@
 # 12 Decision Log
-Version 1.0 draft · November 24, 2026 · Owner: Lena Marsh, Documentation Specialist, Process and Governance
+Version 1.1 draft · November 25, 2026 · Owner: Lena Marsh, Documentation Specialist, Process and Governance
 Status: DRAFT for Heather's review
 **Who this is for:** Anyone designing, producing or checking a SIDE EYE issue, and anyone changing these standards.
 **Use it when:** Two sources disagree, you need to know whether a rule is Heather's own call, or you are adding a decision after Heather says yes.
@@ -48,7 +48,7 @@ Docs are named by number in the "Applied in" column. The full titles are in the 
 
 | ID | Date | Decision | Source | Heather's own call? | Applied in |
 | :- | :- | :- | :- | :- | :- |
-| D-012 | Undated | Generated likenesses of historical figures are allowed. Living people: sourced public facts only. | Brand Standards hub, Decision log | Yes | 00, 01, 02, 03, 05, 06 |
+| D-012 | Undated; narrowed 2026-11-25 | Generated likenesses of historical figures are allowed. Living people: sourced public facts only, and (since D-058) only as caricature or print, never photoreal. | Brand Standards hub, Decision log | Yes | 00, 01, 02, 03, 05, 06 |
 | D-013 | In the hub as read 2026-11-24 | AI Dead figures are always skulls wearing one prop. | Brand Standards hub, People in pictures; Design System v3 | Yes (via hub and v3) | 03, 05 |
 | D-014 | Undated | The research scale (Documented, Likely, Contested, Unsupported, Refuted) maps to the labels PROVEN, LIKELY, NOT PROVEN. | Brand Standards hub, Decision log | Yes | 05, 06 |
 | D-015 | In the hub as read 2026-11-24 | Art is held to the proof standard. Art never implies a crime, deal or motive rated below Proven. The Scorecard's Must NOT list binds art as much as text. | side-eye-art-direction skill; hub skill summary | No (skill rule, consistent with the hub) | 01, 05, 06, 11 |
@@ -70,7 +70,8 @@ Docs are named by number in the "Applied in" column. The full titles are in the 
 | D-026 | 2026-09-29 | Never name an artist, studio, shop or magazine in a prompt. No generated lettering anywhere. Never upload anyone else's artwork as a style reference. | Design System v3, Influences and trademarks; Brand Standards hub | Yes (via v3 and hub) | 04, 05, 06 |
 | D-027 | 2026-09-29 | Style references are our own approved images only: the skull print (RELIEF) and the emu cover (COLLAGE). | Design System v3 (wins over Addendum B, which dropped them) | Yes (via v3) | 05 |
 | D-028 | Before 2026-11-24 | Midjourney is run by hand by a person, never by automation. | Vol. 2 schedule; past advisory sessions | No (practice). Who runs it is an open question | 01, 05, 10 |
-| D-029 | 2026-10-17 | Prompt settings: raw mode written `--raw`; stylize, chaos and Personalization values as set in 05; two prompts per image (A safer, B bolder). | Midjourney Prompt Workbook v2 (Oct 17, 2026); Midjourney's published parameter list; side-eye-art-direction skill | No (researched and set by the art team) | 05, 11 |
+| D-029 | 2026-10-17; replaced 2026-11-25 | Replaced by D-058. Was: raw mode written `--raw`; stylize, chaos and Personalization values as set in 05; two prompts per image (A safer, B bolder). | Midjourney Prompt Workbook v2 (Oct 17, 2026); Midjourney's published parameter list; side-eye-art-direction skill | No (researched and set by the art team) | 05, 11 |
+| D-058 | 2026-11-25 | Midjourney V8.2 rules follow the Brand Standards hub, section 11 (14 rules), which wins over older templates, docs and skills: `--raw` on every prompt (not `--style raw`); stylize photos 50 to 100, prints 100 to 250, never over 300; `--hd` on full pages, spreads, covers and YouTube hero art; own style references only, never `--sw` without `--sref`; Personalization and other extras off, chaos 0 for finals; a `--no` list on every prompt; three versions per image (A safe, B bold, C different); never-looks-AI rules and no gloss words; historical likenesses fine, living people only as caricature or print, never photoreal; image-to-video only at `--motion low --raw`; no artist, studio, shop or magazine names; photo-real period stills credited "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph." and kept out of Sources; source image URLs go in the prompt. | Brand Standards hub, section 11 Midjourney (Nov 25, 2026), from the SIDE EYE Midjourney desk | Yes (via hub) | 00, 01, 02, 03, 05, 06, 07, 08, 10, 11, 13 |
 | D-030 | 2026-11-24 | Art log status words: To run · Running · Picked · Needs rerun · Placed · Skip. The art director picks; only Heather, or the person she names, fills "Approved by and date." | Midjourney Prompt Workbook v2; 05, section 12 | No (team standard on top of D-006) | 05, 10, 11 |
 
 ## E. Covers and pages
@@ -140,6 +141,7 @@ Only the process owner (the Documentation Specialist for Process and Governance)
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - SIDE EYE Brand Standards hub (Decision log; The golden rules; What always needs Heather's yes; How a feature gets made; Image rights; People in pictures; The magazine; Print spec; Privacy; Logo)
 - SIDE EYE Design System v3: Neon Zine Print
 - SIDE EYE Design System v2 Core
@@ -153,3 +155,7 @@ Only the process owner (the Documentation Specialist for Process and Governance)
 - side-eye-art-direction skill
 - KDP Help pages (read November 24, 2026)
 - Team notes for docs 00 to 11 (Bea Archer, Gus Pressley, Hollis Fenn, Ines Kerner, Lena Marsh, Marisol Quint, Theo Banks, Wren Hale)
+
+## Changes in 1.1
+
+- New D-058: the hub's section 11 Midjourney V8.2 rules. D-029 is replaced; D-012 is narrowed for living people.

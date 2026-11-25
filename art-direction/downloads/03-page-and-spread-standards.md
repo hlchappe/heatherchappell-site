@@ -1,6 +1,7 @@
 # 03 Page and Spread Standards
-Version 1.0 draft · November 24, 2026 · Owner: Theo Banks, Art Director, Spreads and Page Recipes
+Version 1.2 draft · November 25, 2026 · Owner: Theo Banks, Art Director, Spreads and Page Recipes
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 **Who this is for:** Any designer, art director, outside vendor or AI agent who lays out pages of a SIDE EYE issue.
 **Use it when:** You plan an issue's page order, build a flatplan, design any interior page or spread, or check a spread before handoff.
 **Related:** 01 Issue Design Process: From Brief to Print-Ready Files · 02 Cover Standards · 04 Grid and Typography · 05 Art and Illustration Direction (with Midjourney Prompt Standards) · 06 Imagery Sourcing, Rights and Credits · 07 Print Production and Prepress (Amazon KDP) · 08 Quality Checklists · 11 Templates (issue brief, flatplan, art-direction doc, handoff note) · 13 Open Questions for Heather · Brand Standards hub · SIDE EYE Design System v3: Neon Zine Print · SIDE EYE Design System v2 Core · v2 Addendum A, KDP Production Spec 8.5 x 11 · Front and Back Matter, Vols. 1-3 (The Money Pages) · Content Calendar, Volumes 2-12
@@ -212,7 +213,7 @@ The money pages are the two front spreads, the classifieds, the last spread and 
 5. Label charts in mono. Keep the art to one process and black plus two inks.
 6. Set the classifieds in 7 pt mono, in two or three narrow columns with hairline rules, with no images. Place them directly before the last spread.
 7. Set any tiny legal or disclaimer line at 7 pt or larger. The Money Pages ask for 6 pt in places, but the hub's minimum is 7 pt and KDP softens type below that.
-8. Take the copy from Front and Back Matter, Vols. 1-3 (The Money Pages) or the issue's Issue Hub. Don't rewrite it in layout. Em-dashes in this copy are an open question in the hub. Set the approved copy as written and don't add or remove dashes yourself.
+8. Take the copy from Front and Back Matter, Vols. 1-3 (The Money Pages) or the issue's Issue Hub. Don't rewrite it in layout. Em-dashes are welcome (Heather, Nov 24, 2026). Set the approved copy as written and don't add or remove dashes yourself.
 
 ---
 
@@ -226,7 +227,7 @@ Rules that apply to every recipe, so they are not repeated:
 - One pink focus per page in print. If two things are pink, one is wrong.
 - No generated lettering anywhere. Every word is set in type or hand-lettered.
 - Minimum type size 7 pt.
-- Generated likenesses of historical figures are allowed. Living people follow the sourced-public-facts-only rule. Letters to the AI Dead figures are always skulls wearing a prop.
+- Generated likenesses of historical figures are allowed, including photo-real period stills credited as photo illustrations. Living people appear only as caricature or print, never as a photoreal picture that could pass for a real photo, and only with sourced public facts. Letters to the AI Dead figures are always skulls wearing a prop.
 - An illustration never imitates a period document or sits inside one. Illustrations carry the argument; period images carry the proof.
 - KDP prints on white paper, so every cream, kraft or newsprint ground is a printed flood. Bleed it off every outside edge.
 - Nothing essential within 0.5 in of the gutter.
@@ -385,7 +386,7 @@ Three per issue: the Up Front opener, The Files divider and the Out Back opener.
 | Image count | 1 prop per entry (five to six) |
 | Word count | 280 to 380 |
 | Must-haves | Corner bar; the ranking criterion stated in the dek |
-| Never | Portraits of living people; a prop that implies something the research can't prove |
+| Never | Photoreal portraits of living people (caricature or print only, sourced facts only); a prop that implies something the research can't prove |
 
 ### 7.11 Diptych opener
 
@@ -618,7 +619,7 @@ The hub's process table reads NEWSPRINT as "no neon, no collage, no jokes," whic
 | Must-haves | Sources grouped by feature and matched one to one with the fact-check log; the note naming the published scholarship each section leans on, where the issue uses one |
 | Never | A title or design built on the "receipts" metaphor (no receipt-roll layout); jokes |
 
-The section's current name is under review (open question in the hub's Decision log). Use a working title from the issue's headline pass until Heather picks one.
+The section is called Sources (Heather, Nov 24, 2026).
 
 ### 7.25 Coming Up Next
 
@@ -812,6 +813,7 @@ Each is logged in 13 Open Questions for Heather. Follow the interim rule until s
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - Brand Standards hub (Visual identity; The magazine; Decision log)
 - SIDE EYE Design System v3: Neon Zine Print
 - SIDE EYE Design System v2 Core
@@ -826,3 +828,10 @@ Each is logged in 13 Open Questions for Heather. Follow the interim rule until s
 - SIDE EYE Brand Hub Expert Review
 - SIDE EYE art direction skill (side-eye-art-direction)
 - Production and issue-planning sessions of November 24, 2026 (KDP limits, renumbering, prank decision)
+
+## Changes in 1.2
+
+- Includes the Nov 24 v1.1 changes made in Drive: the back-of-issue section is called Sources, and em-dashes are allowed (both Heather's decisions).
+
+- People rule follows the hub's section 11, rule 10.
+- Ranked: the ban on living-person portraits now names photoreal portraits; caricature or print is allowed with sourced facts.

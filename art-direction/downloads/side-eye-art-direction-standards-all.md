@@ -1,13 +1,14 @@
 # SIDE EYE Art Direction Standards (all documents)
 
-Version 1.0 draft · November 24, 2026. One file for loading into an AI agent. Brand rules live in the SIDE EYE Brand Standards hub, which wins on logo, color and brand.
+Version 1.1 draft · November 25, 2026. One file for loading into an AI agent. Brand rules live in the SIDE EYE Brand Standards hub, which wins on logo, color and brand.
 
 
 ---
 
 # 00 Start Here: How to Use the SIDE EYE Art Direction Standards
-Version 1.0 draft · November 24, 2026 · Owner: Wren Hale, Onboarding and Handoff
+Version 1.1 draft · November 25, 2026 · Owner: Wren Hale, Onboarding and Handoff
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 **Who this is for:** Anyone who designs, illustrates, lays out or prints a SIDE EYE issue: staff designers, outside vendors, illustrators, print vendors and AI agents.
 **Use it when:** You are new to SIDE EYE, you are starting a new issue, or you are not sure which document answers your question.
 **Related:** 01 Issue Design Process: From Brief to Print-Ready Files; 09 File Naming, Folders and Handoff Specs; 10 Vendor and Agent Onboarding Starter; 12 Decision Log; 13 Open Questions for Heather; SIDE EYE Brand Standards (the Brand Standards hub); Design System v3: Neon Zine Print
@@ -83,7 +84,7 @@ AI agents: load the hub's AI files and this set before you start. Document 10 te
 | 02 | Cover Standards | How to build the front cover, spine and back cover. |
 | 03 | Page and Spread Standards | The page recipe for every recurring page, column and feature type. |
 | 04 | Grid and Typography | Trim, margins, the 12-column grid, baseline, type scale and type rules. |
-| 05 | Art and Illustration Direction (with Midjourney Prompt Standards) | Which print process to use, how to write A and B prompts, and how to fix bad results. |
+| 05 | Art and Illustration Direction (with Midjourney Prompt Standards) | Which print process to use, how to write A, B and C prompts, and how to fix bad results. |
 | 06 | Imagery Sourcing, Rights and Credits | Where historical images come from, how to clear them, and the exact credit lines. |
 | 07 | Print Production and Prepress (Amazon KDP) | PDF specs, color builds, ink limits, the cover template, preflight and proofs. |
 | 08 | Quality Checklists | The checks to run before every handoff and every gate. |
@@ -106,7 +107,7 @@ If you follow only these, you avoid the worst mistakes.
 7. **Never name an artist, studio, shop or magazine in a prompt.** Describe materials and methods only.
 8. **Never recolor period art pink or neon.** An illustration never imitates a period document or sits inside one. Illustrations carry the argument. Period images carry the proof.
 9. **Every image needs a cleared rights line and a credit line before layout locks.** No paid licenses.
-10. **Real people:** generated likenesses of historical figures are allowed. Living people follow the sourced-public-facts-only rule and are never shown doing something we can't prove.
+10. **Real people:** generated likenesses of historical figures are allowed, including photo-real period stills credited as photo illustrations. Living people appear only as caricature or print, never as a photoreal picture that could pass for a real photo, and only with sourced public facts. Living people are never shown doing something we can't prove.
 11. **Respect the print limits:** 7 pt minimum type, 300 dpi at placed size, and nothing essential within 0.5 in of the gutter.
 12. **When sources disagree, don't pick.** Use the source-of-truth order below. If that doesn't settle it, follow what the set says to follow and log the question.
 
@@ -157,18 +158,25 @@ Heather is the publisher and editor in chief. She approves every change to this 
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - SIDE EYE Brand Standards (the Brand Standards hub), sections Start here, Brand core, Visual identity, The magazine, For vendors, editors and AI agents, Skills, Decision log
 - Design System v3: Neon Zine Print
 - Design System v2 Core
 - Design System v2 Addendum A: KDP Production Spec, 8.5 x 11
 - side-eye-art-direction (skill)
 
+## Changes in 1.1
+
+- Prompts are now three versions per image (A, B and C), per the hub's section 11.
+- The real-people rule follows section 11, rule 10.
+
 
 ---
 
 # 01 Issue Design Process: From Brief to Print-Ready Files
-Version 1.0 draft · November 24, 2026 · Owner: Lena Marsh, Documentation Specialist, Process and Governance
+Version 1.1 draft · November 25, 2026 · Owner: Lena Marsh, Documentation Specialist, Process and Governance
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 
 **Who this is for:** Anyone who designs, illustrates, lays out, checks or prints a SIDE EYE issue: art directors, designers, image makers, rights checkers, production staff, outside vendors and AI agents.
 **Use it when:** You start a new issue, pick up an issue mid-stream, need to know who approves what, or want to change a standard.
@@ -355,10 +363,10 @@ Any fact, number, date or quote that design adds (an infographic figure, a capti
 1. Write one art-direction doc per feature, and one each for the cover, Up Front and Out Back. Use the Art-Direction Doc template (doc 11), which follows the Napoleon model.
 2. State the concept in a sentence tied to the piece's thesis. Name the joke and the one thing pink marks (one pink focus per page in print).
 3. Pick one process per image. HYBRID only for real historical people. QUIET pages get no neon, no collage and no jokes.
-4. Write two prompts per generated image: A the safer read, B the bolder joke (doc 05). No artist, studio, shop or magazine names. No generated lettering: describe paper and signs as "completely blank".
+4. Write three prompts per generated image: A the safe read, B the bold joke, C a different take, each complete and copy-paste ready (doc 05; hub section 11). No artist, studio, shop or magazine names. No generated lettering: describe paper and signs as "completely blank".
 5. List each historical image the piece needs with its proposed source and rights basis. Paid licenses are not allowed (Brand Standards hub, "Image rights"). Mark each as a candidate for the Rights Checker.
 6. List everything built by hand in layout: wood-type plates, cover lines, charts, maps, timelines, ornaments.
-7. Check every image idea against the Must NOT list. Art never implies a crime, deal or motive the Scorecard can't prove. Living people follow the sourced-public-facts-only rule. Generated likenesses of historical figures are allowed.
+7. Check every image idea against the Must NOT list. Art never implies a crime, deal or motive the Scorecard can't prove. Living people appear only as caricature or print, never photoreal, and only with sourced public facts. Generated likenesses of historical figures are allowed.
 8. For the cover and for any opener about a living person, have an independent reviewer (someone who did not write the doc) check the plan against doc 05's checklist and the Scorecard.
 9. Send the set to Heather with a Handoff Note.
 
@@ -711,6 +719,7 @@ These come from how Vol. 1, The Loser's Issue, actually went. Each one is now a 
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - SIDE EYE Brand Standards hub (sections: Start here, The golden rules, How this guide changes, The magazine, How a feature gets made, Image rights, For vendors, editors and AI agents, What always needs Heather's yes, How the production app works, Approvals and versions, Decision log)
 - SIDE EYE Design System v3: Neon Zine Print
 - SIDE EYE Design System v2 Core
@@ -723,21 +732,27 @@ These come from how Vol. 1, The Loser's Issue, actually went. Each one is now a 
 - Vol. 1 production history (layout builds, print files and errata, Sept to Oct 2026)
 - KDP Help: publishing timeline; proof copies; "When will my proof or author copy arrive?"
 
+## Changes in 1.1
+
+- Step 4 of art direction: three prompts per image (A, B and C).
+- Step 7: living people only as caricature or print, never photoreal (hub section 11, rule 10).
+
 
 ---
 
 # 02 Cover Standards
-Version 1.0 draft · November 24, 2026 · Owner: Marisol Quint, Art Director, Covers and Packaging
+Version 1.1 draft · November 25, 2026 · Owner: Marisol Quint, Art Director, Covers and Packaging
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 **Who this is for:** Any designer, vendor or AI agent who makes a SIDE EYE front cover, spine or back cover, or the full-wrap cover PDF that goes to Amazon KDP.
 **Use it when:** You start a cover concept, generate cover art, set cover type, build the KDP cover file, or check a cover before Heather sees it.
-**Related:** 01 Issue Design Process: From Brief to Print-Ready Files; 03 Page and Spread Standards; 04 Grid and Typography; 05 Art and Illustration Direction (with Midjourney Prompt Standards); 06 Imagery Sourcing, Rights and Credits; 07 Print Production and Prepress (Amazon KDP); 08 Quality Checklists; 09 File Naming, Folders and Handoff Specs; 12 Decision Log; 13 Open Questions for Heather. Sources: Design System v3: Neon Zine Print; the Brand Standards hub (sections The magazine, Logo, Color, Type); Design System v2 Core; v2 Addendum A, KDP Production Spec 8.5 x 11; Brand Identity: Name, Tagline and Pitch; Front and Back Matter, Vols 1-3 (The Money Pages).
+**Related:** 01 Issue Design Process: From Brief to Print-Ready Files; 03 Page and Spread Standards; 04 Grid and Typography; 05 Art and Illustration Direction (with Midjourney Prompt Standards); 06 Imagery Sourcing, Rights and Credits; 07 Print Production and Prepress (Amazon KDP); 08 Quality Checklists; 09 File Naming, Folders and Handoff Specs; 12 Decision Log; 13 Open Questions for Heather. Sources: Design System v3: Neon Zine Print; the Brand Standards hub (sections The magazine, Logo, Color, Type, Midjourney); Design System v2 Core; v2 Addendum A, KDP Production Spec 8.5 x 11; Brand Identity: Name, Tagline and Pitch; Front and Back Matter, Vols 1-3 (The Money Pages).
 
 ---
 
 ## 1. The short version
 
-A SIDE EYE cover is one surreal picture that argues the issue's thesis. It is built as a COLLAGE in six layers. A photoreal cut-out hero with oversized eyes leans in from one side and breaks the frame. The logo sits in a flat color field at the top with room around it. Four cover lines at most, set in typewriter mono on torn paper strips. The issue title runs down one edge, and the thesis line sits with it.
+A SIDE EYE cover is one surreal picture that argues the issue's thesis. It is built as a COLLAGE in six layers. A photographic cut-out hero with oversized eyes leans in from one side and breaks the frame. The logo sits in a flat color field at the top with room around it. Four cover lines at most, set in typewriter mono on torn paper strips. The issue title runs down one edge, and the thesis line sits with it.
 
 If you remember five rules:
 
@@ -760,7 +775,7 @@ The cover is made late on purpose. The thesis and the cover lines must be locked
 | Thesis locked | The issue thesis is final in the Issue Hub | Heather |
 | Cover lines picked | The headline pass is done and Heather picked four lines or fewer | Heather |
 | Concept | One-sentence idea, hero, hero side and joke written down | Heather picks A or B |
-| Art | A and B prompts generated, best result cut out and composited | Art director |
+| Art | A, B and C prompts generated for each image (section 13), best result cut out and composited | Art director |
 | Type and logo | Masthead file placed, type set, nothing generated | Art director |
 | Wrap | Interior page count final, KDP template downloaded | Production (see 07) |
 | Preflight | KDP previewer clean, cover checklist passed | Production, then Heather |
@@ -781,7 +796,7 @@ The full order of work is in 01 Issue Design Process: From Brief to Print-Ready 
 
 **Rule 3.5. Write two concepts.** Concept A is the safer read. Concept B is the bolder joke. Heather picks one, or asks for another round.
 
-**Rule 3.6. Who the hero can be.** The hero is an animal or an object with oversized eyes (the emu, the peacock). A historical figure may be the hero as a clear caricature, because generated likenesses of historical figures are allowed. Do not make a living person the cover hero. Living people follow the sourced-public-facts-only rule, and the house rule is never to joke about anyone's looks. (See 13 Open Questions for Heather if a future issue needs a living person on the cover.)
+**Rule 3.6. Who the hero can be.** The hero is an animal or an object with oversized eyes (the emu, the peacock). A historical figure may be the hero as a clear caricature, because generated likenesses of historical figures are allowed. Do not make a living person the cover hero. Anywhere else, living people appear only as caricature or print, never as a photo-real picture that could pass for a real photo, and only with sourced public facts (Brand Standards hub, section 11). The house rule is never to joke about anyone's looks. Any real person on a cover: ask Heather. (See 13 Open Questions for Heather if a future issue needs a living person on the cover.)
 
 ---
 
@@ -792,10 +807,10 @@ Every cover is a COLLAGE (Design System v3: Neon Zine Print). Build it in these 
 | Layer | What goes in it | How it is made | Vol. 1 example |
 | :- | :- | :- | :- |
 | 1. Ground | Cream or kraft paper, scraps of old print at the edges | Midjourney background or scanned paper | Aged paper, newsprint scraps at the bottom edge |
-| 2. Scene | One photoreal scene colored in flat silkscreen fields | Midjourney background | Outback wheat field, flat blue sky, vintage truck, second-place podium |
+| 2. Scene | One real-looking photographic scene printed in flat silkscreen color fields | Midjourney background | Outback wheat field, flat blue sky, vintage truck, second-place podium |
 | 3. Color fields | Flat neon blocks with hard edges; the top block holds the masthead | Midjourney blocks out the shape; you lay a flat vector fill in the house CMYK build over it | Flat pink block across the top third |
 | 4. Marks | A loose painted neon brush border, a thin wobbly black ink frame, scanned handwritten margin notes | Midjourney for the border and frame; real scanned handwriting for notes | Pink brush border and black ink frame round the cover; handwriting down the left edge |
-| 5. Hero | A photoreal cut-out subject with exaggerated, oversized eyes, breaking the frame from one side | Midjourney hero on a white ground, cut out in Photoshop | The emu, peeking in from the right, eyes swiveled at the reader |
+| 5. Hero | A photographic cut-out subject with exaggerated, oversized eyes, breaking the frame from one side | Midjourney hero on a white ground, cut out in Photoshop | The emu, peeking in from the right, eyes swiveled at the reader |
 | 6. Cover lines | Short lines set in type on torn paper strips | Set in layout, printed or photographed on torn paper, pasted on | "Australia vs. 20,000 Emus" on a torn strip in typewriter mono (approved emu draft) |
 
 Rules for the layers:
@@ -951,7 +966,7 @@ The back cover is one of the "money pages": everyone reads it, including people 
 
 **Rule 11.1. Concept.** Until Heather decides (open question, section 14), the back cover is the full-page parody ad planned for that volume in Front and Back Matter, Vols 1-3 (The Money Pages): Vol. 2, The First Bank of Yap; Vol. 3, The Train. Vol. 1 printed a toy-ad parody ("TIRED OF WINNING? CALL THE LOSERS SQUAD!") instead of the planned catalog ad. Design System v3's recipe for the back cover is a RELIEF colorway sheet (one motif repeated in every ink combination); use a colorway sheet only if Heather picks it.
 
-**Rule 11.2. Art on the back.** Build the ad's art in one of the five processes (most often RELIEF or WOOD TYPE), with no generated lettering. Historical figures may appear as generated caricature or toy-style likenesses (Vol. 1 did this with Napoleon, Hatshepsut and Hannibal). Living people may not appear in a way that suggests they did something the issue can't prove.
+**Rule 11.2. Art on the back.** Build the ad's art in one of the five processes (most often RELIEF or WOOD TYPE), with no generated lettering. Historical figures may appear as generated caricature or toy-style likenesses (Vol. 1 did this with Napoleon, Hatshepsut and Hannibal). Living people may not appear in a way that suggests they did something the issue can't prove. A living person who appears at all is only a caricature or print, never a photo-real picture, and needs Heather's OK first (06, section 9).
 
 **Rule 11.3. Identity line.** Set one small mono line near the bottom: SIDE EYE Vol. N · The <Title> Issue · History, allegedly. (Vol. 1 did this.) Copy the title exactly as on the front.
 
@@ -1027,63 +1042,84 @@ One PDF holds the back cover, spine and front cover as one spread. Full rules fo
 
 ## 13. Midjourney prompts for covers
 
-The house prompt templates, settings and fixes live in 05 Art and Illustration Direction (with Midjourney Prompt Standards). This section gives the cover pattern only.
+The house prompt templates, settings and fixes live in 05 Art and Illustration Direction (with Midjourney Prompt Standards). This section gives the cover pattern only. The Brand Standards hub, section 11 (Midjourney), sets the Midjourney rules, and it wins wherever 05 or this section differs from it.
 
 **The cover is two generations, then a composite.** Generate the background (no hero) and the hero separately. Cut the hero out in Photoshop and composite it in layout.
 
 **Standing rules for every cover prompt:**
 
-- End with `--style raw --v 8.2` and the template's settings. Add `--hd` (covers are full-page art).
-- Background: `--ar 17:22` (the trim's shape), `--s 250`, the approved emu cover as `--sref` at `--sw 30`.
-- Hero: `--ar 1:2`, no style reference, on a plain white background.
-- Never name an artist, studio, shop or magazine. Describe materials and methods.
-- Never ask for text. The background prompt keeps `--no text, letters, words, numbers, logo, watermark, animals, people`.
-- No prompt may ask for the SIDE EYE logo, the eye mark or the words SIDE EYE. If a result shows lettering or an eye logo, reject it.
-- Give two prompts per image: A is the safer read, B is the bolder joke.
+- Use `--raw` on every prompt. It replaces `--style raw`, the old spelling, which no cover prompt uses any more.
+- Every prompt carries `--v 8.2`. Put the settings in this order: `--ar W:H --raw --s #`, then `--hd`, then `--sref` and `--sw` (backgrounds only, once the address exists), then `--v 8.2`, then the `--no` list last.
+- Add `--hd` to every cover prompt, background and hero alike, because covers are full-page art.
+- Stylize: photographs take `--s 50` to `--s 100`. Prints and illustration take `--s 100` to `--s 250`. Never go above `--s 300`. The collage background is print-style, so it takes `--s 250`. The hero cut-out is a photograph, so it takes `--s 75`.
+- Background: `--ar 17:22` (the trim's shape), with the approved emu cover as `--sref` at `--sw 30`. No other cover prompt takes a style reference.
+- The approved emu cover doesn't have a Midjourney image address yet (Midjourney can't open a Google Drive file). Until the Midjourney desk has one, background prompts run complete without `--sref` and `--sw`. Once the address exists, add `--sref` with that address and `--sw 30` right before `--v 8.2`. Never put a placeholder in a prompt.
+- Hero: `--ar 1:2`, no style reference, against a plain white backdrop.
+- Never write `--sw` without `--sref`. Never use a moodboard.
+- Switched off for cover art: Personalization (`--p`, and turn it off in your Midjourney settings too), `--weird`, `--exp`, `--q`, `--sv`, `--oref`, `--ow`, `--cref` and `::` weights. Chaos stays at 0 for finals, so leave `--c` out of a final prompt.
+- Every prompt carries a `--no` list that includes text, letters, words, numbers, logo, watermark. The background is print-style, so its list also adds glow, gradient, chrome, 3d render, glossy, plus animals and people (the hero is generated separately). The hero is a photograph, so its list adds full body, HDR, airbrushed skin, bokeh.
+- No gloss words in any prompt: photorealistic, cinematic, 8k, masterpiece, ultra realistic, glowing, epic. Name the real capture method and the real light instead, and add two or three real imperfections. The collage is a hand-made paper collage photographed on a copy stand under daylight lamps, with its scene printed from a real photograph in flat silkscreen color fields. The hero is a real photograph with oversized eyes, made with a camera, film and light true to the story's era, so describe how it was photographed, not how real it looks.
+- Source or inspiration image URLs go in the prompt: image prompts go first, before the words, and a style reference goes after `--sref`. Google Drive links don't work in Midjourney. Use the address Midjourney gives the image (copy it from the Midjourney archive, or upload the file in the prompt bar and copy the address it gives). Which images may be used this way is set in 06 Imagery Sourcing, Rights and Credits (section 7).
+- Never name an artist, studio, shop or magazine. Describe materials and methods. Film stocks and camera models may be named as materials.
+- Never ask for text. Every paper scrap in the collage is "completely blank." No prompt may ask for the SIDE EYE logo, the eye mark or the words SIDE EYE. If a result shows lettering or an eye logo, reject it.
+- People: the hero is an animal, an object or a historical caricature (Rule 3.6). No living person is ever the hero. Historical figures may also appear as generated likenesses. Any real person on a cover: ask Heather before you generate anything.
+- Give three prompts per image: A is the safe read, B is the bold joke, C is a different take. Each one is complete and ready to copy and paste, one per code block, with no placeholders. These three versions are not the same as concepts A and B in Rule 3.5: once Heather picks a concept, every image in it gets an A, a B and a C prompt.
 
-**Background pattern** (Design System v3 template, with the cover add-on in brackets):
-
-```
-photorealistic mixed-media collage magazine cover background, [one surreal scene], flat saturated blue sky, a flat fluorescent pink color block across the top third for the masthead, torn newsprint and found ephemera pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, open space on the [hero side] for a figure, [empty space down the opposite edge for a vertical title] --ar 17:22 --style raw --s 250 --v 8.2 --hd --sref [approved emu cover URL] --sw 30 --no text, letters, words, numbers, logo, watermark, animals, people
-```
-
-Swap "fluorescent pink color block" for "flat red" or "flat blue" when the issue's top field is Tab Red or Tab Blue. The flat field is replaced with a vector fill in layout anyway (Rule 4.3).
-
-**Hero pattern** (Design System v3 template):
-
-```
-photorealistic [animal] head and neck leaning in from the [right/left] side of the frame as if peeking around a corner, exaggerated oversized round eyes swiveled toward the viewer, detailed feathers or fur, isolated on a plain white background --ar 1:2 --style raw --v 8.2 --hd --no text, full body
-```
-
-**Worked A/B example (Vol. 1, for practice only).** These rebuild the approved emu cover. Do not reuse them for a new issue.
-
-Background A (safer read):
+**Background pattern** (Design System v3 template, updated for section 11 of the hub, with the cover add-on in brackets; fill every bracket before you run it, and add the style reference as the rule above says once its address exists):
 
 ```
-photorealistic mixed-media collage magazine cover background, an empty golden outback wheat field with a silver second-place winners podium and a vintage open-top truck parked beside it, flat saturated blue sky, a flat fluorescent pink color block across the top third for the masthead, torn newsprint and found ephemera pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, open space on the right for a figure, empty space down the left edge for a vertical title --ar 17:22 --style raw --s 250 --v 8.2 --hd --sref [approved emu cover URL] --sw 30 --no text, letters, words, numbers, logo, watermark, animals, people
+hand-made mixed-media paper collage magazine cover background photographed flat on a copy stand under two daylight lamps, [one surreal scene], a real [decade of the story] photograph printed in flat silkscreen color fields, flat saturated blue sky, a flat block of matte fluorescent pink ink across the top third for the masthead, torn scraps of completely blank aged paper and blank gray newsprint pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, slight misregistration between the ink layers, paper edges lifting with soft shadows, open space on the [hero side] for a figure, [empty space down the opposite edge for a vertical title] --ar 17:22 --raw --s 250 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, animals, people, glow, gradient, chrome, 3d render, glossy
 ```
 
-Background B (bolder joke):
+Swap "a flat block of matte fluorescent pink ink" for "a flat block of matte red ink" or "a flat block of matte blue ink" when the issue's top field is Tab Red or Tab Blue. The flat field is replaced with a vector fill in layout anyway (Rule 4.3).
+
+**Hero pattern** (Design System v3 template, updated for section 11 of the hub; fill every bracket before you run it):
 
 ```
-photorealistic mixed-media collage magazine cover background, a silver second-place winners podium standing alone in an empty golden outback wheat field with a tiny 1930s army truck parked on the top step, flat saturated blue sky, a flat fluorescent pink color block across the top third for the masthead, torn newsprint and found ephemera pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, open space on the right for a figure, empty space down the left edge for a vertical title --ar 17:22 --style raw --s 250 --v 8.2 --hd --sref [approved emu cover URL] --sw 30 --no text, letters, words, numbers, logo, watermark, animals, people
+[decade of the story] photograph of [an animal's] head and neck leaning in from the [right/left] side of the frame as if peeking around a corner, exaggerated oversized round eyes swiveled toward the viewer, [real feather or fur detail], isolated against a plain white sheet, [the real light source and where it is], shot on [an era-true camera and film], deep focus, [two or three real imperfections, such as a few stray feathers out of place, coarse film grain, slight motion blur at one edge] --ar 1:2 --raw --s 75 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, full body, HDR, airbrushed skin, bokeh
 ```
 
-Hero A (safer read):
+**Worked A, B and C example (Vol. 1, for practice only).** These rebuild the approved emu cover. Do not reuse them for a new issue. The Emu War was in 1932, so the background scene is a 1930s photograph. The hero is a present-day color photograph, because the approved cover's emu is in full color and it is a cut-out, not a period still. Once the emu cover's Midjourney image address exists, add `--sref` with that address and `--sw 30` right before `--v 8.2` in the three background prompts.
+
+Background A (safe read):
 
 ```
-photorealistic emu head and neck leaning in from the right side of the frame as if peeking around a corner, exaggerated oversized round eyes swiveled toward the viewer, detailed shaggy feathers, isolated on a plain white background --ar 1:2 --style raw --v 8.2 --hd --no text, full body
+hand-made mixed-media paper collage magazine cover background photographed flat on a copy stand under two daylight lamps, an empty golden outback wheat field with a silver second-place winners podium and a vintage open-top truck parked beside it, a real 1930s photograph printed in flat silkscreen color fields, flat saturated blue sky, a flat block of matte fluorescent pink ink across the top third for the masthead, torn scraps of completely blank aged paper and blank gray newsprint pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, slight misregistration between the ink layers, paper edges lifting with soft shadows, open space on the right for a figure, empty space down the left edge for a vertical title --ar 17:22 --raw --s 250 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, animals, people, glow, gradient, chrome, 3d render, glossy
 ```
 
-Hero B (bolder joke):
+Background B (bold joke):
 
 ```
-photorealistic emu head and neck leaning in from the right side of the frame as if peeking around a corner, exaggerated oversized round eyes swiveled hard toward the viewer in a skeptical side-eye, one feather sticking straight up, detailed shaggy feathers, isolated on a plain white background --ar 1:2 --style raw --v 8.2 --hd --no text, full body
+hand-made mixed-media paper collage magazine cover background photographed flat on a copy stand under two daylight lamps, a silver second-place winners podium standing alone in an empty golden outback wheat field with a tiny 1930s army truck parked on the top step, a real 1930s photograph printed in flat silkscreen color fields, flat saturated blue sky, a flat block of matte fluorescent pink ink across the top third for the masthead, torn scraps of completely blank aged paper and blank gray newsprint pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, slight misregistration between the ink layers, paper edges lifting with soft shadows, open space on the right for a figure, empty space down the left edge for a vertical title --ar 17:22 --raw --s 250 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, animals, people, glow, gradient, chrome, 3d render, glossy
 ```
 
-**If a cover prompt misbehaves:** writing appears, add "completely blank" to the object (a blank newspaper, a blank sign). The collage looks digital-clean, raise `--sw` and add "paper edges lifting with soft shadows." Neon turns to glow, add "flat ink, printed on paper, no glow, no gradient." A period prop drifts, generate it alone and composite it.
+Background C (a different take):
 
-**Log every prompt.** Record the final A and B prompts, the chosen job, and the upscale used, in the issue's art-direction doc (template in 11 Templates).
+```
+hand-made mixed-media paper collage magazine cover background photographed flat on a copy stand under two daylight lamps, a silver second-place winners podium seen from ground level in an empty golden outback wheat field, its top step bare, spent brass rifle cartridge cases scattered in the stubble at its base, a 1930s army truck parked crooked in the furrows far behind, a real 1930s photograph printed in flat silkscreen color fields, flat saturated blue sky, a flat block of matte fluorescent pink ink across the top third for the masthead, torn scraps of completely blank aged paper and blank gray newsprint pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, slight misregistration between the ink layers, open space on the right for a figure, empty space down the left edge for a vertical title --ar 17:22 --raw --s 250 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, animals, people, glow, gradient, chrome, 3d render, glossy
+```
+
+Hero A (safe read):
+
+```
+close-up color wildlife photograph of an emu's head and neck leaning in from the right side of the frame as if peeking around a corner, exaggerated oversized round eyes swiveled toward the viewer, shaggy feathers, isolated against a plain white sheet, lit by soft overcast daylight from the left, shot on a mirrorless camera with a 100mm lens, deep focus, a few stray feathers out of place, fine sensor grain, slight motion blur at the tip of the beak --ar 1:2 --raw --s 75 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, full body, HDR, airbrushed skin, bokeh
+```
+
+Hero B (bold joke):
+
+```
+close-up color wildlife photograph of an emu's head and neck leaning in from the right side of the frame as if peeking around a corner, exaggerated oversized round eyes swiveled hard toward the viewer in a skeptical side-eye, one feather sticking straight up, shaggy feathers, isolated against a plain white sheet, lit by soft overcast daylight from the left, shot on a mirrorless camera with a 100mm lens, deep focus, a few stray feathers out of place, fine sensor grain, slight motion blur at the tip of the beak --ar 1:2 --raw --s 75 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, full body, HDR, airbrushed skin, bokeh
+```
+
+Hero C (a different take):
+
+```
+close-up color wildlife photograph of an emu's head and neck dipping down into the frame from the top right corner, head tilted sideways, exaggerated oversized round eyes close to the lens and fixed on the viewer, beak slightly open as if about to object, shaggy feathers, isolated against a plain white sheet, lit by soft overcast daylight from the left, shot on a mirrorless camera with a 100mm lens, deep focus, a few stray feathers out of place, fine sensor grain, slight motion blur at the far edge of the neck --ar 1:2 --raw --s 75 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, full body, HDR, airbrushed skin, bokeh
+```
+
+**If a cover prompt misbehaves:** writing appears, add "completely blank" to the object (a blank newspaper, a blank sign). The collage looks digital-clean, add "uneven ink coverage, visible paper fibers" and keep `--sw` at 30, the house weight. Neon turns to glow, add "flat ink, printed on paper" (glow, gradient and chrome are already in the `--no` list). The hero looks plastic or rendered, lower `--s` toward 50, check that no gloss word crept in, and add one more real imperfection. A period prop drifts, generate it alone and composite it.
+
+**Log every prompt.** Record the final A, B and C prompts, the chosen job, and the upscale used, in the issue's art-direction doc (template in 11 Templates).
 
 ---
 
@@ -1109,7 +1145,7 @@ Until Heather decides, follow the interim rule. Each is also listed in 13 Open Q
 1. **Brief.** Pull the issue title, volume number, thesis line, cover lines (four or fewer) and cover date from the Issue Hub. Confirm Heather has picked the lines.
 2. **Concept.** Write concept A and concept B: the one-sentence idea, the tie to the thesis, the hero, the hero side (by volume), the top field color and the joke. Check each against the Scorecard's "Must NOT claim" list.
 3. **Heather picks a concept.** No generating at full scale before this.
-4. **Generate.** Run A and B prompts for the background and the hero. Log them.
+4. **Generate.** Run the A, B and C prompts for the background and the hero (section 13). Log them.
 5. **Comp.** Build the front at full size: art layers, flat vector fields, placed logo file, set type, torn-strip cover lines.
 6. **Self-check.** Run the cover checklist (section 17).
 7. **Independent review.** A second reviewer (person or agent) checks the comp against this document and the Scorecard. Covers are high-stakes pieces.
@@ -1138,6 +1174,7 @@ Until Heather decides, follow the interim rule. Each is also listed in 13 Open Q
 | Cover line overstated the facts or announced the research | Mating first cover lines | Fact-check every line; no research announcements (Rule 8.6) |
 | Old tagline ("History, with receipts.") | Addendum A before October 7 | HISTORY, ALLEGEDLY. from the lockup file (Rule 7.1) |
 | Cover art generated at 4:5 from the v2 prompts | Design System v2 cover prompts | `--ar 17:22` for the front (section 13) |
+| Cover prompts used `--style raw`, only two versions per image and the gloss word "photorealistic" | Version 1.0 of this document | `--raw`, three versions (A, B and C), the real capture method, real light and real imperfections (section 13) |
 
 ---
 
@@ -1150,6 +1187,7 @@ Run it on the front alone, then on the full wrap. Every box must be ticked befor
 - [ ] The picture argues the issue's thesis
 - [ ] Nothing in the art implies a claim the Scorecard rates below Proven
 - [ ] Hero is an animal, an object or a historical caricature; no living person as hero
+- [ ] Any real person on the cover approved by Heather
 
 **Art**
 - [ ] Six COLLAGE layers, each on its own layer or group
@@ -1158,6 +1196,7 @@ Run it on the front alone, then on the full wrap. Every box must be ticked befor
 - [ ] Hero's eyes and face 0.25 in inside the trim and 0.375 in from the spine fold
 - [ ] Flat color fields are vector fills in house CMYK builds
 - [ ] No generated lettering or logo anywhere in the art
+- [ ] Every prompt follows section 13: A, B and C versions, `--raw`, the right `--s` band, `--v 8.2`, a `--no` list and no gloss words
 - [ ] Art is 300 dpi at placed size; front art at least 2,588 × 3,375 px
 - [ ] Total ink under 240% everywhere
 
@@ -1203,6 +1242,7 @@ Run it on the front alone, then on the full wrap. Every box must be ticked befor
 ## Sources this is built on
 
 - Design System v3: Neon Zine Print
+- Brand Standards hub, section 11 (Midjourney), as of November 25, 2026
 - Brand Standards hub (The magazine; Visual identity: Logo, Color, Type; Logo section; Decision log)
 - Design System v2 Core
 - Design System v2, Addendum A: KDP Production Spec 8.5 x 11
@@ -1215,12 +1255,30 @@ Run it on the front alone, then on the full wrap. Every box must be ticked befor
 - The side-eye-art-direction skill
 - Amazon KDP help: paperback cover requirements and barcode guidelines
 
+---
+
+## Changes in 1.1
+
+- Added the line near the top: Midjourney rules follow the Brand Standards hub, section 11, and section 11 wins where they differ.
+- Section 13: `--style raw` is now `--raw`. Every prompt carries `--v 8.2` in the standard order, with the `--no` list last. Every cover prompt keeps `--hd`.
+- Section 13: three prompt versions per image (A safe read, B bold joke, C a different take) instead of two. The worked emu background and hero examples each gained a full C version.
+- Section 13: gloss words are gone from every prompt. The collage now reads as a hand-made paper collage on a copy stand, with a real photograph printed in flat silkscreen color fields and blank paper scraps. The hero is a present-day color wildlife photograph, matching the approved cover, shot on a named camera in daylight with real imperfections.
+- Section 13: stylize bands set (background `--s 250`, hero `--s 75`, never above 300). Every `--no` list now carries text, letters, words, numbers, logo, watermark, plus the print or photo extras.
+- Section 13: the emu cover style reference runs at `--sw 30` on backgrounds only, and is left out until it has a Midjourney address. Never `--sw` without `--sref`, no moodboards, the switched-off settings are listed, and chaos stays at 0 for finals.
+- Section 13: image URLs go in the prompt (image prompts first, or after `--sref`). Drive links don't work in Midjourney.
+- Section 13: the misbehaving-prompt fix no longer raises `--sw`. It stays at 30.
+- Rule 3.6, Rule 11.2 and section 13: living people appear only as caricature or print, never photo-real. No living person is the cover hero. Historical figures may also appear as generated likenesses. Any real person on a cover goes to Heather.
+- Sections 1 and 4: the hero and the scene are described as photographic rather than "photoreal."
+- The section 2 table, step 4 of section 15 and the logging line now say A, B and C.
+- Checklist and common mistakes: added checks for the new prompt rules and for Heather's OK on any real person.
+
 
 ---
 
 # 03 Page and Spread Standards
-Version 1.0 draft · November 24, 2026 · Owner: Theo Banks, Art Director, Spreads and Page Recipes
+Version 1.2 draft · November 25, 2026 · Owner: Theo Banks, Art Director, Spreads and Page Recipes
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 **Who this is for:** Any designer, art director, outside vendor or AI agent who lays out pages of a SIDE EYE issue.
 **Use it when:** You plan an issue's page order, build a flatplan, design any interior page or spread, or check a spread before handoff.
 **Related:** 01 Issue Design Process: From Brief to Print-Ready Files · 02 Cover Standards · 04 Grid and Typography · 05 Art and Illustration Direction (with Midjourney Prompt Standards) · 06 Imagery Sourcing, Rights and Credits · 07 Print Production and Prepress (Amazon KDP) · 08 Quality Checklists · 11 Templates (issue brief, flatplan, art-direction doc, handoff note) · 13 Open Questions for Heather · Brand Standards hub · SIDE EYE Design System v3: Neon Zine Print · SIDE EYE Design System v2 Core · v2 Addendum A, KDP Production Spec 8.5 x 11 · Front and Back Matter, Vols. 1-3 (The Money Pages) · Content Calendar, Volumes 2-12
@@ -1432,7 +1490,7 @@ The money pages are the two front spreads, the classifieds, the last spread and 
 5. Label charts in mono. Keep the art to one process and black plus two inks.
 6. Set the classifieds in 7 pt mono, in two or three narrow columns with hairline rules, with no images. Place them directly before the last spread.
 7. Set any tiny legal or disclaimer line at 7 pt or larger. The Money Pages ask for 6 pt in places, but the hub's minimum is 7 pt and KDP softens type below that.
-8. Take the copy from Front and Back Matter, Vols. 1-3 (The Money Pages) or the issue's Issue Hub. Don't rewrite it in layout. Em-dashes in this copy are an open question in the hub. Set the approved copy as written and don't add or remove dashes yourself.
+8. Take the copy from Front and Back Matter, Vols. 1-3 (The Money Pages) or the issue's Issue Hub. Don't rewrite it in layout. Em-dashes are welcome (Heather, Nov 24, 2026). Set the approved copy as written and don't add or remove dashes yourself.
 
 ---
 
@@ -1446,7 +1504,7 @@ Rules that apply to every recipe, so they are not repeated:
 - One pink focus per page in print. If two things are pink, one is wrong.
 - No generated lettering anywhere. Every word is set in type or hand-lettered.
 - Minimum type size 7 pt.
-- Generated likenesses of historical figures are allowed. Living people follow the sourced-public-facts-only rule. Letters to the AI Dead figures are always skulls wearing a prop.
+- Generated likenesses of historical figures are allowed, including photo-real period stills credited as photo illustrations. Living people appear only as caricature or print, never as a photoreal picture that could pass for a real photo, and only with sourced public facts. Letters to the AI Dead figures are always skulls wearing a prop.
 - An illustration never imitates a period document or sits inside one. Illustrations carry the argument; period images carry the proof.
 - KDP prints on white paper, so every cream, kraft or newsprint ground is a printed flood. Bleed it off every outside edge.
 - Nothing essential within 0.5 in of the gutter.
@@ -1605,7 +1663,7 @@ Three per issue: the Up Front opener, The Files divider and the Out Back opener.
 | Image count | 1 prop per entry (five to six) |
 | Word count | 280 to 380 |
 | Must-haves | Corner bar; the ranking criterion stated in the dek |
-| Never | Portraits of living people; a prop that implies something the research can't prove |
+| Never | Photoreal portraits of living people (caricature or print only, sourced facts only); a prop that implies something the research can't prove |
 
 ### 7.11 Diptych opener
 
@@ -1838,7 +1896,7 @@ The hub's process table reads NEWSPRINT as "no neon, no collage, no jokes," whic
 | Must-haves | Sources grouped by feature and matched one to one with the fact-check log; the note naming the published scholarship each section leans on, where the issue uses one |
 | Never | A title or design built on the "receipts" metaphor (no receipt-roll layout); jokes |
 
-The section's current name is under review (open question in the hub's Decision log). Use a working title from the issue's headline pass until Heather picks one.
+The section is called Sources (Heather, Nov 24, 2026).
 
 ### 7.25 Coming Up Next
 
@@ -2032,6 +2090,7 @@ Each is logged in 13 Open Questions for Heather. Follow the interim rule until s
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - Brand Standards hub (Visual identity; The magazine; Decision log)
 - SIDE EYE Design System v3: Neon Zine Print
 - SIDE EYE Design System v2 Core
@@ -2046,6 +2105,13 @@ Each is logged in 13 Open Questions for Heather. Follow the interim rule until s
 - SIDE EYE Brand Hub Expert Review
 - SIDE EYE art direction skill (side-eye-art-direction)
 - Production and issue-planning sessions of November 24, 2026 (KDP limits, renumbering, prank decision)
+
+## Changes in 1.2
+
+- Includes the Nov 24 v1.1 changes made in Drive: the back-of-issue section is called Sources, and em-dashes are allowed (both Heather's decisions).
+
+- People rule follows the hub's section 11, rule 10.
+- Ranked: the ban on living-person portraits now names photoreal portraits; caricature or print is allowed with sourced facts.
 
 
 ---
@@ -2694,20 +2760,22 @@ These are logged in 13 Open Questions for Heather. Until she decides, follow the
 ---
 
 # 05 Art and Illustration Direction (with Midjourney Prompt Standards)
-Version 1.0 draft · November 24, 2026 · Owner: Hollis Fenn, Art Director, Illustration and Midjourney
+Version 1.1 draft · November 25, 2026 · Owner: Hollis Fenn, Art Director, Illustration and Midjourney
 Status: DRAFT for Heather's review
+
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 
 **Who this is for:** Any art director, illustrator, designer, AI agent or outside vendor who makes or reviews a picture for SIDE EYE magazine: covers, openers, spot art, column art, plates, posters and the art in magazine promos.
 
 **Use it when:** You plan the art for an issue or a feature, write a Midjourney prompt, pick a generation, write an art-direction doc, or check art before layout.
 
-**Related:** 00 Start Here: How to Use the SIDE EYE Art Direction Standards · 01 Issue Design Process: From Brief to Print-Ready Files · 02 Cover Standards · 03 Page and Spread Standards · 04 Grid and Typography · 06 Imagery Sourcing, Rights and Credits · 07 Print Production and Prepress (Amazon KDP) · 08 Quality Checklists · 09 File Naming, Folders and Handoff Specs · 11 Templates (issue brief, flatplan, art-direction doc, handoff note) · 13 Open Questions for Heather · Source docs: SIDE EYE Design System v3: Neon Zine Print · the Brand Standards hub (Visual identity) · Napoleon Art Direction
+**Related:** 00 Start Here: How to Use the SIDE EYE Art Direction Standards · 01 Issue Design Process: From Brief to Print-Ready Files · 02 Cover Standards · 03 Page and Spread Standards · 04 Grid and Typography · 06 Imagery Sourcing, Rights and Credits · 07 Print Production and Prepress (Amazon KDP) · 08 Quality Checklists · 09 File Naming, Folders and Handoff Specs · 11 Templates (issue brief, flatplan, art-direction doc, handoff note) · 13 Open Questions for Heather · Source docs: SIDE EYE Design System v3: Neon Zine Print · the Brand Standards hub (Visual identity; section 11, Midjourney) · Napoleon Art Direction
 
 ---
 
 ## 1. How to use this document
 
-- Design System v3: Neon Zine Print is the visual source of truth. The Brand Standards hub is the source of truth for color, type and brand rules, and its Decision log says which rule wins. This document turns both into working rules for art. If this document and the hub ever disagree, follow the hub and log the conflict.
+- Design System v3: Neon Zine Print is the visual source of truth. The Brand Standards hub is the source of truth for color, type and brand rules, and its Decision log says which rule wins. This document turns both into working rules for art. If this document and the hub ever disagree, follow the hub and log the conflict. For Midjourney, the hub's section 11 wins over this document, the v3 templates and the skill.
 - Each rule here is meant to be checked. "Do" rules use the imperative. Numbers come from the sources.
 - Where a rule says "until Heather decides," the question is open. It is listed in 13 Open Questions for Heather. Follow the stated default until it is settled.
 - Rights, credits and archival sourcing live in 06. Ink builds, proofs and preflight live in 07. Type sizes and the grid live in 04. This document covers what the picture is and how it gets made.
@@ -2727,7 +2795,7 @@ Pick one process per image. Never mix RELIEF and COLLAGE inside one frame, excep
 | Process | Use it for | Signature in one line |
 | :-- | :-- | :-- |
 | RELIEF | Spot art, visual jokes, column art (Letters to the AI Dead, Still Wrong, Apocrypha, Ranked), cast cameos, icons, timeline pins, the back-cover colorway sheet | Three-ink relief print: thick wobbly black line, pink punchline, pale cyan fills, coarse halftone, bare cream paper, one joke |
-| COLLAGE | Covers, section openers, the tabloid poster, the issue's one full-bleed opener | Six pasted layers with a photoreal cut-out hero breaking the frame |
+| COLLAGE | Covers, section openers, the tabloid poster, the issue's one full-bleed opener | Six pasted layers with a photographic cut-out hero breaking the frame |
 | WOOD TYPE | Feature title plates, dividers, Box Score fight cards, contents, Case File posters, promo posters, the back cover | Stacked wood-type caps set in layout, rules and stars, one split fountain, a small woodcut cut, cream or kraft |
 | HYBRID | Feature openers about a real historical person | Period figure cut out, reduced to black line, halftone and peach skin; RELIEF hands and props make the argument |
 | NEWSPRINT | QUIET pages, Out Back, tabloid interiors | Gray newsprint, soft black, halftone photos |
@@ -2760,11 +2828,11 @@ Pick one process per image. Never mix RELIEF and COLLAGE inside one frame, excep
 
 | Layer | What goes in it |
 | :-- | :-- |
-| 1. Ground | Cream or kraft paper, scraps of old print at the edges |
-| 2. Scene | One photoreal scene, colored in flat silkscreen fields |
+| 1. Ground | Cream or kraft paper, scraps of completely blank aged paper and blank newsprint at the edges |
+| 2. Scene | One real photograph, printed in flat silkscreen color fields |
 | 3. Color fields | Flat neon blocks meeting in hard edges (the masthead field on a cover) |
 | 4. Marks | Loose painted neon brush border, a thin wobbly hand-drawn black ink frame, real scanned margin notes |
-| 5. Hero | A photoreal cut-out subject with exaggerated, oversized eyes, breaking the frame from one side |
+| 5. Hero | A photographic cut-out subject with exaggerated, oversized eyes, breaking the frame from one side |
 | 6. Cover lines | Set in type on torn paper strips, photographed and pasted on |
 
 **Never:**
@@ -2852,6 +2920,8 @@ Keep one variant for a whole feature or column. Do not change variants image to 
 
 **Period art:** never recolor it pink or neon. It gets grayscale plus coarse halftone, or full color on openers only.
 
+**Photographic stills:** no neon and no pink, ever (hub section 11, rule 9). That covers COLLAGE heroes, NEWSPRINT photographs and photo-real period stills. Pink and neon are added in layout, never in a photograph.
+
 ---
 
 ## 5. The joke rule and what pink marks
@@ -2874,18 +2944,24 @@ Write the joke in one sentence before you write a prompt: "He thought he was pla
 
 ## 6. People in pictures
 
-These rules come from the Brand Standards hub (Visual identity > People in pictures, and the Decision log). They replace older rules.
+These rules come from the Brand Standards hub (section 11, rule 10; Visual identity > People in pictures; and the Decision log). They replace older rules.
 
-1. **Historical figures: generated likenesses are allowed** (Heather's decision). Draw them as caricature in a house process (RELIEF, HYBRID, woodcut) or use real period art. Never make a generated likeness look like a photograph or a period record.
+1. **Historical figures: generated likenesses are allowed** (Heather's decision, hub section 11, rule 10). Use one of three forms: a caricature in a house process (RELIEF, HYBRID, woodcut), real period art, or a photo-real period still (point 2).
    - Name only documented clothing and objects for the time and role ("First Consul in 1800, dark coat").
    - The joke is the action, never the face or body. Reject takes that exaggerate the face or body.
    - Show the figure doing only what the evidence rates Proven (section 13).
-   - Always write a no-likeness version too (props, hands, cuffs) as the fallback if Midjourney refuses the name, the likeness comes out off-model, or review reads it as mockery beyond the proven act.
-   - You may attach a cleared public-domain portrait as an image reference to steer a likeness (rights per 06). Never attach anyone's modern artwork.
-2. **Living people: sourced public facts only.** Never show a living person doing anything we cannot prove. The hub does not say whether a generated likeness of a living person is allowed. Until Heather decides, do not generate one: show living people through props, hands or a cleared real photo, and only doing what is documented (open question).
-3. **Letters to the AI Dead figures are always skulls wearing one defining prop** (a wig, a wreath, a wimple, a bicorne). Never a portrait, even though historical likenesses are now allowed elsewhere.
-4. **People harmed in a QUIET story are never illustrated.** Individual issues may add named exclusions (for example, a person or community who gets no generated likeness at all). The issue brief lists them; they bind every image in the issue.
-5. **Old rule, now superseded:** the side-eye-art-direction skill and older docs (Addendum B, the Napoleon Art Direction) say "no faces or likenesses of real people, living or dead." That rule is out of date for historical figures. Follow points 1 to 4.
+   - Always write a no-likeness version too (props, hands, cuffs). It is version A (8.7), the fallback if Midjourney refuses the name, the likeness comes out off-model, or review reads it as mockery beyond the proven act.
+   - You may attach a cleared public-domain portrait as an image prompt to steer a likeness (rights per 06). Its web address goes first in the prompt (8.6). Never attach anyone's modern artwork.
+2. **Photo-real period stills of historical figures are allowed, with their own credit** (hub section 11, rules 9, 10 and 13).
+   - Use them only for the photographic era, from about 1840. Before that no camera matches the year, so a figure who lived earlier is drawn as caricature or shown in period art.
+   - Write them to the never-looks-AI rules (8.12): the period camera and film, the real light source, two or three real imperfections, ordinary-looking people with real skin, and no neon or pink. The template is 9.11.
+   - Credit every one: "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph." (06, section 10.)
+   - Keep them out of Sources. Never caption one as archival, never place one inside a period document, and never present one as evidence (section 13).
+   - Other generated art keeps the credit "Illustration generated with Midjourney and edited by SIDE EYE."
+3. **Living people: caricature or print only, and only with sourced public facts.** A generated likeness of a living person may appear only as a caricature or a print in a house process (RELIEF or woodcut). Never make a photoreal picture of a living person that could pass for a real photo. Never show a living person doing anything we cannot prove. Props, hands and a cleared real photo stay available. HYBRID stays for historical people only (3.4).
+4. **Letters to the AI Dead figures are always skulls wearing one defining prop** (a wig, a wreath, a wimple, a bicorne). This is a house format, not a likeness rule. Never a portrait, even though historical likenesses are now allowed elsewhere.
+5. **People harmed in a QUIET story are never illustrated**, and never shown in a photo-real still. Individual issues may add named exclusions (for example, a person or community who gets no generated likeness at all). The issue brief lists them; they bind every image in the issue.
+6. **Old rules, now superseded:** the side-eye-art-direction skill and older docs (Addendum B, the Napoleon Art Direction) say "no faces or likenesses of real people, living or dead." Version 1.0 of this document also held back generated likenesses of living people until Heather decided. Both are out of date. Follow points 1 to 5 and the hub's section 11.
 
 ---
 
@@ -2906,7 +2982,7 @@ Write a short brief for every page or spread that carries art, before any prompt
 | Type notes | What is set in layout over or near it | "Headline stacked, one word vertical." |
 | Image source | Generated, period art, composite, or built in layout | Generated |
 | Rights and people check | Any real person; any sensitivity rule; any rights line needed | "No faces of the bankers; hands by cuffs." |
-| Prompts | A and B, copy-ready | See section 9 |
+| Prompts | A, B and C, copy-ready, one per code block (8.7) | See section 9 |
 
 Rules for the concept:
 - One idea per image. If the brief needs "and" to describe the joke, cut one half.
@@ -2920,41 +2996,45 @@ Rules for the concept:
 
 ### 8.1 Set up once per session
 
-- Use Midjourney on the web, model version 8.2.
-- Turn Personalization off for SIDE EYE jobs, so every image matches the house look. Do not use `--p` or moodboards.
-- Upload the two style references once (section 8.6) and keep their image links handy.
+- Use Midjourney on the web, model V8.2. It has been the default since July 24, 2026, and every prompt still carries `--v 8.2`.
+- Turn Personalization off in settings for SIDE EYE jobs, so every image matches the house look. When it is on there, Midjourney adds `--p` to every prompt. Never use `--p` or moodboards.
+- Leave off every parameter the hub switches off for house art (8.3).
+- The house style references do not have web addresses yet (8.6). Until they do, run every prompt without `--sref` and `--sw`.
 - Midjourney names downloaded files after the account and the prompt. Rename every file you keep per 09 before it goes anywhere shared.
 
 ### 8.2 Order of a prompt
 
 Write the parts in this order:
 
-1. The subject and the joke, in plain concrete words.
-2. The pink object: "the [object] printed in fluorescent pink."
-3. The process words from the template (exactly as written).
-4. Paper, field and empty space: where the plain area for type goes ("top-left corner plain").
-5. Finishing words: "evenly lit, flat ink printed on paper" (RELIEF, HYBRID) or "paper edges lifting with soft shadows" (COLLAGE).
-6. Parameters, in this order: `--ar`, `--s`, `--c`, `--sref`, `--sw`, `--hd`, `--no ...`, then the required ending `--raw --v 8.2`.
+1. Any source or inspiration image, as its web address, first (hub section 11, rule 14). A style reference's address goes after `--sref` instead. Drive links don't work in Midjourney (8.6).
+2. The subject and the joke, in plain concrete words.
+3. The pink object: "the [object] printed in fluorescent pink." (Prints only. Photographs get no pink.)
+4. The process words from the template (exactly as written).
+5. Paper, field and empty space: where the plain area for type goes ("top-left corner plain").
+6. Finishing words: "evenly lit, flat ink printed on paper" (RELIEF, HYBRID), "paper edges lifting with soft shadows" (COLLAGE), or for a photograph the camera and film, the real light source and two or three real imperfections (8.12).
+7. Parameters, in the standard ending order: `--ar W:H --raw --s # [--hd] [--sref URL --sw #] --v 8.2 --no text, letters, words, numbers, logo, watermark, ...`. The parts in brackets are used only where this section says.
 
-Keep prompts concrete. Say what is there, not what is absent, in the description. Avoid words with two meanings (a "bill" can be money or a beak; write "a paper banknote"). Give counts only when the count matters, and keep them small.
+Keep prompts concrete. Say what is there, not what is absent, in the description. Avoid words with two meanings (a "bill" can be money or a beak; write "a paper banknote"). Give counts only when the count matters, and keep them small. Keep each description under about 1,000 characters; past that, V8.2 starts dropping details. One prompt per code block, on one line, with a space before every `--`.
 
 ### 8.3 Required ending and parameters
 
-**Every prompt ends with `--raw --v 8.2`.**
+**Every prompt uses the standard ending: `--ar W:H --raw --s # [--hd] [--sref URL --sw #] --v 8.2 --no ...`.** Every prompt carries `--raw`, `--v 8.2` and a `--no` list. The `--no` list comes last, after `--v 8.2`, so nothing else is read as part of the list.
 
-Design System v3, Addendum B and the skill write raw mode as `--style raw`. Midjourney's current parameter list documents raw mode as `--raw`, and the hardened Midjourney Prompt Workbook v2 already uses `--raw`. Write `--raw`. If you are handed an older prompt with `--style raw`, change it to `--raw`; it is the same switch.
+Every prompt uses `--raw` (hub section 11, rule 2). Design System v3, Addendum B and the skill write raw mode as `--style raw`, the old V5 to V7 spelling. If you are handed an older prompt with `--style raw`, change it to `--raw`; it is the same switch.
 
 | Parameter | SIDE EYE use |
 | :-- | :-- |
 | `--raw` | Always. Turns off Midjourney's default beautifying so the print look holds. |
-| `--v 8.2` | Always. |
-| `--ar W:H` | Always. Pick from section 8.4. Whole numbers only (17:22, never 8.5:11). |
-| `--s` | Always. Values in section 8.5. Range 0 to 1000; default 100. |
-| `--c` | `--c 0` on Prompt A, `--c 10` on Prompt B. Keeps A steady and lets B explore. |
-| `--sref` and `--sw` | RELIEF and HYBRID: RELIEF reference at `--sw 60`. COLLAGE backgrounds: COLLAGE reference at `--sw 30`. Nothing else uses a style reference. See 8.6. |
-| `--hd` | Renders at higher resolution (about 2048 px on the long side instead of 1024). Add it to covers, full-page art, spread art, and any image that will print wider than about 3.4 in (1024 px at 300 dpi). Small spots under that size may skip it. |
-| `--no` | A short tail of things to keep out (text, letters, words, numbers, logo, watermark, the style reference's own subject, glow, gradient). It backs up the positive description; it never replaces it (8.8). |
-| `--seed` | Optional. Use it to make a matching before-and-after pair from one image. A seed does not guarantee an identical result. |
+| `--v 8.2` | Always, even though V8.2 is the default, so the prompt runs on V8.2 whatever the settings say. |
+| `--ar W:H` | Always. Pick from section 8.4. Whole numbers only (17:22, never 8.5:11). With `--hd`, no wider than 4:1. |
+| `--s` | Always. Photographs `--s 50` to `--s 100`. Prints and illustration `--s 100` to `--s 250`. Never above 300 (hub section 11, rule 3). Values in section 8.5. |
+| `--c` | Leave it out (the default is 0), or write `--c 0`. Chaos stays at 0 for finals (hub section 11, rule 6). The three versions differ in their words, not in chaos. |
+| `--sref` and `--sw` | RELIEF and HYBRID: the RELIEF reference at `--sw 60`. COLLAGE backgrounds: the COLLAGE reference at `--sw 30`. Nothing else uses a style reference. Never `--sw` without `--sref`. The addresses don't exist yet, so prompts run without both for now (8.6). |
+| `--hd` | Renders at higher resolution (about 2048 px on the long side instead of 1024). Add it to full pages, spreads, covers and YouTube hero art (hub section 11, rule 4). Also add it to any image that will print wider than about 3.4 in (1024 px at 300 dpi). Small spots under that size may skip it. HD caps the aspect ratio at 4:1. |
+| `--no` | On every prompt (hub section 11, rule 7). Always `text, letters, words, numbers, logo, watermark`. Prints add `glow, gradient, chrome` (the desk playbook also adds `3d render, glossy`). Photographs add `neon, pink` and, from the desk playbook, `HDR, airbrushed skin, bokeh`; a photo with a real lamp in it leaves `glow` out. Add the style reference's own subject where 8.6 says. The list backs up the positive description; it never replaces it (8.8). |
+| `--seed` | Optional. Use it to make a matching before-and-after pair from one image, or to rerun a near match. A seed does not guarantee an identical result. |
+
+**Switched off for house art (hub section 11, rule 6):** Personalization (`--p`, and turn it off in settings), `--weird`, `--exp`, `--q`, `--sv`, `--oref`, `--ow`, `--cref` and `::` weights. The desk playbook also never uses `--cw`, `--niji`, `--turbo` or `--draft` in a final. If an older prompt or template carries any of these, take them out.
 
 Print resolution check: art must reach 300 dpi at its final placed size. A full-bleed page needs 2,588 × 3,375 px. Even `--hd` output will often need upscaling for full-bleed use; check the pixel size against the placed size and record it in the art log (section 12). The prepress check is in 07.
 
@@ -2971,29 +3051,34 @@ Print resolution check: art must reach 300 dpi at its final placed size. A full-
 | Cover hero cut-out (head and neck) | 1:2 |
 | Split-fountain field | 3:1 |
 | Ornament sheet | 3:2 |
-| Promo video, poster for screen, YouTube plate | 16:9 |
+| Promo video, poster for screen, YouTube plate (YouTube hero art takes `--hd`) | 16:9 |
 | Vertical promo (Shorts, Reels) | 9:16 |
 
 Full-bleed art must cover the bleed (0.125 in past trim on outside edges). Keep anything that matters inside the 0.25 in safety area and clear of the gutter (spec in 04 and 07).
 
+HD caps the aspect ratio at 4:1. Every ratio in this table fits. Never pair `--hd` with anything wider.
+
 ### 8.5 Stylize values
+
+Hub section 11, rule 3: photographs `--s 50` to `--s 100`; prints and illustration `--s 100` to `--s 250`; never above 300.
 
 | Process or job | `--s` | Notes |
 | :-- | :-- | :-- |
-| RELIEF (all: spots, icons, cameos, AI Dead) | 150 | Raise to 250 (the v3 template value) if results look too plain. |
-| HYBRID scene | 150 | Same range as RELIEF. |
-| COLLAGE background | 200 | Raise to 250 if the collage reads too clean. |
-| COLLAGE hero cut-out | 100 | Photoreal subject; higher values gloss it up. |
-| Woodcut cut | 150 | |
-| Split-fountain field, ornament sheet | 100 | |
-| NEWSPRINT, LOUD (Out Back, tabloid) | 80 | |
-| NEWSPRINT, QUIET | 60 | |
+| RELIEF (all: spots, icons, cameos, AI Dead) | 150 | Print band. Raise to 250 (the v3 template value) if results look too plain. Never above 250. |
+| HYBRID scene | 150 | Print band. Same range as RELIEF. |
+| COLLAGE background | 250 | Print band (the v3 and desk playbook value). Never above 250. |
+| COLLAGE hero cut-out | 100 | Photograph band (50 to 100). Higher values gloss it up. |
+| Photo-real period still | 75 | Photograph band (50 to 100). |
+| Woodcut cut | 150 | Print band. |
+| Split-fountain field, ornament sheet | 100 | Print band. |
+| NEWSPRINT, LOUD (Out Back, tabloid) | 80 | Photograph band: a NEWSPRINT image is a halftone newspaper photograph. |
+| NEWSPRINT, QUIET | 60 | Photograph band. |
 
-High stylize is what makes images glossy and over-lit. When in doubt, go lower.
+High stylize is what makes images glossy and over-lit. When in doubt, go lower within the band.
 
 ### 8.6 Style references
 
-SIDE EYE uses exactly two style references. Both are SIDE EYE's own approved images.
+SIDE EYE uses exactly two style references. Both are SIDE EYE's own approved images (hub section 11, rule 5).
 
 | Reference | What it is | Use with | Weight |
 | :-- | :-- | :-- | :-- |
@@ -3002,22 +3087,31 @@ SIDE EYE uses exactly two style references. Both are SIDE EYE's own approved ima
 
 **How to find them.** Search Drive by title, not by link. The emu cover draft is the Vol. 1 cover draft image in the Side Eye Issue 1 images folder (file name begins "cover_issue1_draft"). The skull prints are PNG files whose names start with the Midjourney prompt text for a three-ink relief print of a human skull; open them and use the one wearing the powdered wig. The skull print currently sits outside the Side Eye folders; v3's production checklist asks for both references to be saved as the house style references, and 09 names the folder they belong in.
 
-**How to attach them.** In Midjourney on the web, drag the image into the prompt bar and drop it on Style Reference, or upload it once and paste its image link where the template says `[RELIEF STYLE REFERENCE URL]` or `[COLLAGE STYLE REFERENCE URL]`. That token is the only thing you edit in a finished prompt.
+**How to attach them.** Midjourney can't open a Drive link (hub section 11, rule 14). A reference needs a web address that Midjourney can read: upload the image in Midjourney's prompt bar and copy the address it gives, or copy the image address from Heather's Midjourney archive if Midjourney made the image.
+
+**As of November 25, 2026, the desk does not have these addresses yet.** Until it does, every prompt runs complete without `--sref` and `--sw`, and each template that would use a reference carries a note: once the address exists, add `--sref <URL> --sw 60` (RELIEF, HYBRID) or `--sref <URL> --sw 30` (COLLAGE backgrounds) right before `--v 8.2`. Never put a bracketed token or placeholder for a reference in a prompt.
+
+**Source and inspiration images.** A cleared public-domain portrait used to steer a likeness, or a photo of a real prop, goes in the prompt as an image prompt: its web address comes first, before the words (8.2). Never use a Drive link, and never anyone else's modern artwork.
 
 **Rules:**
 - Use only these two images, or a future reference Heather approves and the Decision log records. Never upload anyone else's artwork, a magazine page, a poster or a stock image as a style reference or image reference.
-- Keep weights at 60 and 30. Higher weights drag skulls and emus into new pictures.
-- Put the reference's subject in the `--no` tail: `skull` with the RELIEF reference (except on AI Dead portraits, which want a skull), `emu` with the COLLAGE reference.
+- No moodboards.
+- Never write `--sw` without `--sref`.
+- Keep weights at 60 and 30. The hub fixes them; don't raise or lower them to fix a problem. Higher weights drag skulls and emus into new pictures.
+- Put the reference's subject in the `--no` list: `skull` with the RELIEF reference (except on AI Dead portraits, which want a skull), `emu` with the COLLAGE reference. Keep it there even while prompts run without the reference, so the prompt is ready when the address arrives.
 - Addendum B removed all style references. Design System v3 brought them back, and v3 wins (Decision log, 2026-09-29).
-- Run hero cut-outs, woodcut cuts, textures, ornaments and NEWSPRINT with no style reference.
+- Run hero cut-outs, woodcut cuts, textures, ornaments, NEWSPRINT and photo-real period stills with no style reference.
 
-### 8.7 Two prompts per image: A and B
+### 8.7 Three versions per image: A, B and C
 
-- Write two prompts for every generated image. **A** is the safer, clearer read. **B** is the bolder joke.
-- Both use the same process, inks and aspect ratio, so either one fits the layout.
-- A gets `--c 0`; B gets `--c 10`.
-- For any image that names a real historical person, A is the no-likeness version (props, hands, cuffs) and B may be the caricature. Keep A ready as the fallback.
-- Pick one per image (section 12). Do not mix A and B halves in one image.
+- Write three versions for every generated image (hub section 11, rule 8). **A** is the safe read. **B** is the bold joke. **C** is a different take on the same point.
+- Each one is complete and ready to copy and paste, one per code block, with no placeholders. Brackets appear only in the section 9 templates; fill every one before a prompt goes into an art-direction doc.
+- All three use the same process, inks and aspect ratio, so any one fits the layout.
+- All three run at chaos 0. Make them different in their words.
+- For any image that names a real historical person, A is the no-likeness version (props, hands, cuffs). B or C may be the likeness (a caricature, or a photo-real period still for someone from the photographic era). Keep A ready as the fallback.
+- For a living person, no version is a photoreal likeness. A likeness appears only as a caricature or print, with sourced public facts (section 6).
+- Textures, ornament sheets and QUIET images carry no joke. For them, B is the bolder treatment and C a different treatment. On QUIET pages no version is a joke.
+- Pick one per image (section 12). Do not mix halves of different versions in one image.
 
 ### 8.8 The "completely blank" rule
 
@@ -3025,15 +3119,17 @@ Midjourney writes fake letters on anything that usually carries text. Prevent it
 
 - Describe every paper, ledger, letter, envelope, sign, label, card, tag, book spine, banknote, poster, screen and plaque as "completely blank" or "plain and unmarked."
 - Never ask for a stamp, label, sign, poster or brass plate with words. Ask for a blank one; set the words in layout.
-- Keep the `--no text, letters, words, numbers, logo, watermark` tail on every prompt as a backup.
+- Keep the `--no text, letters, words, numbers, logo, watermark` list on every prompt as a backup.
 - No generated lettering anywhere, in any language. If letters appear, regenerate. Never paint over generated letters and keep the image.
 
 ### 8.9 No names of artists, studios, shops or magazines
 
 - Never name an artist, illustrator, studio, print shop, poster shop, zine, magazine or brand in a prompt. Describe materials and methods only ("condensed wood-type letters, split-fountain ink, carved woodcut").
 - This includes "in the style of" any person or publication, living or dead.
+- Film stocks and camera models may be named as materials in a photograph's prompt (hub section 11, rule 12). No brand name or logo may appear in the image itself; keep `logo` in the `--no` list.
 - The influences appear only in the colophon credit (see 06), never as implied affiliation.
-- Historical figures may be named in a prompt as the subject of a caricature (section 6). That is a subject, not a style.
+- Historical figures may be named in a prompt as the subject of a caricature or a photo-real period still (section 6). That is a subject, not a style.
+- Adult and fun, never explicit.
 
 ### 8.10 Generate period props alone, then composite
 
@@ -3047,129 +3143,352 @@ Midjourney writes fake letters on anything that usually carries text. Prevent it
 | :-- | :-- |
 | Writing appears | Add "completely blank" to the object that grew text. Regenerate. |
 | Faces appear on the owners of hands | Add "only hands and sleeves visible, no people." Add `faces` to `--no`. Crop to the hands if needed. |
-| Neon turns into glow or chrome | Add "flat ink, printed on paper, no glow, no gradient." Keep `glow, gradient` in `--no`. Lower `--s`. |
-| Collage looks digitally clean | Raise the COLLAGE `--sw` a little (stay at or under 60), add "paper edges lifting with soft shadows." |
-| Skulls or emus leak in | Put `skull` or `emu` in `--no`. Lower `--sw` by 10. |
+| Neon turns into glow or chrome | Add "flat ink, printed on paper." Keep `glow, gradient, chrome` in `--no`. Lower `--s` within the print band. |
+| Collage looks digitally clean | Add "paper edges lifting with soft shadows," "one scrap pasted slightly crooked" and "a faint dried glue stain." Keep the COLLAGE reference at `--sw 30` once it is in use; the hub fixes the weight. |
+| Skulls or emus leak in | Put `skull` or `emu` in `--no`. Simplify the subject and regenerate. Don't change the weight; the hub fixes it at 60 or 30. |
+| The image looks AI (too smooth, too perfect, glossy light, plastic skin) | Apply 8.12: name the real capture or print process, the real light source, two or three real imperfections, and "no retouching" on photographs. Take out any gloss word. Lower `--s` within the band. |
 | Period prop drifts | Describe it plainly and generate it alone (8.10). |
 | Hands or animals come out wrong (extra fingers, wrong legs) | Simplify the pose, reduce how many hands, regenerate. Reject any image with bad anatomy. |
 | Wrong count of objects | Use a small number (three or fewer) or drop the count. |
 | Anachronism (wrong century object) | Name the period and material ("a 1790s wooden counter"). |
 | Pink lands on the wrong thing | Name the pink object once, early: "the [object] printed in fluorescent pink." Remove other color words for that object. |
 | Too busy | Cut the prompt down. Add "wide empty paper margins, plain background." |
-| Midjourney refuses a real person's name | Run the no-likeness Prompt A (the fallback). |
+| Midjourney refuses a real person's name | Run the no-likeness version A (the fallback). |
+
+### 8.12 Never looks AI
+
+These are the hub's rules for every image (section 11, rule 9), with the desk playbook's word lists.
+
+- **Name the real capture or print process.** For a print: "flat three-ink relief print," "small carved woodcut printing block image," "letterpress ink print." For a photograph: the kind of picture and the camera and film ("a gelatin silver print from a glass-plate negative," "a 35mm black-and-white snapshot").
+- **Name the real light source.** "Soft daylight from a window on one side," "a single bare bulb overhead," "on-camera flash." If a lamp shows in a photograph, take `glow` out of its `--no` list.
+- **Match the camera and film to the year.** From the desk playbook:
+
+| Years | Era-true capture |
+| :-- | :-- |
+| Before about 1840 | No photographs. Paintings and prints only, so use caricature or period art. |
+| 1840s to 1850s | Daguerreotype, ambrotype |
+| 1860s to 1890s | Wet-plate collodion, albumen print |
+| 1900s to 1920s | Glass-plate negative, gelatin silver print |
+| 1930s to 1950s | 4x5 press camera with flashbulb, 35mm black-and-white film |
+| 1950s to 1970s | Color slide film (Kodachrome, Ektachrome) |
+| 1970s to 1980s | 110 or 35mm point-and-shoot, faded magenta-orange color, on-camera flash |
+| 1990s | Disposable camera with flash |
+| Early 2000s | Consumer digital point-and-shoot |
+| Now | Phone camera or mirrorless camera |
+
+- **Add two or three real imperfections.** For a photograph: film grain, a soft corner, dust specks, a slight tilt, motion blur on a hand, a light leak at one edge. For a print: misregistration, uneven ink, speckle, a lifted paper edge.
+- **Ordinary-looking people with real skin.** Add "no retouching" to a photograph of people.
+- **Off-center, cropped framing.**
+- **No gloss words.** Never write: photorealistic, ultra realistic, hyperrealistic, cinematic, 4k, 8k, masterpiece, award-winning, stunning, epic, breathtaking, octane render, unreal engine, ray tracing, highly detailed, intricate details, perfect skin, flawless, beautiful lighting, dramatic lighting, volumetric light, god rays, glowing, luminous, vector, clean lines, crisp, digital art, trending, studio quality. The first seven in the hub's list are photorealistic, cinematic, 8k, masterpiece, ultra realistic, glowing and epic; the rest come from the desk playbook.
+- **Photographic stills get no neon and no pink.** Put `neon, pink` in their `--no` list.
 
 ---
 
 ## 9. Copy-ready prompt templates
 
-Replace only the words in [brackets]. Keep everything else as written. Each template is Prompt A. To make Prompt B, change the joke to the bolder version and change `--c 0` to `--c 10`.
+Each template gives all three versions, A, B and C, one per code block. Replace only the words in [brackets] and keep everything else as written. The brackets make these templates. A finished prompt in an art-direction doc has no brackets left (8.7). Templates with no brackets are ready to run as written.
+
+None of these templates carries a style reference yet, because the house references have no web addresses (8.6). Where a template says so, add the reference right before `--v 8.2` once its address exists.
 
 ### 9.1 RELIEF (spot art, visual jokes, icons)
 
+Version A, the safe read:
+
 ```
-flat three-ink relief print of [subject doing the visual joke], the [one punchline object] printed in fluorescent pink, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, wide empty paper margins, [where the plain space for type goes], evenly lit, flat ink printed on paper --ar [1:1 / 2:3 / 4:5 / 17:11] --s 150 --c 0 --sref [RELIEF STYLE REFERENCE URL] --sw 60 --no text, letters, words, numbers, logo, watermark, skull, glow, gradient --raw --v 8.2
+flat three-ink relief print of [subject doing the safe, clear version of the joke], the [one punchline object] printed in fluorescent pink, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, wide empty paper margins, [where the plain space for type goes], evenly lit, flat ink printed on paper --ar [1:1 / 2:3 / 4:5 / 17:11] --raw --s 150 --v 8.2 --no text, letters, words, numbers, logo, watermark, skull, glow, gradient, chrome, 3d render, glossy
 ```
 
-- Add `--hd` before `--no` for full-page or spread art, or any image printing wider than 3.4 in.
+Version B, the bold joke:
+
+```
+flat three-ink relief print of [subject doing the bolder version of the joke], the [one punchline object] printed in fluorescent pink, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, wide empty paper margins, [where the plain space for type goes], evenly lit, flat ink printed on paper --ar [1:1 / 2:3 / 4:5 / 17:11] --raw --s 150 --v 8.2 --no text, letters, words, numbers, logo, watermark, skull, glow, gradient, chrome, 3d render, glossy
+```
+
+Version C, a different take:
+
+```
+flat three-ink relief print of [subject making the same point a different way], the [one punchline object] printed in fluorescent pink, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, wide empty paper margins, [where the plain space for type goes], evenly lit, flat ink printed on paper --ar [1:1 / 2:3 / 4:5 / 17:11] --raw --s 150 --v 8.2 --no text, letters, words, numbers, logo, watermark, skull, glow, gradient, chrome, 3d render, glossy
+```
+
+- Add `--hd` right after `--s 150` for full-page or spread art (17:11 always), or any image printing wider than 3.4 in.
+- Once the RELIEF reference has a web address, add `--sref <URL> --sw 60` right before `--v 8.2`.
 - For an ink variant, swap "fluorescent pink and pale cyan ink" for the words in section 4.
 - If hands appear, add "only hands and sleeves visible" to the description and `faces` to `--no`.
 
 ### 9.2 Letters to the AI Dead portrait
 
+Version A, the safe read:
+
 ```
-flat three-ink relief print of a human skull wearing [the figure's one defining prop], the [prop] printed in fluorescent pink, centered inside a plain circular cameo frame, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, plain background, evenly lit, flat ink printed on paper --ar 1:1 --s 150 --c 0 --sref [RELIEF STYLE REFERENCE URL] --sw 60 --no text, letters, words, numbers, logo, watermark, glow, gradient --raw --v 8.2
+flat three-ink relief print of a human skull wearing [the figure's one defining prop], the [prop] printed in fluorescent pink, centered inside a plain circular cameo frame, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, plain background, evenly lit, flat ink printed on paper --ar 1:1 --raw --s 150 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy
+```
+
+Version B, the bold joke:
+
+```
+flat three-ink relief print of a human skull wearing [the figure's one defining prop] comically oversized and tipped to one side, the [prop] printed in fluorescent pink, centered inside a plain circular cameo frame, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, plain background, evenly lit, flat ink printed on paper --ar 1:1 --raw --s 150 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy
+```
+
+Version C, a different take:
+
+```
+flat three-ink relief print of a human skull in three-quarter view, turned to look sideways out of the frame, wearing [the figure's one defining prop], the [prop] printed in fluorescent pink, centered inside a plain circular cameo frame, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, plain background, evenly lit, flat ink printed on paper --ar 1:1 --raw --s 150 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy
 ```
 
 - Do not put `skull` in `--no` here.
 - One defining prop only. A second small object is allowed only if the prop alone cannot identify the figure.
-- Run all portraits for one issue in one sitting and pick them as a set.
+- Run all portraits for one issue in one sitting and pick them as a set. Pick the same version (A, B or C) for every portrait in the set where you can, so they match.
+- Once the RELIEF reference has a web address, add `--sref <URL> --sw 60` right before `--v 8.2`.
 
 ### 9.3 Cast cameo (a real person told through a prop)
 
+Version A, the safe read (no likeness):
+
 ```
-flat three-ink relief print of [the prop that stands for the person], the [prop] printed in fluorescent pink, centered inside a plain circular cameo frame, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, plain background, evenly lit, flat ink printed on paper --ar 1:1 --s 150 --c 0 --sref [RELIEF STYLE REFERENCE URL] --sw 60 --no text, letters, words, numbers, logo, watermark, skull, faces, people, glow, gradient --raw --v 8.2
+flat three-ink relief print of [the prop that stands for the person], the [prop] printed in fluorescent pink, centered inside a plain circular cameo frame, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, plain background, evenly lit, flat ink printed on paper --ar 1:1 --raw --s 150 --v 8.2 --no text, letters, words, numbers, logo, watermark, skull, faces, people, glow, gradient, chrome, 3d render, glossy
 ```
 
-- Prompt B: add "held by a hand in [the cuff that identifies the group]" after the prop, add "only hands and sleeves visible," and change `--c 0` to `--c 10`.
+Version B, the bold joke (no likeness):
+
+```
+flat three-ink relief print of [the prop that stands for the person] held by a hand in [the cuff that identifies the group], only hands and sleeves visible, the [prop] printed in fluorescent pink, centered inside a plain circular cameo frame, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, plain background, evenly lit, flat ink printed on paper --ar 1:1 --raw --s 150 --v 8.2 --no text, letters, words, numbers, logo, watermark, skull, faces, people, glow, gradient, chrome, 3d render, glossy
+```
+
+Version C, a different take (a caricature likeness):
+
+```
+flat three-ink relief print of a caricature bust of [the person, role and year] in [documented clothing only], holding [the prop that stands for the person], the [prop] printed in fluorescent pink, centered inside a plain circular cameo frame, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, plain background, evenly lit, flat ink printed on paper --ar 1:1 --raw --s 150 --v 8.2 --no text, letters, words, numbers, logo, watermark, skull, glow, gradient, chrome, 3d render, glossy
+```
+
+- Version C works under section 6: a historical figure may be a caricature; a living person may be shown only as this kind of caricature print, never photographic, and only with sourced public facts. The joke stays on the prop; reject any take that exaggerates the face or body.
+- If Midjourney refuses the name, the likeness comes out off-model, or the issue brief excludes this person from generated likenesses, pick A or B.
 - The caption (set in layout, playbill style) names the person. The art never does.
+- Once the RELIEF reference has a web address, add `--sref <URL> --sw 60` right before `--v 8.2`.
 
 ### 9.4 COLLAGE background (cover or big opener, no hero)
 
+Version A, the safe read:
+
 ```
-photorealistic mixed-media collage magazine cover background, [one surreal scene], colored in flat silkscreen fields, flat saturated blue sky, a flat fluorescent pink color block across the top third for the masthead, torn newsprint and found ephemera pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, paper edges lifting with soft shadows, open space on the [left/right] for a figure, evenly lit --ar 17:22 --s 200 --c 0 --sref [COLLAGE STYLE REFERENCE URL] --sw 30 --hd --no text, letters, words, numbers, logo, watermark, animals, people, emu, glow, gradient --raw --v 8.2
+hand-made mixed-media paper collage magazine cover background, [one surreal scene] as a real photograph shot on [camera and film that match the scene's year] in plain daylight and printed in flat silkscreen color fields, flat saturated blue sky, a flat fluorescent pink color block across the top third for the masthead, torn scraps of completely blank aged paper and blank gray newsprint pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, paper edges lifting with soft shadows, one scrap pasted slightly crooked, a faint dried glue stain, open space on the [left/right] for a figure, evenly lit --ar 17:22 --raw --s 250 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, animals, people, emu, glow, gradient, chrome, 3d render, glossy
 ```
 
-- For an opener, write "magazine opener background" instead of "magazine cover background," replace the masthead block with "a flat [ink] color block where the headline will sit," and use `--ar 17:11` for a spread.
+Version B, the bold joke:
+
+```
+hand-made mixed-media paper collage magazine cover background, [a bolder version of the surreal scene] as a real photograph shot on [camera and film that match the scene's year] in plain daylight and printed in flat silkscreen color fields, flat saturated blue sky, a flat fluorescent pink color block across the top third for the masthead, torn scraps of completely blank aged paper and blank gray newsprint pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, paper edges lifting with soft shadows, one scrap pasted slightly crooked, a faint dried glue stain, open space on the [left/right] for a figure, evenly lit --ar 17:22 --raw --s 250 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, animals, people, emu, glow, gradient, chrome, 3d render, glossy
+```
+
+Version C, a different take:
+
+```
+hand-made mixed-media paper collage magazine cover background, [a different surreal scene that makes the same point] as a real photograph shot on [camera and film that match the scene's year] in plain daylight and printed in flat silkscreen color fields, flat saturated blue sky, a flat fluorescent pink color block across the top third for the masthead, torn scraps of completely blank aged paper and blank gray newsprint pasted along the edges, a loose hand-painted fluorescent pink brush border, a thin wobbly hand-drawn black ink frame, coarse halftone grain, paper edges lifting with soft shadows, one scrap pasted slightly crooked, a faint dried glue stain, open space on the [left/right] for a figure, evenly lit --ar 17:22 --raw --s 250 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, animals, people, emu, glow, gradient, chrome, 3d render, glossy
+```
+
+- For an opener, write "magazine opener background" instead of "magazine cover background," replace the masthead block with "a flat [ink] color block for the headline," and use `--ar 17:11` for a spread.
 - Put the open space on the side the hero will enter from (cover side rules in 02).
+- Pick the camera and film from the era list in 8.12.
+- Once the COLLAGE reference has a web address, add `--sref <URL> --sw 30` right before `--v 8.2`.
 
 ### 9.5 COLLAGE hero (to composite in layout)
 
+Version A, the safe read:
+
 ```
-photorealistic [animal or object] head and neck leaning in from the [right/left] side of the frame as if peeking around a corner, exaggerated oversized round eyes swiveled toward the viewer, [detailed feathers / fur / surface texture], soft even daylight, isolated on a plain white background --ar 1:2 --s 100 --c 0 --hd --no text, full body --raw --v 8.2
+[animal or object] head and neck leaning in from the [right/left] side of the frame as if peeking around a corner, exaggerated oversized round eyes swiveled toward the viewer, [feathers / fur / surface] with real texture, a photograph shot on [camera and film that match the story's year] against a plain white seamless paper backdrop, soft daylight from a window on one side, deep focus, fine film grain, a few stray [feathers / hairs / scuffs] out of place, dust specks on the negative, no retouching --ar 1:2 --raw --s 100 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, full body, neon, pink, glow, HDR, airbrushed skin, bokeh
+```
+
+Version B, the bold joke:
+
+```
+[animal or object] head and neck craning in from the [right/left] side of the frame at a nosy, too-close angle, cropped hard at the frame edge, exaggerated oversized round eyes locked on the viewer, [feathers / fur / surface] with real texture, a photograph shot on [camera and film that match the story's year] against a plain white seamless paper backdrop, soft daylight from a window on one side, deep focus, fine film grain, a few stray [feathers / hairs / scuffs] out of place, dust specks on the negative, no retouching --ar 1:2 --raw --s 100 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, full body, neon, pink, glow, HDR, airbrushed skin, bokeh
+```
+
+Version C, a different take:
+
+```
+[animal or object] head and neck reaching in low from the bottom [right/left] corner of the frame, looking up and sideways at the viewer, exaggerated oversized round eyes, [feathers / fur / surface] with real texture, a photograph shot on [camera and film that match the story's year] against a plain white seamless paper backdrop, soft daylight from a window on one side, deep focus, fine film grain, a few stray [feathers / hairs / scuffs] out of place, dust specks on the negative, no retouching --ar 1:2 --raw --s 100 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, full body, neon, pink, glow, HDR, airbrushed skin, bokeh
 ```
 
 - No style reference on heroes.
-- Photoreal heroes are animals or objects. A real historical person on a cover is period art or a caricature in a house process, never a photoreal generated face (section 6).
+- Photographic heroes are animals or objects. The oversized eyes are for animals and objects only; never exaggerate a real person's face.
+- A real historical person on a cover is period art, a caricature in a house process, or, for someone from the photographic era, a photo-real period still (9.11) credited per section 6. A living person on a cover is caricature or print only, never photographic (section 6).
 - Cut the hero out in layout and let it break the ink frame.
 
 ### 9.6 Split-fountain field (WOOD TYPE)
 
+Version A, the safe read (the house blend):
+
 ```
-letterpress ink print texture, a split-fountain blend of fluorescent pink into neon orange into acid yellow across a wide band, uneven ink coverage with wood grain showing through, slight ink squash at the edges, printed on warm cream stock, completely blank, no letters, evenly lit --ar 3:1 --s 100 --c 0 --no text, letters, words, numbers --raw --v 8.2
+letterpress ink print texture, a split-fountain blend of fluorescent pink into neon orange into acid yellow across a wide band, uneven ink coverage with wood grain showing through, slight ink squash at the edges, printed on warm cream stock, completely blank, no letters, evenly lit --ar 3:1 --raw --s 100 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy
 ```
 
-- For the second approved blend, write "pale cyan into fluorescent pink."
+Version B, bolder ink:
+
+```
+letterpress ink print texture, a split-fountain blend of fluorescent pink into neon orange into acid yellow across a wide band, heavy ink coverage with deep wood grain, streaks where the roller ran dry, strong ink squash at the edges, slight misregistration, printed on warm cream stock, completely blank, evenly lit --ar 3:1 --raw --s 100 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy
+```
+
+Version C, the second approved blend on kraft:
+
+```
+letterpress ink print texture, a split-fountain blend of pale cyan into fluorescent pink across a wide band, uneven ink coverage with wood grain showing through, slight ink squash at the edges, printed on kraft paper, completely blank, evenly lit --ar 3:1 --raw --s 100 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy
+```
+
+- For the second approved blend on cream, write "pale cyan into fluorescent pink" in version A.
 - For kraft stock, write "printed on kraft paper."
+- Add `--hd` right after `--s 100` if the plate fills a full page or a spread.
 - One split fountain per plate.
+- A split fountain is an ink blend, not a digital gradient, so describe it as ink. The hub's print `--no` list includes `gradient`. If that keeps erasing the blend, log it as an open item for the Midjourney desk; don't drop `gradient` on your own.
 
 ### 9.7 Woodcut cut (the small picture inside a plate or poster)
 
+Version A, the safe read:
+
 ```
-small carved woodcut printing block image of [subject], two-ink letterpress print in black and fluorescent pink, the [object] printed in fluorescent pink, bold chunky carved lines, visible wood grain in the ink, slight misregistration, on [kraft paper / warm cream stock], plain background --ar 1:1 --s 150 --c 0 --no text, letters, numbers, glow, gradient --raw --v 8.2
+small carved woodcut printing block image of [subject, the safe read], two-ink letterpress print in black and fluorescent pink, the [object] printed in fluorescent pink, bold chunky carved lines, visible wood grain in the ink, slight misregistration, on [kraft paper / warm cream stock], plain background --ar 1:1 --raw --s 150 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy
+```
+
+Version B, the bold joke:
+
+```
+small carved woodcut printing block image of [subject, the bolder joke], two-ink letterpress print in black and fluorescent pink, the [object] printed in fluorescent pink, bold chunky carved lines, visible wood grain in the ink, slight misregistration, on [kraft paper / warm cream stock], plain background --ar 1:1 --raw --s 150 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy
+```
+
+Version C, a different take:
+
+```
+small carved woodcut printing block image of [subject, a different take on the same point], two-ink letterpress print in black and fluorescent pink, the [object] printed in fluorescent pink, bold chunky carved lines, visible wood grain in the ink, slight misregistration, on [kraft paper / warm cream stock], plain background --ar 1:1 --raw --s 150 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy
 ```
 
 ### 9.8 Ornament sheet
 
+Version A, the safe read:
+
 ```
-set of carved wood-type printer's ornaments, stars, heavy rules, pointing hands, arrows and small borders, black letterpress ink with uneven coverage on cream stock, isolated, evenly spaced, evenly lit --ar 3:2 --s 100 --c 0 --no text, letters, numbers --raw --v 8.2
+set of carved wood-type printer's ornaments, stars, heavy rules, pointing hands, arrows and small borders, black letterpress ink with uneven coverage on cream stock, isolated, evenly spaced, evenly lit --ar 3:2 --raw --s 100 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy
+```
+
+Version B, bolder ornaments:
+
+```
+set of carved wood-type printer's ornaments, large bold stars, thick double rules, oversized pointing hands, heavy arrows and chunky borders, black letterpress ink with heavy uneven coverage and ink squash on kraft paper, isolated, evenly spaced, evenly lit --ar 3:2 --raw --s 100 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy
+```
+
+Version C, a different set:
+
+```
+set of carved wood-type printer's ornaments, small starbursts, dotted rules, corner pieces and leaf-shaped fleurons, black letterpress ink with uneven coverage and visible wood grain on cream stock, isolated, evenly spaced, evenly lit --ar 3:2 --raw --s 100 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy
 ```
 
 - Build an ornament library once per year and reuse it. Cut ornaments apart in layout.
 
 ### 9.9 HYBRID scene (around a cut-out period figure)
 
+Version A, the safe read:
+
 ```
-flat three-ink relief print of [the joke: hands, props, objects], the [punchline object] printed in fluorescent pink, leaving an empty space in the [center / left / right third] for a cut-out figure, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink on a flat deep navy field, coarse halftone dot shading, speckled ink texture, slight misregistration, only hands and sleeves visible, evenly lit, flat ink printed on paper --ar 17:11 --s 150 --c 0 --sref [RELIEF STYLE REFERENCE URL] --sw 60 --hd --no text, letters, words, numbers, logo, watermark, faces, people, skull, glow, gradient --raw --v 8.2
+flat three-ink relief print of [the joke, safe read: hands, props, objects], the [punchline object] printed in fluorescent pink, leaving an empty space in the [center / left / right third] for a cut-out figure, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink on a flat deep navy field, coarse halftone dot shading, speckled ink texture, slight misregistration, only hands and sleeves visible, evenly lit, flat ink printed on paper --ar 17:11 --raw --s 150 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, faces, people, skull, glow, gradient, chrome, 3d render, glossy
+```
+
+Version B, the bold joke:
+
+```
+flat three-ink relief print of [the bolder joke: hands, props, objects], the [punchline object] printed in fluorescent pink, leaving an empty space in the [center / left / right third] for a cut-out figure, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink on a flat deep navy field, coarse halftone dot shading, speckled ink texture, slight misregistration, only hands and sleeves visible, evenly lit, flat ink printed on paper --ar 17:11 --raw --s 150 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, faces, people, skull, glow, gradient, chrome, 3d render, glossy
+```
+
+Version C, a different take:
+
+```
+flat three-ink relief print of [a different take on the same point: hands, props, objects], the [punchline object] printed in fluorescent pink, leaving an empty space in the [center / left / right third] for a cut-out figure, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink on a flat deep navy field, coarse halftone dot shading, speckled ink texture, slight misregistration, only hands and sleeves visible, evenly lit, flat ink printed on paper --ar 17:11 --raw --s 150 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, faces, people, skull, glow, gradient, chrome, 3d render, glossy
 ```
 
 - For a cream field, write "on bare warm cream paper" instead of "on a flat deep navy field."
 - On navy, strings, threads and rules go pale cyan or pink.
 - Composite the archival figure in layout (black line, halftone, peach skin only).
+- Once the RELIEF reference has a web address, add `--sref <URL> --sw 60` right before `--v 8.2`.
 
-**HYBRID figure, generated likeness (Prompt B option for a historical person):**
+**HYBRID figure, generated likeness (may replace version B or C for a historical person):**
 
 ```
-a caricature of [historical figure, role, year], in [documented clothing only], [doing the documented action], drawn only in black line and coarse halftone with flat peach skin, the [punchline object] printed in fluorescent pink, flat three-ink relief print with a thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dots, slight misregistration, on a flat deep navy field, evenly lit, flat ink printed on paper --ar 17:11 --s 150 --c 10 --sref [RELIEF STYLE REFERENCE URL] --sw 60 --hd --no text, letters, words, numbers, logo, watermark, skull, glow, gradient --raw --v 8.2
+a caricature of [historical figure, role, year], in [documented clothing only], [doing the documented action], drawn only in black line and coarse halftone with flat peach skin, the [punchline object] printed in fluorescent pink, flat three-ink relief print with a thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dots, slight misregistration, on a flat deep navy field, evenly lit, flat ink printed on paper --ar 17:11 --raw --s 150 --hd --v 8.2 --no text, letters, words, numbers, logo, watermark, skull, glow, gradient, chrome, 3d render, glossy
 ```
 
-- Always pair it with the no-likeness Prompt A (9.9 scene) as the fallback.
+- Always keep the no-likeness version A (9.9 scene) as the fallback.
+- Once the RELIEF reference has a web address, add `--sref <URL> --sw 60` right before `--v 8.2`.
 - Whether peach skin reads well on the navy field is an open question in the Workbook. Until Heather decides, prefer the cream field for generated caricatures and keep navy for cut-out period figures.
 
 ### 9.10 NEWSPRINT
 
-LOUD (Out Back, tabloid interiors):
+LOUD (Out Back, tabloid interiors), version A, the safe read:
 
 ```
-[one plain subject, concrete and specific], printed on gray tabloid newsprint, soft black ink, coarse halftone, generous empty space, evenly lit --ar [ratio] --s 80 --c 0 --no text, letters, words, numbers, logo, watermark, glow --raw --v 8.2
+[one plain subject, concrete and specific], a halftone newspaper photograph lit by [the real light source in the scene], printed on gray tabloid newsprint, soft black ink, coarse halftone, off-center cropped framing, ink slightly smudged along the fold, faint show-through from the other side of the page, generous empty space --ar [ratio] --raw --s 80 --v 8.2 --no text, letters, words, numbers, logo, watermark, neon, pink, glow, HDR, airbrushed skin, bokeh
 ```
 
-QUIET (only where section 3.5 allows a generated image):
+LOUD, version B, the bold joke:
 
 ```
-[one plain object or empty place, no people], printed on gray tabloid newsprint, soft black ink, coarse halftone, generous empty space, plain and quiet, no collage, no bright color --ar [ratio] --s 60 --c 0 --no text, letters, words, numbers, logo, watermark, pink, color, people --raw --v 8.2
+[the bolder version of the subject, concrete and specific], a halftone newspaper photograph lit by [the real light source in the scene], printed on gray tabloid newsprint, soft black ink, coarse halftone, off-center cropped framing, ink slightly smudged along the fold, faint show-through from the other side of the page, generous empty space --ar [ratio] --raw --s 80 --v 8.2 --no text, letters, words, numbers, logo, watermark, neon, pink, glow, HDR, airbrushed skin, bokeh
+```
+
+LOUD, version C, a different take:
+
+```
+[a different subject that makes the same point, concrete and specific], a halftone newspaper photograph lit by [the real light source in the scene], printed on gray tabloid newsprint, soft black ink, coarse halftone, off-center cropped framing, ink slightly smudged along the fold, faint show-through from the other side of the page, generous empty space --ar [ratio] --raw --s 80 --v 8.2 --no text, letters, words, numbers, logo, watermark, neon, pink, glow, HDR, airbrushed skin, bokeh
+```
+
+QUIET (only where section 3.5 allows a generated image). QUIET versions carry no joke: A is the plain view, B a closer crop, C a different object or place.
+
+QUIET, version A:
+
+```
+[one plain object or empty place, no people], a halftone newspaper photograph lit by [the real light source in the scene], printed on gray tabloid newsprint, soft black ink, coarse halftone, faint show-through from the other side of the page, generous empty space, plain and quiet, no collage, no bright color --ar [ratio] --raw --s 60 --v 8.2 --no text, letters, words, numbers, logo, watermark, pink, neon, color, people, glow, HDR, bokeh
+```
+
+QUIET, version B:
+
+```
+[the same object or place, closer and cropped off-center, no people], a halftone newspaper photograph lit by [the real light source in the scene], printed on gray tabloid newsprint, soft black ink, coarse halftone, faint show-through from the other side of the page, generous empty space, plain and quiet, no collage, no bright color --ar [ratio] --raw --s 60 --v 8.2 --no text, letters, words, numbers, logo, watermark, pink, neon, color, people, glow, HDR, bokeh
+```
+
+QUIET, version C:
+
+```
+[a different plain object or empty place from the same story, no people], a halftone newspaper photograph lit by [the real light source in the scene], printed on gray tabloid newsprint, soft black ink, coarse halftone, faint show-through from the other side of the page, generous empty space, plain and quiet, no collage, no bright color --ar [ratio] --raw --s 60 --v 8.2 --no text, letters, words, numbers, logo, watermark, pink, neon, color, people, glow, HDR, bokeh
 ```
 
 - Out Back adds its one flat pink shape in layout, never in the prompt.
+- If the light source is a lamp in the frame, take `glow` out of the `--no` list.
+- Add `--hd` right after the `--s` value for a full page or a spread.
+
+### 9.11 Photo-real period still (historical scene or figure)
+
+Use it only where section 6 allows: a historical scene or figure from the photographic era (about 1840 on), on a LOUD page, doing only what the evidence rates Proven. Never for a living person, never for a figure who lived before photography, and never for people harmed in a QUIET story.
+
+Version A, the safe read (no likeness):
+
+```
+a [period photograph from the 8.12 era list, such as a gelatin silver print from a glass-plate negative] of [the documented place, objects and hands from the year, no faces], lit by [the real light source], deep focus, off-center cropped framing, [two or three real imperfections, such as a soft corner, dust specks and a slight tilt], no retouching --ar [ratio] --raw --s 75 --v 8.2 --no text, letters, words, numbers, logo, watermark, neon, pink, glow, HDR, airbrushed skin, bokeh
+```
+
+Version B, the bold moment (the likeness):
+
+```
+a [period photograph from the 8.12 era list] of [the historical figure, role and year] in [documented clothing only], [doing the documented action], ordinary-looking people with real skin, lit by [the real light source], deep focus, off-center cropped framing, [two or three real imperfections], no retouching --ar [ratio] --raw --s 75 --v 8.2 --no text, letters, words, numbers, logo, watermark, neon, pink, glow, HDR, airbrushed skin, bokeh
+```
+
+Version C, a different take:
+
+```
+a [period photograph from the 8.12 era list] of [the historical figure, role and year] small in a wide view of [the documented place], seen from across the room, in [documented clothing only], ordinary-looking people with real skin, lit by [the real light source], deep focus, off-center cropped framing, [two or three real imperfections], no retouching --ar [ratio] --raw --s 75 --v 8.2 --no text, letters, words, numbers, logo, watermark, neon, pink, glow, HDR, airbrushed skin, bokeh
+```
+
+- No style reference.
+- Add `--hd` right after `--s 75` for full pages, spreads, covers and YouTube hero art.
+- If the light source is a lamp in the frame, take `glow` out of the `--no` list.
+- Credit: "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph." It stays out of Sources and is never captioned as archival (section 6).
+- If Midjourney refuses the name or the likeness comes out off-model, pick A.
 
 ---
 
@@ -3178,11 +3497,11 @@ QUIET (only where section 3.5 allows a generated image):
 If a vendor uses another image generator, the same standard applies. Translate it; do not loosen it.
 
 - Describe materials and methods in the same words as the templates (relief print, coarse halftone, misregistration, warm cream paper, flat silkscreen fields, paper edges lifting).
-- Keep every ban: no artist, studio, shop or magazine names; no generated lettering; "completely blank" on every paper and sign; no glow or gradient; the people rules in section 6.
+- Keep every ban: no artist, studio, shop or magazine names; no generated lettering; "completely blank" on every paper and sign; no glow or gradient; no gloss words (8.12); the people rules in section 6.
 - Match the aspect ratios and the print resolution (300 dpi at final size).
 - Use only SIDE EYE's own two approved images as style or image references, if the tool takes references. Never upload outside artwork.
 - Switch off any feature that adds a personal or "house" style from the tool.
-- Write A and B prompts and log them the same way (section 12), with the tool's name and version in place of "Midjourney v8.2."
+- Write A, B and C prompts and log them the same way (section 12), with the tool's name and version in place of "Midjourney V8.2."
 - Credit the actual tool used (06 has the credit format).
 - Any tool that cannot produce flat ink without glow or gloss, or keeps writing letters, is not fit for SIDE EYE art. Tell the art director before using it.
 
@@ -3190,16 +3509,20 @@ If a vendor uses another image generator, the same standard applies. Translate i
 
 ## 11. AI video in magazine promos
 
-These rules come from the Brand Standards hub (Visual identity > AI-generated video, Decision log 2026-11-24). They apply to every promo for the magazine: trailers, social clips, Shorts, animated covers.
+These rules come from the Brand Standards hub (Visual identity > AI-generated video, Decision log 2026-11-24, and section 11, rule 11). They apply to every promo for the magazine: trailers, social clips, Shorts, animated covers.
 
-- Generated footage illustrates an idea. It never stands in for real footage of a real person.
+- Midjourney video is image-to-video only. Animate a still that was made and picked under this document; never generate footage from words alone.
+- The default settings are `--motion low --raw`. Use `--loop` for b-roll that repeats (a fireplace, a ticker). Use `--motion high` only when the art director asks for it.
+- A motion prompt takes only the video parameters (`--motion low` or `--motion high`, `--raw`, `--loop`, `--end`, `--bs`). The `--no` list (8.3) goes on the still you animate. Describe the motion in plain physical terms ("the newspaper pages lift slightly in a draft, the fire flickers"), and never ask for lettering.
+- AI video illustrates an idea. It is never something that could pass for real footage of a real person.
 - Use it for scenes, objects and moments: a magazine page turning, a letter being written, a newspaper being read, a fire in a fireplace, trees being cleared.
 - Never show a real person, living or historical, acting on screen in generated footage that a viewer could take for real film of them.
-- Hands, objects, settings, silhouettes and clearly stylized art are fine. Generated stills and stylized likenesses of historical figures stay allowed.
+- Never animate a photo-real period still (9.11) or any photographic likeness of a real person. Animate the objects, paper, places, hands and prints instead.
+- Hands, objects, settings, silhouettes and clearly stylized art are fine. Generated stills and stylized likenesses of historical figures stay allowed, as stills.
 - **The pause test:** pause any frame. If a viewer could believe it is real archival or news footage of that person, restyle it or cut it.
 - Keep the house look in motion: animate RELIEF, COLLAGE or WOOD TYPE art, never a glossy rendered scene.
 - No generated lettering in video either. Titles and type are added in the edit.
-- The Midjourney Prompt Workbook notes Midjourney video clips run 5 seconds (extendable to 21) at 720p. Check the current limits before planning a shot around them.
+- Midjourney video clips run 5 seconds (extendable to 21) at 720p, per the Midjourney Prompt Workbook and the desk playbook. Check the current limits before planning a shot around them.
 - Video thumbnails and end screens are not covered here; see the Brand Standards hub, The YouTube show > Packaging.
 
 ---
@@ -3209,18 +3532,20 @@ These rules come from the Brand Standards hub (Visual identity > AI-generated vi
 ### 12.1 How many to generate
 
 - Lock the look first. For each feature, generate its opener (or its most important image) first, pick it, then run the rest to match.
-- Run Prompt A and Prompt B once each. That gives two grids of four.
-- If neither grid works, apply one fix from section 8.11 and rerun. Stop after four grids for one image. If it still fails, rewrite the concept or switch to a period image, and note it in the art-direction doc's open items.
+- Run versions A, B and C once each. That gives three grids of four.
+- If no grid works, apply one fix from section 8.11 and rerun the closest version. Stop after six grids for one image (the first three plus three reruns). If it still fails, rewrite the concept or switch to a period image, and note it in the art-direction doc's open items.
 - Run sets (icons, cameos, AI Dead portraits, Apocrypha markers) in one sitting with the same settings, and pick them together so weight and color match.
+- Before each session, check that Personalization is off in settings and that no switched-off parameter is in any prompt (8.3).
 
 ### 12.2 How to pick
 
 Pick the image that passes every line below. Zoom to 200% before you decide.
 
 - [ ] The joke reads at final printed size in under three seconds.
-- [ ] Pink sits on the punchline object and nowhere else.
+- [ ] Pink sits on the punchline object and nowhere else. Photographic stills have no pink and no neon.
 - [ ] Black plus two inks (count them). No glow, gradient, chrome or gloss.
-- [ ] No stray letters, numbers or symbols anywhere, including on paper edges and spines.
+- [ ] It looks made, not rendered: real print or capture process, real light, era-true camera and film, real imperfections (8.12).
+- [ ] No stray letters, numbers, symbols or logos anywhere, including on paper edges and spines.
 - [ ] Hands, animals and counts are correct. No extra fingers or legs.
 - [ ] Props are accurate for the period.
 - [ ] No style-reference leakage (stray skulls, emus).
@@ -3241,9 +3566,10 @@ Log every image in the issue's art log (11 Templates, section 4 gives the full h
 | Image ID | The same ID as the rights log, for example SE-V02-I07 (06 and 09 set the pattern) |
 | Slot ID and page | The art-direction doc code and the page or spread |
 | Process and inks | For example, RELIEF, pink + cyan, pink = the hat |
-| Prompt as run | The exact text pasted, with the reference token left as `[RELIEF STYLE REFERENCE URL]`, not the link |
-| A or B | Which prompt won, and any fix applied |
-| Generator and version | Midjourney v8.2 (or the other tool) |
+| Prompt as run | The exact text pasted. If a style reference link was used, write RELIEF REFERENCE or COLLAGE REFERENCE in its place, not the link |
+| A, B or C | Which version won, and any fix applied |
+| Generator and version | Midjourney V8.2 (or the other tool) |
+| Settings check | Personalization off; no switched-off parameters; chaos 0 |
 | Seed | If the tool shows one; otherwise "not shown" |
 | Job ID | The generator's job ID for the picked image, and its grid position (1 to 4) |
 | Date | The date generated |
@@ -3251,7 +3577,7 @@ Log every image in the issue's art log (11 Templates, section 4 gives the full h
 | Pixel size and 300 dpi check | Pixels, placed size, pass or fail |
 | Edits in layout | Cut-out, composite, color shift to ink builds, cleanup |
 | Source and license | "Generated," or the period source and rights line per 06 |
-| Credit line | Per 06 |
+| Credit line | Per 06: "Illustration generated with Midjourney and edited by SIDE EYE." for generated art; "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph." for a photo-real period still |
 | Status | To run · Running · Picked · Needs rerun · Placed · Skip |
 | Approved by and date | Filled only by Heather or the person she names |
 
@@ -3268,12 +3594,12 @@ Log every image in the issue's art log (11 Templates, section 4 gives the full h
 
 Art makes arguments, so art is held to the same proof standard as the text.
 
-- **Art never implies a claim rated below Proven.** Use the research scale: only Documented (script label PROVEN) claims may be drawn as fact. Likely, Contested, Unsupported and Refuted claims are never drawn as if true.
+- **Art never implies a claim rated below Proven.** Use the research scale: only Documented (script label PROVEN) claims may be drawn as fact. Likely, Contested, Unsupported and Refuted claims are never drawn as if true. Art never implies a crime, deal or motive the research can't prove.
 - Check each image against the article's Scorecard and its Must NOT claim list. That list binds the art as much as the words.
 - Watch for implied claims: a hand pulling strings implies control; a leash implies ownership; a figure first in line or larger than the rest implies leadership; a crown implies rule. If the control is only Likely, no strings, leash or hand above him.
 - Never show a myth happening as if it were true. Apocrypha and Still Wrong art shows the prop, not the myth.
 - **Illustrations carry the argument; period images carry the proof.** An illustration never imitates a period print, map, letter, newspaper or document, and never sits inside one. A period image never sits inside an illustration made to look like a document (a fake scroll, ledger page or certificate frame around it).
-- Generated images are illustrations, never records. Real records come from archives (06).
+- Generated images are illustrations, never records. Real records come from archives (06). A photo-real period still is an illustration too: it carries its photo-illustration credit, stays out of Sources, is never captioned as archival, and never sits beside real archival photos as if it were one of them.
 - If no Scorecard came with the article, draw only what the fact-checked text states plainly, and log the gap as an open item.
 
 ---
@@ -3287,12 +3613,12 @@ Every feature or issue gets one art-direction doc, modeled on the Napoleon Art D
 | 1. Concept | The one visual idea for the feature, tied to the thesis in a sentence. The recurring stand-ins (Napoleon is his hat; the people who used him are hands, known by their cuffs). The joke, and what pink marks. Placement (volume, tab, case header). |
 | 2. Print style table | For each image or page: process, inks and the pink object, paper or field, type faces. |
 | 3. Flatplan | Page by page: spread number, page recipe (03), images by code, headline treatment, register (LOUD or QUIET), filing tab. Note rhythm (where illustrations lead and where evidence leads) and any page that must stay a single page (a centered image that would fall in the gutter). |
-| 4. Prompts | A and B for every generated image, copy-ready in code blocks, with the style reference and weight named. Image codes: C cast, I illustration, H historical, plus the page-brief fields from section 7. Include the misbehavior fixes specific to this feature (the prop that drifts). |
-| 5. Historical images | Each with artist, title, date, holding institution, license or public-domain line, and a link (format and rights rules in 06). Mark each "checked" with the date, or "not yet cleared." |
+| 4. Prompts | A, B and C for every generated image (8.7), each complete and ready to copy and paste, one per code block, with no placeholders. Name the style reference and weight; until the reference has a web address, run without it and list the missing address in open items (8.6). Image codes: C cast, I illustration, H historical, plus the page-brief fields from section 7. Include the misbehavior fixes specific to this feature (the prop that drifts). |
+| 5. Historical images | Each with artist, title, date, holding institution, license or public-domain line, and a link (format and rights rules in 06). Mark each "checked" with the date, or "not yet cleared." Generated photo-real stills never go in this section. |
 | 6. Built in layout (not generated) | A table of everything made by hand or in layout: lettering, wood-type plates, cover lines, captions, charts, timelines, maps, composites, ornaments, cut lines. |
-| 7. Credit lines | One for every image: generated, composite and historical (formats in 06). |
-| 8. Open items | Checks before print: rights still open, proof review of neon builds, prop accuracy, expert reads for sensitive spreads, anything the art could imply that the Scorecard cannot prove, and every "until Heather decides" item that touches this feature. |
-| 9. Sources | Titles of the docs and research it was built on. |
+| 7. Credit lines | One for every image: generated, composite and historical (formats in 06). Generated art: "Illustration generated with Midjourney and edited by SIDE EYE." Photo-real period stills: "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph." |
+| 8. Open items | Checks before print: rights still open, proof review of neon builds, prop accuracy, expert reads for sensitive spreads, anything the art could imply that the Scorecard cannot prove, missing style reference addresses, and every "until Heather decides" item that touches this feature. |
+| 9. Sources | Titles of the docs and research it was built on. Photo-real period stills are never listed here. |
 
 Optional section, when sources disagree: a short table of "where the skill, v3 and older docs disagree, and what this doc followed." Never settle a disagreement yourself; follow the hub and list it.
 
@@ -3303,35 +3629,45 @@ Optional section, when sources disagree: a short table of "where the skill, v3 a
 Run this on every prompt and every page plan. 08 Quality Checklists holds the full issue checklist.
 
 - [ ] One process per image; HYBRID only for real historical people.
-- [ ] Black plus two inks (covers and tabloid excepted); one pink focus, named in the prompt.
-- [ ] Every prompt ends `--raw --v 8.2`; `--ar`, `--s` and `--c` set; `--hd` where 8.3 requires it.
-- [ ] Style reference only on RELIEF, HYBRID (`--sw 60`) and COLLAGE backgrounds (`--sw 30`), using SIDE EYE's own approved images only.
-- [ ] No artist, studio, shop or magazine names in any prompt.
+- [ ] Black plus two inks (covers and tabloid excepted); one pink focus, named in the prompt. Photographic stills have no pink and no neon.
+- [ ] Three versions per image (A the safe read, B the bold joke, C a different take), each complete, one per code block, no placeholders.
+- [ ] Every prompt uses the standard ending with `--raw` and `--v 8.2` (8.3); `--ar` and `--s` set, `--s` in its band and never above 300; `--hd` on full pages, spreads, covers and YouTube hero art, with the ratio 4:1 or narrower.
+- [ ] A `--no` list on every prompt: text, letters, words, numbers, logo, watermark; prints add glow, gradient, chrome; a photo with a real lamp leaves glow out.
+- [ ] Style reference only on RELIEF, HYBRID (`--sw 60`) and COLLAGE backgrounds (`--sw 30`), using SIDE EYE's own approved images only, by web address, never a Drive link. Never `--sw` without `--sref`. No moodboards.
+- [ ] Switched off: Personalization (in settings too), `--p`, `--weird`, `--exp`, `--q`, `--sv`, `--oref`, `--ow`, `--cref`, `::` weights. Chaos 0.
+- [ ] Never looks AI (8.12): real capture or print process, real light source, era-true camera and film, two or three real imperfections, no gloss words.
+- [ ] Source or inspiration image addresses first in the prompt.
+- [ ] No artist, studio, shop or magazine names in any prompt. Film stocks and camera models only as materials; no brand or logo in the image.
 - [ ] No generated lettering; every paper and sign described as "completely blank."
-- [ ] People rules met: historical likenesses as caricature only, with a no-likeness fallback; no generated likeness of a living person until Heather decides; AI Dead are skulls with one prop; no one harmed in a QUIET story is illustrated.
+- [ ] People rules met (section 6): historical likenesses as caricature, period art or a credited photo-real period still, with a no-likeness version A; living people only as caricature or print, never photoreal, with sourced public facts only; AI Dead are skulls with one prop; no one harmed in a QUIET story is illustrated.
 - [ ] Period art never recolored; peach only on cut-out skin.
 - [ ] QUIET pages: no neon, no collage, no jokes.
 - [ ] The joke is true on the evidence; nothing implies a claim below Proven.
 - [ ] No illustration imitates or sits inside a period document.
-- [ ] Every image logged (prompt, seed, job ID, date, file name, pixel size).
-- [ ] Every image has a credit line and, for period art, a cleared rights line (06).
+- [ ] Every image logged (prompt, version, seed, job ID, date, file name, pixel size).
+- [ ] Every image has a credit line and, for period art, a cleared rights line (06). Photo-real period stills carry the photo-illustration credit and stay out of Sources.
 - [ ] Neon-heavy art flagged for proof review (07).
-- [ ] Any AI video passes the pause test.
+- [ ] Any AI video is image-to-video, `--motion low --raw` by default, and passes the pause test.
 
 ---
 
 ## 16. Skill rules that are out of date
 
-The installed side-eye-art-direction skill is the tool most agents will load. Until it is updated, this document wins where they differ.
+The installed side-eye-art-direction skill is the tool most agents will load. As of November 25, 2026, it still says the things in the left column below, which are out of date. Section 11 of the Brand Standards hub wins over the skill, and this document follows section 11.
 
 | The skill says | Current rule | Why |
 | :-- | :-- | :-- |
-| "No faces or likenesses of real people, living or dead"; checklist "No generated faces of real people" | Generated likenesses of historical figures are allowed as caricature or period art; living people follow sourced-public-facts-only | Heather's decision, recorded in the hub's Decision log and Skills section |
-| Every prompt ends `--style raw --v 8.2` | Every prompt ends `--raw --v 8.2` | Midjourney's current parameter list documents `--raw`; the Workbook already uses it |
-| RELIEF template at `--s 250`, no `--c`, no `--no` tail on RELIEF | RELIEF at `--s 150` (250 if too plain), `--c 0` A and `--c 10` B, `--no` tail with `skull` | Workbook v8.2 hardening (style-reference leakage, stylize range) |
-| Silent on Personalization | Personalization off | Workbook settings |
-| Silent on AI video | Pause test applies to promo video | Decision log, 2026-11-24 |
-| Per-image "generated with Midjourney" credit | The hub's magazine section calls for one Midjourney credit in the colophon, plus image credits; see 06 for the exact rule | Hub, The magazine > What's in every issue |
+| Every prompt ends `--style raw --v 8.2` | Every prompt uses `--raw` in the standard ending (8.3) | Hub section 11, rule 2 |
+| Give two prompts (A and B) per image, A the safer read and B the bolder joke | Three versions per image: A the safe read, B the bold joke, C a different take, each complete with no placeholders | Hub section 11, rule 8 |
+| "No faces or likenesses of real people, living or dead"; checklist "No generated faces of real people" | Generated likenesses of historical figures are allowed, including photo-real period stills with their own credit; living people only as caricature or print, never photoreal, with sourced public facts only | Hub section 11, rules 10 and 13; Heather's decision in the Decision log |
+| Add `--hd` for full-page and spread art | `--hd` for full pages, spreads, covers and YouTube hero art; HD caps the ratio at 4:1 | Hub section 11, rule 4 |
+| Too clean: raise `--sw` | Weights are fixed at 60 (RELIEF) and 30 (COLLAGE); fix a clean collage in the words | Hub section 11, rule 5 |
+| RELIEF template at `--s 250`, no `--c`, no `--no` tail on RELIEF | RELIEF at `--s 150` (up to 250); chaos 0; a `--no` list on every prompt with glow, gradient, chrome on prints | Hub section 11, rules 3, 6 and 7 |
+| Silent on Personalization and other switches | Personalization off in settings and no `--p`; also off: `--weird`, `--exp`, `--q`, `--sv`, `--oref`, `--ow`, `--cref`, `::` weights | Hub section 11, rule 6 |
+| Silent on looking AI | The never-looks-AI rules (8.12) | Hub section 11, rule 9 |
+| Names the reference images by Drive id | Drive links don't work in Midjourney; use a web address, and run without a reference until one exists (8.6) | Hub section 11, rules 5 and 14 |
+| Silent on AI video | Image-to-video only, `--motion low --raw` by default; the pause test applies to promo video | Hub section 11, rule 11; Decision log, 2026-11-24 |
+| Per-image "generated with Midjourney" credit | Generated art keeps "Illustration generated with Midjourney and edited by SIDE EYE." Photo-real period stills carry "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph." The colophon rule is in 06 | Hub section 11, rule 13; Hub, The magazine > What's in every issue |
 | Links to source docs by Drive id | Refer to docs by title; links are added by the portal | Portal is public |
 
 The hub's own list of out-of-date skill rules says the skill's "pink marks the one thing to see first" is out of date. That is true for video only. For print, the Decision log keeps one pink focus per page, so the skill's print rule still stands.
@@ -3342,22 +3678,51 @@ The hub's own list of out-of-date skill rules says the skill's "pink marks the o
 
 - SIDE EYE Design System v3: Neon Zine Print
 - Brand Standards hub (Visual identity; The magazine; For vendors, editors and AI agents; Skills; Decision log)
+- Brand Standards hub, section 11 Midjourney (Nov 25, 2026)
 - SIDE EYE Design System v2, Addendum B: Image Prompts v3, Midjourney 8.2
 - Midjourney Prompt Workbook v2 (00 Read Me; 01 Magazine; 04 V3 Napoleon)
+- The Midjourney desk's V8.2 playbook, Never Looks AI (read November 25, 2026; the hub wins where they differ)
 - Napoleon Art Direction
 - Art Briefs v1: The Mating Issue (as a worked example; its "Heather's update" items are treated as open questions)
 - side-eye-art-direction skill
 - Midjourney's published parameter list (checked November 24, 2026)
 
+---
+
+## Changes in 1.1
+
+- Added the line that Midjourney rules follow the Brand Standards hub, section 11, and that section 11 wins.
+- Every prompt now uses `--raw` (never `--style raw`) in the standard ending, `--ar W:H --raw --s # [--hd] [--sref URL --sw #] --v 8.2 --no ...` (8.2, 8.3).
+- Two prompts per image (A and B) became three versions: A the safe read, B the bold joke, C a different take. 8.7 retitled; sections 7, 9, 10, 12, 14 and 15 updated.
+- Every section 9 template now shows A, B and C in separate code blocks.
+- Added 9.11, a template for photo-real period stills.
+- Stylize set to the hub's bands (photographs 50 to 100, prints 100 to 250, never above 300); COLLAGE background moved to 250 (8.5).
+- `--hd` now covers full pages, spreads, covers and YouTube hero art, with the 4:1 cap (8.3, 8.4).
+- Style references: only SIDE EYE's own approved images, fixed weights, never `--sw` without `--sref`, no moodboards, no Drive links. The house references have no web addresses yet, so prompts run without them and each template notes where to add them (8.6).
+- Listed the parameters switched off for house art, and set chaos to 0 for every version (8.1, 8.3).
+- A `--no` list on every prompt, with glow, gradient and chrome on prints and neon and pink on photographs (8.3, section 9).
+- Added 8.12 Never looks AI, with the hub's rules, the desk playbook's gloss-word list and the era-true camera and film list. Removed "photorealistic" from the COLLAGE prompts and named the capture method, light and imperfections instead.
+- COLLAGE wording updated: hand-made mixed-media paper collage, a real photograph printed in flat silkscreen color fields, torn scraps of completely blank aged paper and blank gray newsprint, and "for the headline" on openers (3.2, 9.4).
+- Section 6 updated: historical likenesses allowed, including credited photo-real period stills; living people only as caricature or print with sourced public facts; AI Dead skulls kept as a house format; 9.3 Cast cameo gains a caricature version C.
+- Section 11 video updated: image-to-video only, `--motion low --raw` by default, and no animated photographic likeness of a real person.
+- Section 8.9 now allows film stocks and camera models as materials, with no brand or logo in the image, and says adult and fun, never explicit.
+- Credit lines added for generated art and photo-real period stills (6, 12.3, 14, 15).
+- Source and inspiration image links go first in the prompt; Drive links don't work in Midjourney (8.2, 8.6).
+- Misbehavior fixes no longer change style reference weights, and gain a fix for images that look AI (8.11).
+- Generation budget is now three grids plus up to three reruns per image (12.1); the art log records the version letter and a settings check (12.3).
+- Section 16 lists what the side-eye-art-direction skill still says that is out of date and states that section 11 wins.
+- Added the hub's section 11 and the desk playbook to Sources.
+
 
 ---
 
 # 06 Imagery Sourcing, Rights and Credits
-Version 1.0 draft · November 24, 2026 · Owner: Bea Archer, Art Director, Photo, Archival Imagery and Rights
+Version 1.1 draft · November 25, 2026 · Owner: Bea Archer, Art Director, Photo, Archival Imagery and Rights
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 **Who this is for:** Anyone who finds, makes, treats, places or credits an image in a SIDE EYE issue: art directors, image researchers, layout designers, outside vendors and AI agents.
 **Use it when:** You need an image of any kind, you are about to place one, you are filling in the rights log, you are writing credit lines or the colophon, or you are running the rights check before print.
-**Related:** 01 Issue Design Process: From Brief to Print-Ready Files; 03 Page and Spread Standards; 04 Grid and Typography; 05 Art and Illustration Direction (with Midjourney Prompt Standards); 07 Print Production and Prepress (Amazon KDP); 08 Quality Checklists; 09 File Naming, Folders and Handoff Specs; 12 Decision Log; 13 Open Questions for Heather. Source docs: the Brand Standards hub (Visual identity: People in pictures, Image rights); SIDE EYE Design System v3: Neon Zine Print (Rules and rights; HYBRID); Design System v2 Core; v2 Addendum A, KDP Production Spec 8.5 x 11.
+**Related:** 01 Issue Design Process: From Brief to Print-Ready Files; 03 Page and Spread Standards; 04 Grid and Typography; 05 Art and Illustration Direction (with Midjourney Prompt Standards); 07 Print Production and Prepress (Amazon KDP); 08 Quality Checklists; 09 File Naming, Folders and Handoff Specs; 12 Decision Log; 13 Open Questions for Heather. Source docs: the Brand Standards hub (Visual identity: People in pictures, Image rights; section 11, Midjourney); SIDE EYE Design System v3: Neon Zine Print (Rules and rights; HYBRID); Design System v2 Core; v2 Addendum A, KDP Production Spec 8.5 x 11.
 
 ---
 
@@ -3371,7 +3736,7 @@ Read these first. Every other section explains one of them.
 4. **If you can't confirm the rights, replace the image.** No layout may depend on one image we can't clear.
 5. **Illustrations carry the argument. Period images carry the proof.** An illustration never imitates a period document and never sits inside one.
 6. **Period art is never recolored pink or neon.** It gets grayscale and coarse halftone, or full color on openers only. In HYBRID, skin is the one peach.
-7. **People:** generated likenesses of historical figures are allowed as caricature or real period art. Living people follow the sourced-public-facts-only rule. No image, caption or pairing may imply a crime, deal or motive the Scorecard rates below Proven.
+7. **People:** real period art of historical figures is allowed, and so are generated likenesses, including photo-real period stills. A photo-real period still carries the photo-illustration credit (section 10), stays out of Sources and is never captioned as archival. Living people appear only as caricature or print, never as a photo-real picture that could pass for a real photo, and only with sourced public facts. No image, caption or pairing may imply a crime, deal or motive the Scorecard rates below Proven.
 8. **Found material shows no readable brand logos and no personal information.**
 9. **300 ppi at final placed size.** Nothing under 200 ppi is placed at any size.
 10. **Influences are credited in the colophon only.** Never name an artist, studio, shop or magazine in a prompt, caption, file name or marketing.
@@ -3386,7 +3751,7 @@ Pick the image type first, then the print process (see 05 Art and Illustration D
 
 | Code | Type | What it is | Allowed on | Never |
 | :- | :- | :- | :- | :- |
-| I | Generated art | Midjourney v8.2 images made by SIDE EYE in RELIEF, COLLAGE, WOOD TYPE (textures and woodcut cuts only) or NEWSPRINT | Covers, LOUD pages, openers, spot art, Out Back, AI Dead skulls | Passing as a photo or period document of a real person or event; any lettering; QUIET pages except a plain NEWSPRINT still life (see 2.2) |
+| I | Generated art | Midjourney v8.2 images made by SIDE EYE in RELIEF, COLLAGE, WOOD TYPE (textures and woodcut cuts only) or NEWSPRINT | Covers, LOUD pages, openers, spot art, Out Back, AI Dead skulls; photo-real period stills of historical figures (9.1) | Passing as a real photo, real footage or a period document (a photo-real period still is allowed only with the photo-illustration credit, 9.1); a photo-real picture of a living person; any lettering; QUIET pages except a plain NEWSPRINT still life (see 2.2) |
 | H | Archival image | Public-domain or free-license period art, prints, archival photographs, documents, maps, artifacts | Anywhere. It is the only image type allowed for proof | Recolored pink or neon; joked over on QUIET pages; uploaded to Midjourney |
 | X | Composite | A real archival figure cut out and combined with generated art (the HYBRID recipe) | Openers about a real historical person | Using a living person; using any figure that isn't public domain |
 | P | Our photo | Photos SIDE EYE shot: props, collage boards, stunts, the mailing and its replies | Anywhere | Readable logos; private people's personal information |
@@ -3400,7 +3765,7 @@ Maps and charts are drawn in-house in layout, not generated. Midjourney can't pl
 
 | Page type | What may appear |
 | :- | :- |
-| Cover | COLLAGE: generated scene and generated photoreal hero cut-out, cover lines set in type on torn strips and photographed. Any real person on a cover: stop and ask Heather (see 9.3). |
+| Cover | COLLAGE: generated scene and generated photographic hero cut-out, cover lines set in type on torn strips and photographed. Any real person on a cover: stop and ask Heather (see 9.3). |
 | LOUD feature and opener | Generated art, archival images with the house finish, HYBRID composites on openers about a real historical person. |
 | QUIET feature | Archival images only, printed plainly: black, gray, wide margins, plain halftone, no pink, no collage, no jokes in the art or captions. A generated NEWSPRINT still life of an object (an empty shelf, a lone book) is the only generated image allowed, and it shows no people, places or events as if real. |
 | Out Back and tabloid section | NEWSPRINT: generated or archival, halftone on the newsprint tint. |
@@ -3559,7 +3924,7 @@ The example column shows the format only, using a Vol. 1 image. It is not a reco
 | Pixels and effective ppi | Pixel size and ppi at the placed size | 3,000 × 3,600 px; 400 ppi at 7.5 × 9 in |
 | Notes | Anything a checker needs: reason for Pending, the open question, the replacement | |
 
-For generated art, write Source "Midjourney v8.2," Creator "SIDE EYE," and the prompt's ID from the art-direction doc in Notes.
+For generated art, write Source "Midjourney v8.2," Creator "SIDE EYE," and the prompt's ID from the art-direction doc in Notes. For a photo-real period still, also write "Photo illustration, not archival" in Notes and put the photo-illustration credit line from section 10 in the Credit line field.
 
 ### 5.2 Statuses
 
@@ -3601,6 +3966,8 @@ Follow the HYBRID recipe in Design System v3. The rights side:
 - Generated paper, ledgers, letters and signs are always "completely blank."
 - When a page needs a real document, use the archival scan. In comps, a placeholder is fine. Replace it before print.
 - Caption a generated reconstruction of a real place or object as an illustration or reconstruction.
+- A generated photo-real period still of a historical figure is allowed (9.1). It is an illustration, not evidence: it carries the photo-illustration credit (section 10), stays out of Sources, is never captioned as archival, and never imitates or sits inside a period document.
+- Real archival images are labeled as archival: their caption and credit name the creator, date, holding institution and basis (section 10), so a reader can always tell them from SIDE EYE's art.
 - No generated lettering anywhere. Every word is set in type or hand-lettered.
 
 ---
@@ -3610,10 +3977,12 @@ Follow the HYBRID recipe in Design System v3. The rights side:
 05 Art and Illustration Direction (with Midjourney Prompt Standards) owns how to make generated art. For rights:
 
 - Generate only from SIDE EYE's own approved style references. Never upload anyone else's artwork, a period image or a photo as a reference or image prompt.
+- Source or inspiration image URLs go in the prompt (image prompts first, or after `--sref`). Google Drive links don't work in Midjourney. This sets where a link goes, not which images may be used: the rule above still decides that.
 - Never name an artist, studio, shop or magazine in a prompt.
 - Check every generation at 100 percent before you log it: no letters or fake text, no logos or near-logos, no recognizable product designs, no unintended faces.
-- A generated person must read as caricature or stylized art, never as a photo of a real person.
-- Log every placed generated image (type I). Its credit is the single Midjourney credit (section 10).
+- A generated historical figure may be a caricature, a print or a photo-real period still. A photo-real period still carries the credit "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph." It stays out of Sources and is never captioned as archival.
+- A generated living person is only ever a caricature or print, never a photo-real picture that could pass for a real photo, and shows only what sourced public facts support (9.2).
+- Log every placed generated image (type I). Its credit is the single Midjourney credit (section 10). A photo-real period still also carries the photo-illustration credit.
 
 ---
 
@@ -3650,7 +4019,8 @@ Follow the HYBRID recipe in Design System v3. The rights side:
 
 ### 9.1 Historical people
 
-- Real period art of historical figures is allowed. So are generated likenesses, as caricature or stylized art, never photoreal.
+- Real period art of historical figures is allowed. So are generated likenesses: caricature, print or a photo-real period still.
+- A photo-real period still carries the credit "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph." It stays out of Sources and is never captioned as archival. It never imitates or sits inside a period document (6.3).
 - AI Dead figures are always skulls wearing one defining prop.
 - A person shown suffering, dead or as a victim runs plainly on a QUIET page. Never cut out, composite, recolor or joke around that image.
 
@@ -3658,8 +4028,10 @@ Follow the HYBRID recipe in Design System v3. The rights side:
 
 - Follow the sourced-public-facts-only rule. Show only what the sources prove they did.
 - Use only free-licensed real photos (often official US government portraits, after the checks in 4.1). Run them unaltered except crop, grayscale and halftone.
-- Never composite a living person into a scene, give them props, or show them doing anything.
-- Don't generate a likeness of a living person. Follow this until Heather decides (open question).
+- Never composite a real photo of a living person into a scene, give it props, or change it beyond crop and tone.
+- A generated likeness of a living person is allowed only as caricature or print, never as a photo-real picture that could pass for a real photo, and only with sourced public facts (Brand Standards hub, section 11). This settles open question Q-21 in 13 Open Questions for Heather.
+- A caricature or print may show a living person only doing what sourced public facts support. Never show them doing something the research can't prove, and never imply a crime, deal or motive the research can't prove (9.3).
+- A living person on a cover, back cover or any promotion still needs Heather's OK (9.3).
 
 ### 9.3 What the art may imply
 
@@ -3677,7 +4049,8 @@ Copy these exactly. Fill the brackets. End each line with a period.
 
 | Image type | Credit line format | Example |
 | :- | :- | :- |
-| Generated art (I) | Covered by the one Midjourney credit. No per-image credit. | (none on the page) |
+| Generated art (I) | Covered by the one Midjourney credit. No per-image credit, except photo-real period stills (next row). | (none on the page) |
+| Photo-real period still (I) | Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph. | Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph. |
 | Composite, HYBRID (X) | Figure from [artist, title, date, holding institution], cut out and altered by SIDE EYE; illustration generated with Midjourney and edited by SIDE EYE. | Figure from James Gillray, The King of Brobdingnag and Gulliver, 1803, The Metropolitan Museum of Art, cut out and altered by SIDE EYE; illustration generated with Midjourney and edited by SIDE EYE. |
 | Period art (H) | [Artist], [Title], [date]. [Holding institution]. Public domain. | Roelant Savery, Edwards's Dodo, 1626. Natural History Museum, London. Public domain. |
 | Archival photo (H) | [Subject], [place], [date]. [Photographer] / [Holding institution]. Public domain. | Company E, 4th U.S. Colored Infantry, Fort Lincoln, D.C., November 1865. William Morris Smith / Library of Congress. Public domain. |
@@ -3690,17 +4063,25 @@ Copy these exactly. Fill the brackets. End each line with a period.
 
 Put "Public domain" or the license on every H line. Vol. 1 left it off some lines. Don't repeat that.
 
+A photo-real period still always carries its photo-illustration line, word for word, and never an archival-style credit.
+
 ### 10.2 Where credits go
 
-- **On the page:** a short credit in the caption (GT America Mono, set per 04 Grid and Typography) for every H and X image, or a page-by-page list if the page has no captions. QUIET captions carry no jokes.
+- **On the page:** a short credit in the caption (GT America Mono, set per 04 Grid and Typography) for every H and X image and every photo-real period still, or a page-by-page list if the page has no captions. QUIET captions carry no jokes.
 - **The colophon** carries three things: the one Midjourney credit, the image credits, and the influence credit (Brand Standards hub, The magazine).
-- **The full list:** Vol. 1 ran a page-by-page "Photo credits" list at the end of the back-of-issue sources section, headed: "Illustrations are generated with Midjourney and edited by SIDE EYE. Unless credited, they are not photographs of real people or events. Historical images are credited where they appear and listed here." If the list won't fit the colophon, do the same and point to it from the colophon. Where the list lives is an open question (see notes).
+- **The full list:** Vol. 1 ran a page-by-page "Photo credits" list at the end of the back-of-issue sources section, headed: "Illustrations are generated with Midjourney and edited by SIDE EYE. Unless credited, they are not photographs of real people or events. Historical images are credited where they appear and listed here." If the list won't fit the colophon, do the same and point to it from the colophon. Where the list lives is an open question (see notes). Photo-real period stills stay out of Sources: if the full list sits in the Sources section, list them in the colophon instead.
 
 ### 10.3 The Midjourney credit
 
 One credit, at the front of the magazine, in the colophon:
 
 > Illustration generated with Midjourney and edited by SIDE EYE.
+
+Photo-real period stills also carry their own line, with the image and in the colophon:
+
+> Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph.
+
+Never caption a photo-real period still as archival, and never list it in Sources. All other generated art keeps the one Midjourney credit above.
 
 ### 10.4 The influence credit
 
@@ -3801,12 +4182,15 @@ Run this per image when you log it, and again on the whole issue at the rights c
 
 **Generated images (I)**
 - [ ] No letters, logos, product designs or unintended faces.
-- [ ] Nothing that passes as a real photo or period document of a real person or event.
+- [ ] Nothing that passes as a real photo, real footage or period document of a real person or event.
+- [ ] Photo-real period stills show historical figures only, carry the photo-illustration credit, stay out of Sources and are never captioned as archival.
+- [ ] No photo-real picture of a living person. Living people only as caricature or print.
 - [ ] No outside artwork used as a reference or image prompt.
 - [ ] No artist, studio, shop or magazine named in the prompt.
+- [ ] Any image link in a prompt is a Midjourney address, not a Drive link.
 
 **People**
-- [ ] Living people: real free-licensed photos only, unaltered except crop and tone, facts sourced.
+- [ ] Living people: real photos are free-licensed and unaltered except crop and tone. Generated images are caricature or print only, never photo-real, and show only what sourced public facts support.
 - [ ] No image, crop, caption or pairing implies anything the Scorecard rates below Proven or lists under Must NOT claim.
 - [ ] Victims and suffering run plainly on QUIET pages.
 - [ ] Any living person on a cover or in promotion is approved by Heather.
@@ -3817,6 +4201,7 @@ Run this per image when you log it, and again on the whole issue at the rights c
 
 **Issue level**
 - [ ] One Midjourney credit, at the front, in the colophon.
+- [ ] Every photo-real period still has the photo-illustration credit with the image and in the colophon, and none appears in Sources.
 - [ ] Influence credit in the colophon only. Hatch Show Print named nowhere else.
 - [ ] The credit list matches the rights log one to one.
 - [ ] Known open issues (the Loving photographs) are resolved or the image is out.
@@ -3825,6 +4210,7 @@ Run this per image when you log it, and again on the whole issue at the rights c
 
 ## Sources this is built on
 
+- Brand Standards hub, section 11 (Midjourney), as of November 25, 2026
 - Brand Standards hub (Visual identity: Color rules, The five ways we make pictures, People in pictures, Image rights; The magazine; Decision log; Open questions for Heather)
 - SIDE EYE Design System v3: Neon Zine Print
 - SIDE EYE Design System v2 Core
@@ -3838,12 +4224,28 @@ Run this per image when you log it, and again on the whole issue at the rights c
 - Superseded history: Vol. 1 Art Direction and Brand Guidelines v1 (archival sourcing and rights checklist)
 - Past working sessions, November 23–24, 2026 (Mating Issue decisions; Vol. 1 image sourcing)
 
+---
+
+## Changes in 1.1
+
+- Added the line near the top: Midjourney rules follow the Brand Standards hub, section 11, and section 11 wins where they differ.
+- Card rule 7, section 2.1, section 7 and section 9.1: generated likenesses of historical figures may now be photo-real period stills. The old "never photoreal" wording is gone.
+- Photo-real period stills carry "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph.", stay out of Sources and are never captioned as archival.
+- Section 6.3: illustration still never imitates or sits inside a period document, and real archival images are labeled as archival.
+- Section 7: image URLs go in the prompt, never as Drive links. This doesn't change which images may be used.
+- Section 9.2: living people may now be generated, but only as caricature or print, never photo-real, and only with sourced public facts. This settles open question Q-21. Real photos of living people stay free-licensed and unaltered except crop and tone. A living person on a cover, back cover or promotion still needs Heather's OK.
+- Section 10: the photo-illustration credit is its own row in 10.1 and is added to 10.2 and 10.3. Other generated art keeps "Illustration generated with Midjourney and edited by SIDE EYE."
+- Section 2.2: the cover hero cut-out is described as photographic rather than "photoreal."
+- Section 5.1: the rights log notes a photo-real period still and its credit.
+- Section 14: checklist items added for photo-real stills, living people and prompt links.
+
 
 ---
 
 # 07 Print Production and Prepress (Amazon KDP)
-Version 1.0 draft · November 24, 2026 · Owner: Gus Pressley, Art Director, Production and Prepress
+Version 1.1 draft · November 25, 2026 · Owner: Gus Pressley, Art Director, Production and Prepress
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 
 **Who this is for:** Any designer, prepress vendor or AI agent who turns a laid-out SIDE EYE issue into files Amazon KDP will print, and anyone who checks those files.
 
@@ -4075,7 +4477,7 @@ KDP prints CMYK only. There is no fluorescent pink, cyan, orange or yellow. Ever
 
 Midjourney output is usually smaller than a full page at 300 ppi. To get there:
 
-1. Generate with `--hd` for full-page and spread art (Design System v3).
+1. Generate with `--hd` for full-page, spread and cover art (hub section 11, rule 4). HD caps the aspect ratio at 4:1.
 2. Upscale inside Midjourney first, by hand. Don't automate Midjourney.
 3. If still short, upscale with a dedicated image upscaler to the pixel size in 5.1, then check the result at 100% zoom for smeared texture or invented detail.
 4. Sharpen after scaling, not before (Addendum A).
@@ -4404,6 +4806,7 @@ Hand this table to any vendor. A delivery passes only when every line is true.
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - SIDE EYE Brand Standards hub (Visual identity: Color and Print builds; The magazine: Print spec; For vendors, editors and AI agents; Decision log)
 - SIDE EYE Design System v3: Neon Zine Print
 - SIDE EYE Design System v2 Addendum A: KDP Production Spec, 8.5 x 11
@@ -4415,12 +4818,17 @@ Hand this table to any vendor. A delivery passes only when every line is true.
 - 01 Issue Design Process: From Brief to Print-Ready Files, 02 Cover Standards and 09 File Naming, Folders and Handoff Specs (this set, for stage names, spine and package)
 - Amazon KDP help pages: Set Trim Size, Bleed, and Margins; Create a Paperback Cover; Paperback Submission Guidelines; Fix Paperback and Hardcover Formatting Issues; Proof and Author Copies; Schedule a Release
 
+## Changes in 1.1
+
+- Section 5.2: `--hd` covers full pages, spreads and covers; HD caps the aspect ratio at 4:1 (hub section 11).
+
 
 ---
 
 # 08 Quality Checklists
-Version 1.0 draft · November 24, 2026 · Owner: Gus Pressley, Art Director, Production and Prepress
+Version 1.1 draft · November 25, 2026 · Owner: Gus Pressley, Art Director, Production and Prepress
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 
 **Who this is for:** Every designer, art director, editor, vendor and AI agent working on a SIDE EYE issue, and anyone who signs off a stage.
 
@@ -4516,9 +4924,11 @@ The art-direction doc follows the model in 05 Art and Illustration Direction (wi
 | 2.5 | HYBRID is used only for openers about a real historical person | AD | [ ] |
 | 2.6 | Each image uses black plus two inks at most (covers and the tabloid poster may use more) | AD | [ ] |
 | 2.7 | QUIET pages plan no neon, no collage, no jokes and no pink | AD, Fact-check / Research | [ ] |
-| 2.8 | Every generated image has two prompts, A (safer) and B (bolder), copy-ready | AD | [ ] |
-| 2.9 | Every prompt ends `--style raw --v 8.2` plus its template settings, with `--hd` on full-page and spread art | AD | [ ] |
-| 2.10 | Style references are only SIDE EYE's own approved images, at the weights in 05 | AD | [ ] |
+| 2.8 | Every generated image has three prompts, A (safe read), B (bold joke) and C (a different take), each complete and copy-ready in its own code block, with no placeholders | AD | [ ] |
+| 2.9 | Every prompt uses `--raw` (never `--style raw`) and `--v 8.2`, with `--hd` on full-page, spread and cover art. Stylize: photos `--s 50` to `100`, prints and illustration `--s 100` to `250`, never above 300. Chaos 0 for finals. Personalization, `--weird`, `--exp`, `--q`, `--sv`, `--oref`, `--ow`, `--cref` and `::` weights are off | AD | [ ] |
+| 2.9a | Every prompt has a `--no` list with at least text, letters, words, numbers, logo, watermark (prints add glow, gradient, chrome) | AD | [ ] |
+| 2.9b | No prompt uses gloss words (photorealistic, cinematic, 8k, masterpiece, ultra realistic, glowing, epic). Photo prompts name the real camera, film, light and two or three imperfections; photographic stills carry no neon or pink | AD | [ ] |
+| 2.10 | Style references are only SIDE EYE's own approved images, at the weights in 05; never `--sw` without `--sref`; no moodboards; source image URLs go in the prompt (Drive links don't work) | AD | [ ] |
 | 2.11 | No prompt names an artist, studio, shop or magazine | AD (second reviewer) | [ ] |
 | 2.12 | No prompt asks for text; paper, ledgers, letters and signs are described as "completely blank" | AD | [ ] |
 | 2.13 | Every historical image is listed with artist, title, date, holding institution, license or public-domain line and source | Rights Checker | [ ] |
@@ -4543,8 +4953,8 @@ Run this on every finished image before it goes into layout. It expands the chec
 | 3A.2 | Black plus two inks at most (covers and the tabloid poster may use more) | AD | [ ] |
 | 3A.3 | Pink marks one thing in the image. If two things are pink, one is wrong | AD | [ ] |
 | 3A.4 | The joke is true on the evidence: the art implies no crime, deal or motive that the article's Scorecard rates below its top proof level | Fact-check / Research | [ ] |
-| 3A.5 | Living people are shown only doing what sourced public facts support | Fact-check / Research | [ ] |
-| 3A.6 | Historical figures, if shown, appear as caricature, real period art or a generated likeness; all three are allowed | AD | [ ] |
+| 3A.5 | Living people appear only as caricature or print, never photoreal, and only doing what sourced public facts support | Fact-check / Research | [ ] |
+| 3A.6 | Historical figures, if shown, appear as caricature, real period art or a generated likeness (photo-real period stills included); all are allowed | AD | [ ] |
 | 3A.7 | Letters to the AI Dead figures are skulls wearing one defining prop, never a portrait | AD | [ ] |
 | 3A.8 | The image contains no generated lettering, letters or fake writing anywhere, including on signs, papers and labels | AD | [ ] |
 | 3A.9 | Period art is not recolored pink or neon; peach is used only on cut-out skin | AD | [ ] |
@@ -4573,6 +4983,7 @@ Run per image, then once for the whole issue. See 06 Imagery Sourcing, Rights an
 | 3B.2 | Every historical image has a confirmed public-domain or free-license line with its source recorded | Rights Checker | [ ] |
 | 3B.3 | Every historical image credit gives artist, title, date and holding institution | Rights Checker | [ ] |
 | 3B.4 | Generated art carries "Illustration generated with Midjourney and edited by SIDE EYE." | Rights Checker | [ ] |
+| 3B.4a | Photo-real period stills carry "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph.", stay out of Sources and are never captioned as archival | Rights Checker | [ ] |
 | 3B.5 | Composites carry "Figure from [source], cut out and altered by SIDE EYE; illustration generated with Midjourney and edited by SIDE EYE." | Rights Checker | [ ] |
 | 3B.6 | No one else's artwork was uploaded or used as a style reference | AD | [ ] |
 | 3B.7 | No shop's or magazine's name, logo, typefaces cut from their blocks, or recognizable layouts appear. Influences are credited only in the colophon | AD, Rights Checker | [ ] |
@@ -4765,6 +5176,7 @@ Who passes each gate follows 01 Issue Design Process: From Brief to Print-Ready 
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - SIDE EYE Brand Standards hub (Visual identity; The magazine; For vendors, editors and AI agents: "What always needs Heather's yes" and "Checklists by role"; Decision log)
 - SIDE EYE Design System v3: Neon Zine Print
 - SIDE EYE Design System v2 Core
@@ -4773,6 +5185,15 @@ Who passes each gate follows 01 Issue Design Process: From Brief to Print-Ready 
 - Napoleon Art Direction (model art-direction deliverable)
 - 00 Issue Hub: SE-V02 The Mating Issue (titled before the November 24, 2026 renumbering; The Mating Issue is now Vol. 3)
 - Amazon KDP help pages: Set Trim Size, Bleed, and Margins; Create a Paperback Cover; Paperback Submission Guidelines; Fix Paperback and Hardcover Formatting Issues
+
+## Changes in 1.1
+
+- 2.8: three prompts per image (A, B and C).
+- 2.9: `--raw`, stylize ranges, chaos 0 and switched-off settings from hub section 11.
+- New 2.9a (`--no` list) and 2.9b (no gloss words; photo prompts name real camera, film and light).
+- 2.10: no `--sw` without `--sref`, no moodboards, source URLs in the prompt.
+- 3A.5 and 3A.6: people rules from section 11, rule 10.
+- New 3B.4a: the photo-illustration credit for photo-real period stills.
 
 
 ---
@@ -5204,8 +5625,9 @@ Run this before every delivery. Run the matching checklists in 08 too.
 ---
 
 # 10 Vendor and Agent Onboarding Starter
-Version 1.0 draft · November 24, 2026 · Owner: Wren Hale, Onboarding and Handoff
+Version 1.1 draft · November 25, 2026 · Owner: Wren Hale, Onboarding and Handoff
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 **Who this is for:** New outside vendors (designers, illustrators, cover designers, prepress shops) and new AI agents working on a SIDE EYE magazine issue.
 **Use it when:** It is your first day on SIDE EYE, you are setting up an AI agent for SIDE EYE work, or you need a term explained.
 **Related:** 00 Start Here: How to Use the SIDE EYE Art Direction Standards; 01 Issue Design Process: From Brief to Print-Ready Files; 05 Art and Illustration Direction (with Midjourney Prompt Standards); 06 Imagery Sourcing, Rights and Credits; 08 Quality Checklists; 09 File Naming, Folders and Handoff Specs; 11 Templates (issue brief, flatplan, art-direction doc, handoff note); SIDE EYE Brand Standards (section For vendors, editors and AI agents; section AI files)
@@ -5249,10 +5671,10 @@ Other AIs can't load a skill. Paste the skill's rules into the instructions inst
 
 Installed skills lag behind Heather's decisions. Tell the agent these, in its instructions or at the start of the job. Each line comes from the hub's Skills section ("Rules inside skills that may be out of date") or its Decision log.
 
-- **People:** older skill text says no faces or likenesses of real people. The current rule: generated likenesses of historical figures are allowed. Living people follow the sourced-public-facts-only rule. AI Dead figures are always skulls wearing a prop.
+- **People:** older skill text says no faces or likenesses of real people. The current rule (hub section 11, rule 10): generated likenesses of historical figures are allowed, including photo-real period stills credited as photo illustrations. Living people appear only as caricature or print, never as a photoreal picture that could pass for a real photo, and only with sourced public facts. AI Dead figures are always skulls wearing a prop.
 - **Pink:** "pink marks one thing" is a print rule. Print keeps one pink focus per page. In video, pink can be used freely.
 - **AI video:** generated video only illustrates an idea and must pass the pause test (see the glossary). That rule is for video. Print art follows 05.
-- **Prompt endings and settings:** use the templates in 05 exactly as written. If a skill's ending differs, 05 wins until Heather decides otherwise (see 13 Open Questions for Heather).
+- **Prompt endings and settings:** older skill text says `--style raw` and two prompts per image. The current rules are in the hub's section 11 (Midjourney): `--raw`, three versions per image (A, B and C), a `--no` list on every prompt, no gloss words. Use the templates in 05, which follow section 11. Where any skill or older template differs, section 11 wins.
 
 ### Check questions
 
@@ -5291,7 +5713,7 @@ THE LOOK
 - No generated lettering anywhere. Never generate the logo.
 - Never name an artist, studio, shop or magazine in a prompt.
 - Never recolor period art. An illustration never imitates a period document or sits inside one.
-- Generated likenesses of historical figures are allowed. Living people: sourced public facts only, never shown doing something we can't prove.
+- Generated likenesses of historical figures are allowed. Living people: caricature or print only, never photoreal, sourced public facts only, never shown doing something we can't prove.
 
 THE FACTS
 - The feature's Scorecard binds the art. Never show anything on its Must NOT claim list, or any crime, deal or motive it can't prove.
@@ -5326,8 +5748,8 @@ Find your job below. It tells you what you get, what you deliver and which docs 
 
 | Engagement | You receive | You deliver | Stages you work in (see 01) | Read first |
 | :- | :- | :- | :- | :- |
-| **Cover only** | Issue brief, cover lines, the cover concept if one exists, page count for the spine | Cover art-direction doc, COLLAGE prompts (A and B), the layered cover file, the cover PDF built on KDP's cover template | 2, 3, 4, 6 | 02, 05, 06, 07 (cover section), 08, 09 |
-| **Illustrations only** | Art-direction doc or page briefs, Scorecards, the flatplan | Prompts (A and B per image), the picks, edited finals in 04 Art/09 Finals, an art log row and a rights log row per image | 2, 3 | 05, 06, 03 (your page recipes), 08, 09 |
+| **Cover only** | Issue brief, cover lines, the cover concept if one exists, page count for the spine | Cover art-direction doc, COLLAGE prompts (A, B and C), the layered cover file, the cover PDF built on KDP's cover template | 2, 3, 4, 6 | 02, 05, 06, 07 (cover section), 08, 09 |
+| **Illustrations only** | Art-direction doc or page briefs, Scorecards, the flatplan | Prompts (A, B and C per image), the picks, edited finals in 04 Art/09 Finals, an art log row and a rights log row per image | 2, 3 | 05, 06, 03 (your page recipes), 08, 09 |
 | **Archival imagery and rights** | Flatplan, Scorecards, image wish list | Archival originals, working copies, rights evidence, rights log rows, credit lines | 3 | 06, 09, 08 |
 | **Full layout** | Everything above, plus approved manuscript and final art | A layout package, an HTML build or page specs; review PDFs; a handoff note | 4, 5, 6 | 01, 04, 03, 02, 07, 08, 09 |
 | **Prepress only** | Layout package and review sign-off | Preflighted interior and cover PDFs, KDP previewer notes | 6 | 07, 08, 09 |
@@ -5461,8 +5883,8 @@ This is a practice Scorecard written for this test. Treat it as binding for the 
 
 1. Read 05 sections 3.1 (RELIEF), 5 (the joke rule), 8 and 9.1 (the RELIEF template).
 2. Write a one-line concept: the visual joke and what pink marks.
-3. Write **Prompt A** (safer joke) and **Prompt B** (bolder joke) from the 05 RELIEF template. Change only the words in brackets. Keep the style reference as the placeholder `[RELIEF STYLE REFERENCE URL]`.
-4. Check both prompts against the Must NOT list and the golden rules in 00.
+3. Write **Prompt A** (the safe read), **Prompt B** (the bold joke) and **Prompt C** (a different take) from the 05 RELIEF template. Change only the words in brackets. Each prompt is complete, on one line in its own code block. The house style reference has no public web address yet, so leave `--sref` and `--sw` off; 05 says where they go once the address exists.
+4. Check all three prompts against the Must NOT list and the golden rules in 00.
 5. Name the file the image will have once it is run and picked (09).
 6. Fill one art log row and one rights log row (below).
 7. Write a short handoff note (09, section 5).
@@ -5476,17 +5898,25 @@ Use this to check your format, not to copy. Your joke can be different.
 
 **Concept:** The royal orb, the round world in a king's hand, sits on a plate next to a flat pancake. Pink marks the orb.
 
-**Prompt A (safer):**
+**Prompt A (safe read):**
 
 ```
-flat three-ink relief print of a jeweled royal orb topped with a small cross resting on a plain plate beside a flat round pancake, the royal orb printed in fluorescent pink, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, wide empty paper margins, plain empty paper across the top third, evenly lit, flat ink printed on paper --ar 1:1 --s 150 --c 0 --sref [RELIEF STYLE REFERENCE URL] --sw 60 --no text, letters, words, numbers, logo, watermark, skull, glow, gradient --raw --v 8.2
+flat three-ink hand-carved linocut relief print of a jeweled royal orb topped with a small cross resting on a plain plate beside a flat round pancake, the royal orb printed in fluorescent pink, the plate sitting low and to the right, bold simple shapes, thick uneven black outline as if cut with a gouge, fluorescent pink and pale cyan ink, flat and matte, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on warm cream uncoated paper with visible fibers, wide bare paper margins, plain empty paper across the top third --ar 1:1 --raw --s 150 --c 0 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy, skull
 ```
 
-**Prompt B (bolder):**
+**Prompt B (bold joke):**
 
 ```
-flat three-ink relief print of a jeweled royal orb topped with a small cross sitting in a cast-iron frying pan, a gloved hand pressing down on it with a bent spatula, the orb still perfectly round, only hands and sleeves visible, the royal orb printed in fluorescent pink, bold simple shapes, thick uneven carved black outline, fluorescent pink and pale cyan ink, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on bare warm cream paper, wide empty paper margins, plain empty paper across the top third, evenly lit, flat ink printed on paper --ar 1:1 --s 150 --c 10 --sref [RELIEF STYLE REFERENCE URL] --sw 60 --no text, letters, words, numbers, logo, watermark, skull, glow, gradient, faces --raw --v 8.2
+flat three-ink hand-carved linocut relief print of a jeweled royal orb topped with a small cross sitting in a cast-iron frying pan, a gloved hand pressing down on it with a bent spatula, the orb still perfectly round, only the hand and sleeve visible, the royal orb printed in fluorescent pink, the pan cropped by the right edge, bold simple shapes, thick uneven black outline as if cut with a gouge, fluorescent pink and pale cyan ink, flat and matte, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on warm cream uncoated paper with visible fibers, wide bare paper margins, plain empty paper across the top third --ar 1:1 --raw --s 150 --c 0 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy, skull, faces
 ```
+
+**Prompt C (a different take):**
+
+```
+flat three-ink hand-carved linocut relief print of a tall stack of flat round pancakes on a plain plate with a jeweled royal orb topped with a small cross balanced on the very top like a cherry, the pancakes slightly sliding, the royal orb printed in fluorescent pink, the stack set off center to the left, bold simple shapes, thick uneven black outline as if cut with a gouge, fluorescent pink and pale cyan ink, flat and matte, coarse halftone dot shading, speckled ink texture, slight misregistration, printed on warm cream uncoated paper with visible fibers, wide bare paper margins, plain empty paper across the top third --ar 1:1 --raw --s 150 --c 0 --v 8.2 --no text, letters, words, numbers, logo, watermark, glow, gradient, chrome, 3d render, glossy, skull
+```
+
+These run complete as written. Once the desk has a public web address for the RELIEF style reference (the powdered-wig skull print), add `--sref <that address> --sw 60` right before `--v 8.2`. Drive links don't work in Midjourney.
 
 Before you hand in, copy the ending from the current 05 template, not from this sample. 05 wins if they differ.
 
@@ -5505,12 +5935,12 @@ Before you hand in, copy the ending from the current 05 template, not from this 
 | Page(s) | not placed |
 | Art status | To run |
 | Brief (what the art must show) | A round royal orb beside a flat pancake. Pink on the orb. No people, no lettering, no manuscript look. |
-| Process / Midjourney prompt | RELIEF, pink + cyan. Prompt A and Prompt B as written in the handoff note. |
+| Process / Midjourney prompt | RELIEF, pink + cyan. Prompts A, B and C as written in the handoff note. |
 | Generations kept | none yet |
 | Chosen file (in Selects) | none yet |
 | File name | SE-V00_p000_flat-earth-orb_RELIEF_A1_v01.png (planned) |
 | Source and license | Generated, Midjourney v8.2 |
-| Credit line | Illustration generated with Midjourney and edited by SIDE EYE. |
+| Credit line | Illustration generated with Midjourney and edited by SIDE EYE. (A photo-real period still would instead carry "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph.") |
 | Pixel size | not yet run (needs at least 1,020 px wide for 3.4 in at 300 ppi) |
 | 300 dpi at print size? | not yet run |
 | Approved by | (blank) |
@@ -5523,10 +5953,11 @@ Before you hand in, copy the ending from the current 05 template, not from this 
 
 The art director passes the test when every line is true.
 
-- [ ] Both prompts use the 05 RELIEF template, with only the bracketed words changed.
+- [ ] All three prompts use the 05 RELIEF template, with only the bracketed words changed, and each ends with `--raw`, `--v 8.2` and a `--no` list.
+- [ ] No gloss words (photorealistic, cinematic, 8k, masterpiece, ultra realistic, glowing, epic).
 - [ ] No artist, studio, shop or magazine name. No lettering asked for.
 - [ ] Pink is on one object, and that object is the punchline.
-- [ ] Nothing in either prompt breaks the Must NOT list.
+- [ ] Nothing in any prompt breaks the Must NOT list.
 - [ ] No period document, map or manuscript look.
 - [ ] The file name, image ID and both log rows follow 09 and 06.
 - [ ] Approved cells are blank.
@@ -5549,7 +5980,7 @@ The art director passes the test when every line is true.
 
 | Term | Meaning |
 | :- | :- |
-| **A and B prompts** | Two prompts per image. A is the safer joke, B the bolder one. See 05. |
+| **A, B and C prompts** | Three prompts per image: A the safe read, B the bold joke, C a different take. Each complete and copy-ready. See 05 and the hub's section 11. |
 | **AI Dead** | The column "Letters to the AI Dead." Its portraits are always a skull wearing the figure's defining prop, never a face. |
 | **Archival image** | A public-domain or free-license period image. The only image type that can serve as proof. Type code H. |
 | **Art log** | The issue's sheet with one row per image slot: brief, prompt, file, status, rights, credit. Lives in 04 Art. |
@@ -5600,6 +6031,7 @@ Terms for the brand itself (the logo, colors, hosts, voice) are in the Brand Sta
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - SIDE EYE Brand Standards (the Brand Standards hub), sections For vendors, editors and AI agents, AI files, Skills, Decision log, Privacy
 - Design System v3: Neon Zine Print
 - Design System v2 Core
@@ -5612,12 +6044,20 @@ Terms for the brand itself (the logo, colors, hosts, voice) are in the Brand Sta
 - 00 Art Log – SE-V02 The Mating Issue (column set) (titled before the November 24, 2026 renumbering; The Mating Issue is now Vol. 3)
 - SIDE EYE – Midjourney Prompt Workbook v2 (V8.2-hardened, Oct 17) (status values)
 
+## Changes in 1.1
+
+- Out-of-date rules list: people and prompt settings now point to the hub's section 11.
+- Starter test: three prompts (A, B and C), `--raw`, `--c 0`, a `--no` list, no style-reference placeholder; the sample answer is rewritten to match.
+- Glossary: A, B and C prompts.
+- Living people: caricature or print only, never photoreal.
+
 
 ---
 
 # 11 Templates
-Version 1.0 draft · November 24, 2026 · Owner: Lena Marsh, Documentation Specialist, Process and Governance
+Version 1.1 draft · November 25, 2026 · Owner: Lena Marsh, Documentation Specialist, Process and Governance
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 
 **Who this is for:** Art directors, designers, image makers, rights checkers, production staff, vendors and AI agents working on a SIDE EYE issue.
 **Use it when:** A stage in 01 Issue Design Process: From Brief to Print-Ready Files asks you to make one of these files. Copy the template, fill every field, and delete the guidance lines in *italics*.
@@ -5790,27 +6230,32 @@ Rhythm notes: <where illustrations lead, where evidence leads>
 Gutter notes: <anything that must stay 0.5 in clear of the gutter>
 
 ## 4. Rules for this piece
-- People: <how real people appear: period art, generated likeness of a historical figure, hands and props only, or no art (sensitive spreads)>
-- Living people: <none / sourced public facts only; what the art must never imply>
+- People: <how real people appear: period art, generated likeness of a historical figure (a photo-real period still is credited as a photo illustration), caricature or print of a living person, hands and props only, or no art (sensitive spreads)>
+- Living people: <none / caricature or print only, never photoreal; sourced public facts only; what the art must never imply>
 - Sensitive spreads: <spreads with no illustrations, no pink, no jokes; any reader needed>
 - Props that must be right: <...>
 - Color and print: <ink builds to proof; never recolor period art>
 - Type: <headline face, any vertical word, caption style, pull lines (one per spread at most)>
 
 ## 5. Prompts
-*Two per generated image: A the safer read, B the bolder joke. Copy-ready. No artist, studio, shop or magazine names. No generated lettering: blank paper is "completely blank". Settings per doc 05.*
+*Three per generated image: A the safe read, B the bold joke, C a different take. Each complete and copy-ready in its own code block, with no placeholders left in. No artist, studio, shop or magazine names. No generated lettering: blank paper is "completely blank". Every prompt carries a `--no` list and uses `--raw`. Settings per doc 05 and the hub's section 11.*
 
 ### I1 · <name> (<spread>, <placement>)
 <one line: the idea this image carries>
 
 A.
 ```
-<prompt A text> --ar <w:h> --style raw --v 8.2 <other settings from doc 05>
+<prompt A text> --ar <w:h> <other settings from doc 05> --no text, letters, words, numbers, logo, watermark --raw --v 8.2
 ```
 
 B.
 ```
-<prompt B text> --ar <w:h> --style raw --v 8.2 <other settings from doc 05>
+<prompt B text> --ar <w:h> <other settings from doc 05> --no text, letters, words, numbers, logo, watermark --raw --v 8.2
+```
+
+C.
+```
+<prompt C text> --ar <w:h> <other settings from doc 05> --no text, letters, words, numbers, logo, watermark --raw --v 8.2
 ```
 
 If a prompt misbehaves: <fix, from doc 05>
@@ -5827,6 +6272,7 @@ If a prompt misbehaves: <fix, from doc 05>
 
 ## 8. Credit lines
 - Generated art: "Illustration generated with Midjourney and edited by SIDE EYE."
+- Photo-real period stills: "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph." Kept out of Sources; never captioned as archival.
 - Composites: "Figure from [source], cut out and altered by SIDE EYE; illustration generated with Midjourney and edited by SIDE EYE."
 - Historical art: artist, title, date, holding institution, exactly as in the rights log.
 
@@ -5869,7 +6315,7 @@ Every image slot in the issue gets one row in the issue's art log, a Google Shee
 
 | Column | What goes in it |
 |---|---|
-| Prompt as run | The exact text pasted, with the reference token left as written in doc 05 (for example `[RELIEF STYLE REFERENCE URL]`), never the link itself |
+| Prompt as run | The exact text pasted. If it used a house style reference, write the reference's name (skull print or emu cover) in place of its web address, never the link itself |
 | A or B | Which prompt won, and any fix applied |
 | Generator and version | For example Midjourney v8.2 |
 | Seed | If the tool shows one; otherwise "not shown" |
@@ -6082,6 +6528,7 @@ Date: <date> · Prepared by: Production
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - 01 Issue Design Process: From Brief to Print-Ready Files
 - SIDE EYE Brand Standards hub (The magazine, Image rights, What always needs Heather's yes, Privacy, Approvals and versions)
 - SIDE EYE Design System v3: Neon Zine Print (page recipes, rules and rights, credit lines)
@@ -6092,11 +6539,16 @@ Date: <date> · Prepared by: Production
 - SIDE EYE Research Guidelines Portal: Proposed Plan (status words, handoff note practice)
 - Issue planning records for Vol. 2 and Vol. 3 (handoff note, lineup tables)
 
+## Changes in 1.1
+
+- Art-direction doc template: three prompts (A, B and C), `--raw`, a `--no` list on each.
+- People fields and credit lines follow hub section 11 (rules 10 and 13).
+
 
 ---
 
 # 12 Decision Log
-Version 1.0 draft · November 24, 2026 · Owner: Lena Marsh, Documentation Specialist, Process and Governance
+Version 1.1 draft · November 25, 2026 · Owner: Lena Marsh, Documentation Specialist, Process and Governance
 Status: DRAFT for Heather's review
 **Who this is for:** Anyone designing, producing or checking a SIDE EYE issue, and anyone changing these standards.
 **Use it when:** Two sources disagree, you need to know whether a rule is Heather's own call, or you are adding a decision after Heather says yes.
@@ -6145,7 +6597,7 @@ Docs are named by number in the "Applied in" column. The full titles are in the 
 
 | ID | Date | Decision | Source | Heather's own call? | Applied in |
 | :- | :- | :- | :- | :- | :- |
-| D-012 | Undated | Generated likenesses of historical figures are allowed. Living people: sourced public facts only. | Brand Standards hub, Decision log | Yes | 00, 01, 02, 03, 05, 06 |
+| D-012 | Undated; narrowed 2026-11-25 | Generated likenesses of historical figures are allowed. Living people: sourced public facts only, and (since D-058) only as caricature or print, never photoreal. | Brand Standards hub, Decision log | Yes | 00, 01, 02, 03, 05, 06 |
 | D-013 | In the hub as read 2026-11-24 | AI Dead figures are always skulls wearing one prop. | Brand Standards hub, People in pictures; Design System v3 | Yes (via hub and v3) | 03, 05 |
 | D-014 | Undated | The research scale (Documented, Likely, Contested, Unsupported, Refuted) maps to the labels PROVEN, LIKELY, NOT PROVEN. | Brand Standards hub, Decision log | Yes | 05, 06 |
 | D-015 | In the hub as read 2026-11-24 | Art is held to the proof standard. Art never implies a crime, deal or motive rated below Proven. The Scorecard's Must NOT list binds art as much as text. | side-eye-art-direction skill; hub skill summary | No (skill rule, consistent with the hub) | 01, 05, 06, 11 |
@@ -6167,7 +6619,8 @@ Docs are named by number in the "Applied in" column. The full titles are in the 
 | D-026 | 2026-09-29 | Never name an artist, studio, shop or magazine in a prompt. No generated lettering anywhere. Never upload anyone else's artwork as a style reference. | Design System v3, Influences and trademarks; Brand Standards hub | Yes (via v3 and hub) | 04, 05, 06 |
 | D-027 | 2026-09-29 | Style references are our own approved images only: the skull print (RELIEF) and the emu cover (COLLAGE). | Design System v3 (wins over Addendum B, which dropped them) | Yes (via v3) | 05 |
 | D-028 | Before 2026-11-24 | Midjourney is run by hand by a person, never by automation. | Vol. 2 schedule; past advisory sessions | No (practice). Who runs it is an open question | 01, 05, 10 |
-| D-029 | 2026-10-17 | Prompt settings: raw mode written `--raw`; stylize, chaos and Personalization values as set in 05; two prompts per image (A safer, B bolder). | Midjourney Prompt Workbook v2 (Oct 17, 2026); Midjourney's published parameter list; side-eye-art-direction skill | No (researched and set by the art team) | 05, 11 |
+| D-029 | 2026-10-17; replaced 2026-11-25 | Replaced by D-058. Was: raw mode written `--raw`; stylize, chaos and Personalization values as set in 05; two prompts per image (A safer, B bolder). | Midjourney Prompt Workbook v2 (Oct 17, 2026); Midjourney's published parameter list; side-eye-art-direction skill | No (researched and set by the art team) | 05, 11 |
+| D-058 | 2026-11-25 | Midjourney V8.2 rules follow the Brand Standards hub, section 11 (14 rules), which wins over older templates, docs and skills: `--raw` on every prompt (not `--style raw`); stylize photos 50 to 100, prints 100 to 250, never over 300; `--hd` on full pages, spreads, covers and YouTube hero art; own style references only, never `--sw` without `--sref`; Personalization and other extras off, chaos 0 for finals; a `--no` list on every prompt; three versions per image (A safe, B bold, C different); never-looks-AI rules and no gloss words; historical likenesses fine, living people only as caricature or print, never photoreal; image-to-video only at `--motion low --raw`; no artist, studio, shop or magazine names; photo-real period stills credited "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph." and kept out of Sources; source image URLs go in the prompt. | Brand Standards hub, section 11 Midjourney (Nov 25, 2026), from the SIDE EYE Midjourney desk | Yes (via hub) | 00, 01, 02, 03, 05, 06, 07, 08, 10, 11, 13 |
 | D-030 | 2026-11-24 | Art log status words: To run · Running · Picked · Needs rerun · Placed · Skip. The art director picks; only Heather, or the person she names, fills "Approved by and date." | Midjourney Prompt Workbook v2; 05, section 12 | No (team standard on top of D-006) | 05, 10, 11 |
 
 ## E. Covers and pages
@@ -6237,6 +6690,7 @@ Only the process owner (the Documentation Specialist for Process and Governance)
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - SIDE EYE Brand Standards hub (Decision log; The golden rules; What always needs Heather's yes; How a feature gets made; Image rights; People in pictures; The magazine; Print spec; Privacy; Logo)
 - SIDE EYE Design System v3: Neon Zine Print
 - SIDE EYE Design System v2 Core
@@ -6250,3 +6704,7 @@ Only the process owner (the Documentation Specialist for Process and Governance)
 - side-eye-art-direction skill
 - KDP Help pages (read November 24, 2026)
 - Team notes for docs 00 to 11 (Bea Archer, Gus Pressley, Hollis Fenn, Ines Kerner, Lena Marsh, Marisol Quint, Theo Banks, Wren Hale)
+
+## Changes in 1.1
+
+- New D-058: the hub's section 11 Midjourney V8.2 rules. D-029 is replaced; D-012 is narrowed for living people.

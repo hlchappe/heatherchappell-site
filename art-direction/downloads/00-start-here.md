@@ -1,6 +1,7 @@
 # 00 Start Here: How to Use the SIDE EYE Art Direction Standards
-Version 1.0 draft · November 24, 2026 · Owner: Wren Hale, Onboarding and Handoff
+Version 1.1 draft · November 25, 2026 · Owner: Wren Hale, Onboarding and Handoff
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 **Who this is for:** Anyone who designs, illustrates, lays out or prints a SIDE EYE issue: staff designers, outside vendors, illustrators, print vendors and AI agents.
 **Use it when:** You are new to SIDE EYE, you are starting a new issue, or you are not sure which document answers your question.
 **Related:** 01 Issue Design Process: From Brief to Print-Ready Files; 09 File Naming, Folders and Handoff Specs; 10 Vendor and Agent Onboarding Starter; 12 Decision Log; 13 Open Questions for Heather; SIDE EYE Brand Standards (the Brand Standards hub); Design System v3: Neon Zine Print
@@ -76,7 +77,7 @@ AI agents: load the hub's AI files and this set before you start. Document 10 te
 | 02 | Cover Standards | How to build the front cover, spine and back cover. |
 | 03 | Page and Spread Standards | The page recipe for every recurring page, column and feature type. |
 | 04 | Grid and Typography | Trim, margins, the 12-column grid, baseline, type scale and type rules. |
-| 05 | Art and Illustration Direction (with Midjourney Prompt Standards) | Which print process to use, how to write A and B prompts, and how to fix bad results. |
+| 05 | Art and Illustration Direction (with Midjourney Prompt Standards) | Which print process to use, how to write A, B and C prompts, and how to fix bad results. |
 | 06 | Imagery Sourcing, Rights and Credits | Where historical images come from, how to clear them, and the exact credit lines. |
 | 07 | Print Production and Prepress (Amazon KDP) | PDF specs, color builds, ink limits, the cover template, preflight and proofs. |
 | 08 | Quality Checklists | The checks to run before every handoff and every gate. |
@@ -99,7 +100,7 @@ If you follow only these, you avoid the worst mistakes.
 7. **Never name an artist, studio, shop or magazine in a prompt.** Describe materials and methods only.
 8. **Never recolor period art pink or neon.** An illustration never imitates a period document or sits inside one. Illustrations carry the argument. Period images carry the proof.
 9. **Every image needs a cleared rights line and a credit line before layout locks.** No paid licenses.
-10. **Real people:** generated likenesses of historical figures are allowed. Living people follow the sourced-public-facts-only rule and are never shown doing something we can't prove.
+10. **Real people:** generated likenesses of historical figures are allowed, including photo-real period stills credited as photo illustrations. Living people appear only as caricature or print, never as a photoreal picture that could pass for a real photo, and only with sourced public facts. Living people are never shown doing something we can't prove.
 11. **Respect the print limits:** 7 pt minimum type, 300 dpi at placed size, and nothing essential within 0.5 in of the gutter.
 12. **When sources disagree, don't pick.** Use the source-of-truth order below. If that doesn't settle it, follow what the set says to follow and log the question.
 
@@ -150,8 +151,14 @@ Heather is the publisher and editor in chief. She approves every change to this 
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - SIDE EYE Brand Standards (the Brand Standards hub), sections Start here, Brand core, Visual identity, The magazine, For vendors, editors and AI agents, Skills, Decision log
 - Design System v3: Neon Zine Print
 - Design System v2 Core
 - Design System v2 Addendum A: KDP Production Spec, 8.5 x 11
 - side-eye-art-direction (skill)
+
+## Changes in 1.1
+
+- Prompts are now three versions per image (A, B and C), per the hub's section 11.
+- The real-people rule follows section 11, rule 10.

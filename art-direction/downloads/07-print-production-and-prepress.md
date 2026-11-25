@@ -1,6 +1,7 @@
 # 07 Print Production and Prepress (Amazon KDP)
-Version 1.0 draft · November 24, 2026 · Owner: Gus Pressley, Art Director, Production and Prepress
+Version 1.1 draft · November 25, 2026 · Owner: Gus Pressley, Art Director, Production and Prepress
 Status: DRAFT for Heather's review
+Midjourney rules follow the Brand Standards hub, section 11 (Midjourney), as of November 25, 2026. Where this document and section 11 differ, section 11 wins.
 
 **Who this is for:** Any designer, prepress vendor or AI agent who turns a laid-out SIDE EYE issue into files Amazon KDP will print, and anyone who checks those files.
 
@@ -232,7 +233,7 @@ KDP prints CMYK only. There is no fluorescent pink, cyan, orange or yellow. Ever
 
 Midjourney output is usually smaller than a full page at 300 ppi. To get there:
 
-1. Generate with `--hd` for full-page and spread art (Design System v3).
+1. Generate with `--hd` for full-page, spread and cover art (hub section 11, rule 4). HD caps the aspect ratio at 4:1.
 2. Upscale inside Midjourney first, by hand. Don't automate Midjourney.
 3. If still short, upscale with a dedicated image upscaler to the pixel size in 5.1, then check the result at 100% zoom for smeared texture or invented detail.
 4. Sharpen after scaling, not before (Addendum A).
@@ -561,6 +562,7 @@ Hand this table to any vendor. A delivery passes only when every line is true.
 
 ## Sources this is built on
 
+- SIDE EYE Brand Standards hub, section 11 Midjourney (standards as of November 25, 2026)
 - SIDE EYE Brand Standards hub (Visual identity: Color and Print builds; The magazine: Print spec; For vendors, editors and AI agents; Decision log)
 - SIDE EYE Design System v3: Neon Zine Print
 - SIDE EYE Design System v2 Addendum A: KDP Production Spec, 8.5 x 11
@@ -571,3 +573,7 @@ Hand this table to any vendor. A delivery passes only when every line is true.
 - 00 Issue Hub: SE-V02 The Mating Issue (pages KDP can't print) (titled before the November 24, 2026 renumbering; The Mating Issue is now Vol. 3)
 - 01 Issue Design Process: From Brief to Print-Ready Files, 02 Cover Standards and 09 File Naming, Folders and Handoff Specs (this set, for stage names, spine and package)
 - Amazon KDP help pages: Set Trim Size, Bleed, and Margins; Create a Paperback Cover; Paperback Submission Guidelines; Fix Paperback and Hardcover Formatting Issues; Proof and Author Copies; Schedule a Release
+
+## Changes in 1.1
+
+- Section 5.2: `--hd` covers full pages, spreads and covers; HD caps the aspect ratio at 4:1 (hub section 11).
