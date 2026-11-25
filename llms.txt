@@ -66,9 +66,18 @@ heatherchappell.com has four free, funny browser games about office life, work c
 
 ## Deep Dives by topic
 
+### World
+
+- [All World Deep Dives](https://heatherchappell.com/deep-dives/topic/world/)
+- [Xi's Anti-Corruption Purge Reaches Shanghai's Top Politburo Seat](https://heatherchappell.com/deep-dives/xi-shanghai-purge/): 2026-11-25. Chen Jining's investigation is the fourth Politburo-level case since 2025, and it signals that Xi's campaign now reaches the leadership core rather than only the military and provincial tiers. Official language cites corruption, but the absence of specifics and the explicit loyalty framing mean analysts cannot confirm the motive; Washington should treat the case as a signal of elite consolidation ahead of the 2027 Party Congress, not as a reliable indicator of China's policy direction. For U.S. interests the immediate risk is a less predictable interlocutor and a delayed, politicized succession, not an abrupt shift in trade or security policy.
+- [Iran's Gulf strikes test Hormuz, Bahrain and U.S. restraint](https://heatherchappell.com/deep-dives/iran-gulf-strikes/): 2026-11-21. A calibrated, escalating campaign using cheap drones and missiles, without yet triggering full war.
+- [Escalating Baltic and Ukrainian strikes test NATO's limits and US diplomacy](https://heatherchappell.com/deep-dives/baltic-ukraine-strikes/): 2026-11-21. The peace track is weakening just as strikes move closer to alliance territory.
+
 ### Government
 
 - [All Government Deep Dives](https://heatherchappell.com/deep-dives/topic/government/)
+- [Fulton County 2020 records: a state-federal custody fight](https://heatherchappell.com/deep-dives/fulton-county-records/): 2026-11-25. The Fulton County order is less about whether 2020 was run honestly, which courts and audits have repeatedly affirmed, than about who controls the physical and digital evidence of that election. Whether the State Election Board or federal prosecutors hold the ballot images is becoming the operative question, with consequences for election administration authority, the reach of federal records law, and public trust. As of November 25, 2026, delivery is ordered but contested on appeal, and no federal charges have been filed.
+- [Trilateral Commission Membership and the Trump Question: What the Record Shows](https://heatherchappell.com/deep-dives/trilateral-commission-trump/): 2026-11-24. The record does not show Donald Trump as a Trilateral Commission member in 2016–2020 or at any other time, and the bylaws bar sitting officials from membership, so a sitting president could not have been one. The real story is a documented but modest overlap: a few Trump-era appointees who were members before or after government service, wrapped in conspiracy framing that the evidence does not support. Officials should treat the Trump-membership claim as unverified and rely on the Commission's own rosters before citing it.
 - [Omar search: a constitutional test with unresolved charges](https://heatherchappell.com/deep-dives/omar-home-search/): 2026-11-23. The Omar search is less a settled criminal case than an unresolved test of whether federal agents can search a sitting member of Congress's home and how Speech or Debate protections apply there. The public record shows a judge who forced procedural safeguards and DOJ claims of a decades-long criminal probe that remain unproven and largely sealed. For U.S. interests the stakes are separation of powers, the integrity of pre-election investigative practice, and public trust in both DOJ and Congress.
 - [Trump's DOJ Speech Tests Prosecutorial Independence and Public Trust](https://heatherchappell.com/deep-dives/trump-doj-speech/): 2026-11-23. The November 23, 2026 Justice Department speech is less a policy announcement than a visible test of whether the department operates as the president's instrument against political opponents. Courts, grand juries and public opinion have already rejected many such cases, and the midterm result gives Congress new tools to examine them. For U.S. interests the central question is whether the department's credibility, which depends on independence from the White House, can be restored once the norm is weakened.
 - [Fauci, the Wuhan lab-leak question, and a contested contempt fight](https://heatherchappell.com/deep-dives/fauci-contempt-fight/): 2026-11-22. This is less a settled finding about COVID's origin than a fight over definitions and legal process: whether NIH-funded Wuhan work met the government's definition of gain-of-function research, and whether Fauci's categorical denials to Congress were knowingly false. The intelligence picture is split at low-to-moderate confidence, the criminal and contempt routes face serious procedural and pardon obstacles, and the policy consequences (funding bans and oversight rules) are already reshaping U.S. biosecurity research regardless of how the Fauci dispute resolves.
@@ -88,12 +97,6 @@ heatherchappell.com has four free, funny browser games about office life, work c
 - [All Cybersecurity Deep Dives](https://heatherchappell.com/deep-dives/topic/cybersecurity/)
 - [FBI Criminal Database Breach: Unconfirmed, Politicized, and Unresolved](https://heatherchappell.com/deep-dives/fbi-database-breach/): 2026-11-21. Credibly sourced but officially unconfirmed; the scope, entry point and attacker remain unknown.
 - [NCIC Intrusion: Unconfirmed Breach, Real Accuracy Risk](https://heatherchappell.com/deep-dives/ncic-intrusion/): 2026-11-21. The gravest risk is corrupted or unreliable records rather than mere exposure.
-
-### World
-
-- [All World Deep Dives](https://heatherchappell.com/deep-dives/topic/world/)
-- [Iran's Gulf strikes test Hormuz, Bahrain and U.S. restraint](https://heatherchappell.com/deep-dives/iran-gulf-strikes/): 2026-11-21. A calibrated, escalating campaign using cheap drones and missiles, without yet triggering full war.
-- [Escalating Baltic and Ukrainian strikes test NATO's limits and US diplomacy](https://heatherchappell.com/deep-dives/baltic-ukraine-strikes/): 2026-11-21. The peace track is weakening just as strikes move closer to alliance territory.
 
 ## Profiles and products
 

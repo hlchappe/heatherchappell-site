@@ -1,0 +1,223 @@
+{
+ "slug": "fulton-county-records",
+ "date": "2026-11-25",
+ "title": "Fulton County 2020 records: a state-federal custody fight",
+ "words": 3365,
+ "from": "JUDGE ORDERS FULTON COUNTY TO SHARE SEIZED 2020 ELECTION RECORDS",
+ "bottomLine": "The Fulton County order is less about whether 2020 was run honestly, which courts and audits have repeatedly affirmed, than about who controls the physical and digital evidence of that election. Whether the State Election Board or federal prosecutors hold the ballot images is becoming the operative question, with consequences for election administration authority, the reach of federal records law, and public trust. As of November 25, 2026, delivery is ordered but contested on appeal, and no federal charges have been filed.",
+ "summary": [
+  {
+   "title": "State board gains the data it has long sought",
+   "points": [
+    "Judge Kelly Lee Ellerbe ordered unredacted digital copies of 2020 ballot images and Fulton's 2020 voter rolls delivered to the State Election Board by 5 p.m. November 25, 2026.",
+    "The board must reimburse up to $500 for the copies and up to two hours of labor; the county had earlier estimated production at about $400,000.",
+    "A protective order lets the board use records in its investigations but bars Open Records release while probes are pending.",
+    "Judge Ellerbe wrote that prior orders and the final order 'have resolved all issues in the litigation' and closed the county case."
+   ],
+   "plain": "A judge told Fulton County to give the state election board a digital copy of the 2020 ballots and voter lists. The board has to pay a small fee, and it can use the files for investigations but cannot publish them yet."
+  },
+  {
+   "title": "Federal probe keeps the same evidence in play",
+   "points": [
+    "FBI agents seized more than 600 boxes from Fulton on January 28, 2026, under a warrant from Magistrate Judge Catherine Salinas.",
+    "Judge J.P. Boulee refused return of the materials on May 6, 2026, calling the affidavit 'far from perfect' but finding no callous disregard.",
+    "No charges have been filed; DOJ's Tysen Duva conceded the seizure may not lead to charges, and the FBI assigned 200+ staffers as a priority investigation.",
+    "Former Fulton elections director Richard Barron was interviewed voluntarily on November 20, 2026, and prosecutors want a second meeting."
+   ],
+   "plain": "The FBI took the same election boxes in January and is still looking at them. No one has been charged yet, but investigators are still asking questions."
+  },
+  {
+   "title": "Legal authority over election records is unsettled",
+   "points": [
+    "52 U.S.C. §20701 requires officers of election to preserve federal election records for 22 months; §20703 gives DOJ inspection rights on written demand.",
+    "The Sixth Circuit in United States v. Benson (June 24, 2026) held DOJ was not entitled to the records at issue under Title III, narrowing its demand theory.",
+    "Judge Robert McBurney ruled in December 2025 that the SEB's subpoenas 'fell squarely within the SEB's authority.'",
+    "The Georgia Supreme Court in June 2025 held the SEB can implement the election code but cannot 'go beyond, change or contradict' it."
+   ],
+   "plain": "Laws say election records must be kept, and federal officials can look at them. But nobody has clearly settled who gets to keep and control them once a fight starts."
+  },
+  {
+   "title": "Fraud claims remain unproven after repeated reviews",
+   "points": [
+    "Hand recounts, audits and multiple courts affirmed Biden's Georgia win; a 2024 state report said the findings 'do not affect the accuracy of the results.'",
+    "The SEB's own Seven Hills monitor report found an 'extremely sloppy' absentee count but no 'intentional malfeasance.'",
+    "NPR's review found the FBI affidavit omitted state findings; David Becker called it 'much weaker than I suspected.'",
+    "The FBI referral came from Kurt Olsen, the White House director of election security and integrity; DOJ denies misleading the judge."
+   ],
+   "plain": "Several checks have found messy paperwork and human mistakes in Fulton's 2020 count, but no one has shown the result was changed. The fight is about whether the new probe will find more."
+  },
+  {
+   "title": "Implications and realistic options for policymakers",
+   "points": [
+    "Near term, a stay or appellate delay keeps records in custody; watch the Georgia appellate docket and any federal challenge to the protective order.",
+    "Federal-state convergence would raise stakes if DOJ indicts or the 11th Circuit revives the worker subpoena, which is appealed and unresolved.",
+    "Options include clarifying custody rules for federal election records, setting cost and access standards for state board requests, and requiring documented chain of custody.",
+    "Public confidence is at stake: about 73 percent of Georgia voters expressed confidence in the 2024 general election, but partisan splits persist."
+   ],
+   "plain": "The records are now in a fight between state and federal officials. Leaders can either set clear rules for who holds election evidence and how it is used, or let each new dispute get decided case by case."
+  }
+ ],
+ "context": [
+  {
+   "label": "Right now",
+   "text": "Judge Kelly Lee Ellerbe ordered Fulton County to deliver digital copies of 2020 ballot images and voter rolls to the State Election Board by 5 p.m. November 25, 2026. Fulton has appealed, citing ballot-secrecy rights, and delivery status is unconfirmed."
+  },
+  {
+   "label": "How we got here",
+   "text": "Federal election records retention dates to the 1960 Civil Rights Act, first used to probe discrimination in the South. Georgia's board has faced prior limits, including the 2025 Supreme Court ruling voiding rules that exceeded the election code."
+  },
+  {
+   "label": "The politics",
+   "text": "The State Election Board's majority is Trump-aligned, and its three-member bloc backed a federal seizure brief. Democrats including Senators Whitehouse and Blumenthal have asked the DOJ Inspector General to investigate the raid, while Raffensperger called the probe a waste of 'time and tax dollars.'"
+  },
+  {
+   "label": "The people",
+   "text": "Judge Ellerbe wants the matter closed; SEB member Salleigh Grubbs says the board needs the full information to resolve complaints; Fulton Chair Robb Pitts rejects the probe and its cost; DOJ's Dan Bishop and FBI affiant Hugh Evans want evidence of possible intentional misconduct."
+  },
+  {
+   "label": "Why now, and what's next",
+   "text": "The delivery deadline and appeal fall on November 25, 2026, after the midterms, while the FBI investigation remains open and the 11th Circuit appeal over worker subpoenas is pending. Statute-of-limitations questions could limit any federal charges."
+  },
+  {
+   "label": "The culture and the public",
+   "text": "Public trust in Georgia elections has shifted with partisan lines. Voters' confidence in the process has been polled at high levels overall, but Republicans' confidence fell sharply after 2020, and the latest data specific to this dispute is thin."
+  }
+ ],
+ "sections": [
+  {
+   "title": "State board gains the data it has long sought",
+   "paragraphs": [
+    "On Tuesday, November 24, 2026, Fulton County Superior Court Judge Kelly Lee Ellerbe ordered Fulton County to deliver unredacted digital copies of 2020 ballot images and the county's 2020 voter rolls to the State Election Board by 5 p.m. on November 25. The copies are to be delivered on flash drives. The records are copies of material the FBI seized from the county on January 28, 2026, so the board receives the data without the original boxes. Ellerbe wrote that earlier orders and Tuesday's final order \"have resolved all issues in the litigation,\" and he closed the county's case.",
+    "The board's stated purpose is to finish cases from 2020 that it says it could not properly investigate. SEB member Salleigh Grubbs said the board has matters that \"were never able to be properly investigated because we didn't have all the information.\" Attorney Saira Draper disputes that the records will add much and objects to the protective order's safeguards. The board's subpoenas date to late 2024, and they stalled when the FBI took the records. The board voted in February 2026 to seek access once the materials were back in state hands, so the current order is the end of a process that began before the federal raid.",
+    "The protective order lets the board use the records in its investigations and limits access to board members, staff, courts and consulted experts. It bars release under Open Records requests while investigations are pending. Those limits matter, but they still give the board a complete, searchable record of Fulton's 2020 ballots that it can compare against its own complaints and referrals to the Attorney General.",
+    "The cost dispute is partly about who does the work. In December 2025, Judge Robert McBurney ruled the board must bear the cost of production, which the county put at about $400,000. Fulton Commission Chair Robb Pitts said taxpayers would not pay, declaring, \"I am not going to spend taxpayer money on a witch hunt.\" Ellerbe's order instead caps reimbursement at $500, covering drives and up to two hours of labor for a copy the FBI already made. The figures measure different things, and the county has not published an itemized breakdown.",
+    "Fulton appealed the order quickly, citing the ballot-secrecy protections in the Georgia constitution. Whether the appeal stays the 5 p.m. deadline, and whether delivery occurred on time, are unconfirmed in the reporting."
+   ],
+   "why": "if the order survives, the state board, which has a Republican majority, gains direct, operational access to the county's 2020 election data while the federal investigation of the same records remains open."
+  },
+  {
+   "title": "Federal probe keeps the same evidence in play",
+   "paragraphs": [
+    "The federal and state tracks now point at the same evidence. Judge Kelly Lee Ellerbe's Nov. 24 order sends the State Election Board copies of the 2020 ballot images and Fulton's 2020 voter rolls, the same material FBI agents took from Fulton on January 28, 2026, under a warrant from Magistrate Judge Catherine Salinas. A protective order limits the board's use to its own investigations, but the FBI and the board would each hold a version of one dataset, with separate chains of custody and separate investigators. The FBI reportedly retains the physical boxes, and whether its copies and the board's copies will be reconciled is unresolved.",
+    "The coordination risk is inferred, not documented. No source reviewed shows an information-sharing arrangement between the SEB and the Justice Department, and the protective order bars disclosure beyond named parties. But the board's majority has openly backed the federal probe, and three members filed an amicus brief supporting the federal seizure. Those facts are enough to make a reasonable observer ask whether two investigations are working from one record, even if no one has shown that they are.",
+    "Timing shapes how much weight the evidence can bear. The Justice Department has not filed charges, and the FBI's theory depends on a 22-month retention statute and a false-ballot tabulation prohibition. Fulton argued both potential violations had expired. Judge J.P. Boulee rejected that argument, citing witness claims that ballot images may have been altered as recently as 2024, while also calling the affidavit \"far from perfect.\" Judge William Ray, ruling separately on the worker subpoena, described a \"fishing expedition\" and warned of statute-of-limitations problems. Any data that ends up in a prosecution will be tested against those limits, so the board's findings and the federal case may not carry equal force, even though they draw on the same files.",
+    "Politically, the context is sharp. Democrats including Sens. Whitehouse and Blumenthal have asked the Justice Department's Inspector General to review the raid, while Republican state lawmakers pushed for the board to take over Fulton's elections. Fulton Chairman Robb Pitts calls the effort \"recycled rumors, lies, untruths, and unproven conspiracy theories.\" The partisan framing on each side makes it harder for the public to tell whether the evidence is being used to test a claim or to build one."
+   ],
+   "why": "Whoever ends up controlling and interpreting these ballot images will shape how Georgia's 2020 record is understood, and no one has yet shown how the two tracks will be kept apart."
+  },
+  {
+   "title": "Legal authority over election records is unsettled",
+   "paragraphs": [
+    "The statutory baseline is 52 U.S.C. §20701, enacted in 1960, which requires officers of federal elections to retain and preserve election records for twenty-two months. Willful destruction or alteration carries a fine of up to $1,000 and or up to one year in prison. Section 20703 lets the Justice Department inspect and copy those records on written demand. The 1960 statute was first used in 1960 and 1961, when the Kennedy Justice Department investigated allegations of racial discrimination in voting in 26 southern counties. That history matters because the statute was written to give federal investigators access to records, not to vest custody of them in Washington.",
+    "Courts have since narrowed how far that access reaches. In United States v. Benson, decided by the Sixth Circuit on June 24, 2026, the court affirmed dismissal and held that the Justice Department was not entitled to the records at issue under Title III. The ruling undercuts the Department's broader demand theory, and it is the closest appellate authority to the Fulton dispute. The Brennan Center reads §20703 as giving federal officials no right to exclusive custody or control of records, a position the Justice Department contests. Brennan also cites United States v. Ponder, where a court ordered local officials to hand over ballots during a federal probe and U.S. Marshals held the materials, allowing access only to federal agents. That description has not been checked against the opinion, and it is a useful contrast with the Fulton protective order, which lets the state board use the records in its own investigations.",
+    "State authority faces its own limits. The Georgia Supreme Court held in June 2025, in Eternal Vigilance Action v. Georgia, that the State Election Board \"can pass rules to implement and enforce the election code, but it cannot go beyond, change or contradict\" the law. The court also overruled a decades-old precedent that had deferred to agency interpretation. That ruling constrains rulemaking, not investigative subpoenas. Judge Robert McBurney's December 2025 finding that the board's subpoenas \"fell squarely within the SEB's authority\" stands on different footing, which is why the board can press for records even though it cannot rewrite the code. The open question is whether custody follows investigative authority, or whether the federal government can hold evidence that a state body has a demonstrated right to see.",
+    "The Fulton case will test these limits directly, because both a state board and a federal prosecutor now claim a stake in the same ballot images and voter rolls. No court has decided whether federal records law gives Washington exclusive control over local election evidence, and the answer will govern future federal-state records disputes in every county where federal and state officials pursue the same election. A decision that custody cannot be exclusive would give states a stronger claim to their own records. A decision that federal seizure controls would shift leverage away from state boards and toward federal investigators. Both outcomes carry consequences that reach beyond Georgia."
+   ],
+   "why": "Whoever holds the records of an election will largely determine who can examine it, and the courts have not yet said who that is."
+  },
+  {
+   "title": "Fraud claims remain unproven after repeated reviews",
+   "paragraphs": [
+    "The record of reviews on the 2020 count in Fulton County is consistent on one point. Hand recounts, state audits and several courts affirmed Joe Biden's win in Georgia. A 2024 state report said the findings \"do not affect the accuracy of the results of the 2020 General Election in Fulton County.\" The State Election Board's own monitor, Seven Hills, found an \"extremely sloppy\" absentee ballot counting operation but reported no \"dishonesty, fraud, or intentional malfeasance.\" A 2021 state Performance Review Board likewise described the county's processes as \"sloppy.\" In 2024 the board reprimanded Fulton after finding it likely that more than 3,000 ballots were scanned twice during the recount, though the investigation could not confirm they were counted twice.",
+    "The FBI affidavit makes a different kind of claim. It rests on a referral from Kurt Olsen, the White House director of election security and integrity, and it describes possible deficiencies or defects without establishing intent. NPR's review found the affidavit omitted state findings, and David Becker of the Center for Election Information & Research called it \"much weaker than I suspected.\" The Justice Department rejects the claim that Agent Hugh Raymond Evans misled the judge. U.S. District Judge J.P. Boulee called the affidavit \"far from perfect\" and \"misleading\" in parts, yet found no callous disregard of Fulton's rights. Warrant-stage language about possible deficiencies is not a finding of wrongdoing, and coverage that treats it as one overstates the record.",
+    "The gap between documented administrative error and unproven intent is the core of this dispute. Administrative errors are real and have been recorded by the state's own reviewers. Intentional manipulation is the claim no review has established, and it is the claim that would justify a criminal probe and the seizure of more than 600 boxes. Partisans on both sides blur that line. Opponents of the probe describe the 2020 count as clean, which the record does not fully support given the 2024 scanning finding and the monitor's criticism. Supporters cite irregularities as proof of fraud, which the record does not show. Former Fulton elections director Richard Barron, interviewed by federal investigators on November 20, 2026, has said prosecutors were \"trying to nitpick some way to nail somebody on a record-keeping error.\" That remark captures the problem: a records violation and a stolen election are different things, and the evidence so far fits the first better than the second.",
+    "Timing sharpens the point. The probe began after the 2024 election cycle had passed, the 22-month federal retention period has long run, and Boulee noted the limitations question is \"not clear-cut.\" Raffensperger, now running for governor, has called the probe a waste of \"time and tax dollars.\" Fulton Chair Robb Pitts calls the accusations \"recycled rumors, lies, untruths, and unproven conspiracy theories.\" Both characterizations are advocacy, and neither settles what the records show."
+   ],
+   "why": "Until the gap between documented error and alleged intent is either closed by evidence or acknowledged by all sides, each new filing will be read as confirmation of what its readers already believed, and public confidence in Georgia's elections will rest on partisanship rather than on the record."
+  },
+  {
+   "title": "Implications and realistic options for policymakers",
+   "paragraphs": [
+    "The most likely path over the next three to six months is delay rather than clean resolution. Fulton County appealed Judge Kelly Lee Ellerbe's November 24 order immediately, and whether the 5 p.m. November 25 delivery deadline holds is unconfirmed. An appellate stay or a procedural pause through the holiday weekend would keep the records in custody. That outcome is the most probable near-term scenario because it requires only a filing, while full compliance requires drives to change hands under a contested order. Watch the Georgia appellate docket first.",
+    "If delivery proceeds, the more likely friction comes afterward. The protective order lets the State Election Board use the records in its investigations and bars Open Records release while those probes are pending, but it does not settle who qualifies as an outside expert, how the board handles data-security complaints, or whether the $500 reimbursement term holds. Saira Draper has already raised concerns about voter privacy, and Fulton's ballot-secrecy argument will not disappear once the files move. Expect motion practice, leak disputes and possible challenges to the fee arrangement rather than a quick end to the matter.",
+    "Convergence is the scenario that would raise the stakes. If DOJ brings charges, or if the Eleventh Circuit revives the worker-records subpoena now on appeal, the state board's copy of the same ballot images becomes operationally important to a federal case. Charges look unlikely to me. Acting Justice Department official Tysen Duva conceded the seizure may not lead to any charges, and both the statute-of-limitations question and the 22-month retention theory remain open. The consistent-with-evidence outcome is that both tracks stall without charges, with attention drifting as the midterm calendar moves on. I rate that as the most likely end state within six months, with delay as the most likely interim.",
+    "For policymakers, the levers are concrete. Congress could clarify whether federal election records under 52 U.S.C. §20701 must sit in state custody, which the Sixth Circuit's Benson ruling only partly settled. States could set written standards for cost, access, expert qualification and chain of custody for board requests, since no inventory was made when the FBI took the boxes. DOJ could publish its custody and copying practices for seized election materials. Each lever reduces the risk that one set of ballot images serves two proceedings with different rules."
+   ],
+   "why": "Who holds Fulton's 2020 ballot images now decides which authority can act on them, and the rules set here will govern future federal-state fights over election evidence whatever the outcome of this case."
+  }
+ ],
+ "watch": [
+  "Whether Fulton delivered the drives by 5 p.m. November 25, 2026, or a Georgia appellate stay halted transfer",
+  "The scope and timing of any Georgia appeal hearing and whether it alters the protective order",
+  "Whether prosecutors schedule a second Barron interview and whether any charges are contemplated",
+  "The 11th Circuit's ruling on the DOJ appeal over the worker subpoena",
+  "SEB meeting agendas and any expert retention, referral or Open Records fight following delivery"
+ ],
+ "sources": [
+  "Georgia’s Fulton County ordered to give copy of 2020 election records seized by FBI to state board",
+  "Judge orders Fulton County to turn over copies of 2020 ballots to Trump-allied election board",
+  "The FBI seizure of Georgia 2020 election ballots relies on debunked claims",
+  "FBI investigation into the 2020 United States presidential election",
+  "Georgia's Fulton County heads to court to argue for return of 2020 ballots seized by FBI",
+  "INVESTIGATIONS DIVISION REPORT OF INVESTIGATION CASE NAME:",
+  "Georgia's Fulton County to file motion after FBI seizes 2020 election ballots - CBS Atlanta",
+  "DOJ files suit to obtain 2020 election records in Fulton County, Georgia",
+  "Judge invalidates Georgia's new election rules, including ones on ballot counts and certification",
+  "Georgia Supreme Court won't step in to reinstate controversial election rules - CBS News",
+  "52 USC 20701: Retention and preservation of records and papers by officers of elections; deposit with custodian; penalty for violation",
+  "52 U.S. Code § 20701 - Retention and preservation of records and papers by officers of elections; deposit with custodian; penalty for violation",
+  "Page 45 TITLE 52—VOTING AND ELECTIONS § 20701",
+  "United States v. Benson: Sixth Circuit Denies Federal Demand for State Voter Registration List",
+  "Whitehouse, Blumenthal Call for Investigation into FBI’s Suspicious Seizure of Election Records in Fulton County - Senator Sheldon Whitehouse",
+  "Judge appears skeptical of Fulton County's case for return of seized 2020 ballots - ABC News",
+  "Fulton County, Georgia, to sue Trump administration over seizure of 2020 election records",
+  "FBI seizes thousands of 2020 ballots from Fulton County, Georgia : NPR",
+  "Page 1 of 17 MINUTES STATE ELECTION BOARD MEETING Wednesday, January 21, 2026",
+  "Justice Department can keep 2020 ballots seized from Fulton County in Georgia, judge rules",
+  "Judge denies Fulton County's request to return 2020 ballots seized by FBI - CBS News",
+  "Judge denies request to force FBI to return seized 2020 Fulton County ballots - ABC News",
+  "1 of 4 May 8, 2026 The Honorable Todd Blanche Acting Attorney General",
+  "Judge orders Fulton County to turn over 2020 election records to State Election Board",
+  "Fulton County ordered to give state board unredacted 2020 election records seized by FBI",
+  "Judge orders Fulton County to turn over seized 2020 election records to state board",
+  "Fulton County ordered to give copy of 2020 election records seized by FBI to state board - Now Georgia",
+  "Judge orders Fulton County to send 2020 election records to SEB • Georgia Recorder",
+  "Judge orders Fulton County to hand over 2020 election files",
+  "Judge orders Fulton County to give state board digital copy of FBI-seized election records",
+  "Trump’s FBI is still probing Fulton County’s 2020 election results - Democracy Docket",
+  "Federal authorities interview ex-Fulton elections director Richard Barron",
+  "It’s 2026 —and Trump’s FBI is still interrogating Georgia over 2020 - Alternet.org",
+  "FBI Interviews Former Fulton County Elections Director",
+  "Richard Barron FBI Interview",
+  "FBI Is Still Trying To Prove Fraud In 2020 GA Election - Joe.My.God."
+ ],
+ "links": [
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWNaWXplbFpqRUVhNC1GQmhDdmVuQWh3Z2lHbmJ2ZEV0amNKX0xXNU0zZkZ4NC1jOUF1LUdiYThBTkdlM09qZGd6QWlmajNlMWRjWWtpemVIZ0dGQko0cXAtUld1WnJndG00VF9pVmplbUY5TC1lWUI5aWdJMlZsN1VyaHItcGFuelk3WHYxSXZOaHJ2b3A4bWp4V05xOUZNclh2M0w2S2ZiMFg4N21IN0pB?oc=5",
+  "https://www.cnn.com/2026/11/24/politics/judge-orders-fulton-county-election-records-state-board",
+  "https://www.nbcnews.com/politics/elections/judge-orders-fulton-county-turn-copies-2020-ballots-ga-election-board-rcna611220",
+  "https://www.npr.org/2026/02/10/nx-s1-5710649/fulton-county-2020-election-affidavit-fbi",
+  "https://en.wikipedia.org/wiki/FBI_investigation_into_the_2020_United_States_presidential_election",
+  "https://www.pbs.org/newshour/politics/georgias-fulton-county-heads-to-court-to-argue-for-return-of-2020-ballots-seized-by-fbi",
+  "https://sos.ga.gov/sites/default/files/2023-06/SEB2020-059%20ROI%20redacted.pdf",
+  "https://www.cbsnews.com/atlanta/news/fulton-county-to-sue-after-fbi-seizes-2020-election-ballots/",
+  "https://www.nbcnews.com/politics/justice-department/doj-files-suit-obtain-2020-election-records-fulton-county-georgia-rcna248952",
+  "https://www.pbs.org/newshour/politics/judge-invalidates-georgias-new-election-rules-including-ones-on-ballot-counts-and-certification",
+  "https://www.cbsnews.com/amp/news/georgia-supreme-court-wont-reinstate-controversial-rules-before-election-day/",
+  "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title52-section20701&num=0&edition=prelim",
+  "https://www.law.cornell.edu/uscode/text/52/20701",
+  "https://www.govinfo.gov/content/pkg/USCODE-2019-title52/pdf/USCODE-2019-title52-subtitleII-chap207-sec20701.pdf",
+  "https://www.congress.gov/crs-product/LSB11456",
+  "https://www.whitehouse.senate.gov/news/release/whitehouse-blumenthal-call-for-investigation-into-fbis-suspicious-seizure-of-election-records-in-fulton-county/",
+  "https://abcnews.com/US/trump-administration-face-questions-seizure-fulton-county-2020/story?id=131447627",
+  "https://www.nbcnews.com/politics/politics-news/fulton-county-sue-trump-doj-fbi-seizure-2020-election-records-rcna257052",
+  "https://www.npr.org/2026/01/30/nx-s1-5693051/fbi-seizes-thousands-of-2020-ballots-from-fulton-county-georgia",
+  "https://sos.ga.gov/sites/default/files/2026-07/minutes_-_january_21_2026_seb_meeting.pdf",
+  "https://www.pbs.org/newshour/politics/justice-department-can-keep-2020-ballots-seized-from-fulton-county-in-georgia-judge-rules",
+  "https://www.cbsnews.com/news/judge-denies-fulton-county-request-to-return-2020-ballots-seized-by-fbi/",
+  "https://abcnews.com/Politics/judge-denies-request-force-fbi-return-seized-2020/story?id=132727542",
+  "https://www.warnock.senate.gov/wp-content/uploads/2026/05/05.08.2026-Letter-to-Acting-AG-Blanche-re-Fulton-County-Subpoena.pdf",
+  "https://roughdraftatlanta.com/2026/11/25/fulton-county-2020-election-records-state-election-board/",
+  "https://www.yahoo.com/news/politics/articles/fulton-county-ordered-state-board-215458177.html",
+  "https://www.wrdw.com/2026/11/25/judge-orders-fulton-county-turn-over-seized-2020-election-records-state-board/",
+  "https://nowgeorgia.com/fulton-county-ordered-to-give-copy-of-2020-election-records-seized-by-fbi-to-state-board/",
+  "https://georgiarecorder.com/2026/11/24/judge-orders-fulton-county-to-turn-over-2020-election-records-to-state-election-board/",
+  "https://www.yahoo.com/news/politics/articles/judge-orders-fulton-county-hand-031705806.html",
+  "https://mezha.net/eng/news/mezha-9ef3c9b5b1d7eda6ce3c51e1_judge_orders_fulton/",
+  "https://www.democracydocket.com/news-alerts/trumps-fbi-is-still-probing-fulton-countys-2020-election-results/",
+  "https://www.ajc.com/politics/2026/11/fbi-questions-former-fulton-elections-director/",
+  "https://www.alternet.org/fulton-county-investigation/",
+  "https://wisevoter.com/world/us/ga/atlanta/2026/11/22/fbi-interviews-former-fulton-county-elections-director",
+  "https://mediabias.news/politics/fbi-interviews-ex-georgia-election-director-in-2020-election-probe",
+  "https://www.joemygod.com/2026/11/fbi-is-still-trying-to-prove-fraud-in-2020-ga-election/"
+ ]
+}
