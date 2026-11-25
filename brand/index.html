@@ -149,6 +149,7 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <li><a href="#skills"><span class="n">08</span>Skills</a></li>
 <li><a href="#decision-log"><span class="n">09</span>Decision log</a></li>
 <li><a href="#logo"><span class="n">10</span>Logo</a></li>
+<li><a href="#midjourney"><span class="n">11</span>Midjourney</a></li>
 <li><a href="#ai-files"><span class="n">AI</span>AI files</a></li></ol></nav>
 <main id="main"><section id="start-here" class="sec"><p class="eyebrow">Section 00</p><h2>Start here</h2><p><strong>SIDE EYE Brand Standards</strong> · Version 1.0 draft · November 24, 2026 · Owner: Heather</p>
 <p>This is the one place for how SIDE EYE looks, sounds and gets made. It covers the magazine, the YouTube show, anything public, and the tools the team uses inside the company. If you make anything with the SIDE EYE name on it, this is your rulebook.</p>
@@ -162,7 +163,7 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <h3 id="start-here--how-to-use-it">How to use it</h3>
 <ol>
 <li>Read <strong>Brand core</strong> first. It takes five minutes and explains what SIDE EYE is for.</li>
-<li>Then read the page for your job: <strong>Visual identity</strong>, <strong>Voice and writing</strong>, <strong>The magazine</strong>, <strong>The YouTube show</strong> or <strong>Internal tools</strong>.</li>
+<li>Then read the page for your job: <strong>Visual identity</strong>, <strong>Voice and writing</strong>, <strong>The magazine</strong>, <strong>The YouTube show</strong> or <strong>Internal tools</strong>. Anyone making images in Midjourney also reads <strong>Midjourney</strong>.</li>
 <li>Before you hand anything in, run the checklist for your role in <strong>Working with us</strong>.</li>
 <li>If you use an AI, load the AI file (see <strong>AI-ready files</strong>) before you start.</li>
 </ol>
@@ -507,7 +508,7 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <li>Minimum print size 7 pt.</li>
 </ul>
 <h3 id="visual-identity--the-five-ways-we-make-pictures">The five ways we make pictures</h3>
-<p>Pick <strong>one</strong> per image.</p>
+<p>Pick <strong>one</strong> per image. Midjourney settings for every process are in <strong>Midjourney</strong>.</p>
 <div class="tbl"><table>
 <thead>
 <tr>
@@ -547,7 +548,7 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <p><strong>LOUD and QUIET.</strong> Most pages are LOUD: neon, collage, jokes. Serious subjects (deaths, atrocities, real suffering) get QUIET pages: newsprint, wide margins, no jokes, no pink.</p>
 <h3 id="visual-identity--people-in-pictures">People in pictures</h3>
 <ul>
-<li>Generated likenesses of <strong>historical</strong> figures are allowed, as caricature or real period art. Living people follow the "sourced public facts only" rule and are never shown doing something we can't prove.</li>
+<li>Generated likenesses of <strong>historical</strong> figures are allowed. Living people appear only as caricature or print art, never as a photoreal picture that could pass for a real photo. They follow the "sourced public facts only" rule and are never shown doing something we can't prove. (Midjourney rule 10.)</li>
 <li>Letters to the AI Dead figures are always skulls wearing one defining prop.</li>
 <li>An illustration never imitates a period document or sits inside one. Illustrations carry the argument; period images carry the proof.</li>
 </ul>
@@ -569,13 +570,14 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <li><strong>Never show a real person, living or historical, acting on screen</strong> in generated footage that a viewer could take for real film of them.</li>
 <li><strong>Fine:</strong> hands, objects, settings, silhouettes and clearly stylized art. Generated stills and stylized likenesses of historical figures stay allowed.</li>
 <li><strong>The pause test:</strong> if a viewer who paused the frame could believe it's real archival or news footage of that person, restyle it or cut it.</li>
+<li><strong>How it's made:</strong> Midjourney image-to-video only, <code>--motion low --raw</code> by default (Midjourney rule 11).</li>
 </ul>
 <h3 id="visual-identity--image-rights-every-product">Image rights (every product)</h3>
 <ul>
 <li>Use only our own images, public-domain images, free-for-commercial-use images, or generated art. No paid licenses.</li>
 <li>Every historical image needs a confirmed public-domain or free-license line before it's used.</li>
 <li>No readable brand logos or personal information in found material.</li>
-<li>Credit lines: generated art "Illustration generated with Midjourney and edited by SIDE EYE." Composites: "Figure from [source], cut out and altered by SIDE EYE; illustration generated with Midjourney and edited by SIDE EYE." Historical art: artist, title, date, holding institution. The magazine carries one Midjourney credit at the front.</li>
+<li>Credit lines: generated art "Illustration generated with Midjourney and edited by SIDE EYE." Composites: "Figure from [source], cut out and altered by SIDE EYE; illustration generated with Midjourney and edited by SIDE EYE." Photo-real period stills: "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph." They stay out of Sources and are never captioned as archival. Historical art: artist, title, date, holding institution. The magazine carries one Midjourney credit at the front.</li>
 <li>Influences (zines, show posters, print studios) are credited in the colophon only, never named in prompts, captions or marketing.</li>
 </ul></section>
 <section id="voice-and-writing" class="sec"><p class="eyebrow">Section 03</p><h2>Voice and writing</h2><p><strong>Bold claims. Honest proof.</strong> We sound like a smart friend who read the footnotes and can't wait to tell you.</p>
@@ -1021,6 +1023,8 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <li class="chk"><span class="box" aria-hidden="true"></span>Correct process chosen per page (RELIEF, COLLAGE, WOOD TYPE, HYBRID, NEWSPRINT).</li>
 <li class="chk"><span class="box" aria-hidden="true"></span>Print: black plus two inks, one pink focus, total ink under 240%.</li>
 <li class="chk"><span class="box" aria-hidden="true"></span>Type at 7 pt or larger. No AI-generated lettering.</li>
+<li class="chk"><span class="box" aria-hidden="true"></span>Midjourney prompts follow <strong>Midjourney</strong>: <code>--v 8.2 --raw</code>, a --no list on every prompt, three versions (A, B, C), no artist, studio or brand names.</li>
+<li class="chk"><span class="box" aria-hidden="true"></span>Photo-real period stills carry the photo-illustration credit and stay out of Sources.</li>
 <li class="chk"><span class="box" aria-hidden="true"></span>Logo on an approved background with clear space.</li>
 <li class="chk"><span class="box" aria-hidden="true"></span>Screen-printed merch: Side Eye Pink is PANTONE 806 C (fluorescent) when the printer can do it, 232 C as backup.</li>
 <li class="chk"><span class="box" aria-hidden="true"></span>Every image has a credit and a cleared license.</li>
@@ -1289,7 +1293,7 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <li><code>rb-research-loop</code> ("Balance airtime... aim for an even split") and <code>side-eye-rb-two-host-script</code> ("Airtime is roughly even across the episode") still use the older speaking-share approach.</li>
 <li><strong>"That's not X. That's Y" (now allowed in Edwin's own voice).</strong> <code>side-eye-edwin-voice</code> bans "any not-X/Y construction" for Edwin and lists "That's not a price. That's a eulogy." as a rejected line. <code>side-eye-rb-two-host-script</code> and <code>heather-and-edwin-podcast-banter</code> ban it for both hosts ("Banned everywhere").</li>
 <li><strong>No chapter breaks or title cards mid-episode.</strong> <code>side-eye-case-file-script</code> builds the video from bracketed chapter titles and named segments ([For the Record], [The Other Side], [The File Drawer]) and places a "[Title: ...] card after the cold open". <code>side-eye-rb-two-host-script</code> also places a "[TITLE CARD: ...]" after the cold open. Worth checking that none of these show on screen as cards. <code>side-eye-case-file-script</code> also says chapter titles "should read as claims or dated beats", while description chapter titles are now meant to be funny.</li>
-<li><strong>Generated likenesses of historical figures (now allowed).</strong> <code>side-eye-art-direction</code> still says "No faces or likenesses of real people, living or dead" and its checklist says "No generated faces of real people".</li>
+<li><strong>Midjourney V8.2 standards (Nov 25).</strong> <code>side-eye-art-direction</code> still says <code>--style raw</code>, two prompts per image (A safer, B bolder), "No faces or likenesses of real people, living or dead" and, in its checklist, "No generated faces of real people". The <strong>Midjourney</strong> section wins: <code>--raw</code>, three versions (A, B, C), historical likenesses fine, living people never photoreal.</li>
 <li><strong>AI-generated video (Nov 24).</strong> Generated images and footage are now allowed in videos as illustration, never as footage of a real person acting on screen. No skill covers generated footage yet, so any prompt for video art should follow the pause test in Visual identity.</li>
 <li><strong>Disclaimer (Nov 24).</strong> <code>side-eye-edwin-voice</code> keeps the fixed disclaimer "...the sources are in the description, so you can check our homework." Heather's new ending: "so you can check them yourself." Use the new line until the skill is updated.</li>
 <li><strong>Written titles are never questions (Nov 24).</strong> <code>side-eye-case-file-script</code> says weaker claims get a question title, with the example "[Did a Grudge Put Him on the Ballot?]". Written titles are never questions now; the spoken title question in the cold open stays. The example needs fixing when the skill is updated.</li>
@@ -1472,13 +1476,18 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <td style="text-align: left;">The glancing eye as the approved SIDE EYE base</td>
 </tr>
 <tr>
+<td style="text-align: left;">2026-11-25</td>
+<td style="text-align: left;">Midjourney V8.2 standards (14 rules from the Midjourney desk, Heather's yes Nov 25) are the house rules for every Midjourney image and clip. See <strong>Midjourney</strong></td>
+<td style="text-align: left;"><code>--style raw</code> in the Design System v3 templates; two prompts per image; "no generated faces of real people" in the art direction skill; living people in any style; the single generated-art credit for photo-real period stills</td>
+</tr>
+<tr>
 <td style="text-align: left;">Undated</td>
 <td style="text-align: left;">Edwin never claims a profession on screen</td>
 <td style="text-align: left;">The "I'm an economist" example in the Edwin tone doc</td>
 </tr>
 <tr>
 <td style="text-align: left;">Undated</td>
-<td style="text-align: left;">Generated likenesses of historical figures are allowed. Living people: sourced facts only</td>
+<td style="text-align: left;">Generated likenesses of historical figures are allowed. Living people: sourced facts only (narrowed 2026-11-25: caricature or print only, never photoreal)</td>
 <td style="text-align: left;">"No faces of real people" in the art direction skill</td>
 </tr>
 <tr>
@@ -2138,10 +2147,41 @@ summary{cursor:pointer; font-size:14px; color:var(--accent); min-height:32px; di
 <li><strong>A heavier tagline</strong> (Plex Mono Bold). Decided by Heather on 2026-11-24: every tagline is Bold, one drawing. In the pack from version 1.4.</li>
 <li><strong>An approved logo animation.</strong> Decided by Heather on 2026-11-24: animations are fine, but only ones she has seen and approved. Updated the same day: the iris slide is the approved SIDE EYE logo animation, and the glancing eye on heatherchappell.com is her personal branding only.</li>
 <li><strong>Approve the co-brand numbers</strong> above (the 9-unit rule, 1.5X gaps, half-size sponsor). Approved by Heather on 2026-11-24, as written.</li>
-</ol></section><section id="ai-files" class="sec"><p class="eyebrow">For Claude, ChatGPT and Gemini</p><h2>AI files</h2>
+</ol></section>
+<section id="midjourney" class="sec"><p class="eyebrow">Section 11</p><h2>Midjourney</h2><p>The house rules for every SIDE EYE image or clip made in Midjourney: magazine art, covers, YouTube art and video illustrations. Where they disagree with an older template, doc or skill, these rules win.</p>
+<p><strong>Standards as of:</strong> November 25, 2026 · <strong>Model:</strong> Midjourney V8.2 · <strong>Owner:</strong> the SIDE EYE Midjourney desk</p>
+<p>The desk keeps the full how-to, with worked prompts, in the playbook "SIDE EYE Midjourney V8.2 Playbook — Never Looks AI", in Heather's Drive (not shared). Ask the desk for it.</p>
+<h3 id="midjourney--the-rules">The rules</h3>
+<p>The numbers match the desk's list, so a change can name its rule.</p>
+<ol>
+<li><strong>Model.</strong> Midjourney V8.2, the default since July 24, 2026. Every prompt ends with <code>--v 8.2</code>.</li>
+<li><strong>Raw, always.</strong> Every prompt uses <code>--raw</code>. This replaces <code>--style raw</code>, the old V5 to V7 spelling, in the Design System v3 templates.</li>
+<li><strong>Stylize.</strong> Photographs <code>--s 50</code> to <code>--s 100</code>. Prints and illustration <code>--s 100</code> to <code>--s 250</code>. Never above 300.</li>
+<li><strong>HD for big art.</strong> Add <code>--hd</code> for full pages, spreads, covers and YouTube hero art. HD caps the aspect ratio at 4:1.</li>
+<li><strong>Style references.</strong> Only SIDE EYE's own approved images. RELIEF uses the powdered-wig skull print at <code>--sw 60</code>. COLLAGE backgrounds use the approved emu cover at <code>--sw 30</code>. Never <code>--sw</code> without <code>--sref</code>. No moodboards.</li>
+<li><strong>Switched off for house art.</strong> Personalization (<code>--p</code>, and turn it off in settings), <code>--weird</code>, <code>--exp</code>, <code>--q</code>, <code>--sv</code>, <code>--oref</code>, <code>--ow</code>, <code>--cref</code> and <code>::</code> weights. Chaos stays at 0 for finals.</li>
+<li><strong>A --no list on every prompt.</strong> It always includes text, letters, words, numbers, logo, watermark. Prints also add glow, gradient, chrome. A photo with a real lamp in it leaves glow out. No generated lettering anywhere: all type is set in layout.</li>
+<li><strong>Three versions per image.</strong> A is the safe read, B the bold joke, C a different take. Each one is complete and ready to copy and paste, one per code block, with no placeholders.</li>
+<li><strong>Never looks AI.</strong> Name the real capture or print process. Name the real light source. Match the camera and film to the year. Add two or three real imperfections. Ordinary-looking people with real skin. Off-center, cropped framing. No gloss words: photorealistic, cinematic, 8k, masterpiece, ultra realistic, glowing, epic. Photographic stills get no neon and no pink.</li>
+<li><strong>People.</strong> Generated likenesses of historical figures are fine. Living people only as caricature or print, never a photoreal picture that could pass for a real photo, and only with sourced public facts.</li>
+<li><strong>Video.</strong> Image-to-video only, <code>--motion low --raw</code> by default. AI video illustrates an idea. It is never something that could pass for real footage of a real person (see AI-generated video in Visual identity).</li>
+<li><strong>No names in prompts.</strong> No artist, studio, shop or magazine names. Film stocks and camera models may be named as materials, but no brand or logo appears in an image. Adult and fun, never explicit.</li>
+<li><strong>Credit for photo-real period stills.</strong> "Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph." These stills stay out of Sources and are never captioned as archival.</li>
+<li><strong>Links in prompts.</strong> Source or inspiration image URLs go in the prompt: image prompts first, or after <code>--sref</code>. Drive links don't work in Midjourney.</li>
+</ol>
+<h3 id="midjourney--what-these-rules-replaced">What these rules replaced</h3>
+<ul>
+<li><strong><code>--style raw</code></strong> in the Design System v3 templates is now <code>--raw</code> (rule 2).</li>
+<li><strong>Two prompts per image</strong> (A safer, B bolder) are now three versions, A, B and C (rule 8).</li>
+<li><strong>"No generated faces of real people"</strong> (in the art direction skill) is gone. Historical likenesses are fine (rule 10).</li>
+<li><strong>Living people in any style, as long as the facts are sourced,</strong> is narrowed to caricature or print only, never photoreal (rule 10).</li>
+<li><strong>Generated art credit:</strong> photo-real period stills now carry their own credit line (rule 13). Other generated art keeps "Illustration generated with Midjourney and edited by SIDE EYE."</li>
+</ul>
+<h3 id="midjourney--keeping-this-section-current">Keeping this section current</h3>
+<p>The Midjourney desk sends changes. Each change rewrites its numbered rule, moves the "Standards as of" date, and adds a line to the Decision log. The old wording goes in "What these rules replaced" above.</p></section><section id="ai-files" class="sec"><p class="eyebrow">For Claude, ChatGPT and Gemini</p><h2>AI files</h2>
 <p>Paste the short prompt into the instructions box of a Claude Project, a custom GPT or a Gemini Gem. Upload the full guide as a knowledge file in the same place. Claude users can add the skills guide too.</p>
 <div class="aigrid">
-<div class="aicard"><h3>Short system prompt</h3><p class="meta">SIDE-EYE-SYSTEM-PROMPT.md · about 1119 words</p>
+<div class="aicard"><h3>Short system prompt</h3><p class="meta">SIDE-EYE-SYSTEM-PROMPT.md · about 1436 words</p>
 <p>Goes in the instructions box.</p><button type="button" class="copy" data-src="t-prompt">Copy prompt</button><span class="done" role="status"></span>
 <details><summary>Show the text</summary><pre>You are working on SIDE EYE, a history brand with the tagline &quot;History, allegedly.&quot; It has a print magazine (one theme per issue, sold on Amazon) and a YouTube show, Side Eye Magazine (@SideEyeMag), hosted by Heather and Edwin. The full rules are in SIDE-EYE-BRAND.md. Read it before you start. When sources disagree, the newest dated decision wins, and the brand file wins over any older doc or skill.
 
@@ -2173,7 +2213,7 @@ YOUTUBE
   HEATHER: I&#x27;m Heather. / EDWIN: I&#x27;m Edwin. We make SIDE EYE, a magazine about history. / HEATHER: Allegedly. / EDWIN: We ask the questions everyone&#x27;s thinking. / HEATHER: But no one will give you the straight answer.
 - Disclaimer ends: &quot;...the sources are in the description so you can check them yourself.&quot; Never &quot;check our homework&quot;, even where a skill&#x27;s fixed line still says it.
 - No mid-episode title cards. No proof stamps on screen. End on a true twist.
-- AI-generated video illustrates an idea: scenes, objects, hands, settings, stylized art. Never show a real person, living or historical, acting in generated footage a viewer could take for real film of them. If a paused frame could pass for real archival or news footage of that person, restyle it or cut it.
+- AI-generated video illustrates an idea: scenes, objects, hands, settings, stylized art. Never show a real person, living or historical, acting in generated footage a viewer could take for real film of them. If a paused frame could pass for real archival or news footage of that person, restyle it or cut it. Make it as Midjourney image-to-video, --motion low --raw by default.
 - Music: the SIDE EYE theme, or stock music that is free for commercial use and isn&#x27;t claimed when uploaded to YouTube. This overrides the final-output skill&#x27;s ban on stock tracks.
 - Titles 5 to 9 words, 45 characters or fewer, never a question in writing. Thumbnails always show Heather and Edwin, three elements at most; make six to choose from, then test the best two. End screen: the Magazine-forward template unless Heather names another. Descriptions link the magazine and the sources doc.
 
@@ -2191,6 +2231,17 @@ VISUALS
 - Screen-printed merch: Side Eye Pink is PANTONE 806 C (fluorescent) when the printer can do it, PANTONE 232 C as backup. Never spot colors on the magazine (Amazon prints CMYK only).
 - Logo motion: the approved SIDE EYE logo animation is the iris slide (the iris slides right into its glance in 0.6 s, then holds; reverse eye on a dark field). The glancing eye on heatherchappell.com is Heather&#x27;s personal branding, never SIDE EYE. Never invent new logo motion; propose it to Heather first.
 
+MIDJOURNEY (V8.2, standards as of Nov 25, 2026; the Midjourney section of SIDE-EYE-BRAND.md has all 14 rules and wins over older templates and skills)
+- Every prompt ends with --v 8.2 and uses --raw (never --style raw). Stylize: photos --s 50 to 100, prints and illustration --s 100 to 250, never above 300. --hd for full pages, spreads, covers and YouTube hero art.
+- Style references: only SIDE EYE&#x27;s own approved images (RELIEF: the powdered-wig skull print at --sw 60; COLLAGE backgrounds: the approved emu cover at --sw 30). Never --sw without --sref. No moodboards. Off: --p, --weird, --exp, --q, --sv, --oref, --ow, --cref, :: weights. Chaos 0 for finals.
+- Every prompt ends with a --no list including text, letters, words, numbers, logo, watermark (prints add glow, gradient, chrome). No generated lettering; type is set in layout.
+- Three complete, copy-ready versions per image (A safe read, B bold joke, C different take), one per code block, no placeholders.
+- Never looks AI: name the real capture or print process and light source, match camera and film to the year, two or three real imperfections, ordinary people with real skin, off-center cropped framing. No gloss words (photorealistic, cinematic, 8k, masterpiece, ultra realistic, glowing, epic). Photographic stills get no neon or pink.
+- People: historical likenesses are fine. Living people only as caricature or print, never photoreal, sourced public facts only.
+- No artist, studio, shop or magazine names in prompts; film stocks and cameras are fine as materials. No brand or logo in an image. Adult and fun, never explicit.
+- Photo-real period stills are credited &quot;Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph.&quot;, kept out of Sources and never captioned as archival.
+- Image URLs go in the prompt (image prompts first, or after --sref). Drive links don&#x27;t work in Midjourney.
+
 NEVER
 - Publish, post, send, buy or mark anything Approved. Only Heather approves.
 - Put a host&#x27;s last name, phone, email or location in anything.
@@ -2198,7 +2249,7 @@ NEVER
 
 When unsure, say so and ask.
 </pre></details></div>
-<div class="aicard"><h3>Full brand guide</h3><p class="meta">SIDE-EYE-BRAND.md · about 11,910 words</p>
+<div class="aicard"><h3>Full brand guide</h3><p class="meta">SIDE-EYE-BRAND.md · about 12,788 words</p>
 <p>Upload as a knowledge file, or paste it into a long chat.</p><button type="button" class="copy" data-src="t-brand">Copy full guide</button><span class="done" role="status"></span>
 <details><summary>Show the text</summary><pre># SIDE EYE Brand Standards (complete)
 
@@ -2221,7 +2272,7 @@ This is the one place for how SIDE EYE looks, sounds and gets made. It covers th
 ### How to use it
 
 1. Read **Brand core** first. It takes five minutes and explains what SIDE EYE is for.
-2. Then read the page for your job: **Visual identity**, **Voice and writing**, **The magazine**, **The YouTube show** or **Internal tools**.
+2. Then read the page for your job: **Visual identity**, **Voice and writing**, **The magazine**, **The YouTube show** or **Internal tools**. Anyone making images in Midjourney also reads **Midjourney**.
 3. Before you hand anything in, run the checklist for your role in **Working with us**.
 4. If you use an AI, load the AI file (see **AI-ready files**) before you start.
 
@@ -2395,7 +2446,7 @@ KDP prints CMYK only, so there is no true fluorescent. Every neon is a bright bu
 
 ### The five ways we make pictures
 
-Pick **one** per image.
+Pick **one** per image. Midjourney settings for every process are in **Midjourney**.
 
 | Process | Use it for | What it looks like |
 | :- | :- | :- |
@@ -2409,7 +2460,7 @@ Pick **one** per image.
 
 ### People in pictures
 
-- Generated likenesses of **historical** figures are allowed, as caricature or real period art. Living people follow the &quot;sourced public facts only&quot; rule and are never shown doing something we can&#x27;t prove.
+- Generated likenesses of **historical** figures are allowed. Living people appear only as caricature or print art, never as a photoreal picture that could pass for a real photo. They follow the &quot;sourced public facts only&quot; rule and are never shown doing something we can&#x27;t prove. (Midjourney rule 10.)
 - Letters to the AI Dead figures are always skulls wearing one defining prop.
 - An illustration never imitates a period document or sits inside one. Illustrations carry the argument; period images carry the proof.
 
@@ -2432,13 +2483,14 @@ Generated footage illustrates an idea. It never stands in for real footage of a 
 - **Never show a real person, living or historical, acting on screen** in generated footage that a viewer could take for real film of them.
 - **Fine:** hands, objects, settings, silhouettes and clearly stylized art. Generated stills and stylized likenesses of historical figures stay allowed.
 - **The pause test:** if a viewer who paused the frame could believe it&#x27;s real archival or news footage of that person, restyle it or cut it.
+- **How it&#x27;s made:** Midjourney image-to-video only, `--motion low --raw` by default (Midjourney rule 11).
 
 ### Image rights (every product)
 
 - Use only our own images, public-domain images, free-for-commercial-use images, or generated art. No paid licenses.
 - Every historical image needs a confirmed public-domain or free-license line before it&#x27;s used.
 - No readable brand logos or personal information in found material.
-- Credit lines: generated art &quot;Illustration generated with Midjourney and edited by SIDE EYE.&quot; Composites: &quot;Figure from [source], cut out and altered by SIDE EYE; illustration generated with Midjourney and edited by SIDE EYE.&quot; Historical art: artist, title, date, holding institution. The magazine carries one Midjourney credit at the front.
+- Credit lines: generated art &quot;Illustration generated with Midjourney and edited by SIDE EYE.&quot; Composites: &quot;Figure from [source], cut out and altered by SIDE EYE; illustration generated with Midjourney and edited by SIDE EYE.&quot; Photo-real period stills: &quot;Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph.&quot; They stay out of Sources and are never captioned as archival. Historical art: artist, title, date, holding institution. The magazine carries one Midjourney credit at the front.
 - Influences (zines, show posters, print studios) are credited in the colophon only, never named in prompts, captions or marketing.
 
 
@@ -2747,6 +2799,8 @@ AI agents never mark work Approved or Published, and never send, post or buy any
 - [ ] Correct process chosen per page (RELIEF, COLLAGE, WOOD TYPE, HYBRID, NEWSPRINT).
 - [ ] Print: black plus two inks, one pink focus, total ink under 240%.
 - [ ] Type at 7 pt or larger. No AI-generated lettering.
+- [ ] Midjourney prompts follow **Midjourney**: `--v 8.2 --raw`, a --no list on every prompt, three versions (A, B, C), no artist, studio or brand names.
+- [ ] Photo-real period stills carry the photo-illustration credit and stay out of Sources.
 - [ ] Logo on an approved background with clear space.
 - [ ] Screen-printed merch: Side Eye Pink is PANTONE 806 C (fluorescent) when the printer can do it, 232 C as backup.
 - [ ] Every image has a credit and a cleared license.
@@ -2807,8 +2861,9 @@ When two documents disagree, this log says which rule wins. Newest decision by H
 | 2026-11-24 | Screen-print pink (D5, Heather&#x27;s &quot;1 when possible 232 as backup&quot;): Side Eye Pink is PANTONE 806 C fluorescent on screen-printed merch whenever the printer can do it, PANTONE 232 C as backup. Never on the magazine (KDP is CMYK only) | 806 C or 232 C as a suggestion only |
 | 2026-11-24 | Serious chapter titles (Q6): no fixed rule. Chapter titles stay funny by default; a chapter touching something serious, like a death, is judged case by case and treated with respect in context. Heather&#x27;s words: &quot;No rule here. Case by case. Treat serious issues with the respect they deserve in context.&quot; | The final-output skill&#x27;s rule that every serious or low-point chapter gets a plain title with no joke |
 | 2026-11-24 | Logo animation (iris-slide decision, Heather: &quot;Left eye is Heather branding only, right animated eye can be used for side eye&quot;): the iris slide is the approved SIDE EYE logo animation. The glancing eye on heatherchappell.com is Heather&#x27;s personal branding only and left the SIDE EYE downloads. Other animations still need her yes. Logo pack v1.4 | The glancing eye as the approved SIDE EYE base |
+| 2026-11-25 | Midjourney V8.2 standards (14 rules from the Midjourney desk, Heather&#x27;s yes Nov 25) are the house rules for every Midjourney image and clip. See **Midjourney** | `--style raw` in the Design System v3 templates; two prompts per image; &quot;no generated faces of real people&quot; in the art direction skill; living people in any style; the single generated-art credit for photo-real period stills |
 | Undated | Edwin never claims a profession on screen | The &quot;I&#x27;m an economist&quot; example in the Edwin tone doc |
-| Undated | Generated likenesses of historical figures are allowed. Living people: sourced facts only | &quot;No faces of real people&quot; in the art direction skill |
+| Undated | Generated likenesses of historical figures are allowed. Living people: sourced facts only (narrowed 2026-11-25: caricature or print only, never photoreal) | &quot;No faces of real people&quot; in the art direction skill |
 | Undated | Pink can be used freely in video. Print keeps one pink focus per page | One-pink-focus rule everywhere |
 | Undated | Host split is long alternating chunks; who goes first alternates by episode; 4 to 5 gentle ribbing moments | Fixed roles, even airtime targets, 6 to 10 moments |
 | Undated | No chapter breaks or title cards mid-episode. Funny YouTube description chapter titles are fine | Bracketed on-screen chapter titles |
@@ -3095,8 +3150,49 @@ These change the mark or the system, so they wait for Heather. Only the items ma
 8. **An approved logo animation.** Decided by Heather on 2026-11-24: animations are fine, but only ones she has seen and approved. Updated the same day: the iris slide is the approved SIDE EYE logo animation, and the glancing eye on heatherchappell.com is her personal branding only.
 9. **Approve the co-brand numbers** above (the 9-unit rule, 1.5X gaps, half-size sponsor). Approved by Heather on 2026-11-24, as written.
 
+
+
+## Midjourney
+
+The house rules for every SIDE EYE image or clip made in Midjourney: magazine art, covers, YouTube art and video illustrations. Where they disagree with an older template, doc or skill, these rules win.
+
+**Standards as of:** November 25, 2026 · **Model:** Midjourney V8.2 · **Owner:** the SIDE EYE Midjourney desk
+
+The desk keeps the full how-to, with worked prompts, in the playbook &quot;SIDE EYE Midjourney V8.2 Playbook — Never Looks AI&quot;, in Heather&#x27;s Drive (not shared). Ask the desk for it.
+
+### The rules
+
+The numbers match the desk&#x27;s list, so a change can name its rule.
+
+1. **Model.** Midjourney V8.2, the default since July 24, 2026. Every prompt ends with `--v 8.2`.
+2. **Raw, always.** Every prompt uses `--raw`. This replaces `--style raw`, the old V5 to V7 spelling, in the Design System v3 templates.
+3. **Stylize.** Photographs `--s 50` to `--s 100`. Prints and illustration `--s 100` to `--s 250`. Never above 300.
+4. **HD for big art.** Add `--hd` for full pages, spreads, covers and YouTube hero art. HD caps the aspect ratio at 4:1.
+5. **Style references.** Only SIDE EYE&#x27;s own approved images. RELIEF uses the powdered-wig skull print at `--sw 60`. COLLAGE backgrounds use the approved emu cover at `--sw 30`. Never `--sw` without `--sref`. No moodboards.
+6. **Switched off for house art.** Personalization (`--p`, and turn it off in settings), `--weird`, `--exp`, `--q`, `--sv`, `--oref`, `--ow`, `--cref` and `::` weights. Chaos stays at 0 for finals.
+7. **A --no list on every prompt.** It always includes text, letters, words, numbers, logo, watermark. Prints also add glow, gradient, chrome. A photo with a real lamp in it leaves glow out. No generated lettering anywhere: all type is set in layout.
+8. **Three versions per image.** A is the safe read, B the bold joke, C a different take. Each one is complete and ready to copy and paste, one per code block, with no placeholders.
+9. **Never looks AI.** Name the real capture or print process. Name the real light source. Match the camera and film to the year. Add two or three real imperfections. Ordinary-looking people with real skin. Off-center, cropped framing. No gloss words: photorealistic, cinematic, 8k, masterpiece, ultra realistic, glowing, epic. Photographic stills get no neon and no pink.
+10. **People.** Generated likenesses of historical figures are fine. Living people only as caricature or print, never a photoreal picture that could pass for a real photo, and only with sourced public facts.
+11. **Video.** Image-to-video only, `--motion low --raw` by default. AI video illustrates an idea. It is never something that could pass for real footage of a real person (see AI-generated video in Visual identity).
+12. **No names in prompts.** No artist, studio, shop or magazine names. Film stocks and camera models may be named as materials, but no brand or logo appears in an image. Adult and fun, never explicit.
+13. **Credit for photo-real period stills.** &quot;Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph.&quot; These stills stay out of Sources and are never captioned as archival.
+14. **Links in prompts.** Source or inspiration image URLs go in the prompt: image prompts first, or after `--sref`. Drive links don&#x27;t work in Midjourney.
+
+### What these rules replaced
+
+- **`--style raw`** in the Design System v3 templates is now `--raw` (rule 2).
+- **Two prompts per image** (A safer, B bolder) are now three versions, A, B and C (rule 8).
+- **&quot;No generated faces of real people&quot;** (in the art direction skill) is gone. Historical likenesses are fine (rule 10).
+- **Living people in any style, as long as the facts are sourced,** is narrowed to caricature or print only, never photoreal (rule 10).
+- **Generated art credit:** photo-real period stills now carry their own credit line (rule 13). Other generated art keeps &quot;Illustration generated with Midjourney and edited by SIDE EYE.&quot;
+
+### Keeping this section current
+
+The Midjourney desk sends changes. Each change rewrites its numbered rule, moves the &quot;Standards as of&quot; date, and adds a line to the Decision log. The old wording goes in &quot;What these rules replaced&quot; above.
+
 </pre></details></div>
-<div class="aicard"><h3>Skills guide</h3><p class="meta">SIDE-EYE-SKILLS.md · about 4,985 words</p>
+<div class="aicard"><h3>Skills guide</h3><p class="meta">SIDE-EYE-SKILLS.md · about 5,010 words</p>
 <p>For Claude only. ChatGPT and Gemini can't run skills.</p><button type="button" class="copy" data-src="t-skills">Copy skills guide</button><span class="done" role="status"></span>
 <details><summary>Show the text</summary><pre># SIDE EYE skills (for Claude users)
 
@@ -3372,7 +3468,7 @@ These rules inside installed skills clash with Heather&#x27;s newest decisions. 
   - `rb-research-loop` (&quot;Balance airtime... aim for an even split&quot;) and `side-eye-rb-two-host-script` (&quot;Airtime is roughly even across the episode&quot;) still use the older speaking-share approach.
 - **&quot;That&#x27;s not X. That&#x27;s Y&quot; (now allowed in Edwin&#x27;s own voice).** `side-eye-edwin-voice` bans &quot;any not-X/Y construction&quot; for Edwin and lists &quot;That&#x27;s not a price. That&#x27;s a eulogy.&quot; as a rejected line. `side-eye-rb-two-host-script` and `heather-and-edwin-podcast-banter` ban it for both hosts (&quot;Banned everywhere&quot;).
 - **No chapter breaks or title cards mid-episode.** `side-eye-case-file-script` builds the video from bracketed chapter titles and named segments ([For the Record], [The Other Side], [The File Drawer]) and places a &quot;[Title: ...] card after the cold open&quot;. `side-eye-rb-two-host-script` also places a &quot;[TITLE CARD: ...]&quot; after the cold open. Worth checking that none of these show on screen as cards. `side-eye-case-file-script` also says chapter titles &quot;should read as claims or dated beats&quot;, while description chapter titles are now meant to be funny.
-- **Generated likenesses of historical figures (now allowed).** `side-eye-art-direction` still says &quot;No faces or likenesses of real people, living or dead&quot; and its checklist says &quot;No generated faces of real people&quot;.
+- **Midjourney V8.2 standards (Nov 25).** `side-eye-art-direction` still says `--style raw`, two prompts per image (A safer, B bolder), &quot;No faces or likenesses of real people, living or dead&quot; and, in its checklist, &quot;No generated faces of real people&quot;. The **Midjourney** section wins: `--raw`, three versions (A, B, C), historical likenesses fine, living people never photoreal.
 - **AI-generated video (Nov 24).** Generated images and footage are now allowed in videos as illustration, never as footage of a real person acting on screen. No skill covers generated footage yet, so any prompt for video art should follow the pause test in Visual identity.
 - **Disclaimer (Nov 24).** `side-eye-edwin-voice` keeps the fixed disclaimer &quot;...the sources are in the description, so you can check our homework.&quot; Heather&#x27;s new ending: &quot;so you can check them yourself.&quot; Use the new line until the skill is updated.
 - **Written titles are never questions (Nov 24).** `side-eye-case-file-script` says weaker claims get a question title, with the example &quot;[Did a Grudge Put Him on the Ballot?]&quot;. Written titles are never questions now; the spoken title question in the cold open stays. The example needs fixing when the skill is updated.
@@ -3663,7 +3759,7 @@ These rules inside installed skills clash with Heather&#x27;s newest decisions. 
   - `rb-research-loop` (&quot;Balance airtime... aim for an even split&quot;) and `side-eye-rb-two-host-script` (&quot;Airtime is roughly even across the episode&quot;) still use the older speaking-share approach.
 - **&quot;That&#x27;s not X. That&#x27;s Y&quot; (now allowed in Edwin&#x27;s own voice).** `side-eye-edwin-voice` bans &quot;any not-X/Y construction&quot; for Edwin and lists &quot;That&#x27;s not a price. That&#x27;s a eulogy.&quot; as a rejected line. `side-eye-rb-two-host-script` and `heather-and-edwin-podcast-banter` ban it for both hosts (&quot;Banned everywhere&quot;).
 - **No chapter breaks or title cards mid-episode.** `side-eye-case-file-script` builds the video from bracketed chapter titles and named segments ([For the Record], [The Other Side], [The File Drawer]) and places a &quot;[Title: ...] card after the cold open&quot;. `side-eye-rb-two-host-script` also places a &quot;[TITLE CARD: ...]&quot; after the cold open. Worth checking that none of these show on screen as cards. `side-eye-case-file-script` also says chapter titles &quot;should read as claims or dated beats&quot;, while description chapter titles are now meant to be funny.
-- **Generated likenesses of historical figures (now allowed).** `side-eye-art-direction` still says &quot;No faces or likenesses of real people, living or dead&quot; and its checklist says &quot;No generated faces of real people&quot;.
+- **Midjourney V8.2 standards (Nov 25).** `side-eye-art-direction` still says `--style raw`, two prompts per image (A safer, B bolder), &quot;No faces or likenesses of real people, living or dead&quot; and, in its checklist, &quot;No generated faces of real people&quot;. The **Midjourney** section wins: `--raw`, three versions (A, B, C), historical likenesses fine, living people never photoreal.
 - **AI-generated video (Nov 24).** Generated images and footage are now allowed in videos as illustration, never as footage of a real person acting on screen. No skill covers generated footage yet, so any prompt for video art should follow the pause test in Visual identity.
 - **Disclaimer (Nov 24).** `side-eye-edwin-voice` keeps the fixed disclaimer &quot;...the sources are in the description, so you can check our homework.&quot; Heather&#x27;s new ending: &quot;so you can check them yourself.&quot; Use the new line until the skill is updated.
 - **Written titles are never questions (Nov 24).** `side-eye-case-file-script` says weaker claims get a question title, with the example &quot;[Did a Grudge Put Him on the Ballot?]&quot;. Written titles are never questions now; the spoken title question in the cold open stays. The example needs fixing when the skill is updated.
@@ -3709,7 +3805,7 @@ YOUTUBE
   HEATHER: I&#x27;m Heather. / EDWIN: I&#x27;m Edwin. We make SIDE EYE, a magazine about history. / HEATHER: Allegedly. / EDWIN: We ask the questions everyone&#x27;s thinking. / HEATHER: But no one will give you the straight answer.
 - Disclaimer ends: &quot;...the sources are in the description so you can check them yourself.&quot; Never &quot;check our homework&quot;, even where a skill&#x27;s fixed line still says it.
 - No mid-episode title cards. No proof stamps on screen. End on a true twist.
-- AI-generated video illustrates an idea: scenes, objects, hands, settings, stylized art. Never show a real person, living or historical, acting in generated footage a viewer could take for real film of them. If a paused frame could pass for real archival or news footage of that person, restyle it or cut it.
+- AI-generated video illustrates an idea: scenes, objects, hands, settings, stylized art. Never show a real person, living or historical, acting in generated footage a viewer could take for real film of them. If a paused frame could pass for real archival or news footage of that person, restyle it or cut it. Make it as Midjourney image-to-video, --motion low --raw by default.
 - Music: the SIDE EYE theme, or stock music that is free for commercial use and isn&#x27;t claimed when uploaded to YouTube. This overrides the final-output skill&#x27;s ban on stock tracks.
 - Titles 5 to 9 words, 45 characters or fewer, never a question in writing. Thumbnails always show Heather and Edwin, three elements at most; make six to choose from, then test the best two. End screen: the Magazine-forward template unless Heather names another. Descriptions link the magazine and the sources doc.
 
@@ -3726,6 +3822,17 @@ VISUALS
 - YouTube chapter titles: funny by default. A chapter that touches something serious, like a death, is judged case by case and treated with respect in context. No fixed plain-title rule.
 - Screen-printed merch: Side Eye Pink is PANTONE 806 C (fluorescent) when the printer can do it, PANTONE 232 C as backup. Never spot colors on the magazine (Amazon prints CMYK only).
 - Logo motion: the approved SIDE EYE logo animation is the iris slide (the iris slides right into its glance in 0.6 s, then holds; reverse eye on a dark field). The glancing eye on heatherchappell.com is Heather&#x27;s personal branding, never SIDE EYE. Never invent new logo motion; propose it to Heather first.
+
+MIDJOURNEY (V8.2, standards as of Nov 25, 2026; the Midjourney section of SIDE-EYE-BRAND.md has all 14 rules and wins over older templates and skills)
+- Every prompt ends with --v 8.2 and uses --raw (never --style raw). Stylize: photos --s 50 to 100, prints and illustration --s 100 to 250, never above 300. --hd for full pages, spreads, covers and YouTube hero art.
+- Style references: only SIDE EYE&#x27;s own approved images (RELIEF: the powdered-wig skull print at --sw 60; COLLAGE backgrounds: the approved emu cover at --sw 30). Never --sw without --sref. No moodboards. Off: --p, --weird, --exp, --q, --sv, --oref, --ow, --cref, :: weights. Chaos 0 for finals.
+- Every prompt ends with a --no list including text, letters, words, numbers, logo, watermark (prints add glow, gradient, chrome). No generated lettering; type is set in layout.
+- Three complete, copy-ready versions per image (A safe read, B bold joke, C different take), one per code block, no placeholders.
+- Never looks AI: name the real capture or print process and light source, match camera and film to the year, two or three real imperfections, ordinary people with real skin, off-center cropped framing. No gloss words (photorealistic, cinematic, 8k, masterpiece, ultra realistic, glowing, epic). Photographic stills get no neon or pink.
+- People: historical likenesses are fine. Living people only as caricature or print, never photoreal, sourced public facts only.
+- No artist, studio, shop or magazine names in prompts; film stocks and cameras are fine as materials. No brand or logo in an image. Adult and fun, never explicit.
+- Photo-real period stills are credited &quot;Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph.&quot;, kept out of Sources and never captioned as archival.
+- Image URLs go in the prompt (image prompts first, or after --sref). Drive links don&#x27;t work in Midjourney.
 
 NEVER
 - Publish, post, send, buy or mark anything Approved. Only Heather approves.
@@ -3755,7 +3862,7 @@ This is the one place for how SIDE EYE looks, sounds and gets made. It covers th
 ### How to use it
 
 1. Read **Brand core** first. It takes five minutes and explains what SIDE EYE is for.
-2. Then read the page for your job: **Visual identity**, **Voice and writing**, **The magazine**, **The YouTube show** or **Internal tools**.
+2. Then read the page for your job: **Visual identity**, **Voice and writing**, **The magazine**, **The YouTube show** or **Internal tools**. Anyone making images in Midjourney also reads **Midjourney**.
 3. Before you hand anything in, run the checklist for your role in **Working with us**.
 4. If you use an AI, load the AI file (see **AI-ready files**) before you start.
 
@@ -3929,7 +4036,7 @@ KDP prints CMYK only, so there is no true fluorescent. Every neon is a bright bu
 
 ### The five ways we make pictures
 
-Pick **one** per image.
+Pick **one** per image. Midjourney settings for every process are in **Midjourney**.
 
 | Process | Use it for | What it looks like |
 | :- | :- | :- |
@@ -3943,7 +4050,7 @@ Pick **one** per image.
 
 ### People in pictures
 
-- Generated likenesses of **historical** figures are allowed, as caricature or real period art. Living people follow the &quot;sourced public facts only&quot; rule and are never shown doing something we can&#x27;t prove.
+- Generated likenesses of **historical** figures are allowed. Living people appear only as caricature or print art, never as a photoreal picture that could pass for a real photo. They follow the &quot;sourced public facts only&quot; rule and are never shown doing something we can&#x27;t prove. (Midjourney rule 10.)
 - Letters to the AI Dead figures are always skulls wearing one defining prop.
 - An illustration never imitates a period document or sits inside one. Illustrations carry the argument; period images carry the proof.
 
@@ -3966,13 +4073,14 @@ Generated footage illustrates an idea. It never stands in for real footage of a 
 - **Never show a real person, living or historical, acting on screen** in generated footage that a viewer could take for real film of them.
 - **Fine:** hands, objects, settings, silhouettes and clearly stylized art. Generated stills and stylized likenesses of historical figures stay allowed.
 - **The pause test:** if a viewer who paused the frame could believe it&#x27;s real archival or news footage of that person, restyle it or cut it.
+- **How it&#x27;s made:** Midjourney image-to-video only, `--motion low --raw` by default (Midjourney rule 11).
 
 ### Image rights (every product)
 
 - Use only our own images, public-domain images, free-for-commercial-use images, or generated art. No paid licenses.
 - Every historical image needs a confirmed public-domain or free-license line before it&#x27;s used.
 - No readable brand logos or personal information in found material.
-- Credit lines: generated art &quot;Illustration generated with Midjourney and edited by SIDE EYE.&quot; Composites: &quot;Figure from [source], cut out and altered by SIDE EYE; illustration generated with Midjourney and edited by SIDE EYE.&quot; Historical art: artist, title, date, holding institution. The magazine carries one Midjourney credit at the front.
+- Credit lines: generated art &quot;Illustration generated with Midjourney and edited by SIDE EYE.&quot; Composites: &quot;Figure from [source], cut out and altered by SIDE EYE; illustration generated with Midjourney and edited by SIDE EYE.&quot; Photo-real period stills: &quot;Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph.&quot; They stay out of Sources and are never captioned as archival. Historical art: artist, title, date, holding institution. The magazine carries one Midjourney credit at the front.
 - Influences (zines, show posters, print studios) are credited in the colophon only, never named in prompts, captions or marketing.
 
 
@@ -4281,6 +4389,8 @@ AI agents never mark work Approved or Published, and never send, post or buy any
 - [ ] Correct process chosen per page (RELIEF, COLLAGE, WOOD TYPE, HYBRID, NEWSPRINT).
 - [ ] Print: black plus two inks, one pink focus, total ink under 240%.
 - [ ] Type at 7 pt or larger. No AI-generated lettering.
+- [ ] Midjourney prompts follow **Midjourney**: `--v 8.2 --raw`, a --no list on every prompt, three versions (A, B, C), no artist, studio or brand names.
+- [ ] Photo-real period stills carry the photo-illustration credit and stay out of Sources.
 - [ ] Logo on an approved background with clear space.
 - [ ] Screen-printed merch: Side Eye Pink is PANTONE 806 C (fluorescent) when the printer can do it, 232 C as backup.
 - [ ] Every image has a credit and a cleared license.
@@ -4341,8 +4451,9 @@ When two documents disagree, this log says which rule wins. Newest decision by H
 | 2026-11-24 | Screen-print pink (D5, Heather&#x27;s &quot;1 when possible 232 as backup&quot;): Side Eye Pink is PANTONE 806 C fluorescent on screen-printed merch whenever the printer can do it, PANTONE 232 C as backup. Never on the magazine (KDP is CMYK only) | 806 C or 232 C as a suggestion only |
 | 2026-11-24 | Serious chapter titles (Q6): no fixed rule. Chapter titles stay funny by default; a chapter touching something serious, like a death, is judged case by case and treated with respect in context. Heather&#x27;s words: &quot;No rule here. Case by case. Treat serious issues with the respect they deserve in context.&quot; | The final-output skill&#x27;s rule that every serious or low-point chapter gets a plain title with no joke |
 | 2026-11-24 | Logo animation (iris-slide decision, Heather: &quot;Left eye is Heather branding only, right animated eye can be used for side eye&quot;): the iris slide is the approved SIDE EYE logo animation. The glancing eye on heatherchappell.com is Heather&#x27;s personal branding only and left the SIDE EYE downloads. Other animations still need her yes. Logo pack v1.4 | The glancing eye as the approved SIDE EYE base |
+| 2026-11-25 | Midjourney V8.2 standards (14 rules from the Midjourney desk, Heather&#x27;s yes Nov 25) are the house rules for every Midjourney image and clip. See **Midjourney** | `--style raw` in the Design System v3 templates; two prompts per image; &quot;no generated faces of real people&quot; in the art direction skill; living people in any style; the single generated-art credit for photo-real period stills |
 | Undated | Edwin never claims a profession on screen | The &quot;I&#x27;m an economist&quot; example in the Edwin tone doc |
-| Undated | Generated likenesses of historical figures are allowed. Living people: sourced facts only | &quot;No faces of real people&quot; in the art direction skill |
+| Undated | Generated likenesses of historical figures are allowed. Living people: sourced facts only (narrowed 2026-11-25: caricature or print only, never photoreal) | &quot;No faces of real people&quot; in the art direction skill |
 | Undated | Pink can be used freely in video. Print keeps one pink focus per page | One-pink-focus rule everywhere |
 | Undated | Host split is long alternating chunks; who goes first alternates by episode; 4 to 5 gentle ribbing moments | Fixed roles, even airtime targets, 6 to 10 moments |
 | Undated | No chapter breaks or title cards mid-episode. Funny YouTube description chapter titles are fine | Bracketed on-screen chapter titles |
@@ -4628,6 +4739,47 @@ These change the mark or the system, so they wait for Heather. Only the items ma
 7. **A heavier tagline** (Plex Mono Bold). Decided by Heather on 2026-11-24: every tagline is Bold, one drawing. In the pack from version 1.4.
 8. **An approved logo animation.** Decided by Heather on 2026-11-24: animations are fine, but only ones she has seen and approved. Updated the same day: the iris slide is the approved SIDE EYE logo animation, and the glancing eye on heatherchappell.com is her personal branding only.
 9. **Approve the co-brand numbers** above (the 9-unit rule, 1.5X gaps, half-size sponsor). Approved by Heather on 2026-11-24, as written.
+
+
+
+## Midjourney
+
+The house rules for every SIDE EYE image or clip made in Midjourney: magazine art, covers, YouTube art and video illustrations. Where they disagree with an older template, doc or skill, these rules win.
+
+**Standards as of:** November 25, 2026 · **Model:** Midjourney V8.2 · **Owner:** the SIDE EYE Midjourney desk
+
+The desk keeps the full how-to, with worked prompts, in the playbook &quot;SIDE EYE Midjourney V8.2 Playbook — Never Looks AI&quot;, in Heather&#x27;s Drive (not shared). Ask the desk for it.
+
+### The rules
+
+The numbers match the desk&#x27;s list, so a change can name its rule.
+
+1. **Model.** Midjourney V8.2, the default since July 24, 2026. Every prompt ends with `--v 8.2`.
+2. **Raw, always.** Every prompt uses `--raw`. This replaces `--style raw`, the old V5 to V7 spelling, in the Design System v3 templates.
+3. **Stylize.** Photographs `--s 50` to `--s 100`. Prints and illustration `--s 100` to `--s 250`. Never above 300.
+4. **HD for big art.** Add `--hd` for full pages, spreads, covers and YouTube hero art. HD caps the aspect ratio at 4:1.
+5. **Style references.** Only SIDE EYE&#x27;s own approved images. RELIEF uses the powdered-wig skull print at `--sw 60`. COLLAGE backgrounds use the approved emu cover at `--sw 30`. Never `--sw` without `--sref`. No moodboards.
+6. **Switched off for house art.** Personalization (`--p`, and turn it off in settings), `--weird`, `--exp`, `--q`, `--sv`, `--oref`, `--ow`, `--cref` and `::` weights. Chaos stays at 0 for finals.
+7. **A --no list on every prompt.** It always includes text, letters, words, numbers, logo, watermark. Prints also add glow, gradient, chrome. A photo with a real lamp in it leaves glow out. No generated lettering anywhere: all type is set in layout.
+8. **Three versions per image.** A is the safe read, B the bold joke, C a different take. Each one is complete and ready to copy and paste, one per code block, with no placeholders.
+9. **Never looks AI.** Name the real capture or print process. Name the real light source. Match the camera and film to the year. Add two or three real imperfections. Ordinary-looking people with real skin. Off-center, cropped framing. No gloss words: photorealistic, cinematic, 8k, masterpiece, ultra realistic, glowing, epic. Photographic stills get no neon and no pink.
+10. **People.** Generated likenesses of historical figures are fine. Living people only as caricature or print, never a photoreal picture that could pass for a real photo, and only with sourced public facts.
+11. **Video.** Image-to-video only, `--motion low --raw` by default. AI video illustrates an idea. It is never something that could pass for real footage of a real person (see AI-generated video in Visual identity).
+12. **No names in prompts.** No artist, studio, shop or magazine names. Film stocks and camera models may be named as materials, but no brand or logo appears in an image. Adult and fun, never explicit.
+13. **Credit for photo-real period stills.** &quot;Photo illustration: SIDE EYE (made with Midjourney V8.2). Not a historical photograph.&quot; These stills stay out of Sources and are never captioned as archival.
+14. **Links in prompts.** Source or inspiration image URLs go in the prompt: image prompts first, or after `--sref`. Drive links don&#x27;t work in Midjourney.
+
+### What these rules replaced
+
+- **`--style raw`** in the Design System v3 templates is now `--raw` (rule 2).
+- **Two prompts per image** (A safer, B bolder) are now three versions, A, B and C (rule 8).
+- **&quot;No generated faces of real people&quot;** (in the art direction skill) is gone. Historical likenesses are fine (rule 10).
+- **Living people in any style, as long as the facts are sourced,** is narrowed to caricature or print only, never photoreal (rule 10).
+- **Generated art credit:** photo-real period stills now carry their own credit line (rule 13). Other generated art keeps &quot;Illustration generated with Midjourney and edited by SIDE EYE.&quot;
+
+### Keeping this section current
+
+The Midjourney desk sends changes. Each change rewrites its numbered rule, moves the &quot;Standards as of&quot; date, and adds a line to the Decision log. The old wording goes in &quot;What these rules replaced&quot; above.
 
 </script>
 </section>
