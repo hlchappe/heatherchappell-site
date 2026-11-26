@@ -1,0 +1,221 @@
+{
+ "slug": "fcc-abc-license-review",
+ "date": "2026-11-25",
+ "title": "Judge halts FCC's ABC license review: a retaliation test for press freedom",
+ "words": 3093,
+ "from": "JUDGE BLOCKS FCC FROM EARLY REVIEW OF ABC BROADCAST LICENSES",
+ "bottomLine": "The ruling is less about ABC's eight stations than about whether a regulator can use dormant licensing powers as leverage against a broadcaster's speech. Judge AliKhan found the FCC's early renewal order likely retaliatory, and the case will shape how far the government's licensing authority can reach into news and entertainment programming. Its outcome matters for U.S. free-press norms, for the limits of agency independence, and for how investors and allies read the durability of American media protections.",
+ "summary": [
+  {
+   "title": "Preliminary injunction halts early license review",
+   "points": [
+    "Judge Loren AliKhan (D.D.C.) granted a preliminary injunction on Nov. 25, 2026 in ABC, Inc. v. FCC, blocking further action in the early renewal proceedings.",
+    "She called the case 'not a close case' and found ABC likely to show the renewal order was retaliatory.",
+    "The injunction is narrow: it denied ABC's broader bar on any formal or informal coercion as too speculative.",
+    "The FCC's DEI probe and equal-time inquiry into The View remain open."
+   ],
+   "plain": "A judge said the government can't use a rarely used license check to punish a TV company for what it airs. The block stops that specific check, but other government tools are still available."
+  },
+  {
+   "title": "Retaliation evidence rests on timing and presidential pressure",
+   "points": [
+    "The FCC ordered early renewals for eight ABC stations on Apr. 28, 2026, one day after Trump called for Jimmy Kimmel's firing.",
+    "The court cited at least 11 public Trump calls to revoke ABC licenses, the latest in July 2026.",
+    "Chairman Brendan Carr's 2025 remark, 'easy way or the hard way,' was cited as evidence of intent.",
+    "The FCC says the review was tied to a DEI investigation; the judge found that explanation not credible, and former FCC officials agreed it made little sense."
+   ],
+   "plain": "The judge looked at what happened and when. The government's president said to punish the network, and then the government did it right after. She found the official reason hard to believe."
+  },
+  {
+   "title": "Jurisdiction and Red Lion are the government's strongest ground",
+   "points": [
+    "AliKhan held that a retaliation claim falls outside the Communications Act's review scheme, rejecting the FCC's argument that the D.C. Circuit is exclusive venue.",
+    "The FCC cites Supreme Court precedent that denying a license for public-interest reasons is not a denial of free speech.",
+    "Red Lion (1969) upheld the fairness doctrine on scarcity grounds; that rationale is weaker for cable and streaming.",
+    "The FCC's public notice DA 26-530 (May 28, 2026) and 47 CFR 73.3539(c) are its main textual defense."
+   ],
+   "plain": "The government says the law lets it check licenses, and older Supreme Court cases say that's fine. The judge said this kind of retaliation claim needs to go to a different court. Which argument wins will decide whether the ruling survives."
+  },
+  {
+   "title": "Public trust in press freedom is eroding",
+   "points": [
+    "Pew-Knight (June 22–28, 2026, n=3,488): 44% say the press has become less free under Trump's second term, versus 12% more free.",
+    "72% of Democrats versus 15% of Republicans say the press has become less free since Trump's return.",
+    "Only 4% say it is always acceptable to take away a broadcast license; 27% say never, 28% rarely.",
+    "No national poll on the ABC dispute itself was found."
+   ],
+   "plain": "Most Americans think the press is less free than before, and people split sharply by party. Most say taking a TV license away over news is wrong, but few are strongly against it."
+  },
+  {
+   "title": "Implications for U.S. interests and realistic policy options",
+   "points": [
+    "Likely: FCC appeals or seeks a stay on jurisdiction; the injunction remains while the D.C. Circuit considers venue.",
+    "Plausible: the agency shifts to subpoenas, forfeiture orders, or equal-time enforcement, testing whether the ruling reaches other tools.",
+    "Congress: Cruz has called the approach dangerous but has not held a hearing; S.867 (Luján) has not advanced.",
+    "Key dates: FCC compliance report Dec. 2; parties' proposed next steps Dec. 9; FCC vote on ownership caps Dec. 17, 2026."
+   ],
+   "plain": "This is about whether a government can use its power over TV stations to pressure what they say. The court has said no for now. Lawmakers and the courts will decide whether that protection lasts."
+  }
+ ],
+ "context": [
+  {
+   "label": "Right now",
+   "text": "Judge AliKhan issued a preliminary injunction on Nov. 25, 2026, halting the FCC's early renewal review of eight ABC-owned stations. The FCC says the ruling is wrong on facts and law and has not confirmed whether it will appeal."
+  },
+  {
+   "label": "How we got here",
+   "text": "The FCC has not ordered an early license review in decades, and the last such instance cited is 1972. Earlier episodes, including Nixon-era license challenges and the fairness doctrine's repeal in 1987, show a long pattern of disputes over regulatory leverage on broadcasters."
+  },
+  {
+   "label": "The politics",
+   "text": "The case divides Republicans: Cruz and Paul have criticized Carr's approach while Cotton and others defend him, and Democrats including Schumer and Markey have called for Carr's resignation. Trump has repeatedly publicly urged license revocation."
+  },
+  {
+   "label": "The people",
+   "text": "AliKhan wants to limit retaliation while respecting the FCC's statutory role. Disney and ABC, through counsel Beth Wilkinson, want the renewal halted and the coercion ruled out. Carr and the FCC want to keep the public-interest review and contest the retaliation finding. Gomez, the lone Democrat, backs the ruling."
+  },
+  {
+   "label": "Why now, and what's next",
+   "text": "The FCC's compliance report is due Dec. 2 and parties' next steps Dec. 9, both per a secondary summary to be verified on the docket. The FCC's Dec. 17 vote on ownership caps and the midterms raise the stakes for further action before the election."
+  },
+  {
+   "label": "The culture and the public",
+   "text": "The dispute touches on late-night comedy, political speech, and whether broadcasters can take editorial risks. Public attitudes show a sharp partisan divide on whether the press is free, and the case may shape how audiences read government pressure on entertainment and news."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Preliminary injunction halts early license review",
+   "paragraphs": [
+    "On November 25, 2026, U.S. District Judge Loren AliKhan (D.D.C.) granted a preliminary injunction in ABC, Inc. v. FCC, No. 26-cv-2902, halting further FCC action in the early renewal proceedings for ABC's eight owned-and-operated stations, including a hearing designation order. The relief is narrow. AliKhan denied ABC's broader request to bar any \"formal or informal\" coercion, finding the injury too speculative and the threatened future actions unspecified. The injunction therefore reaches one procedural track, not the agency's conduct toward ABC as a whole.",
+    "On the merits of the narrow claim, the judge was blunt. She called the case \"not a close case\" and found ABC likely to show that the renewal order was retaliatory. Her reasoning drew on the sequence of events: the Media Bureau ordered early filings on April 28, 2026, a day after President Trump called for Jimmy Kimmel's firing, and the opinion cites at least eleven public Trump calls to revoke ABC's licenses, the latest in July 2026. She also cited Chairman Brendan Carr's 2025 remark that ABC could act on Kimmel \"the easy way or the hard way.\" The FCC says the review was in aid of a DEI investigation. AliKhan said that explanation was not credible on the record before her, though she was ruling at the preliminary stage, not finding facts for trial.",
+    "The more important question is what remains. The DEI probe and the equal-time inquiry into The View are still open, and the judge noted the commission \"remain[s] free to deploy other investigative tools,\" including subpoenas and forfeiture orders. Those are the paths most likely to test whether the ruling constrains the agency or merely changes the instrument. The opinion also says no candidate for public office has appeared on The View since the FCC opened its inquiry in February, a chilling effect Disney attributes to the pressure campaign and the FCC has not answered in the sources available. Whether the court's retaliation logic extends to those tracks will decide how much the ruling protects broadcasters beyond this one docket."
+   ],
+   "why": "the injunction protects ABC's licenses only for now, and the real test is whether the FCC can achieve through other probes what the early renewal order was blocked from doing."
+  },
+  {
+   "title": "Retaliation evidence rests on timing and presidential pressure",
+   "paragraphs": [
+    "The court's case for retaliation rests on a short sequence of dated events. On April 22, 2026, President Trump called for ABC to fire Jimmy Kimmel over an April 23 skit. On April 28, the FCC Media Bureau ordered early renewal filings for eight ABC-owned stations, a step the agency had not taken in decades; Commissioner Anna Gomez's statement cites 1972 as the last instance. Judge Loren AliKhan, in her November 25 order, called the timing \"no coincidence\" and pointed to at least 11 public calls by Trump for ABC's licenses to be revoked, the most recent in July 2026, after ABC declined to air a prime-time elections speech.",
+    "Chairman Brendan Carr's own words carried weight with the judge. In September 2025 he said, \"These companies can find ways to change conduct, to take action, frankly, on Kimmel, or there's going to be additional work for the FCC ahead,\" and the court also cited his \"easy way or the hard way\" remark. Carr later said the review was not related to First Amendment matters, and he tied it to Disney's responses in an investigation into \"invidious forms of DEI discrimination.\" The FCC argues the review would have happened regardless of Kimmel. AliKhan found that explanation \"not credible.\" Former FCC officials reportedly agreed the DEI rationale made little sense, though those accounts come from press reporting rather than the record.",
+    "The finding is preliminary, and that limits what it establishes. AliKhan ruled that ABC is likely to succeed on its retaliation claim; she did not decide the merits, and she began from a presumption of good faith before concluding the record pointed the other way. The judge also said the FCC \"remain[s] free to deploy other investigative tools,\" and she declined ABC's request to bar informal coercion generally, calling those future threats too speculative. The government can therefore argue the ruling rests on an incomplete record that a fuller proceeding could change.",
+    "The argument for the government is that the review is a legitimate tool of licensing oversight, and that a regulator can look at a licensee's responsiveness to an open inquiry without punishing speech. Disney's position is that its responses to the inquiry were full and in good faith, which leaves the evidentiary dispute unresolved. Both sides have a fair claim to the record, and the court has not yet weighed it on the merits."
+   ],
+   "why": "the case will turn on whether a regulator's stated reason can be separated from a president's public demands, and a preliminary finding may not settle that question."
+  },
+  {
+   "title": "Jurisdiction and Red Lion are the government's strongest ground",
+   "paragraphs": [
+    "The government's strongest ground is the jurisdictional holding, not the merits. AliKhan held that a retaliation claim falls outside the review scheme the Communications Act sets up for agency orders, and so did not accept the FCC's argument that the D.C. Circuit is the exclusive venue. The FCC has said the ruling is \"wrong on the facts and wrong on the law,\" but it has not said whether it will appeal. If it does, venue is the question an appellate court can decide without reaching whether the early renewal order was retaliatory. Appellate courts often take procedural questions seriously, and a ruling that sends the case to the D.C. Circuit would reverse the district court's approach while leaving the underlying facts untested.",
+    "The FCC's substantive case leans on Red Lion (1969), where the Supreme Court, 8-0, upheld the fairness doctrine on the ground that broadcast frequencies are scarce and that no one has a First Amendment right to a license. That reasoning was the FCC's best precedent for decades, and its own public notice DA 26-530 (May 28, 2026) and 47 CFR 73.3539(c) rest on the same idea that a license is a public trust. But scarcity has weakened as a justification. Cable, satellite and streaming have multiplied the channels available to viewers, and Disney's Hulu, Disney+ and YouTube distribution sit largely outside the FCC's reach. Each year the scarcity premise looks thinner, and a court willing to question it would face less pressure to defer to the agency.",
+    "Section 326 is the other hook. It bars the FCC from exercising \"the power of censorship,\" and the Commission has historically been read to be barred from reviewing broadcast content before release. Yale scholar James Speta reads Pacifica (1978) as holding that section 326 forbids only prior restraints, which the FCC can use to argue that a post-hoc renewal review is not censorship. ABC's answer is that an early renewal ordered after a presidential demand is a penalty for past speech in all but name. The statute's wording gives both sides something to argue, and the judge's narrow injunction suggests she saw the question as open.",
+    "Historically, this fight has recurred. Nixon-era challenges to Washington Post-owned Florida stations in 1973–74, and the Colson approach to CBS, show that license threats have been used against critics before, though much of that record rests on secondary accounts. Carr's April 2026 order is notable because the agency had not called in licenses early in decades, so the tool has no recent track record to lean on."
+   ],
+   "why": "if the jurisdictional holding survives appeal, a broadcaster can challenge retaliatory agency action in district court quickly, and the government loses the venue argument that would otherwise slow every challenge for months."
+  },
+  {
+   "title": "Public trust in press freedom is eroding",
+   "paragraphs": [
+    "Public trust in press freedom is eroding, and the erosion runs along party lines. A Pew-Knight survey conducted June 22–28, 2026 (n=3,488) found 44% of U.S. adults say the press has become less free during Trump's second administration, while 12% say more free. The partisan gap is wide: 72% of Democrats say the press has lost ground since Trump returned to office, against 15% of Republicans. The share who say the media is completely free to report the news has slipped from 33% a year earlier to 28%.",
+    "The public's answer changes when the question moves from the abstract to the concrete. Just over half of Americans say it is \"rarely\" or \"never\" acceptable for government to force journalists to reveal unnamed sources or take away a news organization's broadcast license. Yet on license revocation specifically, only 4% say it is always acceptable and 4% usually, while 22% say sometimes, 28% rarely, 27% never and 15% are not sure. A large middle group is uncertain or conditionally tolerant, which is the ground both sides of the ABC dispute will try to win. Republicans are also more willing than Democrats to accept government fines and takedowns over false reporting (40% of Republicans and Republican-leaning respondents versus 25% of Democrats and Democratic leaners), so the principle of restraint on state power does not map cleanly onto party identity.",
+    "The historical backdrop helps explain why the public reads licensing power as a live threat. Broadcast licensing has long been an instrument of political pressure. The Red Lion ruling of 1969 rested on the idea that broadcasters hold a public trust, and the Nixon-era license challenges against Washington Post-owned Florida stations in 1973–74 are often cited as an example of what that trust can be turned into. Those episodes are documented in part, though the fuller record rests on secondary accounts. Americans who know that history may be more alert to licensing as a lever, even when they have no firm view of the current case.",
+    "No national poll on the ABC renewals or the injunction was found in the research, so public opinion on this specific dispute is unmeasured. Any claim that a majority backs or opposes the FCC's action in this case would go beyond the evidence. The best available proxy is the general-press-freedom data, which shows concern but not a settled verdict on license power."
+   ],
+   "why": "Public willingness to accept licensing pressure is the political backstop that determines whether courts' limits on the FCC stick, and the absence of case-specific polling leaves that backstop untested."
+  },
+  {
+   "title": "Implications for U.S. interests and realistic policy options",
+   "paragraphs": [
+    "The government's most likely response is an appeal. The FCC has not said whether it will appeal, but its statement that it \"looks forward to prevailing in full\" points toward contesting the case. The judge's jurisdictional holding is the most vulnerable point for the FCC to press. If the D.C. Circuit accepts the venue argument, the injunction could fall on procedural grounds without any ruling on whether the renewal order was retaliatory. A stay request is the other immediate option, and it would test whether the injunction holds while the appeal runs. Officials should expect a fight over venue before any fight over the merits.",
+    "The more consequential question is what the agency does next. The judge said the FCC \"remain[s] free to deploy other investigative tools,\" including subpoenas and forfeiture orders, and the DEI probe and the equal-time inquiry into The View are still open. If the agency shifts to those tools, the ruling constrains a single procedure rather than the broader pattern the court described. Policymakers who want to limit licensing leverage would need to decide whether to press for a ruling that reaches all such tools, which Judge AliKhan declined to order at this stage, or to wait for a fuller record.",
+    "Congress has the clearest long-term lever, but it has moved slowly. Ted Cruz, who chairs the Senate Commerce Committee, called Carr's 2025 Kimmel threat \"dangerous\" and has not scheduled an oversight hearing. Sen. Luján's S.867, which would bar license action based on viewpoint, has not advanced. Republican unease, including from Rand Paul, gives a bipartisan opening, but Sen. Tom Cotton's defense of Carr shows the coalition is not settled. Any statutory change would have to address Section 326's bar on censorship, which courts have read narrowly, and the Red Lion scarcity rationale, which is harder to sustain for cable and streaming.",
+    "The political and cultural backdrop cuts in several directions. Pew-Knight data show 44% of Americans think the press has become less free under Trump's second term, but the partisan gap is wide, and no national poll has measured views on the ABC dispute itself. The Dec. 2 compliance report, the Dec. 9 proposed next steps, and the Dec. 17 FCC vote on replacing local ownership caps will show whether the agency is retreating, reframing or leveraging its other regulatory authority."
+   ],
+   "why": "Whether licensing power can be used as leverage against a broadcaster's speech will be settled less by this injunction than by what the government does with the tools the court left available."
+  }
+ ],
+ "watch": [
+  "Dec. 2, 2026: FCC compliance status report due, per secondary summary to verify on the docket.",
+  "Dec. 9, 2026: parties' proposed next steps due in the case.",
+  "Any FCC notice of appeal or stay motion to the D.C. Circuit; none confirmed as of Nov. 25.",
+  "Whether the FCC pivots to subpoenas, forfeiture, or The View equal-time enforcement.",
+  "Dec. 17, 2026: FCC vote on replacing local ownership caps with case-by-case review."
+ ],
+ "sources": [
+  "Judge temporarily blocks FCC from reviewing ABC's licenses after network alleged retaliation by Trump - CBS News",
+  "Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’",
+  "Judge halts FCC review of ABC licenses, saying it probably violates First Amendment - The Washington Post",
+  "ABC stations call FCC’s early call for license renewal ‘unconstitutional’",
+  "Carr License Renewal Letter",
+  "Fairness Doctrine",
+  "Why The Fairness Doctrine Is Anything But Fair",
+  "Red Lion v Federal Communications Commission",
+  "Red Lion Broadcasting Co. v. Federal Communications Commission (1969)",
+  "The Story of FCC v. Pacifica Foundatin (and Its Second Life)",
+  "The Fairness Doctrine Was Terrible for Broadcasting and It Would Be Terrible for the Internet",
+  "University of Minnesota Law School University of Minnesota Law School",
+  "The Public Interest Standard in Television Broadcasting",
+  "\"POLITICAL\" INFLUENCE AT THE FCC RICHARD E. WILEY*",
+  "DePaul Law Review DePaul Law Review Volume 27 Issue 1 Fall 1977 Article 9",
+  "Judge blocks FCC review of ABC station licenses for now",
+  "FCC Threats and the Fog of War: The Government Cannot Be the Arbiter of Truth",
+  "WHAT IS NEWS?: THE FCC AND THE NEW BATTLE OVER THE REGULATION OF",
+  "Why the FCC is reviving the news distortion rule",
+  "Congress",
+  "The Federal Communications Commission's (FCC's) ...",
+  "DA 26-530 Released: May 28, 2026 FCC REMINDS BROADCASTERS OF THEIR",
+  "S.867 - 119th Congress (2025-2026): Broadcast Freedom and Independence Act of 2025",
+  "Text - S.867 - 119th Congress (2025-2026): Broadcast Freedom and Independence Act of 2025",
+  "Ted Cruz breaks with Republicans, slams ‘mafioso’ threats to broadcasters",
+  "Ted Cruz criticizes Trump-appointed FCC chair for urging \"action\" on Jimmy Kimmel: \"Right out of Goodfellas\" - CBS News",
+  "YOUNG BROADCASTING INC /DE/ - Form S-3/A - FY1996",
+  "WALT DISNEY CO/ - Form 10-K - FY1998",
+  "WALT DISNEY CO/ - Form 10-K405 - FY1996",
+  "Walt Disney Co - Form 8-K - FY2021",
+  "Fake polls expose vulnerabilities in US elections ahead of midterms",
+  "Americans value press freedom, but new surveys show support for restrictions in certain cases - ABC News",
+  "Judge blocks FCC from early license review for ABC, which network says has had a chilling effect",
+  "Federal judge blocks FCC's early review of ABC station licenses, finds Disney likely to prove retaliation",
+  "Judge Sides With ABC In First Amendment Lawsuit Against FCC, Puts Halt On Early License Renewal Proceeding",
+  "Judge blocks Trump administration’s review of ABC licenses on First Amendment grounds"
+ ],
+ "links": [
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGg0cWJHckhVdmhyb3U0YXNWLTFhdmw5OHdYM2t2bVVMSzdENnNtaU94MlZfYkZ0R0htTVU2czd6LTQ2Z2tfREVyOEZLeWhaMmY0OXl5RldKREVraWtxc0ducXJNc1NuNzc4WWtKZjM3X0F5cGlvSGVBZlUza1JxTS1pNDRHaVJObE9YdTZNellnRjJjV3hN?oc=5",
+  "https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/",
+  "https://www.cnn.com/2026/11/25/media/trump-fcc-carr-disney-abc-stations-judge-blocked",
+  "https://washingtonpost.com/business/2026/11/25/judge-halts-fcc-review-abc-licenses-saying-it-probably-violates-first-amendment",
+  "https://firstamendment.mtsu.edu/post/abc-stations-call-fccs-early-call-for-license-renewal-unconstitutional/",
+  "https://www.markey.senate.gov/imo/media/doc/carr_license_renewal_letter.pdf",
+  "https://www.reaganlibrary.gov/archives/topic-guide/fairness-doctrine",
+  "https://www.heritage.org/government-regulation/report/why-the-fairness-doctrine-anything-fair",
+  "http://law2.umkc.edu/faculty/projects/ftrials/conlaw/redlion.html",
+  "https://firstamendment.mtsu.edu/article/red-lion-broadcasting-co-v-federal-communications-commission/",
+  "https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1344&context=public_law_and_legal_theory",
+  "https://www.cato.org/blog/internet-regulation-fairness",
+  "https://scholarship.law.umn.edu/cgi/viewcontent.cgi?article=1408&context=concomm",
+  "https://govinfo.library.unt.edu/piac/novmtg/pubint.htm",
+  "https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=3033&context=dlj",
+  "https://via.library.depaul.edu/cgi/viewcontent.cgi?httpsredir=1&article=2519&context=law-review",
+  "https://www.nbcnews.com/business/media/judge-blocks-fcc-review-abc-station-licenses-now-rcna601892",
+  "https://www.cato.org/blog/fcc-threats-fog-war-government-cannot-be-arbiter-truth",
+  "https://scholarship.law.edu/cgi/viewcontent.cgi?article=1386&context=commlaw",
+  "https://law.duke.edu/news/why-fcc-reviving-news-distortion-rule",
+  "https://www.congress.gov/crs_external_products/IF/HTML/IF13130.html",
+  "https://www.congress.gov/crs_external_products/IF/PDF/IF13130/IF13130.2.pdf",
+  "https://docs.fcc.gov/public/attachments/DA-26-530A1.pdf",
+  "https://www.congress.gov/bill/119th-congress/senate-bill/867",
+  "https://www.congress.gov/bill/119th-congress/senate-bill/867/text",
+  "https://www.aljazeera.com/news/2025/9/20/ted-cruz-breaks-with-republicans-slams-mafioso-threats-to-broadcasters",
+  "https://www.cbsnews.com/news/ted-cruz-fcc-brendan-carr-jimmy-kimmel-goodfellas-trump/",
+  "https://www.sec.gov/Archives/edgar/data/0000929144/000095013096002479/0000950130-96-002479.txt",
+  "https://www.sec.gov/Archives/edgar/data/0001001039/000089843098004473/0000898430-98-004473.txt",
+  "https://www.sec.gov/Archives/edgar/data/0001001039/000089843096005815/0000898430-96-005815.txt",
+  "https://www.sec.gov/Archives/edgar/data/1744489/000174448921000074/dis-20210401_d2.htm",
+  "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms",
+  "https://abcnews.com/Politics/wireStory/americans-press-freedom-new-surveys-show-support-restrictions-136474613",
+  "https://www.clickondetroit.com/news/politics/2026/11/26/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect/",
+  "https://unbiasedheadlines.com/article/federal-judge-blocks-fccs-early-review-of-abc-station-licenses-finds-disney",
+  "https://deadline.com/2026/11/abc-fcc-trump-first-amendment-lawsuit-1237158218/",
+  "https://www.ms.now/news/judge-blocks-fcc-early-review-abc-broadcast-licenses"
+ ]
+}
