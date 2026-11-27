@@ -1,0 +1,221 @@
+{
+ "slug": "snap-eligibility-rule",
+ "date": "2026-11-27",
+ "title": "USDA's SNAP Eligibility Rule: Scale, Legality, and a December 10 Deadline",
+ "words": 3276,
+ "from": "PROPOSED USDA RULE WOULD CUT SNAP BENEFITS, THREATENING FREE SCHOOL MEALS",
+ "bottomLine": "The November 10, 2026 USDA proposal to end broad-based categorical eligibility is a multi-billion-dollar change to food aid that rests on contested fraud claims and a legal-authority dispute that Congress has repeatedly declined to resolve. The proposal's real-world effect, projected to reach full strength only in FY2029, will be shaped less by the December 10 comment deadline than by how the rule is finalized, whether courts accept USDA's authority, and whether Democrats win enough leverage in 2027 to reverse it. Policymakers should treat the headline numbers as projections, not outcomes.",
+ "summary": [
+  {
+   "title": "The rule's scale is large but still projected",
+   "points": [
+    "USDA's own estimate: about 3.2 million households and 6.3 million people, or 17.6% of participants, lose benefits at full effect in 2029.",
+    "Federal benefit savings of about $44.6 billion over FY2027-2031; states' net spending falls about $5.2 billion.",
+    "AP notes the 6.3 million figure reflects potential impact, not a confirmed count.",
+    "Full effect is not expected until FY2029."
+   ],
+   "plain": "The government says lots of people would lose food help, but this is a forecast that would only fully happen years from now. Think of it like a weather prediction, not a storm that has already arrived."
+  },
+  {
+   "title": "School meal exposure is narrower than headlines suggest",
+   "points": [
+    "USDA estimates 1.78 million children lose automatic direct-certification eligibility for free meals.",
+    "About 1.66 million of those would remain free-eligible; 93,000 shift to reduced-price and 28,000 to full price.",
+    "Advocates cite the 1.78 million headline; USDA emphasizes that about 97% still qualify on household income.",
+    "Summer EBT (about 42,000 children) and WIC (about 5,500) are also affected in USDA's estimates."
+   ],
+   "plain": "Lots of kids are affected, but most of them would still get free meals by applying the normal way. Only a small number would have to pay more."
+  },
+  {
+   "title": "The legal-authority fight is the rule's weakest and strongest point",
+   "points": [
+    "Senate Agriculture Democrats and House critics argue the rule is contrary to law and congressional intent, citing rejected efforts in 2005, 2014 and 2018.",
+    "USDA's rule text cites a 2012 GAO finding of 17.2% payment error in BBCE households above income limits versus 6.7% for others.",
+    "The 2019 Trump-era proposal drew about 158,000 comments and was withdrawn in 2021; no lawsuit against the 2026 proposal had been filed as of the latest searches.",
+    "Judge Amy Berman Jackson's June 2026 ruling vacating five junk-food waivers for lack of statutory authority is adjacent and may shape the argument."
+   ],
+   "plain": "Congress has said no to this idea several times, so critics say USDA is trying to do it without permission. The government says it has the power to fix the program. A judge will likely have to decide."
+  },
+  {
+   "title": "Political leverage shifts only after January 2027",
+   "points": [
+    "Midterms were November 3, 2026; the rule was published one week later.",
+    "214 House Democrats wrote to Secretary Rollins urging rescission; Senate Democrats led by Bennet, Luján and Fetterman raised objections.",
+    "Democrats take House majorities in January 2027 but would lack two-thirds needed to override a Trump veto.",
+    "Republicans overwhelmingly backed the 2025 law and have largely not broken with the rule; NCSL and state officials requested a 60-90 day extension."
+   ],
+   "plain": "The party that wants to stop this rule won't have enough power to block it until next year, and even then a president can veto their bill. Until then, the rule keeps moving."
+  },
+  {
+   "title": "Implications for U.S. interests and realistic policy options",
+   "points": [
+    "Federal savings of about $44.6 billion over five years versus rising state administrative costs of about $929 million.",
+    "Retail sales effects on small grocers acknowledged by USDA; SNAP is roughly 5% of grocery sales per industry data (unverified).",
+    "Options: seek a comment-period extension, narrow the rule to exclude certain groups, require Congress to act, or pursue litigation after finalization.",
+    "USDA has not publicly answered the legal-authority critique, which is the rule's most vulnerable point."
+   ],
+   "plain": "The choice is about how much money the government saves versus how many people go hungry or lose help, and who pays for the difference. Officials can slow the rule, change it, or wait for courts or Congress to decide."
+  }
+ ],
+ "context": [
+  {
+   "label": "Right now",
+   "text": "USDA proposed on November 10, 2026 to limit categorical eligibility to households receiving TANF assistance, with comments due December 10. Full effect is projected for FY2029."
+  },
+  {
+   "label": "How we got here",
+   "text": "Broad-based categorical eligibility dates to the 2000s; a 2019 Trump-era attempt was withdrawn in 2021. Congress has repeatedly declined to restrict the policy, most recently in the 2025 reconciliation law that already cut SNAP by roughly $186.7 billion over ten years."
+  },
+  {
+   "label": "The politics",
+   "text": "The rule follows the 2025 One Big Beautiful Bill Act and comes one week after the midterms, with 214 House Democrats and Senate Democrats opposing it and most Republicans supporting the underlying cuts. Democrats gain House power in January 2027 but cannot override a veto."
+  },
+  {
+   "label": "The people",
+   "text": "Secretary Brooke Rollins drives the rule and frames it as ending a loophole; Rep. Angie Craig, ranking member on House Agriculture, calls it cruel and wants it rescinded; Senators Bennet, Luján and Fetterman lead Senate objections; Gina Plata-Niño of FRAC leads advocacy opposition; NCSL seeks more time for states."
+  },
+  {
+   "label": "Why now, and what's next",
+   "text": "Comments close December 10, 2026, with no USDA extension announced as of late November. The companion work-requirements rule has the same deadline. Full effect is FY2029, and the Democratic House takes power in January 2027."
+  },
+  {
+   "label": "The culture and the public",
+   "text": "Public polling from 2025 shows majority opposition to SNAP cuts in general, but no post-proposal poll on this specific rule was found. Framing battles center on 'loophole' versus 'cut off' language, and on the working poor and older adults with modest savings."
+  }
+ ],
+ "sections": [
+  {
+   "title": "The rule's scale is large but still projected",
+   "paragraphs": [
+    "USDA's Nov. 10, 2026 proposal, published at 91 FR 72454, would end broad-based categorical eligibility (BBCE) for SNAP by limiting it to households receiving TANF \"assistance\" under 45 CFR 260.31(a). The department's own estimate at full effect in 2029 is about 3.2 million households and 6.3 million people, or 17.6% of participants. Federal benefit savings are put at about $44.6 billion over FY2027 through FY2031.",
+    "These are projections, not counts. The Associated Press noted that the 6.3 million figure \"reflects the potential impact\" of the proposal and is not a confirmed number of people who will lose benefits. Outlets vary: Reuters and others use 6.3 million, while the Inquirer uses 6.5 million. The 6.5 million figure is not traced to a USDA document in the research, so the Department's own number should be the reference point until the gap is explained. Advocates such as the Food Research & Action Center argue the estimates could understate losses; that is a claim about the model, not a measured outcome.",
+    "The scale is significant. Roughly one in six participants is affected in USDA's own model, and the rule's cost shifts fall on states as well as households, with state administrative costs rising about $929 million over five years. Timing also matters. The rule was published one week after the November 3, 2026 midterm elections, and CBPP's Ty Jones Cox argued it ignored public sentiment on affordability. Whether timing was causal is unproven; the rule was reportedly sent to OMB earlier. Its effects are also not expected to be felt until FY2029, which leaves a window for comment, litigation, and legislative response before most of the cuts would take hold.",
+    "The political context reinforces that window. The companion work-requirement rule shares the same December 10 comment deadline, and 214 House Democrats have urged Secretary Rollins to rescind the BBCE proposal. The administration, for its part, frames the change as protecting SNAP for households that meet federal eligibility standards, a claim that rests on the same contested fraud and error figures addressed elsewhere in this brief."
+   ],
+   "why": "the headline numbers are a 2029 projection built on a proposal still open for comment, so the decisions that determine how many people lose benefits remain ahead rather than behind."
+  },
+  {
+   "title": "School meal exposure is narrower than headlines suggest",
+   "paragraphs": [
+    "Automatic eligibility is the mechanism at the center of this section. Under direct certification, a child whose household receives SNAP, or who is enrolled in certain other programs, is enrolled in free school meals without filing a separate application. The proposed rule would end categorical eligibility for households that receive only non-cash TANF-funded services, which removes the SNAP link that many children rely on. USDA's analysis estimates that 1.78 million children would lose automatic eligibility. Those children would then have to apply individually, and some would not.",
+    "Both the headline and the narrower figure are accurate, which is why each side can quote the same document and reach opposite conclusions. The 1.78 million figure is the number of children whose automatic route is removed. But USDA's own breakdown shows that about 1.66 million of them would still be free-eligible, because their household incomes qualify them on application. Only 93,000 would shift to reduced-price meals and 28,000 to full price. USDA emphasizes that about 97% would still qualify on income; advocates emphasize that nearly 2 million children are at risk of losing the automatic route. A child who has to fill out a form and is then denied, or who never returns the form, is still a real loss, even if the income test would have qualified them.",
+    "The biggest unmeasured question is community eligibility provision (CEP) schools, which serve meals free to all students based on the share of students already enrolled in SNAP or other programs, rather than individual applications. In those schools the direct-certification count drives the federal reimbursement formula, so a change in the count can affect a whole building, not only the children who lose eligibility. USDA's analysis reportedly does not address how CEP exposure would be measured. Without that figure, neither side can say how much of the 1.78 million is concentrated in high-poverty schools, and the question matters most in states like New York, which already provides free breakfast and lunch to all students.",
+    "Both sides are selective, and the selectivity is predictable. Advocates, including the Food Research & Action Center, which says the impact \"could be far worse than projected,\" and Rep. Angie Craig, who called the rule \"heartless and cruel,\" lead with the largest number and omit the retention figures. USDA leads with the 97% and the administration's framing that the change targets ineligible households, and it has not addressed the enrollment-friction problem that paperwork creates for families who already qualify. Neither framing is a false statement, but each answers a different question than the one a school district or parent actually faces."
+   ],
+   "why": "a school that loses its direct-certification count loses federal reimbursement and paperwork capacity at the same time, so the real test will be whether families who still qualify are actually enrolled."
+  },
+  {
+   "title": "The legal-authority fight is the rule's weakest and strongest point",
+   "paragraphs": [
+    "The legal-authority argument is where the proposal is most exposed, and also where USDA has the most room to defend it. Critics, including Senate Agriculture Democrats in a Nov. 16 letter and House critics such as Rep. Panetta, say the rule is contrary to law and congressional intent. Their strongest evidence is legislative history: Congress considered and rejected limits on broad-based categorical eligibility in the 2005 reconciliation bill and in the 2014 and 2018 farm bill negotiations. Critics argue that an agency cannot accomplish administratively what lawmakers declined to do in statute. USDA has not publicly answered this specific legal point in the sources reviewed, which leaves its position thinner than its fraud rhetoric suggests.",
+    "USDA's case rests on the rule's text and a different reading of the same history. The proposal limits categorical eligibility to households receiving TANF \"assistance\" under 45 CFR 260.31(a), a definition the agency argues tracks what federal law requires. The rule cites a 2012 GAO finding that 17.2% of BBCE households above income limits had payment errors, against 6.7% for other households. That figure is real but narrow. It measures error rates in one population at one point, and it does not show that those households were ineligible under state rules or that fraud, as opposed to paperwork error, drove the gap. It also does not address the broader point critics raise: that a 2012 audit cannot by itself establish authority to reshape eligibility nationwide. AEI, a conservative-leaning institute, has argued BBCE should end, which shows the policy case is not purely partisan even as the legal case remains contested.",
+    "The 2019 precedent cuts both ways. The Trump administration's earlier proposal drew about 158,000 opposing comments, and it was withdrawn in 2021 without being finalized. Supporters can say the agency's earlier attempt was a sound policy idea abandoned for political reasons. Opponents can say the withdrawal shows the underlying authority question was never resolved and that the agency is now repeating a rule that Congress and two administrations declined to finish. The 2026 proposal, published Nov. 10, comes one week after the Nov. 3 midterms, and that timing gives opponents a political argument even though it does not prove intent.",
+    "Litigation risk rises if the rule is finalized. No lawsuit against the 2026 proposal had been filed as of the latest searches, which is normal before a final rule. Once finalized, the most likely challenge would argue that USDA exceeded its statutory authority under the Food and Nutrition Act, the same theory that prevailed in part before Judge Amy Berman Jackson, who on June 22, 2026 vacated five state junk-food waivers for lack of statutory authority. That ruling is about waivers, not categorical eligibility, so it is persuasive rather than binding here. Still, it shows courts are willing to test USDA's authority under this statute, and a final BBCE rule would likely draw the same scrutiny."
+   ],
+   "why": "the rule's durability depends less on its fiscal projections than on whether USDA can show clear statutory footing, and on current evidence that showing has not been made."
+  },
+  {
+   "title": "Political leverage shifts only after January 2027",
+   "paragraphs": [
+    "The coalition against the rule is large but mostly Democratic on the record. On Nov. 18, 214 House Democrats signed a letter urging Secretary Brooke Rollins to rescind the proposal; Ranking Member Angie Craig (D-Minn.) called it \"heartless and cruel.\" In the Senate, Michael Bennet, Ben Ray Luján and John Fetterman led eleven Democrats who warned that free school meals in Colorado, New Mexico and Pennsylvania could come under financial pressure. Senate Agriculture Democrats argued the rule conflicts with congressional intent, noting lawmakers rejected similar efforts in 2005, 2014 and 2018. Support for the rule is mostly Republican and rests on the administration's fraud framing, though few Republicans have publicly broken with it either way. Some state officials also took a position: the National Conference of State Legislatures asked for a 60-day extension, citing the overlap with Thanksgiving, and USDA had not responded to that request in the sources reviewed.",
+    "The arithmetic here is clear. Democrats take House majorities in January 2027 and could pass legislation reversing the 2025 law's SNAP cuts and overturning a final USDA rule. They will not have the two-thirds needed to override a veto, and Trump has said he plans to veto Democratic bills, though he signaled openness to discussing some policies. Democrats also have appropriations and oversight tools, including hearings, subpoena-backed document requests and riders that limit how funds can be spent on implementation. Those tools can slow or shape the rule but cannot by themselves restore benefits. Litigation and comment-period pressure fall outside Congress altogether, and no suit against the 2026 proposal had been filed as of the latest searches.",
+    "States are the pivot. Forty-six states use broad-based categorical eligibility, Republican and Democratic alike, so the cost shift lands on governors and legislatures of both parties. Pennsylvania's Department of Human Services strongly opposes the proposal, and Pennsylvania could face up to $400 million a year in benefit cost-shifting starting next October, according to the Inquirer; Rep. Gregory Meng says New York could face an additional $1.5 billion bill. State administrators will also carry the implementation load, which gives them practical leverage over how fast and how cleanly any final rule takes effect.",
+    "Timing favors opponents only partly. The rule was published one week after the Nov. 3 midterms, and advocates such as the Center on Budget and Policy Priorities argue that is at odds with public concern about affordability, though whether timing was causal is unproven. Full effect is not expected until fiscal 2029, and the 2026 comment deadline of Dec. 10 is the earliest real checkpoint. The window for changing the rule therefore runs through the final rulemaking and into the 120th Congress, not just the lame-duck period."
+   ],
+   "why": "Democrats' January majorities can slow or reshape the rule, but without a veto-proof margin the durable check will come from state budgets, courts and the final text USDA chooses to publish."
+  },
+  {
+   "title": "Implications for U.S. interests and realistic policy options",
+   "paragraphs": [
+    "The fiscal case for the rule is straightforward on USDA's own numbers. Federal benefit spending would fall by about $44.6 billion over FY2027 through 2031, and states' net spending would fall by about $5.2 billion, even though state administrative costs rise by about $929 million over five years. Those savings are real only if the people who lose benefits do not turn to other public programs or to emergency food, a cost the department's framing does not price in. The social tradeoff is that the cut lands hardest on households that are working but earn above or near income limits, a group advocates such as Gina Plata-Niño of the Food Research and Action Center describe as the working poor. Administration officials answer that the savings preserve funds for households that meet federal standards. Both claims can be true, and the choice between them is a value judgment that the rule does not resolve.",
+    "The retail and state-budget effects are narrower than the headline figures suggest but not trivial. USDA acknowledges that reduced redemptions could mean lower sales for some small retailers, and an industry trade figure puts SNAP at about 5% of U.S. grocery sales; that share has not been independently verified. States face a more immediate squeeze. Their administrative bills rise even as federal benefit spending falls, and 46 states currently use broad-based categorical eligibility, Republican and Democratic alike, so the burden is nationwide rather than concentrated in blue states. Pennsylvania officials and New York members of Congress have already put dollar figures on state exposure, though those estimates come from state officials and advocates rather than from USDA's analysis.",
+    "Policymakers have four concrete options, and they differ sharply in realism. Before finalization, the most achievable is pressing USDA for a longer comment period or a published, complete Regulatory Impact Analysis; NCSL and others have already asked for 60 to 90 days, citing the Thanksgiving overlap, and USDA extended the separate cost-sharing rule once, so a further extension is plausible but unconfirmed. Narrowing the rule to exclude specific groups, such as households with children or older adults, is possible through final-rule changes but would require USDA to accept the advocates' distributional argument. Reversing the rule through legislation is the most durable route but the least likely before 2027, because Democrats would need to pass a bill and overcome a presidential veto that they lack the two-thirds majorities to override. Litigation after finalization is the option most often discussed, and the strongest legal argument, that only Congress can change eligibility rules and that lawmakers rejected similar efforts in 2005, 2014 and 2018, is the one USDA has not publicly answered."
+   ],
+   "why": "the rule's fiscal and social costs will be settled less by the December 10 comment deadline than by whether USDA addresses the authority question on the record before finalizing it."
+  }
+ ],
+ "watch": [
+  "December 10, 2026: comment deadline for the categorical-eligibility rule (FNA-2026-0661), with no extension announced as of November 27.",
+  "December 10, 2026: deadline for the companion work-requirements rule (RIN 0584-AF09).",
+  "Whether USDA publishes or extends the Regulatory Impact Analysis and state-level breakdowns (docket FNA-2026-0661-0002).",
+  "First lawsuit challenging the rule's legal authority, most likely after finalization.",
+  "January 2027: Democrats assume House majority and can begin oversight or legislative reversal efforts."
+ ],
+ "sources": [
+  "SNAP: Changes in Federal-State Administrative Cost Sharing; Extension of Comment Period",
+  "Federal Register :: Supplemental Nutrition Assistance Program: Changes in Federal-State Administrative Cost Sharing; Extension of Comment Period",
+  "July 28, 2026 Maribelle Balbes Food and Nutrition Administration",
+  "This section of the FEDERAL REGISTER",
+  "FNA Documents & Resources",
+  "Proposed Rule - SNAP Program Purpose and Work Requirement Provisions of the 2023 FRA",
+  "Proposed Rule: Enhancing Retailer Standards in the Supplemental Nutrition Assistance Program (SNAP)",
+  "This document is scheduled to be published in the",
+  "Proposed Rule: SNAP Changes in Federal-State Administrative Cost Sharing",
+  "Federal Register, Volume 91 Issue 216 (Tuesday, November 10, 2026)",
+  "Federal Register :: Modification to Work Requirements for Able-Bodied Adults",
+  "Proposed Rule: SNAP - Reforming Categorical Eligibility",
+  "Regulations.gov",
+  "Federal Register Notices - Open for Comments",
+  "A primer on SNAP work requirements",
+  "Lauren Bauer and Chloe N. East A primer on SNAP work requirements APRIL 2025",
+  "Work Requirements: Comparison of Medicaid and Supplemental Nutrition Assistance Program (SNAP) After P.L. 119-21",
+  "Supplemental Nutrition Assistance Program (SNAP): A Primer on Eligibility and Benefits",
+  "SNAP Changes Promote Work",
+  "Perspective on the OBBBA's SNAP Cuts",
+  "78 STAT.] PUBLIC LAW 88-525-AUG. 31, 1964 703 Public Law 88-525 AN ACT",
+  "The Food Stamp Program: Income or Food Supplementation? January 1977",
+  "Trump administration seeks to cut food aid for more than six million people",
+  "Office of Public Affairs",
+  "Golden opposes USDA effort that could kick more than 6 million Americans off food assistance",
+  "T H E C I T Y O F N E W Y O R K O F F I C E O F T H E M A Y O R N E W Y",
+  "Luján, Bennet, Senate Agriculture Democrats Demand USDA Withdraw Proposed Rule Restricting Food Assistance - Senator Ben Ray Luján",
+  "Rep. Panetta Opposes USDA Effort to Kick 6 Million Americans Off Food Assistance",
+  "Congressional Black Caucus Expresses Outrage Over Trump Administration SNAP Proposal Cutting Free School Meal Eligibility for One Million School-Age Children",
+  "USDA plan threatens food aid for another 118,000 in Arizona, deepening SNAP losses",
+  "Survey: Nearly Two-Thirds Of Americans Oppose Cuts To SNAP Program - - Johns Hopkins Center for a Livable Future",
+  "Proposed Rules",
+  "The Supplemental Nutrition Assistance Program (SNAP): Categorical Eligibility",
+  "Supplemental Nutrition Assistance Program (SNAP) and Related Nutrition Programs in P.L. 119-21: An Overview",
+  "Serving Free School Meals through the Community Eligibility Provision (CEP): Background and Participation",
+  "Millions of U.S. children could lose free school meals this fall due to SNAP changes, experts say - CBS News"
+ ],
+ "links": [
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMnZsNG5kUVlJSGJvY2daZXlZbldXT2thTVMwdmZzZWtyRW95bTlxUXpuVE5CRmdieTlXWml1aTN2cmdUcnpqdWZEN05zei1hbHdnV2c0RXl5VWJFY1dDeC1naXQzY0w3U1pQQjZ0VUVjSEd2RjVUZFZrWXVtOG0xNURWcEMzcjJl?oc=5",
+  "https://www.fna.usda.gov/snap/fr-081826",
+  "https://www.federalregister.gov/documents/2026/08/17/2026-16760/supplemental-nutrition-assistance-program-changes-in-federal-state-administrative-cost-sharing",
+  "https://downloads.regulations.gov/FNA-2026-0034-0010/attachment_1.pdf",
+  "https://www.govinfo.gov/content/pkg/FR-2026-08-17/pdf/2026-16760.pdf",
+  "https://www.fna.usda.gov/resources?f%5B0%5D=resources_langcode%3Aen&f%5B1%5D=resource_type%3A130&f%5B2%5D=program%3A2&f%5B3%5D=program%3A95",
+  "https://www.fna.usda.gov/snap/fr-043024?eType=EmailBlastContent&eId=49b466c7-cf31-4696-b561-34705e26f86f",
+  "https://www.fna.usda.gov/snap/fr-021716",
+  "https://public-inspection.federalregister.gov/2016-07793.pdf",
+  "https://www.fna.usda.gov/snap/fr-062426",
+  "https://www.govinfo.gov/content/pkg/FR-2026-11-10/html/2026-22944.htm",
+  "https://www.federalregister.gov/documents/2026/11/10/2026-22944/modification-to-work-requirements-for-able-bodied-adults",
+  "https://www.fna.usda.gov/snap/fr-111026a",
+  "https://www.regulations.gov/document/FNA-2026-0661-0001",
+  "https://www.fna.usda.gov/federalregister/open-comments?keywords=&0=resource_type%3A12&1=program%3A23&2=program%3A26&3=program%3A27&4=program%3A35&5=program%3A9067",
+  "https://www.brookings.edu/articles/a-primer-on-snap-work-requirements/",
+  "https://www.brookings.edu/wp-content/uploads/2025/10/20250407_THP_SNAPWorkRequirements_Paper.pdf",
+  "https://www.congress.gov/crs-product/R48755",
+  "https://www.congress.gov/crs-product/R42505",
+  "https://aei.org/poverty-studies/snap-changes-promote-work",
+  "https://cosm.aei.org/perspective-on-the-obbbas-snap-cuts/",
+  "https://www.govinfo.gov/content/pkg/STATUTE-78/pdf/STATUTE-78-Pg703.pdf",
+  "https://www.cbo.gov/sites/default/files/95th-congress-1977-1978/reports/77doc696.pdf",
+  "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people",
+  "https://www.justice.gov/opa/pr/justice-department-sues-states-failing-provide-snap-data-us-department-agriculture",
+  "https://golden.house.gov/media/press-releases/golden-opposes-usda-effort-that-could-kick-more-than-6-million-americans-off-food-assistance",
+  "https://www.nyc.gov/content/dam/nycgov/mayors-office/downloads/pdf/press-releases/2026/Letter-to-Request-Extension-of-SNAP-Restocking-Rule-Signed.pdf",
+  "https://www.lujan.senate.gov/newsroom/press-releases/lujan-bennet-senate-agriculture-democrats-demand-usda-withdraw-proposed-rule-restricting-food-assistance/",
+  "https://panetta.house.gov/media/press-releases/rep-panetta-opposes-usda-effort-kick-6-million-americans-food-assistance",
+  "https://cbc.house.gov/news/documentsingle.aspx?DocumentID=2117",
+  "https://cronkitenews.azpbs.org/2026/11/24/snap-cuts-arizona-usda/",
+  "https://clf.jhsph.edu/about-us/news/news-2018/survey-nearly-two-thirds-americans-oppose-cuts-snap-program",
+  "https://www.govinfo.gov/content/pkg/FR-2016-04-05/pdf/2016-07793.pdf",
+  "https://www.congress.gov/crs-product/R42054",
+  "https://www.congress.gov/crs-product/R48552",
+  "https://www.congress.gov/crs-product/R46371",
+  "https://www.cbsnews.com/news/free-school-meals-snap-changes/"
+ ]
+}
